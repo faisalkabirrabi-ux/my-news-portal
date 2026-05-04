@@ -1,5 +1,31 @@
 {
-    "bangla": [],
+    "bangla": [
+        {
+            "title": "তৃণমূল কংগ্রেসকে হটিয়ে পশ্চিমবঙ্গে বড় বিজয় বিজেপি'র",
+            "link": "https://www.bbc.co.uk/bengali/live/cze2nxj6k9xt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পশ্চিমবঙ্গ বিধানসভা : ১৮৬২ সালে যেভাবে শুরু হয় প্রাদেশিক আইনসভা",
+            "link": "https://www.bbc.com/bengali/articles/c0k2vrg1xldo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "হাম উপসর্গ নিয়ে মৃত্যু তিনশো ছাড়াল, একদিনে রেকর্ড ১৭ শিশুর মৃত্যু",
+            "link": "https://www.bbc.co.uk/bengali/live/cn9pgnrj7lgt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "শিক্ষকের মারধরের শিকার কিশোরী এক সপ্তাহ ধরে কথা বলতে পারছে না",
+            "link": "https://www.bbc.com/bengali/articles/c62xwyvgvx4o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "লিমন দেশে ফিরলেন কফিনবন্দি হয়ে",
+            "link": "https://www.bbc.com/bengali/articles/c202ny11k22o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        }
+    ],
     "english": [
         {
             "title": "Doha diary: A historian amid the Iran war",
@@ -20,6 +46,58 @@
             "title": "Fizz takes three in Mumbai rout",
             "link": "https://www.thedailystar.net/sports/cricket/fizz-takes-three-mumbai-rout-1220587",
             "source": "Daily Star"
+        }
+    ],
+    "international": [
+        {
+            "title": "Gangland wars killing dozens of bystanders, report Swedish police",
+            "link": "https://www.aljazeera.com/news/2026/5/4/gangland-wars-killing-dozens-of-bystanders-report-swedish-police?traffic_source=rss",
+            "source": "Al Jazeera"
+        },
+        {
+            "title": "Iran-US clash over alleged warship attack in Strait of Hormuz",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-us-clash-over-alleged-warship-attack-in-strait-of-hormuz?traffic_source=rss",
+            "source": "Al Jazeera"
+        },
+        {
+            "title": "Zambia delaying US deals over minerals and data demands",
+            "link": "https://www.aljazeera.com/news/2026/5/4/zambia-delaying-us-deals-over-minerals-and-data-demands?traffic_source=rss",
+            "source": "Al Jazeera"
+        },
+        {
+            "title": "Tackling methane emissions key for climate change and energy security: IEA",
+            "link": "https://www.aljazeera.com/news/2026/5/4/tackling-methane-emissions-key-for-climate-change-and-energy-security-iea?traffic_source=rss",
+            "source": "Al Jazeera"
+        },
+        {
+            "title": "Car ploughs into pedestrians in central Leipzig, Germany",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/car-ploughs-into-pedestrians-in-central-leipzig-germany?traffic_source=rss",
+            "source": "Al Jazeera"
+        },
+        {
+            "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+            "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+            "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
+            "link": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+            "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Britney Spears pleads guilty to reckless driving after arrest",
+            "link": "https://www.bbc.com/news/articles/ce9p09e5vnro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         }
     ]
 }
