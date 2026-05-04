@@ -35,3 +35,14 @@ https://somoynews.tv/feed
 xmlhttps://www.bbc.com/bengali/indx.xml
 
 xmlhttps://www.prothomalo.com/feed/topic/bangladesh
+
+news_sources = {
+    "bangla": {
+        "Prothom Alo": "https://www.prothomalo.com/feed/topic/bangladesh",
+        "BBC Bangla": "https://www.bbc.com/bengali/index.xml"
+    },
+    "english": {
+        "Daily Star": "https://www.thedailystar.net/rss.xml",
+        "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml" # আন্তর্জাতিক
+    }
+}
