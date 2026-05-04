@@ -33,8 +33,7 @@ if __name__ == "__main__":
     fetch_news()
 https://somoynews.tv/feed
 xmlhttps://www.bbc.com/bengali/indx.xml
-
-xmlhttps://www.prothomalo.com/feed/topic/bangladesh
+https://www.prothomalo.com/feed/topic/bangladesh
 
 news_sources = {
     "bangla": {
