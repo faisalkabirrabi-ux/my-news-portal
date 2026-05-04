@@ -3,83 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>সবখবর - লাইভ নিউজ পোর্টাল</title>
+    <title>সবখবর - লাইভ নিউজ</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; margin: 0; padding: 20px; color: #333; }
-        .container { max-width: 900px; margin: auto; }
-        h1 { text-align: center; color: #1a237e; border-bottom: 2px solid #1a237e; padding-bottom: 10px; }
-        .section { background: white; padding: 15px; margin-bottom: 25px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-        h2 { color: #d32f2f; border-left: 5px solid #d32f2f; padding-left: 10px; font-size: 20px; }
-        .news-item { border-bottom: 1px solid #eee; padding: 12px 0; }
-        .news-item:last-child { border-bottom: none; }
-        .news-item a { text-decoration: none; color: #1565c0; font-weight: bold; font-size: 16px; display: block; margin-top: 5px; }
-        .news-item a:hover { color: #d32f2f; }
-        .source { background: #e8eaf6; color: #3f51b5; font-size: 11px; padding: 2px 6px; border-radius: 4px; font-weight: bold; }
-        .loading { text-align: center; color: #888; font-style: italic; }
+        body { font-family: Arial, sans-serif; background-color: #f0f2f5; margin: 0; padding: 20px; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        h1 { text-align: center; color: #1a237e; }
+        h2 { color: #d32f2f; border-bottom: 2px solid #eee; padding-bottom: 5px; margin-top: 25px; }
+        .news-item { padding: 10px 0; border-bottom: 1px solid #eee; }
+        .news-item a { text-decoration: none; color: #1565c0; font-size: 16px; font-weight: bold; }
+        .source { font-size: 12px; color: #777; margin-bottom: 5px; display: block; }
+        .loading { text-align: center; color: #888; }
     </style>
 </head>
 <body>
 
 <div class="container">
     <h1>সবখবর ডট কম</h1>
-
-    <div class="section">
+    
+    <div id="news-container">
         <h2>🇧🇩 বাংলা খবর</h2>
-        <div id="bangla-news" class="loading">খবর লোড হচ্ছে...</div>
-    </div>
+        <div id="bangla-news" class="loading">লোডিং...</div>
 
-    <div class="section">
         <h2>🇺🇸 ইংরেজি খবর</h2>
-        <div id="english-news" class="loading">খবর লোড হচ্ছে...</div>
-    </div>
+        <div id="english-news" class="loading">লোডিং...</div>
 
-    <div class="section">
         <h2>🌍 আন্তর্জাতিক খবর</h2>
-        <div id="intl-news" class="loading">খবর লোড হচ্ছে...</div>
+        <div id="intl-news" class="loading">লোডিং...</div>
     </div>
 </div>
 
 <script>
-    // GitHub থেকে জেনারেট হওয়া news.json ফাইলটি পড়ার জন্য
     fetch('news.json')
-        .then(response => {
-            if (!response.ok) throw new Error('News data not found');
-            return response.json();
-        })
+        .then(response => response.json())
         .then(data => {
-            const bDiv = document.getElementById('bangla-news');
-            const eDiv = document.getElementById('english-news');
-            const iDiv = document.getElementById('intl-news');
+            const render = (id, news) => {
+                const div = document.getElementById(id);
+                div.innerHTML = '';
+                if(news && news.length > 0) {
+                    news.forEach(n => {
+                        div.innerHTML += `<div class="news-item"><span class="source">[${n.source}]</span><a href="${n.link}" target="_blank">${n.title}</a></div>`;
+                    });
+                } else {
+                    div.innerHTML = 'কোনো খবর পাওয়া যায়নি।';
+                }
+            };
 
-            // লোডিং টেক্সট মুছে ফেলা
-            bDiv.innerHTML = '';
-            eDiv.innerHTML = '';
-            iDiv.innerHTML = '';
-
-            // বাংলা নিউজ রেন্ডার
-            if(data.bangla) {
-                data.bangla.forEach(n => {
-                    bDiv.innerHTML += `<div class="news-item"><span class="source">${n.source}</span><a href="${n.link}" target="_blank">${n.title}</a></div>`;
-                });
-            }
-
-            // ইংরেজি নিউজ রেন্ডার
-            if(data.english) {
-                data.english.forEach(n => {
-                    eDiv.innerHTML += `<div class="news-item"><span class="source">${n.source}</span><a href="${n.link}" target="_blank">${n.title}</a></div>`;
-                });
-            }
-
-            // আন্তর্জাতিক নিউজ রেন্ডার
-            if(data.international) {
-                data.international.forEach(n => {
-                    iDiv.innerHTML += `<div class="news-item"><span class="source">${n.source}</span><a href="${n.link}" target="_blank">${n.title}</a></div>`;
-                });
-            }
+            render('bangla-news', data.bangla);
+            render('english-news', data.english);
+            render('intl-news', data.international);
         })
-        .catch(error => {
-            console.error('Error:', error);
-            document.querySelectorAll('.loading').forEach(el => el.innerText = 'নিউজ লোড করতে সমস্যা হয়েছে। অনুগ্রহ করে কিছুক্ষণ পর চেষ্টা করুন।');
+        .catch(err => {
+            console.error(err);
+            document.querySelectorAll('.loading').forEach(el => el.innerText = 'নিউজ আপডেট হচ্ছে, দয়া করে একটু পর আবার দেখুন।');
         });
 </script>
 
