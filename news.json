@@ -50,6 +50,16 @@
     ],
     "international": [
         {
+            "title": "‘Extensive brutality’: Rebel attacks reap hell on Congolese civilians",
+            "link": "https://www.aljazeera.com/news/2026/5/4/extensive-brutality-rebel-attacks-reap-hell-on-congolese-civilians?traffic_source=rss",
+            "source": "Al Jazeera"
+        },
+        {
+            "title": "For Christians in Israel and Jerusalem, intolerance is becoming normal",
+            "link": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal?traffic_source=rss",
+            "source": "Al Jazeera"
+        },
+        {
             "title": "Brazil’s Lula to travel to US to meet with Trump later this week",
             "link": "https://www.aljazeera.com/news/2026/5/4/brazils-lula-to-travel-to-us-to-meet-with-trump-later-this-week?traffic_source=rss",
             "source": "Al Jazeera"
@@ -65,14 +75,9 @@
             "source": "Al Jazeera"
         },
         {
-            "title": "Video: Modi’s BJP poised to take control in India’s West Bengal",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/video-modis-bjp-poised-to-take-control-in-indias-west-bengal?traffic_source=rss",
-            "source": "Al Jazeera"
-        },
-        {
-            "title": "Russia and Ukraine declare competing ceasefires",
-            "link": "https://www.aljazeera.com/news/2026/5/4/russia-and-ukraine-declare-competing-ceasefires?traffic_source=rss",
-            "source": "Al Jazeera"
+            "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+            "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
@@ -80,7 +85,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+            "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
             "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -92,11 +97,6 @@
         {
             "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
             "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Britney Spears pleads guilty to reckless driving after arrest",
-            "link": "https://www.bbc.com/news/articles/ce9p09e5vnro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ]
