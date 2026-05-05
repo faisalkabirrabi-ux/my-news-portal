@@ -1,6 +1,16 @@
 {
     "bangla": [
         {
+            "title": "পশ্চিমবঙ্গে যে পাঁচ কারণে তৃণমূল কংগ্রেসের নির্বাচনী বিপর্যয়",
+            "link": "https://www.bbc.com/bengali/articles/c93xlqkqpjvo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "হরমুজ প্রণালিতে ইরানের সাতটি নৌযান ডুবিয়ে দেওয়ার দাবি ট্রাম্পের",
+            "link": "https://www.bbc.com/bengali/articles/cm2p7e3991go?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পশ্চিমবঙ্গ নির্বাচনে বিজেপির জয় নিয়ে কী ভাবছে বাংলাদেশের দলগুলো",
             "link": "https://www.bbc.com/bengali/articles/cy52352vvlro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -11,22 +21,17 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "তৃণমূল কংগ্রেসকে হটিয়ে পশ্চিমবঙ্গে বড় বিজয় বিজেপি'র",
-            "link": "https://www.bbc.co.uk/bengali/live/cze2nxj6k9xt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
             "title": "হাম উপসর্গ নিয়ে মৃত্যু তিনশো ছাড়াল, একদিনে রেকর্ড ১৭ শিশুর মৃত্যু",
             "link": "https://www.bbc.co.uk/bengali/live/cn9pgnrj7lgt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পশ্চিমবঙ্গ বিধানসভা : ১৮৬২ সালে যেভাবে শুরু হয় প্রাদেশিক আইনসভা",
-            "link": "https://www.bbc.com/bengali/articles/c0k2vrg1xldo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "english": [
+        {
+            "title": "India’s top-heavy boom and Bangladesh’s lesson",
+            "link": "https://www.thedailystar.net/slow-reads/big-picture/news/indias-top-heavy-boom-and-bangladeshs-lesson-4168031",
+            "source": "Daily Star"
+        },
         {
             "title": "Doha diary: A historian amid the Iran war",
             "link": "https://www.thedailystar.net/slow-reads/wisdom/news/doha-diary-historian-amid-the-iran-war-4129306",
@@ -50,34 +55,29 @@
     ],
     "international": [
         {
-            "title": "Strong security presence in Mexico’s Sinaloa state amid cartel violence",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/strong-security-presence-in-mexicos-sinaloa-state-amid-cartel-violence?traffic_source=rss",
+            "title": "Iran says US military killed five civilians in attacks on passenger boats",
+            "link": "https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "Israeli strike sparks fire in northern Gaza City",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israeli-strike-sparks-fire-in-northern-gaza-city?traffic_source=rss",
+            "title": "Man City have lost control of the Premier League title race: Guardiola",
+            "link": "https://www.aljazeera.com/sports/2026/5/5/man-city-have-lost-control-of-the-premier-league-title-race-guardiola?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "Alabama lawmakers adjourn after protests over redistricting",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/alabama-lawmakers-adjourn-after-protests-over-redistricting?traffic_source=rss",
+            "title": "A small plane crashes into building in Brazil, killing three",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/a-small-plane-crashes-into-building-in-brazil-killing-three?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "Newborn born in Nablus a day after his father was killed in Israeli raid",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/newborn-born-in-nablus-a-day-after-his-father-was-killed-in-israeli-raid?traffic_source=rss",
+            "title": "States should tax windfall oil profits to fund their way out of crisis",
+            "link": "https://www.aljazeera.com/opinions/2026/5/5/states-should-tax-windfall-oil-profits-to-fund-their-way-out-of-the-crisis?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "Iran war live: Washington, Tehran trade threats over Strait of Hormuz",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss",
+            "title": "An explosion at a fireworks plant in China has killed at least 21 people",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss",
             "source": "Al Jazeera"
-        },
-        {
-            "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-            "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         },
         {
             "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
@@ -90,13 +90,18 @@
             "source": "BBC World"
         },
         {
-            "title": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
-            "link": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss",
+            "title": "The most talked-about looks at this year's Met Gala",
+            "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-            "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+            "title": "Watch: Met Gala sees Beyoncé's return and a star-studded red carpet",
+            "link": "https://www.bbc.com/news/videos/cglpy0d7k5jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Robots move in as waste firms struggle to find staff",
+            "link": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ]
