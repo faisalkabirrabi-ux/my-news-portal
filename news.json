@@ -1,6 +1,11 @@
 {
     "bangla": [
         {
+            "title": "যুক্তরাষ্ট্রের জাহাজে হামলা চালালে ইরানকে ‘পৃথিবী থেকে মুছে ফেলার’ হুমকি ট্রাম্পের",
+            "link": "https://www.bbc.co.uk/bengali/live/cx215j6yed2t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পশ্চিমবঙ্গে যে পাঁচ কারণে তৃণমূল কংগ্রেসের নির্বাচনী বিপর্যয়",
             "link": "https://www.bbc.com/bengali/articles/c93xlqkqpjvo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -11,25 +16,20 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "দাঁড়িয়ে সন্তান প্রসব থেকে নারীদের শুয়ে প্রসবের রীতি চালু হয়েছিল কবে?",
+            "link": "https://www.bbc.com/bengali/articles/ckg9gd57y10o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পশ্চিমবঙ্গ নির্বাচনে বিজেপির জয় নিয়ে কী ভাবছে বাংলাদেশের দলগুলো",
             "link": "https://www.bbc.com/bengali/articles/cy52352vvlro?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'বিদ্যুতের দাম ইউনিটে দেড় টাকা বাড়ানোর প্রস্তাব'",
-            "link": "https://www.bbc.com/bengali/articles/cgqp09z1n7do?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "হাম উপসর্গ নিয়ে মৃত্যু তিনশো ছাড়াল, একদিনে রেকর্ড ১৭ শিশুর মৃত্যু",
-            "link": "https://www.bbc.co.uk/bengali/live/cn9pgnrj7lgt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "english": [
         {
-            "title": "India’s top-heavy boom and Bangladesh’s lesson",
-            "link": "https://www.thedailystar.net/slow-reads/big-picture/news/indias-top-heavy-boom-and-bangladeshs-lesson-4168031",
+            "title": "India’s top-heavy boom and the lesson for Bangladesh",
+            "link": "https://www.thedailystar.net/slow-reads/big-picture/news/indias-top-heavy-boom-and-the-lesson-bangladesh-4168031",
             "source": "Daily Star"
         },
         {
@@ -55,29 +55,34 @@
     ],
     "international": [
         {
-            "title": "Iran says US military killed five civilians in attacks on passenger boats",
-            "link": "https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats?traffic_source=rss",
+            "title": "What Iran is saying about attack on UAE",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/what-iran-is-saying-about-attack-on-uae?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "Man City have lost control of the Premier League title race: Guardiola",
-            "link": "https://www.aljazeera.com/sports/2026/5/5/man-city-have-lost-control-of-the-premier-league-title-race-guardiola?traffic_source=rss",
+            "title": "Afghanistan accuses Pakistan of killing three civilians in ‘war crime’",
+            "link": "https://www.aljazeera.com/news/2026/5/5/afghanistan-accuses-pakistan-of-killing-three-civilians-in-war-crime?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "A small plane crashes into building in Brazil, killing three",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/a-small-plane-crashes-into-building-in-brazil-killing-three?traffic_source=rss",
+            "title": "What to know ahead of the Ohio primary election",
+            "link": "https://www.aljazeera.com/news/2026/5/5/what-to-know-ahead-of-the-ohio-primary-election?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "States should tax windfall oil profits to fund their way out of crisis",
-            "link": "https://www.aljazeera.com/opinions/2026/5/5/states-should-tax-windfall-oil-profits-to-fund-their-way-out-of-the-crisis?traffic_source=rss",
+            "title": "As summer approaches, skin diseases spread through Gaza’s refugee camps",
+            "link": "https://www.aljazeera.com/news/2026/5/5/as-summer-approaches-skin-diseases-spread-through-gazas-refugee-camps?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "An explosion at a fireworks plant in China has killed at least 21 people",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss",
+            "title": "In Mauritania, push to phase out private schools divides opinion",
+            "link": "https://www.aljazeera.com/features/2026/5/5/education-reform-mauritania?traffic_source=rss",
             "source": "Al Jazeera"
+        },
+        {
+            "title": "Explosion at China fireworks factory kills 26 people",
+            "link": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
@@ -95,13 +100,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Watch: Met Gala sees Beyoncé's return and a star-studded red carpet",
-            "link": "https://www.bbc.com/news/videos/cglpy0d7k5jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Robots move in as waste firms struggle to find staff",
-            "link": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss",
+            "title": "Rescuers among three dead after yacht sinks off Australian coast",
+            "link": "https://www.bbc.com/news/articles/cr5p36v5q79o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ]
