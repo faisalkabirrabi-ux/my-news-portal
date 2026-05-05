@@ -2,45 +2,45 @@ import feedparser
 import json
 
 def fetch_news():
-    # সব ক্যাটাগরির নিউজের RSS লিঙ্ক এখানে দেওয়া হয়েছে
     news_sources = {
-        "bangla": {
+        "বাংলাদেশ": {
             "বিবিসি বাংলা": "https://www.bbc.com/bengali/index.xml",
             "সময় টিভি": "https://somoynews.tv/feed",
             "ইত্তেফাক": "https://www.ittefaq.com.bd/rss.xml",
-            "বিডিনিউজ২৪": "https://bangla.bdnews24.com/?widgetName=rssfeed&widgetId=1151&getXmlFeed=true"
+            "বিডিনিউজ২৪": "https://bangla.bdnews24.com/?widgetName=rssfeed&widgetId=1151&getXmlFeed=true",
+            "যুগান্তর": "https://www.jugantor.com/feed"
         },
-        "english": {
-            "Daily Star": "https://www.thedailystar.net/rss.xml",
-            "Dhaka Tribune": "https://www.dhakatribune.com/rss.xml"
-        },
-        "international": {
-            "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
-            "Reuters World": "https://www.reutersagency.com/feed/?best-topics=world",
+        "আন্তর্জাতিক": {
+            "আল জাজিরা": "https://www.aljazeera.com/xml/rss/all.xml",
             "BBC World": "http://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "খেলাধুলা": {
+            "ESPN Cricinfo": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml",
+            "BBC Sports": "https://www.bbc.com/sport/rss.xml"
+        },
+        "প্রযুক্তি": {
+            "TechCrunch": "https://techcrunch.com/feed/",
+            "Wired": "https://www.wired.com/feed/rss"
         }
     }
     
-    all_data = {"bangla": [], "english": [], "international": []}
+    all_data = {cat: [] for cat in news_sources.keys()}
     
     for category, sources in news_sources.items():
         for name, url in sources.items():
             try:
                 feed = feedparser.parse(url)
-                # প্রতি সোর্স থেকে ৫টি করে লেটেস্ট নিউজ নেওয়া হচ্ছে
-                for entry in feed.entries[:5]:
+                for entry in feed.entries[:6]: # প্রতি পত্রিকা থেকে ৬টি তাজা খবর
                     all_data[category].append({
                         "title": entry.title,
                         "link": entry.link,
                         "source": name
                     })
             except Exception as e:
-                print(f"Error fetching from {name}: {e}")
+                print(f"Error with {name}: {e}")
     
-    # ডাটাগুলো news.json ফাইলে সেভ করা হচ্ছে
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(all_data, f, ensure_ascii=False, indent=4)
-    print("✅ All News Updated Successfully!")
 
 if __name__ == "__main__":
     fetch_news()
