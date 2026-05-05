@@ -1,23 +1,23 @@
 {
     "bangla": [
         {
-            "title": "চীন সফরে যাচ্ছেন ইরানের পররাষ্ট্রমন্ত্রী, যুদ্ধবিরতি মেনে চলার আহ্বান পাকিস্তানের",
+            "title": "পশ্চিমবঙ্গে কে হতে পারেন বিজেপির প্রথম মুখ্যমন্ত্রী?",
+            "link": "https://www.bbc.com/bengali/articles/c172exrkjjlo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "'আমরা তো হারিনি, তাহলে কেন ইস্তফা দেব?' প্রশ্ন মমতা ব্যানার্জীর",
             "link": "https://www.bbc.co.uk/bengali/live/cx215j6yed2t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "পশ্চিমবঙ্গে যে পাঁচ কারণে তৃণমূল কংগ্রেসের নির্বাচনী বিপর্যয়",
-            "link": "https://www.bbc.com/bengali/articles/c93xlqkqpjvo?at_medium=RSS&at_campaign=rss",
+            "title": "'মাত্র ৩০ কেজি ওজনের ১১ বছরের একটা শিশুর পেটে বাচ্চা, আমরা জানি না তার ভবিষ্যৎ আসলে কী?'",
+            "link": "https://www.bbc.com/bengali/articles/cz72envle5yo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
             "title": "হরমুজ প্রণালিতে ইরানের সাতটি নৌযান ডুবিয়ে দেওয়ার দাবি ট্রাম্পের",
             "link": "https://www.bbc.com/bengali/articles/cm2p7e3991go?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "দাঁড়িয়ে সন্তান প্রসব থেকে নারীদের শুয়ে প্রসবের রীতি চালু হয়েছিল কবে?",
-            "link": "https://www.bbc.com/bengali/articles/ckg9gd57y10o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -55,33 +55,43 @@
     ],
     "international": [
         {
-            "title": "Two hantavirus cases confirmed, five more suspected on stranded cruise ship",
-            "link": "https://www.aljazeera.com/news/2026/5/5/seven-cases-of-hantavirus-confirmed-or-suspected-on-cruise-says-who?traffic_source=rss",
+            "title": "Boko Haram attack kills 23 soldiers in Chad’s Lake Chad region",
+            "link": "https://www.aljazeera.com/news/2026/5/5/boko-haram-attack-kills-23-soldiers-in-chads-lake-chad-region?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "Taiwan player victim of ‘inappropriate contact’ at UK table tennis event",
-            "link": "https://www.aljazeera.com/sports/2026/5/5/taiwan-player-victim-of-inappropriate-contact-at-uk-table-tennis-event?traffic_source=rss",
+            "title": "LIVE: Arsenal vs Atletico Madrid – Champions League semifinal",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/5/5/live-arsenal-vs-atletico-madrid-champions-league-semifinal?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "US Secret Service shoots gunman near White House",
-            "link": "https://www.aljazeera.com/news/2026/5/5/us-secret-service-shoots-gunman-near-white-house?traffic_source=rss",
+            "title": "What’s the significance of UAE’s Fujairah, hit on Monday?",
+            "link": "https://www.aljazeera.com/news/2026/5/5/whats-the-significance-of-uaes-fujairah-hit-on-monday?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "Macron sings as Armenia’s leader drums in unusual moment at state dinner",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/macron-sings-as-armenias-leader-drums-in-unusual-moment-at-state-dinner?traffic_source=rss",
+            "title": "What’s happening in Mali one week after attack by armed groups? All we know",
+            "link": "https://www.aljazeera.com/news/2026/5/5/whats-happening-in-mali-one-week-after-attack-by-armed-groups-all-we-know?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "Russian air attacks kill five at Ukraine’s Naftogaz gas facilities",
-            "link": "https://www.aljazeera.com/news/2026/5/5/russian-attack-kills-five-at-ukraines-naftogaz-gas-facility?traffic_source=rss",
+            "title": "Sudan accuses Ethiopia, UAE of being behind recent drone attacks",
+            "link": "https://www.aljazeera.com/news/2026/5/5/sudan-accuses-ethiopia-uae-of-being-behind-recent-drone-attacks?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "Explosion at China fireworks factory kills 26 people",
-            "link": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
+            "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
+            "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Russia and Ukraine announce rival ceasefires as deadly strikes continue",
+            "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Nine coal miners die in gas explosion in Colombia",
+            "link": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -90,18 +100,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Second hantavirus case confirmed after deaths on cruise ship",
-            "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "The most talked-about looks at this year's Met Gala",
-            "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Rescuers among three dead after yacht sinks off Australian coast",
-            "link": "https://www.bbc.com/news/articles/cr5p36v5q79o?at_medium=RSS&at_campaign=rss",
+            "title": "Romanian PM ousted in no-confidence vote",
+            "link": "https://www.bbc.com/news/articles/cgkpjz2638ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ]
