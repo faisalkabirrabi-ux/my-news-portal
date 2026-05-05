@@ -1,5 +1,5 @@
 {
-    "bangla": [
+    "বাংলাদেশ": [
         {
             "title": "পশ্চিমবঙ্গে কে হতে পারেন বিজেপির প্রথম মুখ্যমন্ত্রী?",
             "link": "https://www.bbc.com/bengali/articles/c172exrkjjlo?at_medium=RSS&at_campaign=rss",
@@ -24,60 +24,43 @@
             "title": "পশ্চিমবঙ্গ নির্বাচনে বিজেপির জয় নিয়ে কী ভাবছে বাংলাদেশের দলগুলো",
             "link": "https://www.bbc.com/bengali/articles/cy52352vvlro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পশ্চিমবঙ্গে যে পাঁচ কারণে তৃণমূল কংগ্রেসের নির্বাচনী বিপর্যয়",
+            "link": "https://www.bbc.com/bengali/articles/c93xlqkqpjvo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
         }
     ],
-    "english": [
-        {
-            "title": "India’s top-heavy boom and the lesson for Bangladesh",
-            "link": "https://www.thedailystar.net/slow-reads/big-picture/news/indias-top-heavy-boom-and-the-lesson-bangladesh-4168031",
-            "source": "Daily Star"
-        },
-        {
-            "title": "Doha diary: A historian amid the Iran war",
-            "link": "https://www.thedailystar.net/slow-reads/wisdom/news/doha-diary-historian-amid-the-iran-war-4129306",
-            "source": "Daily Star"
-        },
-        {
-            "title": "André Béteille: A sociologist Bangladesh should read",
-            "link": "https://www.thedailystar.net/slow-reads/big-picture/news/andre-beteille-sociologist-bangladesh-should-read-4112931",
-            "source": "Daily Star"
-        },
-        {
-            "title": "In praise of Mymensingh’s Bangla folk ballads",
-            "link": "https://www.thedailystar.net/slow-reads/slow-reads-special/news/praise-mymensinghs-bangla-folk-ballads-3004791",
-            "source": "Daily Star"
-        },
-        {
-            "title": "Fizz takes three in Mumbai rout",
-            "link": "https://www.thedailystar.net/sports/cricket/fizz-takes-three-mumbai-rout-1220587",
-            "source": "Daily Star"
-        }
-    ],
-    "international": [
+    "আন্তর্জাতিক": [
         {
             "title": "UK convicts four Palestine Action activists over break-in at Israeli firm",
             "link": "https://www.aljazeera.com/news/2026/5/5/uk-convicts-four-palestine-action-activists-over-break-in-at-israeli-firm?traffic_source=rss",
-            "source": "Al Jazeera"
+            "source": "আল জাজিরা"
         },
         {
             "title": "Microsoft, Google, xAI give US access to AI models for security testing",
             "link": "https://www.aljazeera.com/economy/2026/5/5/microsoft-google-xai-give-us-access-to-ai-models-for-security-testing?traffic_source=rss",
-            "source": "Al Jazeera"
+            "source": "আল জাজিরা"
         },
         {
-            "title": "UAE comes under Iranian attacks for second consecutive day",
+            "title": "UAE comes under Iranian attacks for second consecutive day: Ministry",
             "link": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
-            "source": "Al Jazeera"
+            "source": "আল জাজিরা"
         },
         {
             "title": "Ukraine, Russia exchange drone strikes ahead of V-Day ‘ceasefire’",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/ukraine-russia-exchange-drone-strikes-ahead-of-v-day?traffic_source=rss",
-            "source": "Al Jazeera"
+            "source": "আল জাজিরা"
         },
         {
             "title": "West Bengal Chief refuses to resign after ‘dirty’ election",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/west-bengal-chief-refuses-to-resign-after-dirty-election?traffic_source=rss",
-            "source": "Al Jazeera"
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran’s judiciary vows action against ‘enemy’s mercenaries’ amid executions",
+            "link": "https://www.aljazeera.com/news/2026/5/5/irans-judiciary-vows-action-against-enemys-mercenaries-amid-executions?traffic_source=rss",
+            "source": "আল জাজিরা"
         },
         {
             "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
@@ -103,6 +86,135 @@
             "title": "Romanian PM ousted in no-confidence vote",
             "link": "https://www.bbc.com/news/articles/cgkpjz2638ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
+        },
+        {
+            "title": "Explosion at China fireworks factory kills 26 people",
+            "link": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        }
+    ],
+    "খেলাধুলা": [
+        {
+            "title": "Gaikwad: 'Samson is the backbone of CSK's batting'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535441.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "SRH, PBKS jostle for top spot on IPL points table",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535363.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Samson, Kartik, spinners set up CSK's clinical win",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535436.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Want to 'clean up a few things' - Rayudu appointed HCA's director of cricket operations",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535400.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Need to 'limit the powerplay' - Vettori, Haddin brace for Travishek vs Prabh-Arya",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535391.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Warwickshire sign Usman Tariq for T20 Blast",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535383.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Is Gibbs-White favourite to start as England's number 10 at World Cup?",
+            "link": "https://www.bbc.com/sport/football/articles/c794d751np2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Rahm eligible for Ryder Cup after striking tour deal",
+            "link": "https://www.bbc.com/sport/golf/articles/c1e2zvn89yzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Everton fan arrested for alleged Semenyo racist abuse",
+            "link": "https://www.bbc.com/sport/football/articles/cedpnxqwg29o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Players will boycott a Slam 'at some point' over prize money demands - Sabalenka",
+            "link": "https://www.bbc.com/sport/tennis/articles/cx21klez7ppo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Sing returns as Red Roses rejig back three against Italy",
+            "link": "https://www.bbc.com/sport/rugby-union/articles/c8xwqdll1w8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "How did Guehi 'assist' allow Barry to score when offside?",
+            "link": "https://www.bbc.com/sport/football/articles/cdrpykm2npgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        }
+    ],
+    "প্রযুক্তি": [
+        {
+            "title": "Threads finally brings messaging to the web",
+            "link": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Airbnb co-founder taps Peter Arnell as first US chief brand architect",
+            "link": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+            "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+            "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+            "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+            "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy",
+            "link": "https://www.wired.com/story/the-italian-dubbing-of-the-devil-wears-prada-2-has-stirred-up-a-surprising-controversy/",
+            "source": "Wired"
+        },
+        {
+            "title": "Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification",
+            "link": "https://www.wired.com/story/pornhub-restores-access-for-uk-adults-who-use-apples-age-verification/",
+            "source": "Wired"
+        },
+        {
+            "title": "Bose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home",
+            "link": "https://www.wired.com/story/bose-brings-back-its-lifestyle-branding-with-new-speakers-for-the-home/",
+            "source": "Wired"
+        },
+        {
+            "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+            "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+            "source": "Wired"
+        },
+        {
+            "title": "Murena /e/OS Tablet Review: Privacy for a Price",
+            "link": "https://www.wired.com/review/murena-volla-tablet/",
+            "source": "Wired"
+        },
+        {
+            "title": "The iPhone That Never Was",
+            "link": "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/",
+            "source": "Wired"
         }
     ]
 }
