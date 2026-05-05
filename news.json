@@ -1,13 +1,18 @@
 {
     "bangla": [
         {
-            "title": "তৃণমূল কংগ্রেসকে হটিয়ে পশ্চিমবঙ্গে বড় বিজয় বিজেপি'র",
-            "link": "https://www.bbc.co.uk/bengali/live/cze2nxj6k9xt?at_medium=RSS&at_campaign=rss",
+            "title": "পশ্চিমবঙ্গ নির্বাচনে বিজেপির জয় নিয়ে কী ভাবছে বাংলাদেশের দলগুলো",
+            "link": "https://www.bbc.com/bengali/articles/cy52352vvlro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "পশ্চিমবঙ্গ বিধানসভা : ১৮৬২ সালে যেভাবে শুরু হয় প্রাদেশিক আইনসভা",
-            "link": "https://www.bbc.com/bengali/articles/c0k2vrg1xldo?at_medium=RSS&at_campaign=rss",
+            "title": "পত্রিকা: 'বিদ্যুতের দাম ইউনিটে দেড় টাকা বাড়ানোর প্রস্তাব'",
+            "link": "https://www.bbc.com/bengali/articles/cgqp09z1n7do?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "তৃণমূল কংগ্রেসকে হটিয়ে পশ্চিমবঙ্গে বড় বিজয় বিজেপি'র",
+            "link": "https://www.bbc.co.uk/bengali/live/cze2nxj6k9xt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -16,13 +21,8 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "শিক্ষকের মারধরের শিকার কিশোরী এক সপ্তাহ ধরে কথা বলতে পারছে না",
-            "link": "https://www.bbc.com/bengali/articles/c62xwyvgvx4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "লিমন দেশে ফিরলেন কফিনবন্দি হয়ে",
-            "link": "https://www.bbc.com/bengali/articles/c202ny11k22o?at_medium=RSS&at_campaign=rss",
+            "title": "পশ্চিমবঙ্গ বিধানসভা : ১৮৬২ সালে যেভাবে শুরু হয় প্রাদেশিক আইনসভা",
+            "link": "https://www.bbc.com/bengali/articles/c0k2vrg1xldo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
@@ -50,28 +50,28 @@
     ],
     "international": [
         {
-            "title": "‘Extensive brutality’: Rebel attacks reap hell on Congolese civilians",
-            "link": "https://www.aljazeera.com/news/2026/5/4/extensive-brutality-rebel-attacks-reap-hell-on-congolese-civilians?traffic_source=rss",
+            "title": "Strong security presence in Mexico’s Sinaloa state amid cartel violence",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/strong-security-presence-in-mexicos-sinaloa-state-amid-cartel-violence?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "For Christians in Israel and Jerusalem, intolerance is becoming normal",
-            "link": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal?traffic_source=rss",
+            "title": "Israeli strike sparks fire in northern Gaza City",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israeli-strike-sparks-fire-in-northern-gaza-city?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "Brazil’s Lula to travel to US to meet with Trump later this week",
-            "link": "https://www.aljazeera.com/news/2026/5/4/brazils-lula-to-travel-to-us-to-meet-with-trump-later-this-week?traffic_source=rss",
+            "title": "Alabama lawmakers adjourn after protests over redistricting",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/alabama-lawmakers-adjourn-after-protests-over-redistricting?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
-            "link": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran?traffic_source=rss",
+            "title": "Newborn born in Nablus a day after his father was killed in Israeli raid",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/newborn-born-in-nablus-a-day-after-his-father-was-killed-in-israeli-raid?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
-            "title": "Is Israel’s interception of the Global Sumud Flotilla legal?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/5/4/is-israels-interception-of-the-global-sumud-flotilla-legal?traffic_source=rss",
+            "title": "Iran war live: Washington, Tehran trade threats over Strait of Hormuz",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss",
             "source": "Al Jazeera"
         },
         {
@@ -85,7 +85,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+            "title": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
             "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
