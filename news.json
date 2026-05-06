@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Israel bombs Beirut’s southern suburb as it targets Hezbollah commander",
-            "link": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss",
+            "title": "Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako",
+            "link": "https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "UN demands Israel immediately releases flotilla activists",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss",
+            "title": "Infected passengers evacuated from hantavirus cruise ship",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/infected-passengers-evacuated-from-hantavirus-cruise-ship?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "It’s not cricket: Pakistan athletes allowed in India for multilateral sport",
-            "link": "https://www.aljazeera.com/sports/2026/5/6/its-not-cricket-pakistan-athletes-allowed-in-india-for-multilateral-sport?traffic_source=rss",
+            "title": "What does the BJP’s victory in West Bengal mean for India’s democracy?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/5/6/what-does-the-bjps-victory-in-west-bengal-mean-for-indias-democracy?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "The anti-Semitism smear that ruined Corbyn’s Labour now targets the Greens",
-            "link": "https://www.aljazeera.com/opinions/2026/5/6/the-anti-semitism-smear-that-ruined-corbyns-labour-now-targets-the-greens?traffic_source=rss",
+            "title": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
+            "link": "https://www.aljazeera.com/news/2026/5/6/israeli-strike-kills-colonel-in-gaza-police-force-say-palestinian-medics?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "LIVE: Bayern Munich vs PSG – Champions League semifinal",
-            "link": "https://www.aljazeera.com/sports/liveblog/2026/5/6/live-bayern-munich-vs-paris-saint-germain-champions-league-semifinal?traffic_source=rss",
+            "title": "Indiana, Ohio primaries draw midterm battle lines, reinforce Trump’s pull",
+            "link": "https://www.aljazeera.com/news/2026/5/6/indiana-ohio-primaries-draw-midterm-battle-lines-reinforce-trumps-pull?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Amputee football grows in Rwanda, fostering unity and resilience",
-            "link": "https://www.aljazeera.com/gallery/2026/5/6/amputee-football-grows-in-rwanda-fostering-unity-and-resilience?traffic_source=rss",
+            "title": "Why are Pentagon officials talking about Iran’s ‘deadly dolphins’?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/why-are-pentagon-officials-talking-about-irans-deadly?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "'We dropped too many catches' - Shreyas Iyer rues sloppy PBKS performance",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535604.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Connolly ton in vain as batting muscle fires SRH to top of the table",
             "link": "https://www.espncricinfo.com/ci/content/story/1535602.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,9 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Mady Villiers century delivers Durham victory in brilliant allround display",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535554.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Why was Neves handball against Bayern not a penalty?",
+            "link": "https://www.bbc.com/sport/articles/c4gvmmg0yr8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Injury row, yacht trip & petition - what's going on with Mbappe?",
@@ -135,18 +140,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Was Arsenal ecstasy justified or a 'bit too much'?",
-            "link": "https://www.bbc.com/sport/football/articles/cg5py534dvlo?at_medium=RSS&at_campaign=rss",
+            "title": "Neymar apologises for slapping teenager Robinho Jr",
+            "link": "https://www.bbc.com/sport/football/articles/c707ekx8l3eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Wait to name England selector ridiculous - Vaughan",
             "link": "https://www.bbc.com/sport/cricket/articles/ckgp1v749z2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Fifa impose worldwide ban on Benfica's Prestianni",
-            "link": "https://www.bbc.com/sport/football/articles/c7v9ze9qvm1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -156,6 +156,26 @@
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+            "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
+            "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+            "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "DOJ says ransomware gang tapped into Russian government databases",
+            "link": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/",
+            "source": "TechCrunch"
+        },
         {
             "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
             "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
@@ -167,24 +187,14 @@
             "source": "TechCrunch"
         },
         {
-            "title": "DeepSeek could hit $45B valuation from its first investment round",
-            "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-            "source": "TechCrunch"
+            "title": "Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected",
+            "link": "https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/",
+            "source": "Wired"
         },
         {
-            "title": "Chrome on Android now supports approximate instead of precise location sharing",
-            "link": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Google updates AI search to include quotes from Reddit and other sources",
-            "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-            "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-            "source": "TechCrunch"
+            "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+            "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+            "source": "Wired"
         },
         {
             "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
@@ -204,16 +214,6 @@
         {
             "title": "Hackers Hate AI Slop Even More Than You Do",
             "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Carry-On Suitcases (2026): Away, Rimowa, Tumi",
-            "link": "https://www.wired.com/story/best-carry-on-suitcases/",
-            "source": "Wired"
-        },
-        {
-            "title": "A Library Dedicated Solely to the Epstein Files Is Opening in New York",
-            "link": "https://www.wired.com/story/a-library-dedicated-solely-to-the-epstein-files-is-opening-in-new-york/",
             "source": "Wired"
         }
     ]
