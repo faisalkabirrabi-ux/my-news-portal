@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Argentina investigates link to deadly hantavirus outbreak on cruise ship",
+            "link": "https://www.aljazeera.com/news/2026/5/6/argentina-investigates-link-to-deadly-hantavirus-outbreak-on-cruise-ship?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
+            "link": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Russia tells diplomats to leave Kyiv in case Moscow launches mass strikes",
             "link": "https://www.aljazeera.com/news/2026/5/6/russia-tells-diplomats-to-leave-kyiv-in-case-moscow-launches-mass-strikes?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -53,14 +63,19 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "What’s behind the secessionist movement in the Canadian province Alberta?",
-            "link": "https://www.aljazeera.com/news/2026/5/6/whats-behind-the-secessionist-movement-in-the-canadian-province-alberta?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Iran considering US proposal to end war, official says",
+            "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
-            "title": "Israel bombs Beirut’s southern suburbs",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Trump's hopes for an Iran peace deal come with caveats",
+            "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+            "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
@@ -75,21 +90,6 @@
         {
             "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
             "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Massive Alaska megatsunami was second largest ever recorded",
-            "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "German police raid neo-Nazi criminal youth groups",
-            "link": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
-            "link": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -125,8 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Why was Neves handball against Bayern not a penalty?",
-            "link": "https://www.bbc.com/sport/articles/c4gvmmg0yr8o?at_medium=RSS&at_campaign=rss",
+            "title": "From ego-ridden team to complete package - why PSG pose ultimate test",
+            "link": "https://www.bbc.com/sport/football/articles/cx218q541lvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Why resolute Arsenal will believe prolific PSG can be beaten in final",
+            "link": "https://www.bbc.com/sport/football/articles/ckgpxp9q8yno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -148,14 +153,14 @@
             "title": "Celtic could win double - but is change inevitable?",
             "link": "https://www.bbc.com/sport/football/articles/c24213eqv87o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Saka the hero as Arsenal reach first Champions League final in 20 years",
-            "link": "https://www.bbc.com/sport/football/videos/cy42mxj22jdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+            "link": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
             "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
@@ -179,11 +184,6 @@
         {
             "title": "Microsoft’s AI data center push is colliding with its clean power goals",
             "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
-            "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
             "source": "TechCrunch"
         },
         {
