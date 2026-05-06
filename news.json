@@ -11,6 +11,11 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "পশ্চিমবঙ্গে বুলডোজার নিয়ে বিজেপিকর্মীদের মিছিল, ভাঙচুর",
+            "link": "https://www.bbc.com/bengali/articles/cp8pl779y4ko?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "হাম পরীক্ষায় কিট 'স্বল্পতা', সরকারের ব্যবস্থাপনা নিয়ে প্রশ্ন",
             "link": "https://www.bbc.com/bengali/articles/cdrpy87g2npo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,14 @@
             "title": "মমতা ব্যানার্জী পদত্যাগ না করলে কী ঘটবে?",
             "link": "https://www.bbc.com/bengali/articles/cz02lv5ypp7o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ব্যাঙ্কসি কে? রহস্যময় এক শিল্পীর পরিচয় উন্মোচন",
-            "link": "https://www.bbc.com/bengali/articles/cn0p1rkyjqvo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Israel bombs Beirut’s southern suburb as it targets Hezbollah commander",
+            "link": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "UN demands Israel immediately releases flotilla activists",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss",
@@ -55,11 +60,6 @@
         {
             "title": "Amputee football grows in Rwanda, fostering unity and resilience",
             "link": "https://www.aljazeera.com/gallery/2026/5/6/amputee-football-grows-in-rwanda-fostering-unity-and-resilience?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Four killed in post-election violence in India’s West Bengal",
-            "link": "https://www.aljazeera.com/news/2026/5/6/four-killed-in-post-election-violence-in-indias-west-bengal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,8 +95,23 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Mady Villiers century delivers Durham victory in brilliant allround display",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535554.html?ex_cid=OTC-RSS",
+            "title": "Connolly ton in vain as batting muscle fires SRH to top of the table",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535602.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Mighty RCB face potential banana peel in LSG",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535549.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Grace Scrivens, Cordelia Griffith boost Essex resurgence",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535557.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Jamieson, O'Rourke return to NZ Test squad for Ireland, England tours",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535457.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -105,33 +120,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Bouchier blitz outdoes Odgers as Hampshire overwhelm Somerset",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535556.html?ex_cid=OTC-RSS",
+            "title": "Mady Villiers century delivers Durham victory in brilliant allround display",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535554.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Duanne Olivier fast-tracked to Durham after Kemar Roach injury",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535567.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Phil Simmons: Bangladesh 'want to make new history'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535568.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Julian Metherell, London Spirit chair, named as next president of MCC",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535555.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Was Arsenal ecstasy justified or a 'bit too much'?",
-            "link": "https://www.bbc.com/sport/football/articles/cg5py534dvlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         },
         {
             "title": "Injury row, yacht trip & petition - what's going on with Mbappe?",
             "link": "https://www.bbc.com/sport/football/articles/cdeplyje9zzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Celtic could win double - but is change inevitable?",
+            "link": "https://www.bbc.com/sport/football/articles/c24213eqv87o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Was Arsenal ecstasy justified or a 'bit too much'?",
+            "link": "https://www.bbc.com/sport/football/articles/cg5py534dvlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,51 +145,61 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Smaller balls for women's rugby 'worst decision ever'",
-            "link": "https://www.bbc.com/sport/rugby-union/articles/ckgpn3pdzr7o?at_medium=RSS&at_campaign=rss",
+            "title": "Fifa impose worldwide ban on Benfica's Prestianni",
+            "link": "https://www.bbc.com/sport/football/articles/c7v9ze9qvm1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "DeChambeau to focus on YouTube if LIV Golf fails",
-            "link": "https://www.bbc.com/sport/golf/articles/cg5pyj9pp0go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Where do Bayern's prolific trio rank in greatest front threes ever?",
-            "link": "https://www.bbc.com/sport/football/articles/cjep34l5qd7o?at_medium=RSS&at_campaign=rss",
+            "title": "How did Sheffield Wednesday avoid 15-point deduction?",
+            "link": "https://www.bbc.com/sport/football/articles/cz72vjp382go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+            "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+            "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "DeepSeek could hit $45B valuation from its first investment round",
+            "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Chrome on Android now supports approximate instead of precise location sharing",
             "link": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
             "source": "TechCrunch"
         },
         {
-            "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
+            "title": "Google updates AI search to include quotes from Reddit and other sources",
             "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
             "source": "TechCrunch"
         },
         {
-            "title": "Khosla-backed robotics startup Genesis AI has gone full-stack, demo shows",
+            "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
             "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
             "source": "TechCrunch"
         },
         {
-            "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-            "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-            "source": "TechCrunch"
+            "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+            "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+            "source": "Wired"
         },
         {
-            "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
-            "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-            "source": "TechCrunch"
+            "title": "Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast",
+            "link": "https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/",
+            "source": "Wired"
         },
         {
-            "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-            "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
-            "source": "TechCrunch"
+            "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
+            "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
+            "source": "Wired"
         },
         {
             "title": "Hackers Hate AI Slop Even More Than You Do",
@@ -199,21 +214,6 @@
         {
             "title": "A Library Dedicated Solely to the Epstein Files Is Opening in New York",
             "link": "https://www.wired.com/story/a-library-dedicated-solely-to-the-epstein-files-is-opening-in-new-york/",
-            "source": "Wired"
-        },
-        {
-            "title": "Zest Maps Is the AI-Powered ‘Spiritual Successor to Foursquare’",
-            "link": "https://www.wired.com/story/zest-maps-is-the-second-coming-of-foursquare/",
-            "source": "Wired"
-        },
-        {
-            "title": "7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle",
-            "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
-            "source": "Wired"
-        },
-        {
-            "title": "ReMarkable Paper Pure Tablet Review: Back to Basics",
-            "link": "https://www.wired.com/review/remarkable-paper-pure/",
             "source": "Wired"
         }
     ]
