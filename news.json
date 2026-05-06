@@ -33,34 +33,39 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako",
-            "link": "https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss",
+            "title": "Russia tells diplomats to leave Kyiv in case Moscow launches mass strikes",
+            "link": "https://www.aljazeera.com/news/2026/5/6/russia-tells-diplomats-to-leave-kyiv-in-case-moscow-launches-mass-strikes?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Infected passengers evacuated from hantavirus cruise ship",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/infected-passengers-evacuated-from-hantavirus-cruise-ship?traffic_source=rss",
+            "title": "SpaceX backs Anthropic with data centre deal amidst Musk’s OpenAI lawsuit",
+            "link": "https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "What does the BJP’s victory in West Bengal mean for India’s democracy?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/5/6/what-does-the-bjps-victory-in-west-bengal-mean-for-indias-democracy?traffic_source=rss",
+            "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
+            "link": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
-            "link": "https://www.aljazeera.com/news/2026/5/6/israeli-strike-kills-colonel-in-gaza-police-force-say-palestinian-medics?traffic_source=rss",
+            "title": "Holders PSG beat Bayern Munich to reach Champions League final with Arsenal",
+            "link": "https://www.aljazeera.com/sports/2026/5/6/holders-psg-beat-bayern-munich-to-reach-champions-league-final-with-arsenal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Indiana, Ohio primaries draw midterm battle lines, reinforce Trump’s pull",
-            "link": "https://www.aljazeera.com/news/2026/5/6/indiana-ohio-primaries-draw-midterm-battle-lines-reinforce-trumps-pull?traffic_source=rss",
+            "title": "What’s behind the secessionist movement in the Canadian province Alberta?",
+            "link": "https://www.aljazeera.com/news/2026/5/6/whats-behind-the-secessionist-movement-in-the-canadian-province-alberta?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why are Pentagon officials talking about Iran’s ‘deadly dolphins’?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/why-are-pentagon-officials-talking-about-irans-deadly?traffic_source=rss",
+            "title": "Israel bombs Beirut’s southern suburbs",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
+            "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
@@ -85,11 +90,6 @@
         {
             "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
             "link": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary",
-            "link": "https://www.bbc.com/news/articles/c1e2zev6754o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -130,6 +130,16 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Inside Man City's WSL title-winning season",
+            "link": "https://www.bbc.com/sport/football/articles/c2lrzd4x02vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Late Bayern pressure not enough as PSG return to Champions League final",
+            "link": "https://www.bbc.com/sport/football/videos/cx21jp2egxzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Injury row, yacht trip & petition - what's going on with Mbappe?",
             "link": "https://www.bbc.com/sport/football/articles/cdeplyje9zzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -140,22 +150,32 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Neymar apologises for slapping teenager Robinho Jr",
-            "link": "https://www.bbc.com/sport/football/articles/c707ekx8l3eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Wait to name England selector ridiculous - Vaughan",
-            "link": "https://www.bbc.com/sport/cricket/articles/ckgp1v749z2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "How did Sheffield Wednesday avoid 15-point deduction?",
-            "link": "https://www.bbc.com/sport/football/articles/cz72vjp382go?at_medium=RSS&at_campaign=rss",
+            "title": "Saka the hero as Arsenal reach first Champions League final in 20 years",
+            "link": "https://www.bbc.com/sport/football/videos/cy42mxj22jdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+            "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+            "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Is xAI a neocloud now?",
+            "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
+            "link": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Microsoft’s AI data center push is colliding with its clean power goals",
             "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
@@ -167,24 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-            "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "DOJ says ransomware gang tapped into Russian government databases",
-            "link": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
-            "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-            "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-            "source": "TechCrunch"
+            "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
+            "link": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
+            "source": "Wired"
         },
         {
             "title": "Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected",
@@ -209,11 +214,6 @@
         {
             "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
             "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
-            "source": "Wired"
-        },
-        {
-            "title": "Hackers Hate AI Slop Even More Than You Do",
-            "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
             "source": "Wired"
         }
     ]
