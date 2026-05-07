@@ -1,7 +1,12 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "মাইলস্টোন দুর্ঘটনায় অবহেলার অভিযোগে মুহাম্মদ ইউনূসসহ ১৬ জনের বিরুদ্ধে মামলার আবেদন",
+            "title": "'প্রতিনিয়ত বার্তা পাচ্ছি- কেউ যদি হরমুজ ক্রসের চেষ্টা করো, অ্যাটাক করবো'",
+            "link": "https://www.bbc.com/bengali/articles/c392v1nngwxo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "মার্কিন ঘাঁটিগুলোর অন্তত ২২৮টি স্থাপনার ক্ষতি করেছে ইরান, ওয়াশিংটন পোস্টের প্রতিবেদন",
             "link": "https://www.bbc.co.uk/bengali/live/c62dz03yy0et?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -21,11 +26,6 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "পত্রিকা: 'স্থানীয় সরকার নির্বাচনে থাকছে না পোস্টার'",
-            "link": "https://www.bbc.com/bengali/articles/c99lnmyg7m8o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
             "title": "সিজারিয়ান অপারেশনের সঙ্গে রোমান সম্রাট জুলিয়াস সিজারের সম্পর্ক কী?",
             "link": "https://www.bbc.com/bengali/articles/c626qggp5eyo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "French warship moves towards Hormuz for possible defensive mission",
-            "link": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
+            "title": "Can Asian economies cope with the fallout from the Iran war?",
+            "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/7/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "The Gaza journalist killed on the day his daughter was born",
-            "link": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss",
+            "title": "Africa sees winners and losers as Iran war pushes up oil prices",
+            "link": "https://www.aljazeera.com/news/2026/5/7/africa-sees-winners-and-losers-as-iran-war-pushes-up-oil-prices?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
-            "link": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut?traffic_source=rss",
+            "title": "Passenger from Hantavirus-hit ship speaks to Al Jazeera from isolation",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/passenger-from-hantavirus-hit-ship-speaks-to-al-jazeera-from-isolation?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Aid cuts, drought and conflict leave Somalis desperate",
-            "link": "https://www.aljazeera.com/gallery/2026/5/7/aid-cuts-drought-and-conflict-leave-somalis-desperate?traffic_source=rss",
+            "title": "What are US proposals to end war, and will Iran agree to them?",
+            "link": "https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Wembanyama and Spurs rebound to level against Timberwolves in NBA Playoffs",
-            "link": "https://www.aljazeera.com/sports/2026/5/7/wembanyama-and-spurs-rebound-to-level-against-timberwolves-in-nba-playoffs?traffic_source=rss",
+            "title": "US reinstates deportation proceedings against Mohsen Mahdawi",
+            "link": "https://www.aljazeera.com/news/2026/5/7/us-reinstates-deportation-proceedings-against-mohsen-mahdawi?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya",
-            "link": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss",
+            "title": "Madrid captain Carvajal in race against time for Spain’s World Cup squad",
+            "link": "https://www.aljazeera.com/sports/2026/5/7/madrid-captain-carvajal-in-race-against-time-for-spains-world-cup-squad?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,27 +73,32 @@
             "source": "BBC World"
         },
         {
-            "title": "Islamic State-linked women arrive home in Australia from Syria",
+            "title": "US judge releases Jeffrey Epstein's purported suicide note",
+            "link": "https://www.bbc.com/news/articles/cd7pd0rqwreo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Three women linked to Islamic State arrested in Australia on return from Syria",
             "link": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Shell latest oil giant to see profits surge due to Iran war impact",
-            "link": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+            "title": "'My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback",
+            "link": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
-            "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "German tourist wins payout after losing sun lounger race",
-            "link": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
+            "title": "China announces suspended death sentences for former defence ministers",
+            "link": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Hollie Armitage named MI London Women's captain",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535650.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Former India Under-19 cricketer Amanpreet Singh Gill dies at 36",
             "link": "https://www.espncricinfo.com/ci/content/story/1535634.html?ex_cid=OTC-RSS",
@@ -120,9 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'Good head on his shoulders' - Connolly's happy IPL with PBKS continues",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535622.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Australian North set to be England selector",
+            "link": "https://www.bbc.com/sport/cricket/articles/c3w21l6deqwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "From ego-ridden team to complete package - why PSG pose ultimate test",
@@ -130,13 +135,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "The AI fitness instructors selling unreal gains",
-            "link": "https://www.bbc.com/sport/articles/c5ye7dnxv86o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Did PSG 'get away' with handball decisions?",
-            "link": "https://www.bbc.com/sport/football/videos/cz92nezdjlgo?at_medium=RSS&at_campaign=rss",
+            "title": "Villa's nearly men entering their defining moment",
+            "link": "https://www.bbc.com/sport/football/articles/c794d9x1ye0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Villa's Staniforth 'at ease' with decision to retire",
-            "link": "https://www.bbc.com/sport/football/articles/cp3pw8v0qzno?at_medium=RSS&at_campaign=rss",
+            "title": "Did PSG 'get away' with handball decisions?",
+            "link": "https://www.bbc.com/sport/football/videos/cz92nezdjlgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Is 15-year-old IPL wonderkid ready to play for India?",
-            "link": "https://www.bbc.com/sport/cricket/articles/cd6p5vvqne2o?at_medium=RSS&at_campaign=rss",
+            "title": "Infantino's hot dog & soft drink pledge over $2m ticket",
+            "link": "https://www.bbc.com/sport/football/articles/czx2nk2q7lgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Vimeo Promo Code: 40% Off This May 2026",
-            "link": "https://www.wired.com/story/vimeo-promo-code/",
+            "title": "Best Printers for Any Home-Office Need (2026): Brother, HP, and More",
+            "link": "https://www.wired.com/gallery/best-printers/",
             "source": "Wired"
         },
         {
-            "title": "Walmart Promo Codes: 65% Off",
-            "link": "https://www.wired.com/story/top-walmart-promo-codes/",
+            "title": "Best Bug Spray (2026), Tested and Reviewed",
+            "link": "https://www.wired.com/story/best-bug-sprays/",
             "source": "Wired"
         },
         {
-            "title": "Groupon Promo Codes: 60% Off in May 2026",
-            "link": "https://www.wired.com/story/groupon-promo-code/",
+            "title": "How I Fixed My Webcam Lighting for Zoom Calls (2026)",
+            "link": "https://www.wired.com/story/how-to-fix-bad-webcam-lighting/",
             "source": "Wired"
         },
         {
-            "title": "HP Discount Codes: 60% Off May 2026",
-            "link": "https://www.wired.com/story/hp-coupon-code/",
+            "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+            "link": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
             "source": "Wired"
         },
         {
-            "title": "Maytag Promo Codes: 15% Off Appliances",
-            "link": "https://www.wired.com/story/maytag-promo-code/",
+            "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
+            "link": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
             "source": "Wired"
         },
         {
-            "title": "Womanizer Coupons: Save 15% in May",
-            "link": "https://www.wired.com/story/womanizer-coupon/",
+            "title": "11 Best Sunscreens, WIRED Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-sunscreens/",
             "source": "Wired"
         }
     ]
