@@ -1,13 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "'পশ্চিমবঙ্গে ক্ষমতার বদল' বাংলাদেশ-ভারত সম্পর্কে কী প্রভাব ফেলবে?",
-            "link": "https://www.bbc.com/bengali/articles/c0m2wxwn7dgo?at_medium=RSS&at_campaign=rss",
+            "title": "পশ্চিমবঙ্গে বিধানসভা ভেঙে দিলেন রাজ্যপাল, আর মুখ্যমন্ত্রী রইলেন না মমতা",
+            "link": "https://www.bbc.co.uk/bengali/live/c62dz03yy0et?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "মার্কিন ঘাঁটিগুলোর অন্তত ২২৮টি স্থাপনার ক্ষতি করেছে ইরান, ওয়াশিংটন পোস্টের প্রতিবেদন",
-            "link": "https://www.bbc.co.uk/bengali/live/c62dz03yy0et?at_medium=RSS&at_campaign=rss",
+            "title": "'পশ্চিমবঙ্গে ক্ষমতার বদল' বাংলাদেশ-ভারত সম্পর্কে কী প্রভাব ফেলবে?",
+            "link": "https://www.bbc.com/bengali/articles/c0m2wxwn7dgo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -33,37 +33,37 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "PSG’s Champions League win marred by night of violence and riots in Paris",
-            "link": "https://www.aljazeera.com/sports/2026/5/7/psgs-champions-league-win-marred-by-night-of-violence-and-riots-in-paris?traffic_source=rss",
+            "title": "US pushing Israeli de-escalation ahead of new talks: Lebanese official",
+            "link": "https://www.aljazeera.com/news/2026/5/7/us-pushing-israeli-de-escalation-ahead-of-new-talks-lebanese-official?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Humanoid robot becomes Buddhist monk in South Korea",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/humanoid-robot-becomes-buddhist-monk-in-south-korea?traffic_source=rss",
+            "title": "Lebanon Latest Israeli strikes Beirut despite ‘ceasefire’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/lebanon-latest-israeli-strikes-beirut-despite?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Chad declares national mourning after deadly Boko Haram ambush",
-            "link": "https://www.aljazeera.com/news/2026/5/7/chad-declares-national-mourning-after-deadly-boko-haram-ambush?traffic_source=rss",
+            "title": "Iran’s president says he has spoken to the country’s Supreme Leader",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/irans-president-says-he-has-spoken-to-the-countrys-supreme-leader?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Somali pirates abandon hijacked UAE dhow due to dwindling supplies",
-            "link": "https://www.aljazeera.com/news/2026/5/7/somali-pirates-abandon-hijacked-uae-dhow-due-to-dwindling-supplies?traffic_source=rss",
+            "title": "The BJP’s Bengal victory exposes the erosion of Indian democracy",
+            "link": "https://www.aljazeera.com/opinions/2026/5/7/the-bjps-bengal-victory-exposes-the-erosion-of-indian-democracy?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Al-Qaeda-linked fighters in Mali set fire to food trucks",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/al-qaeda-linked-fighters-in-mali-set-fire-to-food-trucks?traffic_source=rss",
+            "title": "Iran’s President Pezeshkian seeks to quash divided leadership narrative",
+            "link": "https://www.aljazeera.com/news/2026/5/7/irans-president-pezeshkian-seeks-to-quash-divided-leadership-narrative?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ancient Ziggurat of Ur restored in Iraq using traditional methods",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/ancient-ziggurat-of-ur-restored-in-iraq-using-traditional-methods?traffic_source=rss",
+            "title": "US judge releases purported Jeffrey Epstein suicide note",
+            "link": "https://www.aljazeera.com/news/2026/5/7/us-judge-releases-purported-jeffrey-epstein-suicide-note?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Race to trace passengers who left hantavirus cruise ship at island",
+            "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
             "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -73,8 +73,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
-            "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+            "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+            "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
+            "link": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,17 +88,27 @@
             "source": "BBC World"
         },
         {
-            "title": "'My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback",
-            "link": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "China announces suspended death sentences for former defence ministers",
-            "link": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
+            "title": "Rwandan singer dies as he was being released from prison",
+            "link": "https://www.bbc.com/news/articles/cevpxn0ddp9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Fast bowling riches in focus as Bangladesh and Pakistan switch to Test mode",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535743.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Domestic player among four charged in BCB's corruption probe",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535757.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Does DC's middle-order have an answer for KKR's spin twins?",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535668.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Unchanged RCB bowl; LSG make three changes in Lucknow clash",
             "link": "https://www.espncricinfo.com/ci/content/story/1535751.html?ex_cid=OTC-RSS",
@@ -105,23 +120,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Fast bowling riches in focus as Bangladesh and Pakistan switch to Test mode",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535743.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Hollie Armitage named MI London Women's captain",
             "link": "https://www.espncricinfo.com/ci/content/story/1535650.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Former India Under-19 cricketer Amanpreet Singh Gill dies at 36",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535634.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Klaasen and Abhishek lead Orange Cap race at IPL 2026",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535615.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -135,56 +135,76 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Did PSG 'get away' with handball decisions?",
-            "link": "https://www.bbc.com/sport/football/videos/cz92nezdjlgo?at_medium=RSS&at_campaign=rss",
+            "title": "Rider dies in North West 200 Superbike incident",
+            "link": "https://www.bbc.com/sport/motorsport/articles/c70vw105jq0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Shaw likely to leave WSL champions Man City",
+            "title": "'I'll collect the trash' - Dubois on Wardley's bin-man jibe",
+            "link": "https://www.bbc.com/sport/boxing/articles/c302m1m2z3qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Chelsea favourites to sign Shaw as Man City exit nears",
             "link": "https://www.bbc.com/sport/football/articles/c142jm21kk5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "No party before Dubois faces Wardley - Charles",
-            "link": "https://www.bbc.com/sport/boxing/articles/cx219d1x09do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why some tickets could cost $1.5m for UFC White House show",
-            "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cglp08jglpwo?at_medium=RSS&at_campaign=rss",
+            "title": "The AI fitness instructors selling unreal gains",
+            "link": "https://www.bbc.com/sport/articles/c5ye7dnxv86o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
-            "link": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+            "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+            "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
             "source": "TechCrunch"
         },
         {
-            "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
-            "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+            "title": "Google’s $9.99-per-month AI health coach launches May 19",
+            "link": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
             "source": "TechCrunch"
         },
         {
-            "title": "Spotify wants to become the home for AI-generated personal audio",
-            "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+            "title": "Google unveils Whoop-like screenless Fitbit Air",
+            "link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/",
             "source": "TechCrunch"
         },
         {
-            "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
-            "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+            "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+            "link": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
             "source": "TechCrunch"
         },
         {
-            "title": "Five architects of the AI economy explain where the wheels are coming off",
-            "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+            "title": "Police arrest SMS blaster crew that sent malicious messages to thousands across Toronto",
+            "link": "https://techcrunch.com/2026/05/07/police-arrest-sms-blaster-crew-that-sent-malicious-messages-to-thousands-across-toronto/",
             "source": "TechCrunch"
         },
         {
-            "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
-            "link": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+            "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+            "link": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
+            "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+            "source": "Wired"
+        },
+        {
+            "title": "Best Last-Minute Mother’s Day Deals on Mom-Approved Gifts  (2026)",
+            "link": "https://www.wired.com/story/mothers-day-deals-2026/",
+            "source": "Wired"
+        },
+        {
+            "title": "DOGE’s Ethan Shaotran Is Now Running a Defense Tech Startup",
+            "link": "https://www.wired.com/story/doges-ethan-shaotran-is-now-running-a-defense-tech-startup/",
+            "source": "Wired"
+        },
+        {
+            "title": "Diabetes Detection Needs Better Tools. They’re on the Way",
+            "link": "https://www.wired.com/story/diabetes-detection-better-tools-biomarkers/",
+            "source": "Wired"
         },
         {
             "title": "Google Is Rebranding the Fitbit App to ‘Google Health’",
@@ -194,26 +214,6 @@
         {
             "title": "Google Ditches the Screen With the New Fitbit Air (2026)",
             "link": "https://www.wired.com/story/google-fitbit-air/",
-            "source": "Wired"
-        },
-        {
-            "title": "Sleep Number ComfortNext Lux Smart Bed: Redefining Support",
-            "link": "https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Printers for Any Home-Office Need (2026): Brother, HP, and More",
-            "link": "https://www.wired.com/gallery/best-printers/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Bug Spray (2026), Tested and Reviewed",
-            "link": "https://www.wired.com/story/best-bug-sprays/",
-            "source": "Wired"
-        },
-        {
-            "title": "How I Fixed My Webcam Lighting for Zoom Calls (2026)",
-            "link": "https://www.wired.com/story/how-to-fix-bad-webcam-lighting/",
             "source": "Wired"
         }
     ]
