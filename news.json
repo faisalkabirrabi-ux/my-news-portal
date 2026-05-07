@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "মাইলস্টোন দুর্ঘটনায় অবহেলার অভিযোগে মুহাম্মদ ইউনূসসহ ১৬ জনের বিরুদ্ধে মামলার আবেদন",
+            "link": "https://www.bbc.co.uk/bengali/live/c62dz03yy0et?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "শুভেন্দু অধিকারীর সহকারীকে গুলি করে হত্যা, তৃণমূলের বিরুদ্ধে 'প্রতিহিংসার' অভিযোগ বিজেপির",
             "link": "https://www.bbc.com/bengali/articles/c0m2w4dg8jgo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ঘুমের মধ্যে মানুষ গাছে উঠতে পারে?",
+            "link": "https://www.bbc.com/bengali/articles/c4g0dp00eglo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,48 +29,43 @@
             "title": "সিজারিয়ান অপারেশনের সঙ্গে রোমান সম্রাট জুলিয়াস সিজারের সম্পর্ক কী?",
             "link": "https://www.bbc.com/bengali/articles/c626qggp5eyo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পররাষ্ট্রমন্ত্রীর চীন সফরে তিস্তা প্রসঙ্গ, কী আছে মহাপরিকল্পনায়",
-            "link": "https://www.bbc.com/bengali/articles/cvgz1p0xq0do?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পশ্চিমবঙ্গে বুলডোজার নিয়ে বিজেপিকর্মীদের মিছিল, ভাঙচুর",
-            "link": "https://www.bbc.com/bengali/articles/cp8pl779y4ko?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Toronto World Cup tickets to be resold for face value on FIFA marketplace",
-            "link": "https://www.aljazeera.com/sports/2026/5/7/toronto-world-cup-tickets-to-be-resold-for-face-value-on-fifa-marketplace?traffic_source=rss",
+            "title": "French warship moves towards Hormuz for possible defensive mission",
+            "link": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "What’s the full match schedule, groups and format for World Cup 2026?",
-            "link": "https://www.aljazeera.com/sports/2026/5/7/whats-the-full-match-schedule-groups-and-format-for-world-cup-2026?traffic_source=rss",
+            "title": "The Gaza journalist killed on the day his daughter was born",
+            "link": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Bolivian police fire tear gas at protesting teachers",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/bolivian-police-fire-tear-gas-at-protesting-teachers?traffic_source=rss",
+            "title": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
+            "link": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
-            "link": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss",
+            "title": "Aid cuts, drought and conflict leave Somalis desperate",
+            "link": "https://www.aljazeera.com/gallery/2026/5/7/aid-cuts-drought-and-conflict-leave-somalis-desperate?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "France introduces one‑euro canteen meals for all students",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/france-introduces-one%e2%80%91euro-canteen-meals-for-all-students?traffic_source=rss",
+            "title": "Wembanyama and Spurs rebound to level against Timberwolves in NBA Playoffs",
+            "link": "https://www.aljazeera.com/sports/2026/5/7/wembanyama-and-spurs-rebound-to-level-against-timberwolves-in-nba-playoffs?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Criminal charges in Bosnian mine lead poisoning",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/criminal-charges-in-bosnian-mine-lead-poisoning?traffic_source=rss",
+            "title": "Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya",
+            "link": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
+            "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
@@ -68,8 +73,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Trump's hopes for an Iran peace deal come with caveats",
-            "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+            "title": "Islamic State-linked women arrive home in Australia from Syria",
+            "link": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Shell latest oil giant to see profits surge due to Iran war impact",
+            "link": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -78,22 +88,22 @@
             "source": "BBC World"
         },
         {
-            "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
-            "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Shell profits rise as Iran war pushes oil prices higher",
-            "link": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
-            "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+            "title": "German tourist wins payout after losing sun lounger race",
+            "link": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Former India Under-19 cricketer Amanpreet Singh Gill dies at 36",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535634.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Klaasen and Abhishek lead Orange Cap race at IPL 2026",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535615.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Cummins, Starc, Hazlewood unlikely for Pakistan ODIs as dates overlap with IPL",
             "link": "https://www.espncricinfo.com/ci/content/story/1535628.html?ex_cid=OTC-RSS",
@@ -115,43 +125,33 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Warner was 'reckless and foolish' to drink and drive, according to his lawyer",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535619.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Klaasen and Abhishek lead Orange Cap race at IPL 2026",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535615.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "From ego-ridden team to complete package - why PSG pose ultimate test",
             "link": "https://www.bbc.com/sport/football/articles/cx218q541lvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Inside Man City's WSL title-winning season",
-            "link": "https://www.bbc.com/sport/football/articles/c2lrzd4x02vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Late Bayern pressure not enough as PSG return to Champions League final",
-            "link": "https://www.bbc.com/sport/football/videos/cx21jp2egxzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Villa's nearly men entering their defining moment",
-            "link": "https://www.bbc.com/sport/football/articles/c794d9x1ye0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why resolute Arsenal will believe prolific PSG can be beaten in final",
-            "link": "https://www.bbc.com/sport/football/articles/ckgpxp9q8yno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "The AI fitness instructors selling unreal gains",
             "link": "https://www.bbc.com/sport/articles/c5ye7dnxv86o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Did PSG 'get away' with handball decisions?",
+            "link": "https://www.bbc.com/sport/football/videos/cz92nezdjlgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Liverpool reduce planned rise in ticket prices",
+            "link": "https://www.bbc.com/sport/football/articles/c2k2g90y931o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Villa's Staniforth 'at ease' with decision to retire",
+            "link": "https://www.bbc.com/sport/football/articles/cp3pw8v0qzno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Is 15-year-old IPL wonderkid ready to play for India?",
+            "link": "https://www.bbc.com/sport/cricket/articles/cd6p5vvqne2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -197,16 +197,6 @@
             "source": "Wired"
         },
         {
-            "title": "Womanizer Coupons: Save 15% in May",
-            "link": "https://www.wired.com/story/womanizer-coupon/",
-            "source": "Wired"
-        },
-        {
-            "title": "AT&T Promo Codes and Bundle Deals: Save $50 in May",
-            "link": "https://www.wired.com/story/att-promo-code/",
-            "source": "Wired"
-        },
-        {
             "title": "Groupon Promo Codes: 60% Off in May 2026",
             "link": "https://www.wired.com/story/groupon-promo-code/",
             "source": "Wired"
@@ -214,6 +204,16 @@
         {
             "title": "HP Discount Codes: 60% Off May 2026",
             "link": "https://www.wired.com/story/hp-coupon-code/",
+            "source": "Wired"
+        },
+        {
+            "title": "Maytag Promo Codes: 15% Off Appliances",
+            "link": "https://www.wired.com/story/maytag-promo-code/",
+            "source": "Wired"
+        },
+        {
+            "title": "Womanizer Coupons: Save 15% in May",
+            "link": "https://www.wired.com/story/womanizer-coupon/",
             "source": "Wired"
         }
     ]
