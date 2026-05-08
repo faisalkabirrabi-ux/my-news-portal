@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বিতর্কিত মামলায় কারাগারে স্কুল শিক্ষার্থীরা, ছাত্রলীগ সম্পৃক্ততার অভিযোগ",
+            "link": "https://www.bbc.com/bengali/articles/cy52n2ekzxwo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "হান্টাভাইরাস নিয়ে আমাদের দুশ্চিন্তার কারণ আছে?",
             "link": "https://www.bbc.com/bengali/articles/c7v9n37yqveo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,29 @@
             "title": "রাজশাহী ও চাঁপাইনবাবগঞ্জের বাইরে সাতক্ষীরা যেভাবে দখল করেছে আমের বাজার",
             "link": "https://www.bbc.com/bengali/articles/c5ye79x2gzmo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পশ্চিমবঙ্গে বিধানসভা ভেঙে দিলেন রাজ্যপাল, আর মুখ্যমন্ত্রী রইলেন না মমতা",
-            "link": "https://www.bbc.co.uk/bengali/live/c62dz03yy0et?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Ukraine may have turned tide of Russian territorial gains, says think tank",
+            "link": "https://www.aljazeera.com/news/2026/5/8/ukraine-may-have-turned-tide-of-russian-territorial-gains-says-think-tank?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Rubio meets Pope Leo: Can they heal White House-Vatican rift?",
+            "link": "https://www.aljazeera.com/news/2026/5/8/rubio-meets-pope-leo-can-they-heal-white-house-vatican-rift?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "FBI’s lack of progress on Israeli killing of journalist ‘troubling’: CPJ",
+            "link": "https://www.aljazeera.com/news/2026/5/8/cpj-demands-progress-on-us-probe-of-journalist-abu-akleh-killing-four-year?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US, Iran clash in Hormuz as war escalates: What happened, why it matters",
+            "link": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "UK identifies new suspected hantavirus case on remote island",
             "link": "https://www.aljazeera.com/news/2026/5/8/hantavirus-cases-rise-on-cruise-ship-as-uk-tracks-nationals?traffic_source=rss",
@@ -40,26 +60,6 @@
         {
             "title": "Yemen fuel price hikes deepen hardship as transport costs rise",
             "link": "https://www.aljazeera.com/features/2026/5/8/yemen-fuel-price-hikes-deepen-hardship-as-transport-costs-rise?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "UK’s Labour set for heavy losses in elections as Reform makes early gains",
-            "link": "https://www.aljazeera.com/news/2026/5/8/uks-labour-set-for-heavy-losses-in-elections-as-reform-makes-early-gains?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "UK elections – early results and takeaways; will Starmer have to resign?",
-            "link": "https://www.aljazeera.com/news/2026/5/8/uk-elections-early-results-and-takeaways-will-starmer-have-to-resign?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Russia, Ukraine trade fire, blame despite Victory Day ceasefire",
-            "link": "https://www.aljazeera.com/news/2026/5/8/russia-ukraine-trade-fire-despite-victory-day-ceasefire?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Indonesia volcano kills three as search for 20 missing hikers under way",
-            "link": "https://www.aljazeera.com/news/2026/5/8/indonesia-volcano-kills-three-as-search-for-missing-hikers-continues?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,27 +73,32 @@
             "source": "BBC World"
         },
         {
+            "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+            "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Three dead after volcano erupts on Indonesian island",
+            "link": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "South Africa president faces call to resign after court ruling",
+            "link": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Third British national has suspected hantavirus infection, UK government says",
             "link": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Anti-war protests rock Japan as PM pushes for stronger defence",
-            "link": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
-            "link": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Rebel Wilson accused of 'complete revision of history' as defamation case closes",
-            "link": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "BCCI pulls up IPL teams and owners for misconduct, protocol breaches during the season",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535846.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Shanto ton, Mominul fifty frustrate Pakistan in second session of Mirpur Test",
             "link": "https://www.espncricinfo.com/ci/content/story/1535848.html?ex_cid=OTC-RSS",
@@ -120,18 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Shanto and Mominul take Bangladesh past 100 after early losses",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535834.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Vibrant and victorious - Villa ready to end 30-year trophy drought",
-            "link": "https://www.bbc.com/sport/football/articles/cddpy80r5dgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Glasner's long Palace goodbye sets up 'perfect' finale",
-            "link": "https://www.bbc.com/sport/football/articles/cdepl8k6y5no?at_medium=RSS&at_campaign=rss",
+            "title": "Alexander-Arnold's England omission 'mind-boggling' to Rooney",
+            "link": "https://www.bbc.com/sport/football/articles/cn7pv5nrvglo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,8 +135,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Sutton's predictions v boxing world champion Fabio Wardley",
-            "link": "https://www.bbc.com/sport/football/articles/czr2m1463npo?at_medium=RSS&at_campaign=rss",
+            "title": "Vibrant and victorious - Villa ready to end 30-year trophy drought",
+            "link": "https://www.bbc.com/sport/football/articles/cddpy80r5dgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -152,6 +147,11 @@
         {
             "title": "'Like getting the vicar to swear' – Dubois finding his voice",
             "link": "https://www.bbc.com/sport/boxing/articles/cn4p8y4xe32o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Czech Holan named as rider killed at North West 200",
+            "link": "https://www.bbc.com/sport/motorsport/articles/c8d843019p0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
+            "title": "The Best Mobile Gaming Controllers for iPhone and Android (2026)",
+            "link": "https://www.wired.com/story/best-mobile-gaming-controllers/",
+            "source": "Wired"
+        },
+        {
+            "title": "We Asked Coffee Pros to Blind Test Coffee Machines. The Results Were Surprising",
+            "link": "https://www.wired.com/story/we-asked-coffee-pros-to-blind-test-coffee-machines-the-results-were-surprising/",
+            "source": "Wired"
+        },
+        {
+            "title": "Billie Eilish Doesn't Know if There Will Ever Be Another Billie Eilish",
+            "link": "https://www.wired.com/story/billie-eilish-doesnt-know-if-there-will-ever-be-another-billie-eilish/",
+            "source": "Wired"
+        },
+        {
+            "title": "The New Wild West of AI Kids’ Toys",
+            "link": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+            "source": "Wired"
+        },
+        {
+            "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+            "link": "https://www.wired.com/gallery/the-best-cat-water-fountains/",
+            "source": "Wired"
+        },
+        {
             "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
             "link": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
-            "source": "Wired"
-        },
-        {
-            "title": "Meet Rassvet, Russia’s Answer to Starlink",
-            "link": "https://www.wired.com/story/meet-rassvet-russias-answer-to-starlink/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
-            "link": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
-            "source": "Wired"
-        },
-        {
-            "title": "50% Off DoorDash Promo Code | May 2026",
-            "link": "https://www.wired.com/story/doordash-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-            "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-            "source": "Wired"
-        },
-        {
-            "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
-            "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
             "source": "Wired"
         }
     ]
