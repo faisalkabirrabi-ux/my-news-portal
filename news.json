@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Pentagon releases video of strikes on Iranian oil tankers",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Celebrated naturalist David Attenborough marks 100th birthday",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/celebrated-naturalist-david-attenborough-marks-100th-birthday?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Costa Rica inaugurates right-wing president Laura Fernandez",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/costa-rica-inaugurates-right-wing-president-laura-fernandez?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Laura Fernandez sworn in as Costa Rica’s new president",
             "link": "https://www.aljazeera.com/news/2026/5/8/laura-fernandez-sworn-in-as-costa-ricas-new-president?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -45,21 +60,6 @@
         {
             "title": "Could Labour and Conservative party dominance in UK politics be ending?",
             "link": "https://www.aljazeera.com/video/inside-story/2026/5/8/could-labours-and-the-conservatives-dominance-in-uk-politics-be-ending?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Protests in the Canary Islands as virus-stricken ship heads for port",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/protests-in-the-canary-islands-as-virus-stricken-ship-heads-for-port?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Libya’s largest oil refinery halts operations during fighting",
-            "link": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,8 +83,8 @@
             "source": "BBC World"
         },
         {
-            "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
-            "link": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
+            "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+            "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -125,23 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Fernandes: The trophies, the assist record and his future",
+            "link": "https://www.bbc.com/sport/football/articles/cn5p2n3vw42o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Saints charged by EFL with spying on Middlesbrough",
+            "link": "https://www.bbc.com/sport/football/articles/cy92vn803lno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Arteta rallies Arsenal for huge Premier League weekend",
             "link": "https://www.bbc.com/sport/football/articles/cvgz7v5ve2eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Man Utd's Fernandes wins Football Writers' men's award",
-            "link": "https://www.bbc.com/sport/football/articles/cn8pvvp6n0qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Shaw named Football Writers' Women's Player of Year",
             "link": "https://www.bbc.com/sport/football/articles/c4g08d8nkj5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Jimenez suspended as Bournemouth launch investigation",
-            "link": "https://www.bbc.com/sport/football/articles/cjdpx3n9rvyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -156,6 +156,11 @@
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "San Francisco’s housing market has lost its mind",
+            "link": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
             "link": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
@@ -179,11 +184,6 @@
         {
             "title": "Mother Ventures is looking at moms as the ‘economic engine’",
             "link": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Uber partner Avride is under investigation for self-driving crashes",
-            "link": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
             "source": "TechCrunch"
         },
         {
