@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "শুভেন্দু অধিকারী কলকাতার যে ঐতিহাসিক ভবন থেকে সরকার চালাবেন",
+            "link": "https://www.bbc.com/bengali/articles/cy82qpll6gzo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "'ওকে আগেই নিতে আসলাম; তবে জীবিত না, মৃত- এই আরকি'- বৃষ্টির বাবা",
             "link": "https://www.bbc.com/bengali/articles/cedpyjy9x78o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "দুর্ঘটনায় আলোচিত টেংরাটিলায় আবারও গ্যাস অনুসন্ধানের সিদ্ধান্ত",
+            "link": "https://www.bbc.com/bengali/articles/cy0257jx0ezo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,19 +29,24 @@
             "title": "আন্তর্জাতিক সাইবার হামলায় আক্রান্ত বহু বিশ্ববিদ্যালয় ও স্কুল",
             "link": "https://www.bbc.com/bengali/articles/cq6p7vnl1neo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'ভারত ও চীনের চার কেন্দ্রের বিদ্যুতের দাম অস্বাভাবিক'",
-            "link": "https://www.bbc.com/bengali/articles/cm2pe8dvendo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "দুর্ঘটনায় আলোচিত টেংরাটিলায় আবারও গ্যাস অনুসন্ধানের সিদ্ধান্ত",
-            "link": "https://www.bbc.com/bengali/articles/cy0257jx0ezo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Israel to release two detained Gaza flotilla activists",
+            "link": "https://www.aljazeera.com/news/2026/5/9/israel-to-release-two-detained-gaza-flotilla-activists?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
+            "link": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Peter Magyar sworn in as Hungary’s PM, ending Orban’s 16 years in power",
+            "link": "https://www.aljazeera.com/news/2026/5/9/peter-magyar-sworn-in-as-hungarys-pm-ending-orbans-16-years-in-power?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "LIVE: Manchester City vs Brentford – Premier League",
             "link": "https://www.aljazeera.com/sports/liveblog/2026/5/9/live-manchester-city-vs-brentford-premier-league?traffic_source=rss",
@@ -45,21 +60,6 @@
         {
             "title": "Iran says it will play at 2026 World Cup if hosts address ‘concerns’",
             "link": "https://www.aljazeera.com/sports/2026/5/9/iran-says-it-will-play-at-2026-world-cup-if-hosts-address-concerns?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump says hantavirus is ‘under control’ as WHO tracks cruise outbreak",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/trump-says-hantavirus-is-under-control-as-who-tracks-cruise-outbreak?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Australia’s populist One Nation scores first-ever lower house victory",
-            "link": "https://www.aljazeera.com/news/2026/5/9/australias-populist-one-nation-scores-first-ever-lower-house-victory?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Displaced Lebanese children keep learning amid displacement",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,7 +83,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Hungary's new PM sworn in during 'regime change' party",
+            "title": "Hungary's new PM sworn in after landslide victory over Orbán",
             "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -94,6 +94,21 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "IPL returns to Raipur after a decade as RCB host MI",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535994.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "RR bowl with Parag injured and make three changes",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535999.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Wait for Dhoni continues as CSK's home edge meets LSG's away struggles",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535991.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Senior Australia players hold off CA deal amid BBL pay frustration",
             "link": "https://www.espncricinfo.com/ci/content/story/1535986.html?ex_cid=OTC-RSS",
@@ -110,33 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Debutant Awais leads Pakistan's strong reply after Abbas five-for",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535961.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'It hurts' - worry lines at DC as Kuldeep's sorry lines (and lengths) continue",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535959.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Confidence and clarity make Anukul Roy 'a really good package' for KKR",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535954.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "British number one Norrie loses in Italian Open",
             "link": "https://www.bbc.com/sport/tennis/articles/cvgzpv1g3dvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Tight-lipped Dubois weighs in at career-heaviest 18st",
-            "link": "https://www.bbc.com/sport/boxing/articles/c302qq1n6dyo?at_medium=RSS&at_campaign=rss",
+            "title": "Crunch Clasico as Barca look to pounce on Real unrest",
+            "link": "https://www.bbc.com/sport/football/articles/cgrpg7ljy1jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Djokovic stunned on return to action in Rome",
-            "link": "https://www.bbc.com/sport/tennis/articles/crlpd0x9zlzo?at_medium=RSS&at_campaign=rss",
+            "title": "Tight-lipped Dubois weighs in at career-heaviest 18st",
+            "link": "https://www.bbc.com/sport/boxing/articles/c302qq1n6dyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -156,6 +156,11 @@
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Nvidia has already committed $40B to equity AI deals this year",
+            "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
             "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
@@ -179,11 +184,6 @@
         {
             "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
             "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul",
-            "link": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/",
             "source": "TechCrunch"
         },
         {
