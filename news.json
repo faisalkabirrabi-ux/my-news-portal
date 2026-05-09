@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "'ওকে আগেই নিতে আসলাম; তবে জীবিত না, মৃত- এই আরকি'- বৃষ্টির বাবা",
+            "link": "https://www.bbc.com/bengali/articles/cedpyjy9x78o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "মমতার বিশ্বস্ত সহকর্মী থেকে প্রধান প্রতিদ্বন্দ্বী, যেভাবে পশ্চিমবঙ্গে মুখ্যমন্ত্রী বিজেপি নেতা শুভেন্দু অধিকারী",
             "link": "https://www.bbc.com/bengali/articles/cvgzppp7vkvo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,14 @@
             "title": "দুর্ঘটনায় আলোচিত টেংরাটিলায় আবারও গ্যাস অনুসন্ধানের সিদ্ধান্ত",
             "link": "https://www.bbc.com/bengali/articles/cy0257jx0ezo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ক্ষমতা হারিয়ে তৃণমূল কংগ্রেসের নেতারা             মুখ খুলছেন অভিষেক ব্যানার্জীর বিরুদ্ধে",
-            "link": "https://www.bbc.com/bengali/articles/c4g08dgxrrzo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Displaced Lebanese children keep learning amid displacement",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "US military kills two people in new eastern Pacific Ocean attack",
             "link": "https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack?traffic_source=rss",
@@ -48,18 +53,13 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "World Cup 2026: How US football has evolved since hosting in 1994",
+            "title": "World Cup 2026: How US football has evolved since hosting the 1994 event",
             "link": "https://www.aljazeera.com/sports/2026/5/9/world-cup-2026-how-united-states-football-has-evolved-since-1994-hosting?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
             "title": "Barcelona vs Real Madrid: La Liga – preview, team news, start and lineups",
             "link": "https://www.aljazeera.com/sports/2026/5/9/barcelona-vs-real-madrid-la-liga-preview-team-news-start-lineups?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "The war on Iran will likely end in American retreat",
-            "link": "https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,8 +95,13 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Abbas bags five but Mushfiqur 71, Taskin cameo propel Bangladesh",
+            "title": "Debutant Awais leads Pakistan's strong reply after Abbas five-for",
             "link": "https://www.espncricinfo.com/ci/content/story/1535961.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Pakistan leave out Sidra Amin for Zimbabwe T20Is, Iram Javed returns",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535981.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Allen's 47-ball ton powers KKR to huge win over DC",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535936.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Fernandes: The trophies, the assist record and his future",
             "link": "https://www.bbc.com/sport/football/articles/cn5p2n3vw42o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,8 +135,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Arteta rallies Arsenal for huge Premier League weekend",
-            "link": "https://www.bbc.com/sport/football/articles/cvgz7v5ve2eo?at_medium=RSS&at_campaign=rss",
+            "title": "British number one Norrie loses in Italian Open",
+            "link": "https://www.bbc.com/sport/tennis/articles/cvgzpv1g3dvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,7 +150,7 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Tight-lipped Dubois weighs in at career-heavy 18st",
+            "title": "Tight-lipped Dubois weighs in at career-heaviest 18st",
             "link": "https://www.bbc.com/sport/boxing/articles/c302qq1n6dyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
+            "link": "https://www.wired.com/gallery/best-captioning-glasses/",
+            "source": "Wired"
+        },
+        {
             "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
             "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "50% Off Blue Apron Promo Codes | May 2026",
             "link": "https://www.wired.com/story/blue-apron-coupon/",
-            "source": "Wired"
-        },
-        {
-            "title": "T-Mobile Promo Codes: 25% Off | May",
-            "link": "https://www.wired.com/story/t-mobile-business-promo-code/",
             "source": "Wired"
         }
     ]
