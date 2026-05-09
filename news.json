@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "মমতার বিশ্বস্ত সহকর্মী থেকে প্রধান প্রতিদ্বন্দ্বী, যেভাবে পশ্চিমবঙ্গে বিজেপির মুখ্যমন্ত্রী শুভেন্দু অধিকারী",
+            "title": "মমতার বিশ্বস্ত সহকর্মী থেকে প্রধান প্রতিদ্বন্দ্বী, যেভাবে পশ্চিমবঙ্গে মুখ্যমন্ত্রী বিজেপি নেতা শুভেন্দু অধিকারী",
             "link": "https://www.bbc.com/bengali/articles/cvgzppp7vkvo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "গায়ে ছিল একই ট্যাটু, ছিলেন সহকর্মী- তখনো জানতেন না তারা বোন",
+            "link": "https://www.bbc.com/bengali/articles/c98rgyg0dejo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,47 +29,42 @@
             "title": "ক্ষমতা হারিয়ে তৃণমূল কংগ্রেসের নেতারা             মুখ খুলছেন অভিষেক ব্যানার্জীর বিরুদ্ধে",
             "link": "https://www.bbc.com/bengali/articles/c4g08dgxrrzo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বিতর্কিত মামলায় কারাগারে স্কুল শিক্ষার্থীরা, ছাত্রলীগ সম্পৃক্ততার অভিযোগ",
-            "link": "https://www.bbc.com/bengali/articles/cy52n2ekzxwo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Hacked educational platform partially restored for millions of students",
+            "link": "https://www.aljazeera.com/news/2026/5/9/hacked-educational-platform-partially-restored-for-millions-of-students?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Russia holds downsized Victory Day parade",
+            "link": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Spain’s Canary Islands brace for incoming hantavirus-stricken cruise ship",
+            "link": "https://www.aljazeera.com/news/2026/5/9/spains-canary-islands-brace-for-incoming-hantavirus-stricken-cruise-ship?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli settlers set fire to homes and cars in violent West Bank raids",
+            "link": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Financial struggles burden Yemen’s army as soldiers wait for wages",
+            "link": "https://www.aljazeera.com/economy/2026/5/9/financial-struggles-haunt-yemens-army-as-wage-payments-stall?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Wembanyama powers Spurs past T-Wolves as Knicks beat Sixers in NBA playoffs",
             "link": "https://www.aljazeera.com/sports/2026/5/9/wembanyama-powers-spurs-past-t-wolves-as-knicks-beat-sixers-in-nba-playoffs?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
-            "link": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Pentagon releases video of strikes on Iranian oil tankers",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Celebrated naturalist David Attenborough marks 100th birthday",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/celebrated-naturalist-david-attenborough-marks-100th-birthday?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Costa Rica inaugurates right-wing president Laura Fernandez",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/costa-rica-inaugurates-right-wing-president-laura-fernandez?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
-            "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+            "title": "Putin denounces Nato at scaled back Victory Day parade",
+            "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Abbas bags five but Mushfiqur 71, Taskin cameo propel Bangladesh",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535961.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "'It hurts' - worry lines at DC as Kuldeep's sorry lines (and lengths) continue",
             "link": "https://www.espncricinfo.com/ci/content/story/1535959.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -102,11 +107,6 @@
         {
             "title": "Confidence and clarity make Anukul Roy 'a really good package' for KKR",
             "link": "https://www.espncricinfo.com/ci/content/story/1535954.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Mushfiqur key as Bangladesh aim for 400-plus after Abbas takes four",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535961.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,8 +120,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Abell, Thomas fifties shore up Somerset against buoyant Glamorgan",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535887.html?ex_cid=OTC-RSS",
+            "title": "Allen's 47-ball ton powers KKR to huge win over DC",
+            "link": "https://www.espncricinfo.com/ci/content/story/1535936.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Tight-lipped Dubois weighs in at career-heavy 18st",
-            "link": "https://www.bbc.com/sport/boxing/articles/c302qq1n6dyo?at_medium=RSS&at_campaign=rss",
+            "title": "Djokovic stunned on return to action in Rome",
+            "link": "https://www.bbc.com/sport/tennis/articles/crlpd0x9zlzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
