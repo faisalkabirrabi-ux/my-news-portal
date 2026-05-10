@@ -33,37 +33,37 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Food inflation hammers households in war-hit Iran",
+            "link": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "LIVE: Barcelona vs Real Madrid – El Clasico La Liga",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/5/10/live-barcelona-vs-real-madrid-el-clasico-la-liga?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Russia kills three Ukrainians in 24 hours, accuses Kyiv of violating truce",
+            "link": "https://www.aljazeera.com/news/2026/5/10/russia-kills-three-ukrainians-in-24-hours-accuses-kyiv-of-violating-truce?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Putin hints at ending Russia’s war in Ukraine, but why now?",
+            "link": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "With food benefit cuts looming in the US, Californians eye billionaire tax",
+            "link": "https://www.aljazeera.com/economy/2026/5/10/with-food-benefit-cuts-looming-in-the-us-californians-eye-billionaire?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Iran sends response to US ceasefire proposal via Pakistan",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Football on ruins: Gaza’s orphans find refuge on the pitch",
-            "link": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Jorge Martin wins his first Aprilia Grand Prix at French MotoGP",
-            "link": "https://www.aljazeera.com/sports/2026/5/10/jorge-martin-wins-his-first-aprilia-grand-prix-at-french-motogp?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Ukraine has momentum in war with Russia’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/ukraine-has-momentum-in-war-with?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Passengers from Hantavirus-hit cruise begin disembarking ship",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/passengers-from-hantavirus-hit-cruise-begin-disembarking-ship?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Countries airlift nationals evacuated from from virus-hit cruise ship",
+            "title": "Countries airlift nationals evacuated from virus-hit cruise ship",
             "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,8 +95,13 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "RCB bowl; still no Hardik Pandya for MI",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536151.html?ex_cid=OTC-RSS",
+            "title": "Overton, Urvil power CSK to fifth spot with third straight win",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536158.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Sharma, Higgins, Geddes take Middlesex home",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536125.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -105,8 +110,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Overton, Urvil power CSK to fifth spot with third straight win",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536158.html?ex_cid=OTC-RSS",
+            "title": "RCB bowl; still no Hardik Pandya for MI",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536151.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -117,11 +122,6 @@
         {
             "title": "Awais was 'zoned out for five minutes' after being struck on helmet",
             "link": "https://www.espncricinfo.com/ci/content/story/1536156.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Mehidy: Mirpur Test 'fifty-fifty at the moment'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536150.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "TechCrunch Mobility: Lime’s IPO gamble",
+            "link": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
             "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
             "source": "TechCrunch"
@@ -179,11 +184,6 @@
         {
             "title": "Fintech startup Parker files for bankruptcy",
             "link": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "GM agrees to pay $12.75M in California driver privacy settlement",
-            "link": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
             "source": "TechCrunch"
         },
         {
