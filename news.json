@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "১০ মামলায় নারায়ণগঞ্জের সাবেক মেয়র সেলিনা হায়াৎ আইভীর জামিন",
+            "link": "https://www.bbc.co.uk/bengali/live/cp3pnnw46xpt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "আইনশৃঙ্খলা 'নিয়ন্ত্রণে আছে, অবনতি হয়নি' বলা হলেও এখনো উদ্বেগ কেন?",
             "link": "https://www.bbc.com/bengali/articles/c893gn3kp1ko?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "শুভেন্দু অধিকারী কলকাতার যে ঐতিহাসিক ভবন থেকে সরকার চালাবেন",
             "link": "https://www.bbc.com/bengali/articles/cy82qpll6gzo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "দলীয় এমপিদের চাপ, তবে 'সরবেন না' যুক্তরাজ্যের প্রধানমন্ত্রী",
-            "link": "https://www.bbc.com/bengali/articles/cx21wqwd4gyo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon",
-            "link": "https://www.aljazeera.com/news/2026/5/10/iran-war-day-72-tehran-yet-to-reply-to-us-plan-israel-bombs-lebanon?traffic_source=rss",
+            "title": "Libya’s Zawiya refinery resumes full operations",
+            "link": "https://www.aljazeera.com/news/2026/5/10/libyas-zawiya-refinery-resumes-full-operations?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Flotilla activists arrive in Turkiye before setting sail to Gaza",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/flotilla-activists-arrive-in-turkiye-before-setting-sail-to-gaza?traffic_source=rss",
+            "title": "AFC Asian Cup 2027: Japan to face defending champions Qatar in tough draw",
+            "link": "https://www.aljazeera.com/sports/2026/5/10/afc-asian-cup-2027-japan-land-defending-champions-qatar-in-tough-draw?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Flotilla activist gives defiant message after Israel deports him to Greece",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/flotilla-activist-gives-defiant-message-after-israel-deports-him-to-greece?traffic_source=rss",
+            "title": "OKC Thunder bury LA Lakers to take 3-0 NBA Playoff series lead",
+            "link": "https://www.aljazeera.com/sports/2026/5/10/okc-thunder-bury-la-lakers-to-take-3-0-nba-playoff-series-lead?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Sabalenka out of Italian Open amid injury concerns for Roland Garros",
-            "link": "https://www.aljazeera.com/sports/2026/5/10/sabalenka-out-of-italian-open-amid-injury-concerns-for-roland-garros?traffic_source=rss",
+            "title": "Syria sees first government reshuffle since al-Assad’s ouster: State media",
+            "link": "https://www.aljazeera.com/news/2026/5/10/syria-sees-first-government-reshuffle-since-al-assads-ouster-state-media?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel deports two Gaza aid flotilla activists",
-            "link": "https://www.aljazeera.com/news/2026/5/10/israel-deports-two-gaza-aid-flotilla-activists?traffic_source=rss",
+            "title": "Rebel fighters kill at least 69 people in northeastern DR Congo",
+            "link": "https://www.aljazeera.com/news/2026/5/10/rebel-fighters-kill-at-least-69-people-in-northeastern-dr-congo?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Cruise ship hit by hantavirus outbreak arrives in Tenerife",
-            "link": "https://www.aljazeera.com/news/2026/5/10/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife?traffic_source=rss",
+            "title": "JNIM and Tuareg fighters join forces",
+            "link": "https://www.aljazeera.com/video/project-force-2/2026/5/10/jnim-and-tuareg-fighters-join-forces?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "CSK opt to bowl at home, LSG bring in Inglis for Kulkarni",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536098.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Agha, Rizwan fifties lead Pakistan recovery after middle-order collapse",
             "link": "https://www.espncricinfo.com/ci/content/story/1536076.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,23 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Debutant Awais leads Pakistan's strong reply after Abbas five-for",
-            "link": "https://www.espncricinfo.com/ci/content/story/1535961.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Defiant Dubois sheds quitter tag to write new narrative",
             "link": "https://www.bbc.com/sport/boxing/articles/cx21rlkl5jgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Would Old Firm derby win be Rangers' 'trophy' this season?",
-            "link": "https://www.bbc.com/sport/football/articles/cd7pv5l4gzpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Boos, no intensity and no identity - what is Slot's Liverpool?",
-            "link": "https://www.bbc.com/sport/football/articles/cqjp4nex0lyo?at_medium=RSS&at_campaign=rss",
+            "title": "Injured Yates out of Giro after 30-rider crash",
+            "link": "https://www.bbc.com/sport/cycling/articles/c1l2ddr6v5mo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +140,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Hearts fans drunk on drama as intoxicating title race takes twist",
-            "link": "https://www.bbc.com/sport/football/articles/cx21xl971yzo?at_medium=RSS&at_campaign=rss",
+            "title": "Manchester City beat stubborn Brentford to keep title race alive",
+            "link": "https://www.bbc.com/sport/football/videos/c4g57xk140go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Fitzpatrick surges into lead as McIlroy falters",
-            "link": "https://www.bbc.com/sport/golf/articles/cx21qev2w0ko?at_medium=RSS&at_campaign=rss",
+            "title": "Bournemouth stay in European hunt with win over Fulham in fiery contest",
+            "link": "https://www.bbc.com/sport/football/videos/c2k2gx7kv1po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Brighton keep European hopes alive with comfortable win over Wolves",
+            "link": "https://www.bbc.com/sport/football/videos/c1w20q19qz8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,16 @@
             "source": "TechCrunch"
         },
         {
+            "title": "How Handheld Translators Work and Why They’re Handy for Travel",
+            "link": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
+            "source": "Wired"
+        },
+        {
+            "title": "‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe",
+            "link": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
+            "source": "Wired"
+        },
+        {
             "title": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
             "link": "https://www.wired.com/gallery/best-captioning-glasses/",
             "source": "Wired"
@@ -204,16 +214,6 @@
         {
             "title": "Instacart Promo Code: $15 Off | May 2026",
             "link": "https://www.wired.com/story/instacart-promo/code/",
-            "source": "Wired"
-        },
-        {
-            "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
-            "link": "https://www.wired.com/story/hellofresh-coupon/",
-            "source": "Wired"
-        },
-        {
-            "title": "50% Off Blue Apron Promo Codes | May 2026",
-            "link": "https://www.wired.com/story/blue-apron-coupon/",
             "source": "Wired"
         }
     ]
