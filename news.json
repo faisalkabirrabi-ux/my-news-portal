@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Iran may ‘give assurances on the use of nuclear facilities’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump says US will not allow Iran to reach enriched uranium",
+            "link": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Food inflation hammers households in war-hit Iran",
             "link": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "Putin hints at ending Russia’s war in Ukraine, but why now?",
             "link": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "With food benefit cuts looming in the US, Californians eye billionaire tax",
-            "link": "https://www.aljazeera.com/economy/2026/5/10/with-food-benefit-cuts-looming-in-the-us-californians-eye-billionaire?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran sends response to US ceasefire proposal via Pakistan",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,67 +95,72 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Overton, Urvil power CSK to fifth spot with third straight win",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536158.html?ex_cid=OTC-RSS",
+            "title": "RCB eliminate MI and go top after tense finish",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536210.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Sharma, Higgins, Geddes take Middlesex home",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536125.html?ex_cid=OTC-RSS",
+            "title": "Patel, Tattersall show fight as Leicestershire frustrate Sussex",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536184.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "PBKS and DC clash in Dharamsala aiming to avoid another L",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536149.html?ex_cid=OTC-RSS",
+            "title": "Four-for gives Bhuvneshwar big lead at the top of IPL 2026 Purple Cap table",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536205.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "RCB bowl; still no Hardik Pandya for MI",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536151.html?ex_cid=OTC-RSS",
+            "title": "Derbyshire on the cusp of first win of the season",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536183.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Gaikwad: Wasn't easy for new batter on 'tacky' pitch",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536166.html?ex_cid=OTC-RSS",
+            "title": "Somerset regain the ascendancy after hard-fought third day",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536160.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Awais was 'zoned out for five minutes' after being struck on helmet",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536156.html?ex_cid=OTC-RSS",
+            "title": "Resolute Cameron Bancroft makes Kent sweat into final day",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536179.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Dubois beats Wardley in epic world title fight",
-            "link": "https://www.bbc.com/sport/boxing/videos/c78k049mz9zo?at_medium=RSS&at_campaign=rss",
+            "title": "Are Celtic now favourites to win Scottish Premiership?",
+            "link": "https://www.bbc.com/sport/football/articles/cy52e0rpdk7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "England debutants claim maiden wickets against New Zealand",
-            "link": "https://www.bbc.com/sport/cricket/videos/c7v9713z953o?at_medium=RSS&at_campaign=rss",
+            "title": "Dean drags England to one-wicket win over NZ",
+            "link": "https://www.bbc.com/sport/cricket/articles/cp9p28nmj97o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Manchester City beat stubborn Brentford to keep title race alive",
-            "link": "https://www.bbc.com/sport/football/videos/c4g57xk140go?at_medium=RSS&at_campaign=rss",
+            "title": "Arsenal edge closer to total after late West Ham drama",
+            "link": "https://www.bbc.com/sport/football/videos/c3d2859pm80o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Bournemouth stay in European hunt with win over Fulham in fiery contest",
-            "link": "https://www.bbc.com/sport/football/videos/c2k2gx7kv1po?at_medium=RSS&at_campaign=rss",
+            "title": "Anderson scores late equaliser as Forest move closer to safety",
+            "link": "https://www.bbc.com/sport/football/videos/c5y7mv3v64zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Brighton keep European hopes alive with comfortable win over Wolves",
-            "link": "https://www.bbc.com/sport/football/videos/c1w20q19qz8o?at_medium=RSS&at_campaign=rss",
+            "title": "Burnley end losing streak with draw against Villa",
+            "link": "https://www.bbc.com/sport/football/videos/cgkpmxl1l7jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Flick to lead Barca v Real despite father's death",
-            "link": "https://www.bbc.com/sport/football/articles/cgepgr2nn7vo?at_medium=RSS&at_campaign=rss",
+            "title": "Everton's European push dented with draw at Palace",
+            "link": "https://www.bbc.com/sport/football/videos/cj9p20m7d8mo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
+            "link": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
+            "source": "TechCrunch"
+        },
         {
             "title": "TechCrunch Mobility: Lime’s IPO gamble",
             "link": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
@@ -179,11 +184,6 @@
         {
             "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
             "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Fintech startup Parker files for bankruptcy",
-            "link": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
             "source": "TechCrunch"
         },
         {
