@@ -6,6 +6,11 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "ইডেন কলেজে কী হয়েছে, ছাত্র রাজনীতির বন্ধের দাবি সামনে আসছে কেন",
+            "link": "https://www.bbc.com/bengali/articles/c5y0qlpqelzo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "হান্টাভাইরাসে আক্রান্ত প্রমোদতরী থেকে যাত্রীদের সরিয়ে নিতে শুরু করেছে স্পেন",
             "link": "https://www.bbc.com/bengali/articles/c6268g0wv17o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,29 @@
             "title": "পত্রিকা: 'হামে মৃত্যুর সংখ্যা সরকারি হিসাবের চেয়ে অনেক বেশি'",
             "link": "https://www.bbc.com/bengali/articles/clyp3k3g2jwo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "কিছু প্রতিবেশীর সঙ্গে সংযুক্ত আরব আমিরাতের সম্পর্ক খারাপ হয়েছে কেন?",
-            "link": "https://www.bbc.com/bengali/articles/cewpgevy7x1o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Football on ruins: Gaza’s orphans find refuge on the pitch",
+            "link": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Jorge Martin wins his first Aprilia Grand Prix at French MotoGP",
+            "link": "https://www.aljazeera.com/sports/2026/5/10/jorge-martin-wins-his-first-aprilia-grand-prix-at-french-motogp?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "‘Ukraine has momentum in war with Russia’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/ukraine-has-momentum-in-war-with?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Passengers from Hantavirus-hit cruise begin disembarking ship",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/passengers-from-hantavirus-hit-cruise-begin-disembarking-ship?traffic_source=rss",
@@ -40,26 +60,6 @@
         {
             "title": "Can Asian economies cope with the fallout from the Iran war?",
             "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Atef Najib faces at least 10 charges in landmark Syria trial",
-            "link": "https://www.aljazeera.com/news/2026/5/10/atef-najib-faces-at-least-10-charges-in-landmark-syria-trial?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran sends response to US proposal to end war via mediator Pakistan",
-            "link": "https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Can central banks curb inflation as energy costs rise?",
-            "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-central-banks-curb-inflation-as-energy-costs-rise?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US-Iran ceasefire under strain as Gulf states report drone attacks",
-            "link": "https://www.aljazeera.com/news/2026/5/10/us-iran-ceasefire-under-strain-as-gulf-states-report-drone-attacks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,7 +73,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Iran warns against complying with US sanctions as Gulf attacks reported",
+            "title": "Iran sends response to US proposals to end war",
             "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,43 +95,48 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Overton, Urvil power CSK to fifth spot with third straight win",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536158.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Awais was 'zoned out for five minutes' after being struck on helmet",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536156.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Mehidy: Mirpur Test 'fifty-fifty at the moment'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536150.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Urvil Patel equals record for IPL's fastest fifty",
             "link": "https://www.espncricinfo.com/ci/content/story/1536138.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Mehidy five-for hands Bangladesh slim lead despite Awais' debut ton",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536076.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "England bowl, Corteen-Coleman, Grewcock and Gibson debut",
+            "title": "New Zealand collapse to 210 after Green, Kerr fifties",
             "link": "https://www.espncricinfo.com/ci/content/story/1536101.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "CSK opt to bowl at home, LSG bring in Inglis for Kulkarni",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536098.html?ex_cid=OTC-RSS",
+            "title": "Sharma, Higgins, Geddes take Middlesex home",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536125.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Bangladesh bring Taj Nehar back for women's T20 World Cup 2026",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536081.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'You've got to be doing something different,' Bond says as RR bowlers go off radar",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536073.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Defiant Dubois sheds quitter tag to write new narrative",
-            "link": "https://www.bbc.com/sport/boxing/articles/cx21rlkl5jgo?at_medium=RSS&at_campaign=rss",
+            "title": "Flick to lead Barca v Real despite father's death",
+            "link": "https://www.bbc.com/sport/football/articles/cgepgr2nn7vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Dubois beats Wardley in epic world title fight",
             "link": "https://www.bbc.com/sport/boxing/videos/c78k049mz9zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "England debutants claim maiden wickets against New Zealand",
+            "link": "https://www.bbc.com/sport/cricket/videos/c7v9713z953o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -148,14 +153,14 @@
             "title": "Brighton keep European hopes alive with comfortable win over Wolves",
             "link": "https://www.bbc.com/sport/football/videos/c1w20q19qz8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Chelsea end losing run with draw away at Liverpool",
-            "link": "https://www.bbc.com/sport/football/videos/cn9pvgndjw5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "The hottest place for startups to strike a deal? The F1 paddock",
+            "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
             "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
@@ -179,11 +184,6 @@
         {
             "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
             "link": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Nvidia has already committed $40B to equity AI deals this year",
-            "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
             "source": "TechCrunch"
         },
         {
