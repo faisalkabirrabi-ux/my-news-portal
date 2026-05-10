@@ -1,7 +1,7 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "পুলিশের যৌক্তিক দাবিগুলো পূরণ করা হবে: স্বরাষ্ট্রমন্ত্রী",
+            "title": "হাম উপসর্গে বাংলাদেশে শিশু মৃত্যু চারশো ছাড়াল, গত ২৪ ঘণ্টায় মারা গেছে আরো ১১ শিশু",
             "link": "https://www.bbc.co.uk/bengali/live/cp3pnnw46xpt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -33,6 +33,11 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Iran sends response to US ceasefire proposal via Pakistan",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Football on ruins: Gaza’s orphans find refuge on the pitch",
             "link": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -58,12 +63,7 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Can Asian economies cope with the fallout from the Iran war?",
-            "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "First passengers fly home from virus-hit cruise ship",
+            "title": "Countries airlift nationals evacuated from from virus-hit cruise ship",
             "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,8 +95,23 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "RCB bowl; still no Hardik Pandya for MI",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536151.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "PBKS and DC clash in Dharamsala aiming to avoid another L",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536149.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Overton, Urvil power CSK to fifth spot with third straight win",
             "link": "https://www.espncricinfo.com/ci/content/story/1536158.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Gaikwad: Wasn't easy for new batter on 'tacky' pitch",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536166.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -108,26 +123,6 @@
             "title": "Mehidy: Mirpur Test 'fifty-fifty at the moment'",
             "link": "https://www.espncricinfo.com/ci/content/story/1536150.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Urvil Patel equals record for IPL's fastest fifty",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536138.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "New Zealand collapse to 210 after Green, Kerr fifties",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536101.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Sharma, Higgins, Geddes take Middlesex home",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536125.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Flick to lead Barca v Real despite father's death",
-            "link": "https://www.bbc.com/sport/football/articles/cgepgr2nn7vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         },
         {
             "title": "Dubois beats Wardley in epic world title fight",
@@ -153,9 +148,19 @@
             "title": "Brighton keep European hopes alive with comfortable win over Wolves",
             "link": "https://www.bbc.com/sport/football/videos/c1w20q19qz8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
+        },
+        {
+            "title": "Flick to lead Barca v Real despite father's death",
+            "link": "https://www.bbc.com/sport/football/articles/cgepgr2nn7vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+            "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+            "source": "TechCrunch"
+        },
         {
             "title": "The hottest place for startups to strike a deal? The F1 paddock",
             "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
@@ -179,11 +184,6 @@
         {
             "title": "GM agrees to pay $12.75M in California driver privacy settlement",
             "link": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
-            "link": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
             "source": "TechCrunch"
         },
         {
