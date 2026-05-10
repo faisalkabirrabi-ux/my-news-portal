@@ -1,6 +1,21 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "লেবানন বলছে, ইসরায়েলের হামলায় আরও ৩৯ জন মারা গেছে",
+            "link": "https://www.bbc.com/bengali/articles/cwy26ppx3lyo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'হামে মৃত্যুর সংখ্যা সরকারি হিসাবের চেয়ে অনেক বেশি'",
+            "link": "https://www.bbc.com/bengali/articles/clyp3k3g2jwo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "কিছু প্রতিবেশীর সঙ্গে সংযুক্ত আরব আমিরাতের সম্পর্ক খারাপ হয়েছে কেন?",
+            "link": "https://www.bbc.com/bengali/articles/cewpgevy7x1o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "শুভেন্দু অধিকারী কলকাতার যে ঐতিহাসিক ভবন থেকে সরকার চালাবেন",
             "link": "https://www.bbc.com/bengali/articles/cy82qpll6gzo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -14,24 +29,24 @@
             "title": "'ওকে আগেই নিতে আসলাম; তবে জীবিত না, মৃত- এই আরকি'- বৃষ্টির বাবা",
             "link": "https://www.bbc.com/bengali/articles/cedpyjy9x78o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "দুর্ঘটনায় আলোচিত টেংরাটিলায় আবারও গ্যাস অনুসন্ধানের সিদ্ধান্ত",
-            "link": "https://www.bbc.com/bengali/articles/cy0257jx0ezo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মমতার বিশ্বস্ত সহকর্মী থেকে প্রধান প্রতিদ্বন্দ্বী, যেভাবে পশ্চিমবঙ্গে মুখ্যমন্ত্রী বিজেপি নেতা শুভেন্দু অধিকারী",
-            "link": "https://www.bbc.com/bengali/articles/cvgzppp7vkvo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "গায়ে ছিল একই ট্যাটু, ছিলেন সহকর্মী- তখনো জানতেন না তারা বোন",
-            "link": "https://www.bbc.com/bengali/articles/c98rgyg0dejo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "‘No Kings’ protest outside Buckingham Palace",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/aje-onl-nf_clip-no-kings-protest-090526?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Satellite images show likely oil slick off Iran’s Kharg Island",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "WHO chief says Hantavirus outbreak ‘is not COVID’",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/who-chief-says-hantavirus-outbreak-is-not?traffic_source=rss",
@@ -48,52 +63,47 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "For the first time, Putin says he’s open to meeting Zelensky outside Russia",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/for-the-first-time-putin-says-hes-open-to-meeting-zelensky-outside-russia?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Palestinian family says settlers forced them to exhume father’s body",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Three police officers killed in car bomb attack in northwest Pakistan",
-            "link": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Lebanon says Israeli strikes killed 39",
             "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Putin denounces Nato at scaled-back Victory Day parade",
-            "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
+            "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+            "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Iran accuses US of 'reckless military adventure'",
-            "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "I will serve - not rule over Hungary, says new PM",
-            "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
-            "link": "https://www.bbc.com/news/articles/czr2vjmnlmpo?at_medium=RSS&at_campaign=rss",
+            "title": "Tenerife medics poised for arrival of virus-hit cruise ship",
+            "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "Australia's right-wing One Nation party scores historic parliamentary win",
             "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
+        },
+        {
+            "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
+            "link": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "I will serve - not rule over Hungary, says new PM",
+            "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Rabada leads Purple Cap race, Gill rises on Orange Cap table at IPL 2026",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536062.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Gill, Sai Sudharsan, Rashid power GT to second spot with fourth straight win",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536052.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Stokes falls to Home-town hero as Worcestershire keep Durham in check",
             "link": "https://www.espncricinfo.com/ci/content/story/1536046.html?ex_cid=OTC-RSS",
@@ -112,16 +122,6 @@
         {
             "title": "Rashid: I made 'huge mistake' rushing back from surgery last year",
             "link": "https://www.espncricinfo.com/ci/content/story/1536054.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Gill, Sai Sudharsan, Rashid power GT to second spot with fourth straight win",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536052.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Simon Harmer rescues Essex with the bat as Hampshire fumble",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536035.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+            "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
             "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
             "source": "TechCrunch"
@@ -179,11 +184,6 @@
         {
             "title": "Nvidia has already committed $40B to equity AI deals this year",
             "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-            "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
             "source": "TechCrunch"
         },
         {
