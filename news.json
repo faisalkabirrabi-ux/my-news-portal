@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Barcelona beat Real Madrid 2-0 in El Clasico to retain La Liga title",
+            "link": "https://www.aljazeera.com/sports/2026/5/10/barcelona-beat-real-madrid-2-0-in-el-clasico-to-retain-la-liga-title?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
+            "link": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli weapon fires tiny metal cubes into people in Lebanon, like Gaza",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US Jewish leader, Israel advocate Abe Foxman dies at 86",
+            "link": "https://www.aljazeera.com/news/2026/5/10/us-jewish-leader-israel-advocate-abe-foxman-dies-at-86?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Indian film star Vijay becomes chief minister of Tamil Nadu",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/indian-film-star-vijay-becomes-chief-minister-of-tamil-nadu-2?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "South Korea says ship was struck by ‘unidentified flying objects’ in Hormuz",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/south-korea-says-ship-was-struck-by-unidentified-flying-objects-in-hormuz?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trossard scores late as Arsenal beats West Ham, moves closer to title",
-            "link": "https://www.aljazeera.com/sports/2026/5/10/trossard-scores-late-as-arsenal-beats-west-ham-moves-closer-to-title?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Gaza volunteers plant olive trees at devastated al-Shifa Hospital",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
-            "link": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran may ‘give assurances on the use of nuclear facilities’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,13 +83,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Lebanon says Israeli strikes killed 39",
-            "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+            "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+            "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Israel deports two activists detained on board Gaza flotilla",
-            "link": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
+            "title": "Lebanon says Israeli strikes killed 39",
+            "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -125,8 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Watch: Match of the Day",
+            "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Biggest VAR call ever? Four chaotic minutes that may define the season",
             "link": "https://www.bbc.com/sport/football/articles/c0m2rkwm87po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Arsenal the champions in waiting but doing it the hard way",
+            "link": "https://www.bbc.com/sport/football/articles/c2k2q928zl4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "The reasons West Ham face relegation - and why they are unlucky",
-            "link": "https://www.bbc.com/sport/football/articles/c2l2kv57l9lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Familiar failings but calm Corteen-Coleman provides England optimism",
             "link": "https://www.bbc.com/sport/cricket/articles/cdepdxprnyro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Anderson shows character to go with talent after personal loss",
-            "link": "https://www.bbc.com/sport/football/articles/cddp2rm5e5zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Get ready for the whisper-filled office of the future",
+            "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
             "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
@@ -179,11 +184,6 @@
         {
             "title": "The hottest place for startups to strike a deal? The F1 paddock",
             "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-            "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
             "source": "TechCrunch"
         },
         {
