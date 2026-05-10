@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "১০ মামলায় নারায়ণগঞ্জের সাবেক মেয়র সেলিনা হায়াৎ আইভীর জামিন",
+            "title": "পুলিশের যৌক্তিক দাবিগুলো পূরণ করা হবে: স্বরাষ্ট্রমন্ত্রী",
             "link": "https://www.bbc.co.uk/bengali/live/cp3pnnw46xpt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "হান্টাভাইরাসে আক্রান্ত প্রমোদতরী থেকে যাত্রীদের সরিয়ে নিতে শুরু করেছে স্পেন",
+            "link": "https://www.bbc.com/bengali/articles/c6268g0wv17o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,14 +29,29 @@
             "title": "কিছু প্রতিবেশীর সঙ্গে সংযুক্ত আরব আমিরাতের সম্পর্ক খারাপ হয়েছে কেন?",
             "link": "https://www.bbc.com/bengali/articles/cewpgevy7x1o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শুভেন্দু অধিকারী কলকাতার যে ঐতিহাসিক ভবন থেকে সরকার চালাবেন",
-            "link": "https://www.bbc.com/bengali/articles/cy82qpll6gzo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "How did Gaza’s sea become a wall?",
+            "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/10/how-did-gazas-sea-become-a-wall?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "El Clasico: Kylian Mbappe not in Real Madrid squad to face Barcelona",
+            "link": "https://www.aljazeera.com/sports/2026/5/10/el-clasico-kylian-mbappe-not-in-real-madrid-squad-to-face-barcelona?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Why is Iran taking time to respond to the US proposal to end the war?",
+            "link": "https://www.aljazeera.com/news/2026/5/10/why-is-iran-taking-time-to-respond-to-the-us-proposal-to-end-the-war?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran military warns of ‘surprising’ methods of warfare if attacked again",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-military-warns-of-surprising-methods-of-warfare-if-attacked-again?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Libya’s Zawiya refinery resumes full operations",
             "link": "https://www.aljazeera.com/news/2026/5/10/libyas-zawiya-refinery-resumes-full-operations?traffic_source=rss",
@@ -40,26 +60,6 @@
         {
             "title": "AFC Asian Cup 2027: Japan to face defending champions Qatar in tough draw",
             "link": "https://www.aljazeera.com/sports/2026/5/10/afc-asian-cup-2027-japan-land-defending-champions-qatar-in-tough-draw?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "OKC Thunder bury LA Lakers to take 3-0 NBA Playoff series lead",
-            "link": "https://www.aljazeera.com/sports/2026/5/10/okc-thunder-bury-la-lakers-to-take-3-0-nba-playoff-series-lead?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Syria sees first government reshuffle since al-Assad’s ouster: State media",
-            "link": "https://www.aljazeera.com/news/2026/5/10/syria-sees-first-government-reshuffle-since-al-assads-ouster-state-media?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Rebel fighters kill at least 69 people in northeastern DR Congo",
-            "link": "https://www.aljazeera.com/news/2026/5/10/rebel-fighters-kill-at-least-69-people-in-northeastern-dr-congo?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "JNIM and Tuareg fighters join forces",
-            "link": "https://www.aljazeera.com/video/project-force-2/2026/5/10/jnim-and-tuareg-fighters-join-forces?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,13 +95,18 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "CSK opt to bowl at home, LSG bring in Inglis for Kulkarni",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536098.html?ex_cid=OTC-RSS",
+            "title": "Mehidy five-for hands Bangladesh slim lead after Agha, Rizwan fight back",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536076.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Agha, Rizwan fifties lead Pakistan recovery after middle-order collapse",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536076.html?ex_cid=OTC-RSS",
+            "title": "England bowl, Corteen-Coleman, Grewcock and Gibson debut",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536101.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "CSK opt to bowl at home, LSG bring in Inglis for Kulkarni",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536098.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,23 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Rabada leads Purple Cap race, Gill rises on Orange Cap table at IPL 2026",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536062.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Defiant Dubois sheds quitter tag to write new narrative",
             "link": "https://www.bbc.com/sport/boxing/articles/cx21rlkl5jgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Injured Yates out of Giro after 30-rider crash",
-            "link": "https://www.bbc.com/sport/cycling/articles/c1l2ddr6v5mo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Four-try Packer 'doesn't go away' as England set up Grand Slam decider",
-            "link": "https://www.bbc.com/sport/rugby-union/articles/c2k2vv1yve2o?at_medium=RSS&at_campaign=rss",
+            "title": "Dubois beats Wardley in epic world title fight",
+            "link": "https://www.bbc.com/sport/boxing/videos/c78k049mz9zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -152,6 +147,11 @@
         {
             "title": "Brighton keep European hopes alive with comfortable win over Wolves",
             "link": "https://www.bbc.com/sport/football/videos/c1w20q19qz8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Chelsea end losing run with draw away at Liverpool",
+            "link": "https://www.bbc.com/sport/football/videos/cn9pvgndjw5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,16 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Could Contact-Tracing Apps Help With the Hantavirus? Not Really",
+            "link": "https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/",
+            "source": "Wired"
+        },
+        {
+            "title": "Do City Delivery Drones Make Sense? No One Knows, but They're Flying Over NYC",
+            "link": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
+            "source": "Wired"
+        },
+        {
             "title": "How Handheld Translators Work and Why They’re Handy for Travel",
             "link": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
             "source": "Wired"
@@ -204,16 +214,6 @@
         {
             "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
             "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-            "source": "Wired"
-        },
-        {
-            "title": "The 19 Most Exciting Cars at the Beijing Auto Show 2026",
-            "link": "https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/",
-            "source": "Wired"
-        },
-        {
-            "title": "Instacart Promo Code: $15 Off | May 2026",
-            "link": "https://www.wired.com/story/instacart-promo/code/",
             "source": "Wired"
         }
     ]
