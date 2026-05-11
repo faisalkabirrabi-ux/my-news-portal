@@ -1,8 +1,23 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "যুদ্ধের প্রভাবে মধ্যপ্রাচ্যে জনশক্তি রপ্তানি 'অর্ধেক কমে গেছে', বিকল্প বাজার কতদূর?",
+            "title": "'আমাকে নিয়ে যাদের সন্দেহ আছে, তাদের ভুল প্রমাণিত করবো', এমপিদের উদ্দেশে ব্রিটিশ প্রধানমন্ত্রী স্টারমার",
+            "link": "https://www.bbc.co.uk/bengali/live/cvgzvxxw75xt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "মুখ্যমন্ত্রী হয়েই কেন বাংলাদেশ সীমান্তে কাঁটাতারের বেড়া দিতে চাইছেন শুভেন্দু",
+            "link": "https://www.bbc.com/bengali/articles/c3r2p57q37po?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "'বেতন দিতে না পেরে লোক ছাঁটাই করে দিচ্ছে, এটা নিয়ে আমরাও ভয়ে আছি'",
             "link": "https://www.bbc.com/bengali/articles/cnvp12rv7r8o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "স্বাভাবিক প্রসবের জন্য যেসব প্রস্তুতি  সহায়ক হতে পারে",
+            "link": "https://www.bbc.com/bengali/articles/crlp3n6je8po?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -14,53 +29,43 @@
             "title": "পত্রিকা: 'মব নিয়ন্ত্রণে আইন সংশোধনের চিন্তা'",
             "link": "https://www.bbc.com/bengali/articles/c794e4r4j5go?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মমতা ব্যানার্জীর রাজনৈতিক ভবিষ্যৎ এখন কোন পথে?",
-            "link": "https://www.bbc.com/bengali/articles/cx21rj20yk3o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "হাম উপসর্গে বাংলাদেশে শিশু মৃত্যু চারশো ছাড়াল, গত ২৪ ঘণ্টায় মারা গেছে আরো ১১ শিশু",
-            "link": "https://www.bbc.co.uk/bengali/live/cp3pnnw46xpt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইডেন কলেজে কী হয়েছে, ছাত্র রাজনীতির বন্ধের দাবি সামনে আসছে কেন",
-            "link": "https://www.bbc.com/bengali/articles/c5y0qlpqelzo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Fans celebrate as Barcelona clinches LaLiga title",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/fans-celebrate-as-barcelona-clinches-laliga-title?traffic_source=rss",
+            "title": "Who is Gerhard Schroeder, Putin’s pick for Ukraine peace talks mediation?",
+            "link": "https://www.aljazeera.com/news/2026/5/11/who-is-gerhard-schroeder-putins-pick-for-ukraine-peace-talks-mediation?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "UK’s Keir Starmer faces likely challenge following Labour’s election defeat",
-            "link": "https://www.aljazeera.com/news/2026/5/11/uks-keir-starmer-faces-likely-challenge-following-labours-election-defeat?traffic_source=rss",
+            "title": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
+            "link": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Philippine Congress poised to impeach Vice President Sara Duterte",
-            "link": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss",
+            "title": "Taiwan civilians sharpen self-defence skills ahead of Trump-Xi summit",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/taiwan-civilians-sharpen-self-defence-skills-ahead-of-trump-xi-summit?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Timberwolves win, tie playoff series after Spurs’ Wembanyama ejected",
-            "link": "https://www.aljazeera.com/sports/2026/5/11/timberwolves-win-tie-playoff-series-after-spurs-wembanyama-is-ejected?traffic_source=rss",
+            "title": "Picking up the torch from Shireen Abu Akleh",
+            "link": "https://www.aljazeera.com/features/2026/5/11/picking-up-the-torch-from-shireen-abu-akleh?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Things are not going so well for Russia",
-            "link": "https://www.aljazeera.com/opinions/2026/5/11/things-are-not-going-so-well-for-russia?traffic_source=rss",
+            "title": "Iran says US making ‘unreasonable’ demands in negotiations to end war",
+            "link": "https://www.aljazeera.com/news/2026/5/11/iran-says-us-making-unreasonable-demands-in-negotiations-to-end-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump calls Iran response “totally unacceptable”",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/aje-onl-nf_tv-pkg_trump-rejects-iran-response-110526?traffic_source=rss",
+            "title": "Two more cruise ship passengers test positive for hantavirus",
+            "link": "https://www.aljazeera.com/news/2026/5/11/two-more-cruise-ship-passengers-test-positive-for-hantavirus?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "US and French nationals test positive for hantavirus after leaving ship",
+            "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
@@ -68,8 +73,13 @@
             "source": "BBC World"
         },
         {
-            "title": "US national on repatriation flight tests positive for hantavirus",
-            "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+            "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+            "link": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Philippine VP Sara Duterte impeached for a second time",
+            "link": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -81,19 +91,24 @@
             "title": "French national shows symptoms on return from hantavirus-hit ship",
             "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Ailing Iran Nobel laureate given bail and hospital transfer",
-            "link": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
-            "link": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "CSA postpones SA squad announcement for Women's T20 World Cup",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536285.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "ECB weighs up options for maiden England tour of Nepal",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536280.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Peake called into Australia's ODI squad, big three absent, Maxwell left out of T20s",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536219.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "'Cricketing IQ' the key as Bhuvneshwar continues to make an impact",
             "link": "https://www.espncricinfo.com/ci/content/story/1536242.html?ex_cid=OTC-RSS",
@@ -110,23 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Mominul and Shanto put Bangladesh ahead on fourth morning",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536244.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'A lot of ifs and buts' but Jayawardene accepts MI 'haven't been good enough'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536226.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Bailey downplays CA contract issues but admits there's 'tension in the marketplace'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536229.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Biggest VAR call ever? Four chaotic minutes that may define the season",
             "link": "https://www.bbc.com/sport/football/articles/c0m2rkwm87po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "West Ham set to contact referees' body over disallowed goal",
+            "link": "https://www.bbc.com/sport/football/articles/c5yrxkg6z1eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +140,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "West Ham to contact referees' body over disallowed goal",
-            "link": "https://www.bbc.com/sport/football/articles/c5yrxkg6z1eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "How Flick's reshaped Barca dominated La Liga again",
             "link": "https://www.bbc.com/sport/football/articles/cedp2wjepqno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Celtic eye own fairytale as Hearts' story continues to captivate",
-            "link": "https://www.bbc.com/sport/football/articles/cdxpkqrj4qko?at_medium=RSS&at_campaign=rss",
+            "title": "Ex-goalkeeper Martyn savours England cricket call",
+            "link": "https://www.bbc.com/sport/articles/czd2335v1rmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Wembanyama ejected for elbowing opponent in defeat",
-            "link": "https://www.bbc.com/sport/basketball/articles/cn8p4nwgqzeo?at_medium=RSS&at_campaign=rss",
+            "title": "Premlall just misses Woods' record with 14-shot win",
+            "link": "https://www.bbc.com/sport/golf/articles/cevp43pzkr3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
+            "link": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Get ready for the whisper-filled office of the future",
             "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
@@ -182,9 +187,24 @@
             "source": "TechCrunch"
         },
         {
-            "title": "The hottest place for startups to strike a deal? The F1 paddock",
-            "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
-            "source": "TechCrunch"
+            "title": "A Chevron Texas Power Plant Seeks School District Tax Break",
+            "link": "https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/",
+            "source": "Wired"
+        },
+        {
+            "title": "CUDA Proves Nvidia Is a Software Company",
+            "link": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+            "source": "Wired"
+        },
+        {
+            "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
+            "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+            "source": "Wired"
+        },
+        {
+            "title": "Keyboard Shortcuts I Learned From My Cat",
+            "link": "https://www.wired.com/story/keyboard-shortcuts-i-learned-from-my-cat/",
+            "source": "Wired"
         },
         {
             "title": "Could Contact-Tracing Apps Help With the Hantavirus? Not Really",
@@ -194,26 +214,6 @@
         {
             "title": "Do City Delivery Drones Make Sense? No One Knows, but They're Flying Over NYC",
             "link": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
-            "source": "Wired"
-        },
-        {
-            "title": "How Handheld Translators Work and Why They’re Handy for Travel",
-            "link": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
-            "source": "Wired"
-        },
-        {
-            "title": "‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe",
-            "link": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
-            "link": "https://www.wired.com/gallery/best-captioning-glasses/",
-            "source": "Wired"
-        },
-        {
-            "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-            "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
             "source": "Wired"
         }
     ]
