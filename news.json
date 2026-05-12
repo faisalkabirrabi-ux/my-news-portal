@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ভারত সীমান্তে কাঁটাতার আবার আলোচনায়, উদ্দেশ্য নিয়ে প্রশ্ন বাংলাদেশের দলগুলোর",
+            "link": "https://www.bbc.com/bengali/articles/c794qnglgj8o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ব্রিটেনের মন্ত্রিসভার প্রথম মন্ত্রীর পদত্যাগ, স্টারমারকে দায়িত্ব ছাড়তে সময়সীমা ঘোষণার আহ্বান",
+            "link": "https://www.bbc.co.uk/bengali/live/cp9p071n58lt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ইরানের সঙ্গে যুদ্ধবিরতি 'মারাত্মক সংকটাপন্ন অবস্থায়' আছে- বললেন ট্রাম্প",
             "link": "https://www.bbc.com/bengali/articles/clypxxn990ro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,52 +29,57 @@
             "title": "পত্রিকা: ‌'চার মহাসড়কে চার সমস্যা'",
             "link": "https://www.bbc.com/bengali/articles/c9v3rgrkek4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভারতের কেন্দ্রীয় সংস্থার হাতে আটক তৃণমূল কংগ্রেসের সাবেক দমকলমন্ত্রী",
-            "link": "https://www.bbc.co.uk/bengali/live/cvgzvxxw75xt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বাংলাদেশে গরুর মাংস আমদানির দাবি উঠছে কেন",
-            "link": "https://www.bbc.com/bengali/articles/cy92097qld9o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Palestine weekly wrap: Israeli settlers rampage through West Bank villages",
-            "link": "https://www.aljazeera.com/news/2026/5/12/palestine-weekly-wrap-israeli-settlers-rampage-through-west-bank-villages?traffic_source=rss",
+            "title": "Will Messi play? Argentina answer fan queries in 55-man World Cup squad",
+            "link": "https://www.aljazeera.com/sports/2026/5/12/will-messi-play-argentina-answer-fan-queries-in-55-man-world-cup-squad?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘Potential security risk’: Unpacking the UK’s trust issues with Palantir",
-            "link": "https://www.aljazeera.com/news/2026/5/12/palantir?traffic_source=rss",
+            "title": "Mass wedding brings brief joy to couples in devastated Gaza",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/mass-wedding-brings-brief-joy-to-couples-in-devastated-gaza?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Starving on the front lines: Food supply in crisis as Ukraine fights Russia",
-            "link": "https://www.aljazeera.com/news/2026/5/12/with-drone-dropped-food-on-ukraines-frontline-do-soldiers-starve?traffic_source=rss",
+            "title": "Social media becomes a ‘goldmine’ for fraudsters in Jordan",
+            "link": "https://www.aljazeera.com/economy/2026/5/12/social-media-becomes-a-goldmine-for-fraudsters-in-jordan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why is Israel allowed to take part in the Eurovision song contest?",
-            "link": "https://www.aljazeera.com/news/2026/5/12/why-is-israel-allowed-to-take-part-in-the-eurovision-song-contest?traffic_source=rss",
+            "title": "Israeli military kills six in Lebanon, issues more displacement threats",
+            "link": "https://www.aljazeera.com/news/2026/5/12/israeli-military-kills-six-in-lebanon-issues-more-displacement-threats?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war: What’s happening on day 74 as Tehran says ready for ‘aggression’",
-            "link": "https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression?traffic_source=rss",
+            "title": "LIVE: UK’s Starmer vows to ‘get on with governing’ as MPs urge him to quit",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/5/12/live-first-uk-minister-resigns-amid-calls-for-pm-stamers-resignation?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Malaysia rescues 23 migrants after boat capsizes, 14 still missing",
-            "link": "https://www.aljazeera.com/news/2026/5/12/malaysia-rescues-23-migrants-after-boat-capsizes-14-still-missing?traffic_source=rss",
+            "title": "Zelenskyy says Russia fired over 200 drones at Ukraine as truce expires",
+            "link": "https://www.aljazeera.com/news/2026/5/12/zelenskyy-says-russia-fired-over-200-drones-at-ukraine-as-truce-expires?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
             "title": "Trump says Iran ceasefire is on 'massive life support'",
             "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Texas accuses Netflix of spying on users, including children",
+            "link": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Snack giant switches to black and white packaging as Iran war hits ink supplies",
+            "link": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "No sign of larger hantavirus outbreak, says UN health agency",
+            "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -76,32 +91,22 @@
             "title": "How the Trump-Xi summit could set superpower relations for many years to come",
             "link": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Last passengers leave virus-hit cruise ship as three more test positive",
-            "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Pakistan struck a rehab centre and killed 269 Afghans. Their families want to know why",
-            "link": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Ex-Philippine leader Duterte's drug war enforcer escapes ICC arrest",
-            "link": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Greenberg: 'We should have done a better job' explaining BBL privatisation",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536380.html?ex_cid=OTC-RSS",
+            "title": "Pakistan need 152 more to win, Bangladesh require seven wickets",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536379.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Pakistan need 262 more runs, Bangladesh hunt for nine wickets",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536379.html?ex_cid=OTC-RSS",
+            "title": "Shabnim Ismail reverses retirement and makes South Africa T20 World Cup squad",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536384.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Greenberg: 'We should have done a better job' explaining BBL privatisation",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536380.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Miller, Axar and Ashutosh keep DC's IPL alive",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536360.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Spurs drag out safety battle to keep nerves jangling",
             "link": "https://www.bbc.com/sport/football/articles/clyp8djz4d0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,18 +135,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'One of saves of the season' - Kinsky's redemption moment at Tottenham?",
-            "link": "https://www.bbc.com/sport/football/articles/czx2en0vzvgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Archibald retires from cycling after falling 'in love' with nursing",
             "link": "https://www.bbc.com/sport/cycling/articles/c142eny2lneo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Brilliant' Belloumi turns Jakirovic's displeasure into delight",
-            "link": "https://www.bbc.com/sport/football/articles/cvgz8ppd497o?at_medium=RSS&at_campaign=rss",
+            "title": "Forty years of the EFL play-offs - choose your favourite memories",
+            "link": "https://www.bbc.com/sport/football/articles/c8dlg6veyyzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Southampton ask for more time over spying claims",
+            "link": "https://www.bbc.com/sport/football/articles/cx21kpmdj97o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -156,6 +156,11 @@
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Amazon launches 30-minute delivery across the U.S.",
+            "link": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Thinking Machines wants to build an AI that actually listens while it talks",
             "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
@@ -182,9 +187,14 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Bravo is creating unscripted microdramas for the Peacock app",
-            "link": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
-            "source": "TechCrunch"
+            "title": "Beatbot Pool-Cleaning Robots Are on Sale",
+            "link": "https://www.wired.com/story/beatbot-deals-may-2026/",
+            "source": "Wired"
+        },
+        {
+            "title": "What Happens When You Try to Treat OCD With Psilocybin",
+            "link": "https://www.wired.com/story/book-excerpt-how-to-not-know-simone-stolzoff/",
+            "source": "Wired"
         },
         {
             "title": "Chewy Promo Codes: $20 Off May 2026",
@@ -204,16 +214,6 @@
         {
             "title": "30% Off Canon Promo Codes | May 2026",
             "link": "https://www.wired.com/story/canon-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Paramount+ Coupon Codes and Deals for May 2026",
-            "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Priceline Promo Codes: 10% Off May 2026",
-            "link": "https://www.wired.com/story/priceline-promo-code/",
             "source": "Wired"
         }
     ]
