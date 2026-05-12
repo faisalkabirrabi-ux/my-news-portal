@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Basketball star Brandon Clarke, Memphis Grizzlies forward, dies at age 29",
+            "link": "https://www.aljazeera.com/sports/2026/5/12/basketball-star-brandon-clarke-memphis-grizzlies-forward-dies-at-age-29?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump downplays US-Iran differences as he heads to Beijing to meet with Xi",
+            "link": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US court pauses decision blocking Trump’s 10 percent global tariff",
+            "link": "https://www.aljazeera.com/economy/2026/5/12/us-court-pauses-decision-blocking-trumps-10-percent-global-tariff?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Cannes juror denounces Hollywood boycott of actors for Gaza war views",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham",
             "link": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Why have peace efforts failed to end conflict in Sudan?",
             "link": "https://www.aljazeera.com/video/inside-story/2026/5/12/why-have-peace-efforts-failed-to-end-conflict-in-sudan?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Red Cross says people displaced by conflict in Colombia doubled last year",
-            "link": "https://www.aljazeera.com/news/2026/5/12/red-cross-says-people-displaced-by-conflict-in-colombia-doubled-last-year?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Why is Iran increasingly targeting the UAE in its war messaging?",
-            "link": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Ukraine hits Russia’s distant gas facilities after Moscow’s attacks kill 6",
-            "link": "https://www.aljazeera.com/news/2026/5/12/russia-ukraine-latest?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Moment taxi driver wrestles armed man during police chase in Turkiye",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/moment-taxi-driver-wrestles-armed-man-during-police-chase-in-turkey?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,8 +88,8 @@
             "source": "BBC World"
         },
         {
-            "title": "South Africa's top court bars repeat asylum applications",
-            "link": "https://www.bbc.com/news/articles/cy42yx1kn90o?at_medium=RSS&at_campaign=rss",
+            "title": "Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says",
+            "link": "https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -135,23 +135,23 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Maddison says referees are petrified of making decisions",
+            "link": "https://www.bbc.com/sport/football/articles/c4g4kj53zq0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Mourinho in final negotiations to become Real manager",
             "link": "https://www.bbc.com/sport/football/articles/cglpz8endl9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "White out for season and set to miss World Cup",
-            "link": "https://www.bbc.com/sport/football/articles/c0m28g07m39o?at_medium=RSS&at_campaign=rss",
+            "title": "NBA player Clarke dies aged 29",
+            "link": "https://www.bbc.com/sport/basketball/articles/cn4plpp7z9lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Tuchel submits provisional 55-man England World Cup squad",
-            "link": "https://www.bbc.com/sport/football/articles/c0e2p7l2w0no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'I'm not going anywhere' - furious Real president Perez calls for elections",
-            "link": "https://www.bbc.com/sport/football/articles/cn8p6pgd6e5o?at_medium=RSS&at_campaign=rss",
+            "title": "McInnes and O'Neill keeping cool as Premiership title race catches fire",
+            "link": "https://www.bbc.com/sport/football/articles/czj2k17gy9xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,7 +187,12 @@
             "source": "TechCrunch"
         },
         {
-            "title": "MAHA Is Still Creepily Obsessed With Your Fertility",
+            "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever",
+            "link": "https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/",
+            "source": "Wired"
+        },
+        {
+            "title": "MAHA Keeps Being Weird as Hell About Fertility",
             "link": "https://www.wired.com/story/maha-is-still-creepily-obsessed-with-your-fertility/",
             "source": "Wired"
         },
@@ -209,11 +214,6 @@
         {
             "title": "Googlebook Is Google’s New AI-Powered Laptop Platform Built on Android",
             "link": "https://www.wired.com/story/googlebook-laptop-platform/",
-            "source": "Wired"
-        },
-        {
-            "title": "Trump Media Scales Back Plans for Its Own Prediction Market",
-            "link": "https://www.wired.com/story/trump-media-scales-back-plans-for-its-own-prediction-market/",
             "source": "Wired"
         }
     ]
