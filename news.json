@@ -125,6 +125,21 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Spurs hit self-destruct button again as season agony prolonged",
+            "link": "https://www.bbc.com/sport/football/articles/clyp8djz4d0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "'One of saves of the season' - Kinsky's redemption moment at Tottenham?",
+            "link": "https://www.bbc.com/sport/football/articles/czx2en0vzvgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "'Brilliant' Belloumi turns Jakirovic's displeasure into delight",
+            "link": "https://www.bbc.com/sport/football/articles/cvgz8ppd497o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Five 'fouls' in one move - breaking down Premier League corner chaos",
             "link": "https://www.bbc.com/sport/football/articles/cd9p01l1x5zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -138,24 +153,14 @@
             "title": "What does future hold for Barcelona striker Rashford?",
             "link": "https://www.bbc.com/sport/football/articles/clypn3d2jd8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "The decisions and problems facing England before first Test squad of summer",
-            "link": "https://www.bbc.com/sport/cricket/articles/c2k21jkqp81o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'It breaks my heart' – legend Mead to leave Arsenal",
-            "link": "https://www.bbc.com/sport/football/articles/cm2p62jq70qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "The summer a golden generation lost its shine",
-            "link": "https://www.bbc.co.uk/sport/extra/60s97qhdbf/the-golden-generation?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+            "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
             "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
@@ -182,9 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "NYT’s Wordle to become a TV game show",
-            "link": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
-            "source": "TechCrunch"
+            "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+            "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+            "source": "Wired"
         },
         {
             "title": "Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story",
@@ -209,11 +214,6 @@
         {
             "title": "Update Your iPhone Now for Better Encrypted Messaging With Android",
             "link": "https://www.wired.com/story/update-your-iphone-now-for-better-encrypted-messaging-with-android/",
-            "source": "Wired"
-        },
-        {
-            "title": "Papa Johns Is Getting Into Drone Delivery—but Not for Pizza",
-            "link": "https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/",
             "source": "Wired"
         }
     ]
