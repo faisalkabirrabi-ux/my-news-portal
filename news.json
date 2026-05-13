@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Honduras mayor arrested for masterminding environmentalist’s killing",
+            "link": "https://www.aljazeera.com/news/2026/5/12/honduras-mayor-arrested-for-masterminding-environmentalists-killing?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial",
+            "link": "https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Basketball star Brandon Clarke, Memphis Grizzlies forward, dies at age 29",
             "link": "https://www.aljazeera.com/sports/2026/5/12/basketball-star-brandon-clarke-memphis-grizzlies-forward-dies-at-age-29?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "Cannes juror denounces Hollywood boycott of actors for Gaza war views",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham",
-            "link": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Why have peace efforts failed to end conflict in Sudan?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/5/12/why-have-peace-efforts-failed-to-end-conflict-in-sudan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Molineux fit, Hamilton, Harris named for T20 World Cup, Brown omitted",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536480.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "England eager to put nervy season start behind them",
             "link": "https://www.espncricinfo.com/ci/content/story/1536473.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Shanto on Bangladesh's declaration: 'Important to take brave decisions'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536449.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
             "link": "https://www.bbc.com/sport/football/articles/c2l2erpyd0do?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,8 +135,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Maddison says referees are petrified of making decisions",
-            "link": "https://www.bbc.com/sport/football/articles/c4g4kj53zq0o?at_medium=RSS&at_campaign=rss",
+            "title": "VAR is a flip of a coin, says Guardiola",
+            "link": "https://www.bbc.com/sport/football/articles/cq6pm34ep93o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -157,7 +157,7 @@
     ],
     "প্রযুক্তি": [
         {
-            "title": "Kevin Hartz’s A* just closed its third fund with $450 million",
+            "title": "Kevin Hartz’s A* just closed its third fund with $450M",
             "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
             "source": "TechCrunch"
         },
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
+            "link": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
+            "source": "Wired"
+        },
+        {
             "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever",
             "link": "https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "The Top New Features in Google’s Android 17—and Gemini Intelligence—Coming This Summer",
             "link": "https://www.wired.com/story/android-17-gemini-top-new-features/",
-            "source": "Wired"
-        },
-        {
-            "title": "Googlebook Is Google’s New AI-Powered Laptop Platform Built on Android",
-            "link": "https://www.wired.com/story/googlebook-laptop-platform/",
             "source": "Wired"
         }
     ]
