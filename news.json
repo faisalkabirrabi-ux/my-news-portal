@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Mahmoud Khalil calls for deportation to be halted in light of new evidence",
+            "link": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "What are World Cup 2026 national team base camps and their locations?",
+            "link": "https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
+            "link": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "What did Trump and Xi discuss during the China summit?",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -43,33 +63,18 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ex-Sinaloa security chief in Mexico arrested in US over alleged cartel ties",
-            "link": "https://www.aljazeera.com/news/2026/5/15/ex-sinaloa-security-chief-in-mexico-arrested-in-us-over-alleged-cartel-ties?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump calls journalist’s Iran reporting ‘treasonous’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Pakistan’s Fatima Sana breaks world record for fastest 50 in women’s T20",
-            "link": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Is the US dialling down its support for Taiwan?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/5/15/is-the-us-dialling-down-its-support-for-taiwan?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
             "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+            "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
             "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+            "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,17 +91,17 @@
             "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
             "link": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
-            "link": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
             "title": "Dawkins, Northeast thrive as Stokes suffers through the sickness",
             "link": "https://www.espncricinfo.com/ci/content/story/1536888.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Sanderson stars again but Price proves value to Gloucestershire",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536889.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,44 +125,39 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Rew, Abell, Lammonby give Somerset solid start",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536887.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Middlesbrough want Southampton kicked out of play-offs over Spygate",
-            "link": "https://www.bbc.com/sport/football/articles/cwy2dg2w168o?at_medium=RSS&at_campaign=rss",
+            "title": "Celtic & Hearts set for titanic title duel",
+            "link": "https://www.bbc.com/sport/football/articles/c5y7jp32nv9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Man charged after referee Beaton and family put under police surveillance",
-            "link": "https://www.bbc.com/sport/football/articles/c87qye8yjg2o?at_medium=RSS&at_campaign=rss",
+            "title": "Guardiola insists he has 'one more year' on Man City deal",
+            "link": "https://www.bbc.com/sport/articles/c794vqvll7eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Carrick in talks over two-year Man Utd contract",
-            "link": "https://www.bbc.com/sport/football/articles/cwy29w01qp7o?at_medium=RSS&at_campaign=rss",
+            "title": "Aston Villa secure Champions League spot with win over Liverpool",
+            "link": "https://www.bbc.com/sport/football/videos/cp8pjz415v8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "I'm a passionate lad and I love it at Everton - Pickford",
-            "link": "https://www.bbc.com/sport/football/articles/cgepr05d34qo?at_medium=RSS&at_campaign=rss",
+            "title": "Northampton humiliate Bristol in record-breaking game",
+            "link": "https://www.bbc.com/sport/rugby-union/articles/cwy234p4dewo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Vingegaard claims impressive Giro stage win",
-            "link": "https://www.bbc.com/sport/cycling/articles/cm2pzvw4jp4o?at_medium=RSS&at_campaign=rss",
+            "title": "The impossible job? The pressure of refereeing Scotland's title decider",
+            "link": "https://www.bbc.com/sport/football/articles/c242rq5g14no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Handling nerves & speaking Welsh - Packer on England's Grand Slam bid",
-            "link": "https://www.bbc.com/sport/rugby-union/articles/c4g758e66l5o?at_medium=RSS&at_campaign=rss",
+            "title": "Farke says Leeds must match his ambition",
+            "link": "https://www.bbc.com/sport/football/articles/cz92jk2p0k1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "RJ Scaringe has raised more than $12 billion across three startups and investors still want more",
+            "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
             "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
             "source": "TechCrunch"
         },
