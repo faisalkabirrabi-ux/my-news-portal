@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "'আমার বাচ্চাটা ফিরবো কি না জানি না'- হামে আক্রান্ত দুই সন্তান নিয়ে ভয় বাবার",
+            "link": "https://www.bbc.com/bengali/articles/cjrp5w3d02xo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পারস্য উপসাগরের সাবমেরিন ইন্টারনেট লাইন কি এখন ইরানের নতুন অস্ত্র?",
             "link": "https://www.bbc.com/bengali/articles/c62ez6445l0o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -16,22 +21,22 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "শি'-এর সাথে বৈঠকের পর তাইওয়ানকে স্বাধীনতা ঘোষণা না করতে সতর্কতা ট্রাম্পের",
-            "link": "https://www.bbc.com/bengali/articles/crrpj1x5pk0o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
             "title": "গঙ্গার পানি বণ্টন চুক্তি নিয়ে কী হচ্ছে?",
             "link": "https://www.bbc.com/bengali/articles/cp3pk7rnlg4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "পত্রিকা: 'দেশের আবহাওয়ায় চরম ভাব বাড়বে'",
-            "link": "https://www.bbc.com/bengali/articles/cq5pj7j1d57o?at_medium=RSS&at_campaign=rss",
+            "title": "শি'-এর সাথে বৈঠকের পর তাইওয়ানকে স্বাধীনতা ঘোষণা না করতে সতর্কতা ট্রাম্পের",
+            "link": "https://www.bbc.com/bengali/articles/crrpj1x5pk0o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Tens of thousands march in London in far-right and pro-Palestine protests",
+            "link": "https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Zimbabwe’s diaspora reshapes real estate and farming investment trends",
             "link": "https://www.aljazeera.com/features/2026/5/16/zimbabwes-diaspora-reshapes-real-estate-and-farming-investment-trends?traffic_source=rss",
@@ -58,28 +63,8 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Robert Lewandowski to leave Barcelona with his ‘mission complete’",
-            "link": "https://www.aljazeera.com/sports/2026/5/16/robert-lewandowski-to-leave-barcelona-with-his-mission-complete?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Senior IS leader killed in joint operation, US and Nigeria say",
             "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-            "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
-            "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
-            "link": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -88,12 +73,37 @@
             "source": "BBC World"
         },
         {
-            "title": "US planning to criminally indict ex-Cuban leader Raúl Castro",
+            "title": "US planning to charge ex-Cuban leader Raúl Castro",
             "link": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+            "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+            "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Man killed by 13ft great white shark in Western Australia",
+            "link": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Rain wrecks second day at Southport",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537028.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Unchanged GT bowl at Eden Gardens; Varun  back for KKR",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537016.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Pakistan name Iram Javed in T20 World Cup squad",
             "link": "https://www.espncricinfo.com/ci/content/story/1537012.html?ex_cid=OTC-RSS",
@@ -115,16 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'Exceptional' Kartik Sharma is beginning to live up to his billing",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536980.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Mitchell Marsh zooms to No. 6 on IPL 2026 Orange Cap table",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536961.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Man Utd reach agreement to appoint Carrick manager",
             "link": "https://www.bbc.com/sport/football/articles/c392r8v1jz4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -140,6 +140,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "English takes stunning 800m win at Diamond League event",
+            "link": "https://www.bbc.com/sport/athletics/articles/cy520xlqv30o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Arbeloa would be happy if Mourinho replaces him at Real",
             "link": "https://www.bbc.com/sport/football/articles/ckgpz090189o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -148,14 +153,14 @@
             "title": "The engineer missing his shift at Wembley... to play there instead",
             "link": "https://www.bbc.com/sport/football/articles/czx27d3k3d9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Would FA Cup win paper over the cracks for Chelsea?",
-            "link": "https://www.bbc.com/sport/football/articles/cz72l30wqq4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
+            "link": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
+            "source": "TechCrunch"
+        },
         {
             "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
             "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
@@ -179,11 +184,6 @@
         {
             "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
             "link": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-            "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
             "source": "TechCrunch"
         },
         {
