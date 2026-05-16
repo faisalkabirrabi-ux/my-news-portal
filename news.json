@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "DRC health minister warns ‘very high’ Ebola lethality rate as toll hits 80",
+            "link": "https://www.aljazeera.com/news/2026/5/16/drc-health-minister-warns-very-high-ebola-lethality-rate-as-toll-hits-80?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Thousands march in central London to mark 78th Nakba anniversary",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/thousands-march-in-central-london-to-mark-78th-nakba-anniversary?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Palestinian President Abbas casts vote in decisive Fatah elections",
+            "link": "https://www.aljazeera.com/news/2026/5/16/palestinian-president-abbas-casts-vote-in-decisive-fatah-elections?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "UK ex-health minister says will run to replace Prime Minister Keir Starmer",
             "link": "https://www.aljazeera.com/news/2026/5/16/uk-ex-health-minister-says-will-run-to-replace-prime-minister-keir-starmer?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -45,21 +60,6 @@
         {
             "title": "Sudanese army captures key town near Ethiopian border from RSF",
             "link": "https://www.aljazeera.com/news/2026/5/16/sudanese-army-captures-key-town-near-ethiopian-border-from-rsf?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Man City beat Chelsea in FA Cup final to keep treble dream alive",
-            "link": "https://www.aljazeera.com/sports/2026/5/16/man-city-beat-chelsea-in-fa-cup-final-to-keep-treble-dream-alive?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
-            "link": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Abu-Bilal al-Minuki: ISIL’s shadow commander in West Africa",
-            "link": "https://www.aljazeera.com/news/2026/5/16/abu-bilal-al-minuki-isils-shadow-commander-in-west-africa?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,46 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Taylor and Miles all smiles as Gloucestershire hit back in seesaw contest",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537030.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Sai Sudharsan and Gill make it a GT one-two at the top of IPL 2026 Orange Cap table",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536846.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Brooke Halliday steers New Zealand to series-levelling win in wet",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536995.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Aitchison makes history with century after five-for for Derbyshire",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537031.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Allen, Raghuvanshi and Green thump GT to keep KKR alive",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537076.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Tom Abell, Craig Overton hundreds turn screw for Somerset",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537020.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Alonso reaches agreement in principle to be next Chelsea boss",
+            "link": "https://www.bbc.com/sport/football/articles/clypg8611k4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "From non-league to FA Cup hero - Semenyo caps rise with 'incredible' goal",
+            "link": "https://www.bbc.com/sport/football/articles/cj9pz9rnywzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Resilient Celtic time run perfectly to win race after eight-month chase",
             "link": "https://www.bbc.com/sport/football/articles/c0m24m3nd1vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -105,34 +145,29 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Chelsea closing in on appointing Alonso as next manager",
-            "link": "https://www.bbc.com/sport/football/articles/clypg8611k4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Why summers of change beckon for WSL giants",
             "link": "https://www.bbc.com/sport/football/articles/cg5pe5dp3n8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Celtic gave me reasons to live' - but O'Neill unsure about staying on",
-            "link": "https://www.bbc.com/sport/football/articles/cm2pz2v8j8ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "English takes stunning 800m win at Diamond League event",
-            "link": "https://www.bbc.com/sport/athletics/articles/cy520xlqv30o?at_medium=RSS&at_campaign=rss",
+            "title": "Sportscene: Premiership Highlights",
+            "link": "https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+            "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+            "source": "TechCrunch"
+        },
         {
             "title": "The offline desk gadget that actually got me to sit up straight",
             "link": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
             "source": "TechCrunch"
         },
         {
-            "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
+            "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
             "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
             "source": "TechCrunch"
         },
@@ -149,11 +184,6 @@
         {
             "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
             "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-            "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
             "source": "TechCrunch"
         },
         {
