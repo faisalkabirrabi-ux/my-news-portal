@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "টেন্ডার ছাড়া জরুরি তেল আমদানি চেষ্টার কী হলো?",
+            "link": "https://www.bbc.com/bengali/articles/crrp24g0191o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "শি'-এর সাথে বৈঠকের পর তাইওয়ানকে স্বাধীনতা ঘোষণা না করতে সতর্কতা ট্রাম্পের",
             "link": "https://www.bbc.com/bengali/articles/crrpj1x5pk0o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,14 @@
             "title": "'সিলেবাস শেষ করবো কীভাবে'- এসএসসির সময় এগিয়ে আনায় শিক্ষার্থীদের উদ্বেগ",
             "link": "https://www.bbc.com/bengali/articles/ce8p61g5mm7o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "এনসিপি কি ডানপন্থি রাজনৈতিক দল হয়ে উঠছে?",
-            "link": "https://www.bbc.com/bengali/articles/cjrp1vpddxno?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/outbreak-of-rare-strain-of-ebola-claims-at-least-65-lives-in-dr-congo?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Israel launches deadly air strikes on Gaza City apartment building",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
@@ -55,11 +60,6 @@
         {
             "title": "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Mahmoud Khalil calls for deportation to be halted in light of new evidence",
-            "link": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,33 +95,33 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Mitchell Marsh zooms to No. 6 on IPL 2026 Orange Cap table",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536961.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Rayudu on Kamboj's horror day: 'Like getting a golden duck'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536952.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Hasan Ali stretchered off the field in Sylhet after picking up injury",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536959.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Pakistan lose eight WTC points for slow over-rate in first Test against Bangladesh",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536949.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "CPL 2026: defending champions TKR hold on to Pollard, Pooran, Narine and Hosein",
             "link": "https://www.espncricinfo.com/ci/content/story/1536939.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Marsh onslaught, Akash three-for dent CSK's playoffs chances",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536922.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "What's gone wrong for PBKS? 'We haven't been able to handle the pressure,' says Haddin",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536835.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Dawkins, Northeast thrive as Stokes suffers through the sickness",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536888.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Sanderson stars again but Price proves value to Gloucestershire",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536889.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Why didn't Pant come out to bat in LSG's chase?",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536924.html?ex_cid=OTC-RSS",
+            "title": "Babar returns, Tanzid handed debut as Pakistan ask Bangladesh to bat in overcast Sylhet",
+            "link": "https://www.espncricinfo.com/ci/content/story/1536945.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -140,18 +140,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Guardiola insists he has 'one more year' on Man City deal",
-            "link": "https://www.bbc.com/sport/articles/c794vqvll7eo?at_medium=RSS&at_campaign=rss",
+            "title": "Would FA Cup win paper over the cracks for Chelsea?",
+            "link": "https://www.bbc.com/sport/football/articles/cz72l30wqq4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Aston Villa secure Champions League spot with win over Liverpool",
-            "link": "https://www.bbc.com/sport/football/videos/cp8pjz415v8o?at_medium=RSS&at_campaign=rss",
+            "title": "How Doku became key player for treble-chasing Man City",
+            "link": "https://www.bbc.com/sport/football/articles/cp9p4p98mv3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "In better form than Kane - why Watkins is no longer being 'written off'",
-            "link": "https://www.bbc.com/sport/football/articles/cq5pjqn4v0go?at_medium=RSS&at_campaign=rss",
+            "title": "Northampton humiliate Bristol 94-33 in record-breaking game",
+            "link": "https://www.bbc.com/sport/rugby-union/articles/cwy234p4dewo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "The Best Outdoor Deals From the REI Anniversary Sale 2026",
-            "link": "https://www.wired.com/story/rei-anniversary-sale-2026/",
+            "title": "Sportsman's Warehouse Promo Code: Save in May 2026",
+            "link": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
-            "link": "https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/",
+            "title": "Surfshark Promo Codes: 87% Off | May 2026",
+            "link": "https://www.wired.com/story/surfshark-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Spencer Pratt Is Creating Panic Over ‘Super Meth.’ It’s Not Even Real",
-            "link": "https://www.wired.com/story/spencer-pratt-is-creating-panic-over-super-meth-the-drug-trope-that-wont-die/",
+            "title": "Best Buy Discount Codes: Up to 60% Off",
+            "link": "https://www.wired.com/story/best-buy-discount-code/",
             "source": "Wired"
         },
         {
-            "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
-            "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+            "title": "50% Off DoorDash Promo Code | May 2026",
+            "link": "https://www.wired.com/story/doordash-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "The Chinese App That Puts Instagram to Shame",
-            "link": "https://www.wired.com/story/rednote-beats-instagram-tourism-infrastructure-china/",
+            "title": "20% Off Brooks Promo Code | May 2026",
+            "link": "https://www.wired.com/story/brooks-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Companies Keep Slashing Employees’ Benefits for the Worst Reasons",
-            "link": "https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/",
+            "title": "B&H Photo Promo Codes and Deals This May",
+            "link": "https://www.wired.com/story/bh-photo-coupon/",
             "source": "Wired"
         }
     ]
