@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "লন্ডনে পরস্পরবিরোধী দুই মিছিলে হাজার হাজার মানুষ",
+            "link": "https://www.bbc.com/bengali/articles/cp8p5k1gpyko?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'এপ্রিলে ট্রেজারি বিলের মাধ্যমে ৪৬ হাজার কোটি টাকা নিয়েছে সরকার'",
             "link": "https://www.bbc.com/bengali/articles/c0q2p17j450o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,24 @@
             "title": "পারস্য উপসাগরের সাবমেরিন ইন্টারনেট লাইন কি এখন ইরানের নতুন অস্ত্র?",
             "link": "https://www.bbc.com/bengali/articles/c62ez6445l0o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "টেন্ডার ছাড়া জরুরি তেল আমদানি চেষ্টার কী হলো?",
-            "link": "https://www.bbc.com/bengali/articles/crrp24g0191o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "‘Timmy’ the rescued humpback whale confirmed dead",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/timmy-the-rescued-humpback-whale-confirmed-dead?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Ronda Rousey vs Gina Carano fight: Rousey wins with a 17-second submission",
+            "link": "https://www.aljazeera.com/sports/2026/5/17/ronda-rousey-vs-gina-carano-fight-rousey-wins-with-a-17-second-submission?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Algeria’s USM Alger beat Egypt’s Zamalek to win CAF Cup",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/algerias-usm-alger-beat-egypts-zamalek-to-win-caf-cup?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Activists troll far-right UK rally with giant pro-immigration clip",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-led-by-donkeys-hijack-far-right-rally-160526?traffic_source=rss",
@@ -48,19 +63,9 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Bolivia launches early-morning crackdown on roadblocks outside La Paz",
-            "link": "https://www.aljazeera.com/gallery/2026/5/16/bolivia-launches-early-morning-crackdown-on-roadblocks-outside-la-paz?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "German police assault protesters at Nakba anniversary rally",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/german-police-assault-protesters-at-nakba-anniversary-rally?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+            "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Hezbollah drone strike videos show evolving tactics against Israel",
@@ -86,14 +91,24 @@
             "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
             "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Whale found dead near Danish island after German rescue operation",
-            "link": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "'It is simple math' for GT but the 'upper ceiling' complicates matters",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537111.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Babar scraps after Taskin and Mehidy leave Pakistan in deep trouble",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537115.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "'I was probably a shell of a human for a bit' - being dropped helped, says Allen",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537106.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Rayudu calls Narine the 'best IPL player of all time' after latest heroics",
             "link": "https://www.espncricinfo.com/ci/content/story/1537103.html?ex_cid=OTC-RSS",
@@ -110,33 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Glamorgan seamers prosper on damp day in Birmingham",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537021.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Brooke Halliday steers New Zealand to series-levelling win in wet",
-            "link": "https://www.espncricinfo.com/ci/content/story/1536995.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Taylor and Miles all smiles as Gloucestershire hit back in seesaw contest",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537030.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "No trophy in turbulent season but Alonso arrival offers Chelsea hope",
             "link": "https://www.bbc.com/sport/football/articles/clyp17plzx9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "McGregor to fight Holloway in UFC return in July",
-            "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cdjpl9d28elo?at_medium=RSS&at_campaign=rss",
+            "title": "Smalley leads as McIlroy, Rahm, Rose & Rai impress on 'moving day'",
+            "link": "https://www.bbc.com/sport/golf/articles/ckgp40573reo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Smalley leads as McIlroy, Rahm, Rose and Rai impress on US PGA 'moving day'",
-            "link": "https://www.bbc.com/sport/golf/articles/ckgp40573reo?at_medium=RSS&at_campaign=rss",
+            "title": "Rousey seals perfect ending with 15-second comeback win",
+            "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cy82v395l7lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Casemiro's fond farewell - how Brazilian turned Man Utd career around",
+            "link": "https://www.bbc.com/sport/football/articles/cy42r3vjjejo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -147,11 +152,6 @@
         {
             "title": "'Come get us' - England ready for Six Nations decider",
             "link": "https://www.bbc.com/sport/rugby-union/articles/cze2we6d88wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Man City beat Chelsea after brilliant Semenyo goal",
-            "link": "https://www.bbc.com/sport/football/videos/c142gj2m6l3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
