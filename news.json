@@ -1,7 +1,7 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "তাপপ্রবাহ ও বৃষ্টিপাত নিয়ে পাঁচদিনের পূর্বাভাস দিয়েছে আবহাওয়া অধিদপ্তর",
+            "title": "১১৬টি জুয়ার সাইট বন্ধে বিটিআরসিতে তালিকা দিলো সিআইডি",
             "link": "https://www.bbc.co.uk/bengali/live/cnvpe7ejn8et?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "What to know about Panama at the FIFA World Cup 2026",
+            "link": "https://www.aljazeera.com/sports/2026/5/17/what-to-know-about-panama-at-the-fifa-world-cup-2026?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "What to know about Georgia’s primary as Republicans set sights on Senate",
+            "link": "https://www.aljazeera.com/news/2026/5/17/what-to-know-about-georgias-primary-as-republicans-set-sights-on-senate?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Is Christian Zionism in the US on a decline?",
+            "link": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Fabio Di Giannantonio wins shortened Catalan MotoGP after Marquez crash",
             "link": "https://www.aljazeera.com/sports/2026/5/17/fabio-di-giannantonio-wins-shortened-catalan-motogp-after-marquez-crash?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -45,21 +60,6 @@
         {
             "title": "Son of Palestinian President Mahmoud Abbas elected to top Fatah body",
             "link": "https://www.aljazeera.com/news/2026/5/17/son-of-palestinian-president-mahmoud-abbas-elected-to-top-fatah-body?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?",
-            "link": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "New wave of Israeli strikes pound Lebanon despite ceasefire",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Pro-Palestine protest held at oldest colonial building in South Africa",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pro-palestine-protest-held-at-oldest-colonial-building-in-south-africa?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,6 +78,11 @@
             "source": "BBC World"
         },
         {
+            "title": "UAE reports drone strike near Abu Dhabi nuclear power plant",
+            "link": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Man drives car into pedestrians in Italy, injuring eight",
             "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -86,22 +91,22 @@
             "title": "Hezbollah drone strike videos show evolving tactics against Israel",
             "link": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Taiwan insists it is independent after Trump warning",
-            "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Venkatesh, Rasikh take RCB into IPL 2026 playoffs",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537181.html?ex_cid=OTC-RSS",
+            "title": "Venkatesh Iyer: 'I'd lie if I say I was not frustrated'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537187.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "Spencer Johnson: I feel like I'm going to get better and faster",
             "link": "https://www.espncricinfo.com/ci/content/story/1537184.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Venkatesh, Rasikh take RCB into IPL 2026 playoffs",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537181.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,9 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'It is simple math' for GT but the 'upper ceiling' complicates matters",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537111.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Is Fernandes most creative Premier League player ever?",
+            "link": "https://www.bbc.com/sport/football/articles/c78rlgvl9lno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "'We share same ambition' - Alonso named Chelsea's third boss in year",
@@ -130,8 +135,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Italy condemn Wales to another Six Nations Wooden Spoon",
-            "link": "https://www.bbc.com/sport/rugby-union/articles/cvgzwez8n2eo?at_medium=RSS&at_campaign=rss",
+            "title": "Riders hospitalised after high-speed MotoGP crashes",
+            "link": "https://www.bbc.com/sport/motorsport/articles/cdxprwyq1x7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Another handball 'mess' - is it time to change law?",
+            "link": "https://www.bbc.com/sport/football/articles/cjwp9yvgvleo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "McIlroy, Rose & Rahm in mix as US PGA set for thrilling finale",
-            "link": "https://www.bbc.com/sport/golf/articles/ckgp40573reo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Rousey seals perfect ending with 15-second comeback win",
-            "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cy82v395l7lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Two police officers 'seriously injured' and 14 arrests during Celtic disorder",
-            "link": "https://www.bbc.com/news/articles/c0e2xxz5rl9o?at_medium=RSS&at_campaign=rss",
+            "title": "Verstappen victory hopes ended by mechanical problem",
+            "link": "https://www.bbc.com/sport/motorsport/articles/czx2kpy5kw8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
+            "link": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+            "source": "TechCrunch"
+        },
         {
             "title": "The haves and have nots of the AI gold rush",
             "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
@@ -179,11 +184,6 @@
         {
             "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
             "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
-            "link": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
             "source": "TechCrunch"
         },
         {
