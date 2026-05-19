@@ -1,6 +1,21 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "যুক্তরাষ্ট্রে মসজিদে তিনজনকে হত্যার পর  সন্দেহভাজন দুই কিশোরের আত্মহত্যা",
+            "link": "https://www.bbc.com/bengali/articles/cd6pxnj9plyo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "সর্বজনীন পেনশন কার্যক্রমের এখন কী অবস্থা?",
+            "link": "https://www.bbc.com/bengali/articles/czr26306nx4o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'সরকারি কর্মীদের জন্য নতুন আইন হচ্ছে'",
+            "link": "https://www.bbc.com/bengali/articles/cx21pqxn849o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "জিলহজ মাসের চাঁদ দেখা গেছে, বাংলাদেশে ঈদুল আযহা ২৮শে মে",
             "link": "https://www.bbc.co.uk/bengali/live/c0r2prexykqt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -14,52 +29,37 @@
             "title": "ভারতের 'সংখ্যালঘুদের অবস্থা' নিয়ে ডাচ প্রধানমন্ত্রীর বক্তব্য ঘিরে  বিতর্ক",
             "link": "https://www.bbc.com/bengali/articles/ckgp9zk36rdo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "সামাজিক মাধ্যমে পোস্টের কারণে আরবের যেসব দেশে জেল বা নির্বাসন হতে পারে",
-            "link": "https://www.bbc.com/bengali/articles/c8jvmjw7zxgo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "কঙ্গোর  ইবোলা নিয়ে বৈশ্বিক জরুরি স্বাস্থ্য সতর্কতা ঘোষণা বিশ্ব স্বাস্থ্য সংস্থার",
-            "link": "https://www.bbc.com/bengali/articles/cwy25zx93yyo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'সাবেক চার ব্যাংক এমডি জেলে, আতঙ্কে অনেকেই'",
-            "link": "https://www.bbc.com/bengali/articles/cvgzv94jeq2o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "US suspends joint defence effort with Canada dating back to World War II",
-            "link": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
+            "title": "How Philadelphia’s Democratic primary tests the bounds of US progressivism",
+            "link": "https://www.aljazeera.com/news/2026/5/19/how-philadelphias-democratic-primary-tests-the-bounds-of-us-progressivism?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "A packed race for governor: What to know about Oregon’s primary elections",
-            "link": "https://www.aljazeera.com/news/2026/5/18/a-packed-race-for-governor-what-to-know-about-oregons-primary-elections?traffic_source=rss",
+            "title": "Trump’s repeated ultimatums betray his lack of leverage over Iran",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Brazil call up Neymar to World Cup 2026 squad",
-            "link": "https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss",
+            "title": "WHO responding to ‘complex, difficult’ Ebola outbreak in DR Congo",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/aje-onl-nf_clip-who-responds-to-ebola-outbreak-in-drc-180526?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "A redistricting re-do? What to know about Alabama’s primary elections",
-            "link": "https://www.aljazeera.com/news/2026/5/18/a-redistricting-re-do-what-to-know-about-alabamas-primary-elections?traffic_source=rss",
+            "title": "Russia-China ties ‘stabilising’ force in world, Putin says before Xi talks",
+            "link": "https://www.aljazeera.com/news/2026/5/19/russia-china-ties-stabilising-force-in-world-putin-says-before-xi-talks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Is the US trying to force regime change in Cuba?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/is-the-us-trying-to-force-regime-change-in-cuba?traffic_source=rss",
+            "title": "Two teen gunmen kill three at San Diego mosque in suspected hate crime",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/two-teen-gunmen-kill-three-at-san-diego-mosque-in-suspected-hate-crime?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Guardiola on verge of Manchester City exit at end of Premier League season",
-            "link": "https://www.aljazeera.com/sports/2026/5/18/guardiola-on-verge-of-manchester-city-exit-at-end-of-premier-league-season?traffic_source=rss",
+            "title": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,7 +68,12 @@
             "source": "BBC World"
         },
         {
-            "title": "At least 100 dead in Ebola outbreak in DR Congo, official says",
+            "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
+            "link": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "At least 118 dead in Ebola outbreak in DR Congo, official says",
             "link": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -83,17 +88,32 @@
             "source": "BBC World"
         },
         {
-            "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-            "link": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Trump administration unveils $1.7bn fund to compensate his allies as he drops tax lawsuit",
-            "link": "https://www.bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss",
+            "title": "Tasmanian government apologises over stolen body parts scandal",
+            "link": "https://www.bbc.com/news/articles/c0q25lneg9vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Former Australia and Queensland wicketkeeper John Maclean dies aged 80",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537268.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Klaasen back at No. 1 in IPL 2026 Orange Cap race; Abhishek and Kishan rise too",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537393.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Aaron Hardie named new Western Australia Sheffield Shield captain",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537391.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "'It's going to take a little bit of time' - Fleming on transition from Dhoni to Gaikwad",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537385.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "BBL on track to host season opener in Chennai in December",
             "link": "https://www.espncricinfo.com/ci/content/story/1537384.html?ex_cid=OTC-RSS",
@@ -102,26 +122,6 @@
         {
             "title": "Cummins, Kishan, Klaasen power SRH into playoffs; CSK not out yet",
             "link": "https://www.espncricinfo.com/ci/content/story/1537374.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Kishan: 'I just had to play till the last over' on a wicket that 'was not at all easy'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537379.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "RR need urgent revival against resurgent LSG",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537321.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Brett D'Oliveira-Matthew Waite stand delivers draw at Lancashire",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537371.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Raine, Parkinson rescue Durham on dicey final day",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537324.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "These 11 Automatic Cat Feeders Were the Best We Tested in 2026",
-            "link": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
+            "title": "Limited Time: TurboTax Full Service Coupons This May",
+            "link": "https://www.wired.com/story/turbotax-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-            "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+            "title": "Booking.com Promo Codes: 20% Off | May 2026",
+            "link": "https://www.wired.com/story/booking-com-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Leica Cine Play 1 Review: Pricey but Worth Every Penny",
-            "link": "https://www.wired.com/review/review-leica-cine-play-1/",
+            "title": "Lenovo Coupon Codes and Deals in May 2026",
+            "link": "https://www.wired.com/story/lenovo-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable",
-            "link": "https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/",
+            "title": "50% Off Home Depot Promo Codes | May 2026",
+            "link": "https://www.wired.com/story/home-depot-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "How to Watch Google I/O 2026",
-            "link": "https://www.wired.com/story/how-to-watch-google-io/",
+            "title": "Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026",
+            "link": "https://www.wired.com/story/tempo-meals-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "The Backward Logic of Chickenpox Parties",
-            "link": "https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/",
+            "title": "HBO Max Promo Code: 50% Off | May",
+            "link": "https://www.wired.com/story/max-promo-code/",
             "source": "Wired"
         }
     ]
