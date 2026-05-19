@@ -1,7 +1,7 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "২৪ ঘণ্টায় হাম ও হামের উপসর্গ নিয়ে আরো ১১ শিশুর মৃত্যু",
+            "title": "বাংলাদেশে হামে শিশু মৃত্যুর ঘটনায় হাইকোর্টের রুল জারি",
             "link": "https://www.bbc.co.uk/bengali/live/cjwpy1qg070t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -33,38 +33,48 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Pakistan sentences man to death for killing TikTok star Sana Yousaf",
-            "link": "https://www.aljazeera.com/news/2026/5/19/death-sentence-handed-to-man-for-killing-tiktok-star-sana-yousaf?traffic_source=rss",
+            "title": "Trump backs Ken Paxton in crucial Texas Republican Senate run-off",
+            "link": "https://www.aljazeera.com/news/2026/5/19/trump-backs-ken-paxton-in-crucial-texas-republican-senate-run-off?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Security guards face probe after last week’s Philippine Senate shooting",
-            "link": "https://www.aljazeera.com/news/2026/5/19/security-guards-face-probe-after-last-weeks-philippine-senate-shooting?traffic_source=rss",
+            "title": "Somaliland to open embassy in Jerusalem, Israel in Hargeisa: Envoy",
+            "link": "https://www.aljazeera.com/news/2026/5/19/somaliland-israel-announce-mutual-embassies-in-jerusalem-and-hargeisa?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Qatar says US-Iran negotiations need ‘more time’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/qatar-says-us-iran-negotiations-need-more?traffic_source=rss",
+            "title": "Putin arrives in China for talks with Chinese leader Xi Jinping",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/putin-arrives-in-china-for-talks-with-chinese-leader-xi-jinping?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "At least one killed, 21 wounded in car bomb explosion in Syria’s Damascus",
-            "link": "https://www.aljazeera.com/news/2026/5/19/at-least-one-killed-21-wounded-in-car-bomb-explosion-in-syrias-damascus?traffic_source=rss",
+            "title": "US imposes sanctions on Gaza flotilla organisers amid Israeli crackdown",
+            "link": "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "LIVE: Bournemouth vs Man City – Premier League",
-            "link": "https://www.aljazeera.com/sports/liveblog/2026/5/19/live-bournemouth-vs-manchester-city-premier-league?traffic_source=rss",
+            "title": "Israel’s far-right Finance Minister Smotrich says ICC seeking his arrest",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israels-far-right-finance-minister-smotrich-says-icc-seeking-his-arrest?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Neymar is going to the World Cup: Why did Brazil name him in the squad?",
-            "link": "https://www.aljazeera.com/sports/2026/5/19/fifa-world-cup-2026-all-to-know-about-neymar-surprise-brazil-selection-ancelotti?traffic_source=rss",
+            "title": "Tributes pour in for ‘hero’ guard killed in San Diego mosque shooting",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/tributes-pour-in-for-hero-guard-killed-in-san-diego-mosque-shooting?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
+            "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
             "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Key people smuggler arrested after BBC uncovered identity",
+            "link": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -81,37 +91,32 @@
             "title": "Son of Mango boss arrested over father's fatal fall from cliff",
             "link": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
-            "link": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Two bodies of missing Italians recovered from inside Maldives cave",
-            "link": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Bumrah rested for Afghanistan Test; Rahul replaces Pant as vice-captain",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537483.html?ex_cid=OTC-RSS",
+            "title": "'We are a f**king good team' - Rishabh Pant",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537549.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Parag out; Jaiswal-led RR opt to bowl vs LSG",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537512.html?ex_cid=OTC-RSS",
+            "title": "Sooryavanshi's stunning 93 takes RR closer to IPL playoffs",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537548.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Batting coach Asad Shafiq hopeful of improbable Pakistan victory",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537509.html?ex_cid=OTC-RSS",
+            "title": "Vaibhav Sooryavanshi at No. 1 in Orange Cap race",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537546.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "England captain Nat Sciver-Brunt out of New Zealand, India T20Is",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537495.html?ex_cid=OTC-RSS",
+            "title": "All-out attack for Tahuhu as retirement fades into background",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537544.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Rapidly evolving Kishan 'an amazing asset to have' for SRH",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537402.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,9 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Rizwan and Agha resist but Bangladesh on course for 2-0 sweep",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537462.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Southampton expelled from play-offs for spying",
+            "link": "https://www.bbc.com/sport/football/articles/cwy2pnpqjl7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Two-time winner Alcaraz out of Wimbledon with injury",
@@ -135,8 +140,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Could history be rewritten? Guardiola, Man City and the 115 charges",
-            "link": "https://www.bbc.com/sport/football/articles/cn7pkjjdy30o?at_medium=RSS&at_campaign=rss",
+            "title": "Guardiola is Ferguson of his generation - Rooney",
+            "link": "https://www.bbc.com/sport/football/articles/cjwpy8x0z7wo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,75 +150,70 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Man City set to replace Guardiola with Maresca",
-            "link": "https://www.bbc.com/sport/football/articles/cd0pkk1xy23o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'I broke the curse' - the fall and rise of a teenage Grand Slam champion",
-            "link": "https://www.bbc.com/sport/tennis/articles/c3e24xw8p2no?at_medium=RSS&at_campaign=rss",
+            "title": "Women's coach given lifetime ban for secret filming",
+            "link": "https://www.bbc.com/sport/football/articles/cm2p1pl13j0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-            "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+            "title": "Google’s Genie world model can now simulate real streets with Street View",
+            "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
             "source": "TechCrunch"
         },
         {
-            "title": "The minimalist Light Phone teams up with Andrew Yang’s Noble Mobile, which pays you to stop doomscrolling",
-            "link": "https://techcrunch.com/2026/05/19/the-minimalist-light-phone-teams-up-with-andrew-yangs-noble-mobile-which-pays-you-to-stop-doomscrolling/",
+            "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+            "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
             "source": "TechCrunch"
         },
         {
-            "title": "Hackers have compromised dozens of popular open source packages in an ongoing supply chain attack",
-            "link": "https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack/",
+            "title": "How to use Google’s new information agents",
+            "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
             "source": "TechCrunch"
         },
         {
-            "title": "US cyber agency CISA exposed reams of passwords and cloud keys to the open web",
-            "link": "https://techcrunch.com/2026/05/19/us-cyber-agency-cisa-exposed-reams-of-passwords-and-cloud-keys-to-the-open-web/",
+            "title": "Google Search as you know it is over",
+            "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
             "source": "TechCrunch"
         },
         {
-            "title": "Apple announces Apple Intelligence powered accessibility feature updates",
-            "link": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
+            "title": "Google’s AI now lets you talk to your Gmail inbox",
+            "link": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
             "source": "TechCrunch"
         },
         {
-            "title": "‘Survivor’ stars Kyle Fraser and Kamilla Karthigesu introduce  a goal-tracking app, Paprclip",
-            "link": "https://techcrunch.com/2026/05/19/survivor-stars-kyle-fraser-and-kamilla-karthigesu-introduce-a-goal-tracking-app-paprclip/",
+            "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+            "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
             "source": "TechCrunch"
         },
         {
-            "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
-            "link": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+            "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
+            "link": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
             "source": "Wired"
         },
         {
-            "title": "The Zuckerbergs Are Hiring a Lifeguard but Calling It a ‘Beach Water Person’",
-            "link": "https://www.wired.com/story/mark-zuckerberg-priscilla-chan-lifeguard-beach-water-person/",
+            "title": "Google Makes It Easy to Deepfake Yourself",
+            "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
             "source": "Wired"
         },
         {
-            "title": "The Best Action Cameras for All Your Craziest Adventures (2026)",
-            "link": "https://www.wired.com/gallery/best-action-cameras/",
+            "title": "Hands-On With All of Google’s New Upcoming Android XR Smart Glasses",
+            "link": "https://www.wired.com/story/hands-on-with-all-of-google-new-upcoming-android-xr-smart-glasses/",
             "source": "Wired"
         },
         {
-            "title": "The Herman Miller Coyl Standing Desk Is Built Just for Gamers",
-            "link": "https://www.wired.com/story/exclusive-herman-miller-coyl-standing-desk-for-gamers/",
+            "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+            "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
             "source": "Wired"
         },
         {
-            "title": "The US Built a Site to Ensure Fair Access to Public Lands. Then Everything Went Wrong",
-            "link": "https://www.wired.com/story/the-us-built-a-site-to-ensure-fair-access-to-public-lands-then-everything-went-wrong/",
+            "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
+            "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
             "source": "Wired"
         },
         {
-            "title": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave",
-            "link": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/",
+            "title": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent",
+            "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/",
             "source": "Wired"
         }
     ]
