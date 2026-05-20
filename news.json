@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "'রাষ্ট্রপতি আমাকে ফোন করে বললেন, ঢাকায় যেন কোন সৈন্য ঢুকতে না পারে'",
+            "link": "https://www.bbc.com/bengali/articles/c152700870wo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'ঈদযাত্রায় ভোগাবে যানজট!'",
+            "link": "https://www.bbc.com/bengali/articles/c87ql7zzgw2o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশে হামে শিশু মৃত্যুর ঘটনায় হাইকোর্টের রুল জারি",
             "link": "https://www.bbc.co.uk/bengali/live/cjwpy1qg070t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "চীন ও রাশিয়ার এত কাছে আসার পেছনে কারণ কী?",
             "link": "https://www.bbc.com/bengali/articles/ckgpmke31g5o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইরান কি বিশ্বকাপে খেলবে, কী করতে চাইছে ফিফা ও যুক্তরাষ্ট্র?",
-            "link": "https://www.bbc.com/bengali/articles/c2028vr245go?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "যুক্তরাষ্ট্রে মসজিদে তিনজনকে হত্যার পর  সন্দেহভাজন দুই কিশোরের আত্মহত্যা",
-            "link": "https://www.bbc.com/bengali/articles/cd6pxnj9plyo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "US to let DR Congo football team in for World Cup despite Ebola restrictions",
-            "link": "https://www.aljazeera.com/sports/2026/5/19/us-to-let-dr-congo-team-in-for-world-cup-despite-ebola-restrictions?traffic_source=rss",
+            "title": "Republican Thomas Massie who stood up to Trump defeated in Kentucky primary",
+            "link": "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US authorities say missionary who contracted Ebola en route to Germany",
-            "link": "https://www.aljazeera.com/news/2026/5/19/us-authorities-say-missionary-who-contracted-ebola-en-route-to-germany?traffic_source=rss",
+            "title": "Bodies of Italian divers recovered from cave in Maldives",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/bodies-of-italian-divers-recovered-from-cave-in-maldives?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Thousands of protesters demand president’s resignation in Bolivia’s La Paz",
-            "link": "https://www.aljazeera.com/gallery/2026/5/19/thousands-of-protesters-demand-presidents-resignation-in-bolivias-la-paz?traffic_source=rss",
+            "title": "Nigeria says joint US strikes kill 175 ISIL fighters in country’s northeast",
+            "link": "https://www.aljazeera.com/news/2026/5/20/nigeria-says-joint-us-strikes-kill-175-isil-fighters-in-countrys-northeast?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "NAACP urges athletes to boycott southern US universities over voting rights",
-            "link": "https://www.aljazeera.com/news/2026/5/19/naacp-urges-athletes-to-boycott-southern-us-universities-over-voting-rights?traffic_source=rss",
+            "title": "US President Trump, family granted immunity from pending tax audits",
+            "link": "https://www.aljazeera.com/news/2026/5/20/us-president-trump-and-family-given-immunity-from-pending-tax-audits?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Video shows oil spill on Iranian island after refinery attack last month",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month?traffic_source=rss",
+            "title": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Arsenal’s Arteta claims Premier League to step from Guardiola’s shadow",
-            "link": "https://www.aljazeera.com/sports/2026/5/19/arsenals-arteta-claims-premier-league-to-step-from-guardiolas-shadow?traffic_source=rss",
+            "title": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
+            "link": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,13 +95,23 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Sooryavanshi's stunning 93 takes RR closer to IPL playoffs",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537548.html?ex_cid=OTC-RSS",
+            "title": "Rayudu: Jurel has 'extraordinary potential'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537566.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'We are a f**king good team' - Rishabh Pant",
+            "title": "Langer left in awe of Sooryavanshi's 'breathtaking' batting",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537561.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Rishabh Pant: 'We are a f***ing good team'",
             "link": "https://www.espncricinfo.com/ci/content/story/1537549.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Sooryavanshi's stunning 93 takes RR closer to IPL playoffs",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537548.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,16 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Rapidly evolving Kishan 'an amazing asset to have' for SRH",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537402.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "KKR meet their bogey team, Hardik and Suryakumar set to return",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537510.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Boats, fire and a TikTok song - inside Arsenal's title win",
             "link": "https://www.bbc.com/sport/football/articles/c9v3jx1jmrwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -132,6 +132,11 @@
         {
             "title": "Title despair & Guardiola going - 24 hours of pain for Man City",
             "link": "https://www.bbc.com/sport/football/articles/c78q300ejz4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "The crucial split-second call that could deny Spurs safety",
+            "link": "https://www.bbc.com/sport/football/articles/c302je261rno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -147,11 +152,6 @@
         {
             "title": "Twenty-two years in the making - how Arsenal celebrated title win",
             "link": "https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Two-time winner Alcaraz out of Wimbledon with injury",
-            "link": "https://www.bbc.com/sport/tennis/articles/c87qlqw1nj0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -207,13 +207,13 @@
             "source": "Wired"
         },
         {
-            "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-            "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+            "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
+            "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
             "source": "Wired"
         },
         {
-            "title": "Google Makes It Easy to Deepfake Yourself",
-            "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
+            "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+            "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
             "source": "Wired"
         }
     ]
