@@ -1,13 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "চীন ও রাশিয়ার মধ্যে গ্যাস পাইপলাইন নির্মাণে সমঝোতা",
+            "title": "ব্যক্তি উদ্যোগেও সরকারি খাল খনন ও মাটি বিক্রি করা যাবে, জানালো ভূমি মন্ত্রণালয়",
             "link": "https://www.bbc.co.uk/bengali/live/c4g43zqd2lyt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
             "title": "'রাষ্ট্রপতি আমাকে ফোন করে বললেন, ঢাকায় যেন কোন সৈন্য ঢুকতে না পারে'",
             "link": "https://www.bbc.com/bengali/articles/c152700870wo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "মোদীকে প্রশ্ন করে আলোচনায় আসা নরওয়ের সাংবাদিক বিবিসিকে যা বললেন",
+            "link": "https://www.bbc.com/bengali/articles/cwy213y5yq9o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,47 +29,57 @@
             "title": "পত্রিকা: 'ঈদযাত্রায় ভোগাবে যানজট!'",
             "link": "https://www.bbc.com/bengali/articles/c87ql7zzgw2o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বাংলাদেশে হামে শিশু মৃত্যুর ঘটনায় হাইকোর্টের রুল জারি",
-            "link": "https://www.bbc.co.uk/bengali/live/cjwpy1qg070t?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Kenya transport strike paused after deadly protests",
-            "link": "https://www.aljazeera.com/gallery/2026/5/20/kenya-transport-strike-paused-after-deadly-protests?traffic_source=rss",
+            "title": "New York City hotels avert labour strike threat before FIFA World Cup",
+            "link": "https://www.aljazeera.com/sports/2026/5/20/new-york-city-hotels-avert-labour-strike-threat-before-fifa-world-cup?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Women’s football coach who secretly filmed players banned for life",
-            "link": "https://www.aljazeera.com/sports/2026/5/20/womens-football-coach-who-secretly-filmed-players-banned-for-life?traffic_source=rss",
+            "title": "WHO says 600 suspected cases, 139 deaths in growing Ebola outbreak",
+            "link": "https://www.aljazeera.com/news/2026/5/20/who-says-600-cases-139-suspected-deaths-in-growing-ebola-outbreak?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Modi avoids Norway media: How that led to storm over India’s press freedom",
-            "link": "https://www.aljazeera.com/news/2026/5/20/modi-avoids-norway-media-how-that-led-to-storm-over-indias-press-freedom?traffic_source=rss",
+            "title": "Israeli lawmakers advance bill to dissolve parliament",
+            "link": "https://www.aljazeera.com/news/2026/5/20/israeli-lawmakers-advance-bill-to-dissolve-parliament?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
-            "link": "https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss",
+            "title": "US imposes sanctions on Gaza flotilla organisers: Why it matters",
+            "link": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "San Diego mosque shooting: Who were the victims?",
-            "link": "https://www.aljazeera.com/news/2026/5/20/san-diego-mosque-shooting-who-were-the-victims?traffic_source=rss",
+            "title": "Why Ebola keeps returning to DRC: A heartbreaking human toll",
+            "link": "https://www.aljazeera.com/news/2026/5/20/why-ebola-keeps-returning-to-drc-a-heartbreaking-human-toll?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
-            "link": "https://www.aljazeera.com/news/2026/5/20/at-least-87-gaza-aid-flotilla-activists-abducted-by-israel-on-hunger-strike?traffic_source=rss",
+            "title": "Which teams will make their debut at World Cup 2026?",
+            "link": "https://www.aljazeera.com/sports/2026/5/20/which-teams-will-make-their-debut-at-world-cup-2026?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Xi basks in spotlight as he hosts Putin days after Trump",
+            "link": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Trump exerts iron grip on Republican Party with Massie defeated",
             "link": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "More die of suspected Ebola as WHO warns that numbers will rise further",
+            "link": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Lithuania's leaders take shelter during drone air alert",
+            "link": "https://www.bbc.com/news/articles/c9d3vpqqqpeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,27 +88,17 @@
             "source": "BBC World"
         },
         {
-            "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
-            "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
             "link": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Woman dies after falling into uncovered New York City manhole",
-            "link": "https://www.bbc.com/news/articles/cy02pzxejyno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Son of Mango boss arrested over father's fatal fall from cliff",
-            "link": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "CSA squeeze out home fans with ticket sales for New Year's Test",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537596.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Shanto praises 'healthy competition' within bowling unit after series win",
             "link": "https://www.espncricinfo.com/ci/content/story/1537593.html?ex_cid=OTC-RSS",
@@ -120,42 +125,52 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Rayudu: Jurel has 'extraordinary potential'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537566.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Boats, fire and a TikTok song - inside Arsenal's title win",
-            "link": "https://www.bbc.com/sport/football/articles/c9v3jx1jmrwo?at_medium=RSS&at_campaign=rss",
+            "title": "Southampton hit out at 'manifestly disproportionate' punishment",
+            "link": "https://www.bbc.com/sport/football/articles/cn4p284ny2ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "A just or harsh punishment? Reaction to Southampton expulsion",
-            "link": "https://www.bbc.com/sport/football/articles/c202gegv9qlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "The crucial split-second call that could deny Spurs safety",
-            "link": "https://www.bbc.com/sport/football/articles/c302je261rno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Arsenal players celebrate title at Emirates at 5am",
+            "title": "Saka calls out critics as players celebrate title at Emirates at 5am",
             "link": "https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Emery eyes fifth Europa crown but denies being 'king' of competition",
-            "link": "https://www.bbc.com/sport/football/articles/cx21e2grxywo?at_medium=RSS&at_campaign=rss",
+            "title": "Man Utd-Forest referee not selected for final day",
+            "link": "https://www.bbc.com/sport/football/articles/c1j2egjlp53o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "NRL star Arrow retires at 30 after MND diagnosis",
-            "link": "https://www.bbc.com/sport/rugby-league/articles/cgqpey71devo?at_medium=RSS&at_campaign=rss",
+            "title": "Empty rooms and Fifa cancellations - US hotels fear World Cup washout",
+            "link": "https://www.bbc.com/sport/football/articles/c9q34pxv79eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Gough questions England's appointment of North",
+            "link": "https://www.bbc.com/sport/cricket/articles/c3d2m8rj9xro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Enhanced Games is finally here - causing dismay and intrigue",
+            "link": "https://www.bbc.com/sport/articles/cj0p1p67v56o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "GitHub says hackers stole data from thousands of internal repositories",
+            "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Figma adds an AI assistant to its collaborative canvas",
+            "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Quartermaster is building a maritime hive mind",
+            "link": "https://techcrunch.com/2026/05/20/quartermaster-is-building-a-maritime-hive-mind/",
+            "source": "TechCrunch"
+        },
         {
             "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
             "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
@@ -172,48 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "How to use Google’s new AI agents to go beyond your standard searches",
-            "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Discord enables end-to-end encrypted voice and video calling for every user",
-            "link": "https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Mach Industries just spent $50M to solve a major defense tech problem",
-            "link": "https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Election Officials Are Getting Ready for ICE to Show Up at the Polls",
-            "link": "https://www.wired.com/story/election-officials-are-getting-ready-for-ice-to-show-up-midterms/",
+            "title": "‘Perfect Storm’: How Trump's Aid Cuts Are Fueling the Ebola Outbreak",
+            "link": "https://www.wired.com/story/how-trumps-aid-cuts-are-fueling-the-ebola-outbreak/",
             "source": "Wired"
         },
         {
-            "title": "Data Brokers’ and AI Firms’ Opt-Out Forms Are Built to Fail, Report Finds",
-            "link": "https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/",
+            "title": "Ride1Up Roadster Review (2026): An Ebike That Feels Like a Bike",
+            "link": "https://www.wired.com/review/ride1up-roadster-ebike-review/",
             "source": "Wired"
         },
         {
-            "title": "Dell Coupon Codes: 20% Off for May 2026",
-            "link": "https://www.wired.com/story/dell-coupon-code/",
+            "title": "Hypershell X Ultra S Review: The Best Exoskeleton Yet",
+            "link": "https://www.wired.com/review/hypershell-x-ultra-s/",
             "source": "Wired"
         },
         {
-            "title": "LG Promo Codes and Coupons for May 2026",
-            "link": "https://www.wired.com/story/lg-promo-code/",
+            "title": "How to Upgrade Weber and Kamado Joe Into Smart Grills",
+            "link": "https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/",
             "source": "Wired"
         },
         {
-            "title": "NordVPN Coupons and Deals: 77% Off in May 2026",
-            "link": "https://www.wired.com/story/nordvpn-coupon/",
+            "title": "Everything to Look for When Buying a New Laptop in 2026",
+            "link": "https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/",
             "source": "Wired"
         },
         {
-            "title": "Herman Miller Promo Code & Discounts: Save up to 40% in May 2026",
-            "link": "https://www.wired.com/story/herman-miller-promo-code/",
+            "title": "Trump Wants to Be the Hero Vapers Don’t Really Need",
+            "link": "https://www.wired.com/story/trump-wants-to-be-the-hero-vapers-dont-really-need/",
             "source": "Wired"
         }
     ]
