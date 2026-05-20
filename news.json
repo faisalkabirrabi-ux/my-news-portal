@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Elon Musk’s SpaceX unveils filing for blockbuster IPO",
+            "link": "https://www.aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
+            "link": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US lawyers say man on death row could be executed with expired lethal drugs",
+            "link": "https://www.aljazeera.com/news/2026/5/20/us-lawyers-say-man-on-death-row-could-be-executed-with-expired-lethal-drugs?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Bolivian president to reshuffle cabinet amid antigovernment protests",
             "link": "https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -45,21 +60,6 @@
         {
             "title": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "As AIPAC becomes ‘toxic’, it is trying to conceal spending in US elections",
-            "link": "https://www.aljazeera.com/news/2026/5/20/as-aipac-becomes-toxic-it-is-trying-to-conceal-spending-in-us-elections?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "James Murdoch to acquire New York Magazine and Vox Media Podcast Network",
-            "link": "https://www.aljazeera.com/economy/2026/5/20/james-murdoch-to-acquire-new-york-magazine-and-vox-media-podcast-network?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "What’s the significance of the Russian president’s visit to China?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,13 +95,13 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Alice Capsey 74* blazes trail in seven-wicket England win",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537644.html?ex_cid=OTC-RSS",
+            "title": "Hardik: 'We would've had a chance had Tilak or I stayed longer'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537669.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Hardik: 'We would've had a chance had Tilak or I stayed longer'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537669.html?ex_cid=OTC-RSS",
+            "title": "Alice Capsey 74* blazes trail in seven-wicket England win",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537644.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -125,6 +125,11 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "'We'll go down in history' - Villa's new heroes triumph to end 30-year wait",
+            "link": "https://www.bbc.com/sport/football/articles/cn5p6yeql9po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Southampton lose appeal against play-off expulsion over Spygate",
             "link": "https://www.bbc.com/sport/football/articles/cn4p284ny2ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -140,51 +145,56 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Prince William celebrates 'amazing night' as Villa fans party",
+            "link": "https://www.bbc.com/sport/football/articles/c759xqnn3k3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Players to cut short French Open interviews in pay row",
             "link": "https://www.bbc.com/sport/tennis/articles/c2e213ve4vmo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Villa keep alive English hopes of six Champions League spots",
-            "link": "https://www.bbc.com/sport/football/articles/c8r8mvl8rkro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Enhanced Games is finally here - causing dismay and intrigue",
-            "link": "https://www.bbc.com/sport/articles/cj0p1p67v56o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B more.",
+            "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
+            "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Clouted wants to take the guesswork out of making short videos go viral",
+            "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over",
+            "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+            "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
             "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
             "source": "TechCrunch"
         },
         {
-            "title": "Anthropic will pay xAI $1.25 billion per month for compute",
+            "title": "Anthropic will pay xAI $1.25B per month for compute",
             "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
             "source": "TechCrunch"
         },
         {
-            "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
-            "link": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
-            "source": "TechCrunch"
+            "title": "The Best Outdoor Deals From the REI Anniversary Sale 2026",
+            "link": "https://www.wired.com/story/rei-anniversary-sale-2026/",
+            "source": "Wired"
         },
         {
-            "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
-            "link": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "The SpaceX IPO filing has arrived",
-            "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Microsoft’s carbon-removal plans aren’t dead after all",
-            "link": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
-            "source": "TechCrunch"
+            "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+            "link": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+            "source": "Wired"
         },
         {
             "title": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
@@ -204,16 +214,6 @@
         {
             "title": "How Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak",
             "link": "https://www.wired.com/story/climate-change-next-hantavirus-outbreak/",
-            "source": "Wired"
-        },
-        {
-            "title": "A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer",
-            "link": "https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/",
-            "source": "Wired"
-        },
-        {
-            "title": "It’s Officially Election Season in Trumpworld",
-            "link": "https://www.wired.com/story/after-kentucky-the-trump-white-house-has-its-sights-on-these-primaries/",
             "source": "Wired"
         }
     ]
