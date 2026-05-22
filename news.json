@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
+            "link": "https://www.aljazeera.com/news/2026/5/21/over-2000-gather-in-san-diego-to-mourn-three-men-killed-in-mosque-attack?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "At least 16 people killed in two attacks in northern Honduras",
+            "link": "https://www.aljazeera.com/news/2026/5/21/at-least-16-people-killed-in-two-attacks-in-northern-honduras?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
             "link": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "NYC launches lottery for $50 World Cup football tickets",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/nyc-launches-lottery-for-50-world-cup-football-tickets?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
-            "link": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -125,13 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Foden and Palmer to miss out on World Cup squad",
-            "link": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss",
+            "title": "How Palmer and Foden lost ruthless Tuchel's battle for number 10 roles",
+            "link": "https://www.bbc.com/sport/football/articles/c1k2g782m1ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Southampton's Eckert authorised spying missions",
             "link": "https://www.bbc.com/sport/football/articles/cdepxek43gyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Foden and Palmer to miss out on World Cup squad",
+            "link": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -147,11 +152,6 @@
         {
             "title": "Usyk opponent Verhoeven 'not a normal man' - Hearn",
             "link": "https://www.bbc.com/sport/boxing/articles/crlpell9nx9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Bunting wins as Humphries avoids Littler semi-final",
-            "link": "https://www.bbc.com/sport/darts/articles/c794r2glej7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+            "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+            "source": "Wired"
+        },
+        {
             "title": "What to Do in LA if You’re Here for Business (2025)",
             "link": "https://www.wired.com/story/los-angeles-tech-travel-guide/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "Mustard Made Storage Lockers Are on a Rare Sale Through May 31",
             "link": "https://www.wired.com/story/mustard-made-sale/",
-            "source": "Wired"
-        },
-        {
-            "title": "Palantir Held Another ‘Hack Week.’ This Time, the Focus Was ICE",
-            "link": "https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/",
             "source": "Wired"
         }
     ]
