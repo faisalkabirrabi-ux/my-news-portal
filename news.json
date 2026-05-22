@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বাংলাদেশে বছর বছর গরু কোরবানি কেন কমছে?",
+            "link": "https://www.bbc.com/bengali/articles/c93xv4vegvlo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "কিউবাকে 'নিরাপত্তা ঝুঁকি' বলছে যুক্তরাষ্ট্র, 'মিথ্যাচারের' অভিযোগ হাভানার",
             "link": "https://www.bbc.com/bengali/articles/c3e2w18k0k8o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -16,7 +21,7 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "ধর্ষণ ও হত্যাকাণ্ডের শিকার শিশুর বাবা-মায়ের সঙ্গে দেখা করলেন প্রধানমন্ত্রী",
+            "title": "ধর্ষণ ও হত্যাকাণ্ডের শিকার শিশু রামিসার বাবা-মায়ের সঙ্গে দেখা করলেন প্রধানমন্ত্রী",
             "link": "https://www.bbc.co.uk/bengali/live/c5ye3z03m3pt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -24,43 +29,43 @@
             "title": "মাহমুদ আহমাদিনেজাদকে ইরানের ক্ষমতায় বসাতে চেয়েছিল যুক্তরাষ্ট্র ও ইসরায়েল?",
             "link": "https://www.bbc.com/bengali/articles/c775k5jdmmyo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শিশু ধর্ষণ ও হত্যা প্রতিরোধে আইনে কী পদক্ষেপ রয়েছে?",
-            "link": "https://www.bbc.com/bengali/articles/c172z8kenyxo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
-            "link": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss",
+            "title": "US deepens European uncertainty with deployment of 5,000 troops to Poland",
+            "link": "https://www.aljazeera.com/news/2026/5/22/us-deepens-european-uncertainty-with-deployment-of-5000-troops-to-poland?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Malaysia orders TikTok to address ‘defamatory’ content about king",
-            "link": "https://www.aljazeera.com/economy/2026/5/22/malaysia-orders-tiktok-to-address-defamatory-content-about-king?traffic_source=rss",
+            "title": "Lebanon’s economy struggles under renewed war and global fuel crisis",
+            "link": "https://www.aljazeera.com/features/2026/5/22/lebanons-economy-struggles-under-renewed-war-and-global-fuel-crisis?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Caitriona Graham recounts violent treatment after Gaza flotilla raid",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/caitriona-graham-recounts-violent-treatment-after-gaza-flotilla-raid?traffic_source=rss",
+            "title": "US raises threat of military action against Cuba",
+            "link": "https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Greenlanders protest opening of new US consulate in Nuuk",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/greenlanders-protest-opening-of-new-us-consulate-in-nuuk?traffic_source=rss",
+            "title": "Japan’s World Cup 2026 team preview: Players to watch, group, squad",
+            "link": "https://www.aljazeera.com/sports/2026/5/22/japans-world-cup-2026-team-preview-players-to-watch-group-squad?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Turkish court ousts leader of main opposition party",
-            "link": "https://www.aljazeera.com/news/2026/5/22/turkish-court-ousts-leader-of-main-opposition-party?traffic_source=rss",
+            "title": "Iran war day 84: US-Iran talks advance amid mediation push",
+            "link": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US Senate pushes back against Trump’s $1.8bn ‘anti-weaponisation’ fund",
-            "link": "https://www.aljazeera.com/news/2026/5/22/us-senate-pushes-back-against-trumps-1-8bn-anti-weaponisation-fund?traffic_source=rss",
+            "title": "Monfils warms up for final French Open with star-studded farewell party",
+            "link": "https://www.aljazeera.com/sports/2026/5/22/monfils-warms-up-for-final-french-open-with-star-studded-farewell-party?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
+            "link": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
@@ -73,27 +78,42 @@
             "source": "BBC World"
         },
         {
-            "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
-            "link": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-            "link": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "Alberta to hold referendum on whether to remain in Canada",
             "link": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "US to send 5,000 more troops to Poland, Trump says",
-            "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+            "title": "Africa summit in India postponed over Ebola outbreak fears",
+            "link": "https://www.bbc.com/news/articles/cp8p1l7gp1po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+            "link": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Babar back for ODIs vs Australia; uncapped Rohail, Minhas and Daniyal called up",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537797.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Bangladesh to tour Zimbabwe for all-format series in June-July",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537794.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Cricket Australia dismisses staffer after conflict of interest investigation",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537788.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Rashid: Manage yourself on the bad days like you would on the good ones",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537791.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Abhinav Mukund: 'CSK had a very average season throughout'",
             "link": "https://www.espncricinfo.com/ci/content/story/1537786.html?ex_cid=OTC-RSS",
@@ -105,24 +125,14 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Gaikwad 'really proud' of CSK's performance in 'transition phase'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537768.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Foden, Palmer, Alexander-Arnold to miss World Cup",
+            "link": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Gujarat Titans knock CSK out and seal top-two finish",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537763.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Exiled Afghanistan women to tour England during T20 World Cup",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537730.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Notts extend Mohammad Ali deal to include T20 Blast",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537711.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Slot refuses to confirm Salah selected for final game",
+            "link": "https://www.bbc.com/sport/football/articles/cvgzvnqzvryo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "How Palmer and Foden lost ruthless Tuchel's battle for number 10 roles",
@@ -130,32 +140,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Southampton's Eckert authorised spying missions",
+            "title": "How a kickboxing legend & Statham's pal landed a shot at Usyk",
+            "link": "https://www.bbc.com/sport/boxing/articles/clypnr49dljo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "How Guardiola transformed the Premier League tactically",
+            "link": "https://www.bbc.com/sport/football/articles/c332v8g8vnyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Southampton's Eckert backed spying as club conduct deemed 'deplorable'",
             "link": "https://www.bbc.com/sport/football/articles/cdepxek43gyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Foden and Palmer to miss out on World Cup squad",
-            "link": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Raducanu faces tricky start - who plays who at French Open?",
-            "link": "https://www.bbc.com/sport/tennis/articles/c9d3v8wnnweo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Hamilton says he has no plans to retire from F1",
-            "link": "https://www.bbc.com/sport/formula1/articles/c36286kp8rko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Usyk opponent Verhoeven 'not a normal man' - Hearn",
-            "link": "https://www.bbc.com/sport/boxing/articles/crlpell9nx9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+            "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
             "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-            "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
-            "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+            "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
+            "link": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
             "source": "Wired"
         },
         {
-            "title": "What to Do in LA if You’re Here for Business (2025)",
-            "link": "https://www.wired.com/story/los-angeles-tech-travel-guide/",
+            "title": "Nike Promo Codes and Discounts: 30% for May 2026",
+            "link": "https://www.wired.com/story/nike-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says",
-            "link": "https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/",
+            "title": "Google Workspace Promo Codes: 14% Off for May",
+            "link": "https://www.wired.com/story/google-workspace-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
-            "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
+            "title": "Chewy Promo Codes: $20 Off May 2026",
+            "link": "https://www.wired.com/story/chewy-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Best Window Air Conditioners of 2026: Midea, Zafro, GE",
-            "link": "https://www.wired.com/gallery/best-window-air-conditioners/",
+            "title": "Peacock Promo Codes: 40% Off May 2026",
+            "link": "https://www.wired.com/story/peacock-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Mustard Made Storage Lockers Are on a Rare Sale Through May 31",
-            "link": "https://www.wired.com/story/mustard-made-sale/",
+            "title": "30% Off Samsung Promo Code | May 2026",
+            "link": "https://www.wired.com/story/samsung-promo-codes/",
             "source": "Wired"
         }
     ]
