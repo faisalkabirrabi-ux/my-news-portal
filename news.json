@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Israeli blockade traps would-be Hajj pilgrim in Gaza",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/israeli-blockade-traps-would-be-hajj-pilgrim-in-gaza?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Premier League finale: Arsenal, relegation, Champions League, Salah and Pep",
+            "link": "https://www.aljazeera.com/sports/2026/5/22/premier-league-finale-arsenal-relegation-champions-league-salah-and-pep?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "‘Everest Man’ breaks his own record after historic 32nd climb",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/everest-man-breaks-his-own-record-after-historic-32nd-climb?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Mahmoud Khalil to appeal US deportation case to Supreme Court",
+            "link": "https://www.aljazeera.com/news/2026/5/22/mahmoud-khalil-to-appeal-us-deportation-case-to-supreme-court?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "US judge dismisses indictment against Kilmar Abrego Garcia",
             "link": "https://www.aljazeera.com/news/2026/5/22/us-judge-dismisses-indictment-against-kilmar-abrego-garcia?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Bolivia in crisis: Social unrest, demands for president to resign escalate",
             "link": "https://www.aljazeera.com/economy/2026/5/22/bolivia-in-crisis-social-unrest-demands-for-president-to-resign-escalate?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Man City boss and Palestine advocate Pep Guardiola to step down",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/man-city-boss-and-palestine-advocate-pep-guardiola-to-step-down?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "San Diego’s Muslims, a mosque, and a city shaken",
-            "link": "https://www.aljazeera.com/video/the-take-2/2026/5/22/aje-onl-usa_sandiegomosque_av_v2-220526?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "What are the implications of US sanctions in Lebanon?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/5/22/us-lebanon-sanctions-implications?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Thousands in Cuba rally for Raul Castro to protest US indictment",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-in-cuba-rally-for-raul-castro-to-protest-us-indictment?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,13 +95,18 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Billings blazes a trail as Kent make winning start",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537823.html?ex_cid=OTC-RSS",
+            "title": "Roy, Curran lead Surrey surge as Lancashire fall flat",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537825.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "Jansen, de Lange make mincemeat of Warwickshire",
             "link": "https://www.espncricinfo.com/ci/content/story/1537847.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Billings blazes a trail as Kent make winning start",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537823.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,23 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Simpson the best as Sussex power past Essex",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537843.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "'Unselfish' over 'ego' - what do leaks say about Tuchel's England?",
             "link": "https://www.bbc.com/sport/football/articles/cg4pgve33kyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Guardiola says Man City 'need new energy' as exit confirmed",
-            "link": "https://www.bbc.com/sport/football/articles/cx21y7023qxo?at_medium=RSS&at_campaign=rss",
+            "title": "Russell edges Antonelli to take pole for Canada sprint",
+            "link": "https://www.bbc.com/sport/formula1/articles/ckgplmj1rg9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Tuchel's gambles and iron conviction position him as the anti-Southgate'",
-            "link": "https://www.bbc.com/sport/football/articles/ce9p4v50pkko?at_medium=RSS&at_campaign=rss",
+            "title": "Hull and Middlesbrough set for unique play-off final",
+            "link": "https://www.bbc.com/sport/football/articles/cwy2815zvv7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Celtic v Dunfermline: All you need to know about Scottish Cup final",
+            "link": "https://www.bbc.com/sport/football/articles/cevpn3prdwzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -148,21 +153,26 @@
             "title": "Maguire World Cup omission a shock - Rooney",
             "link": "https://www.bbc.com/sport/football/articles/c4g02kdwp4go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Sabalenka cuts news conference short as French Open players protest over pay",
-            "link": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+            "link": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
+            "link": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
             "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
             "source": "TechCrunch"
         },
         {
-            "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+            "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
             "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
             "source": "TechCrunch"
         },
@@ -174,16 +184,6 @@
         {
             "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
             "link": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Spotify’s AI bet: more of everything, less of what you want",
-            "link": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "You can no longer Google the word ‘disregard’",
-            "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
             "source": "TechCrunch"
         },
         {
