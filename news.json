@@ -1,6 +1,21 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "সড়কে এআই ক্যামেরা : গাড়ির কোন অপরাধে কীভাবে মামলা হচ্ছে?",
+            "link": "https://www.bbc.com/bengali/articles/c5y7vgzpdxwo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'দেশে ফিরে বিচারের মুখোমুখি হতে চান হাসিনা'",
+            "link": "https://www.bbc.com/bengali/articles/cze20286ljeo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ভারতের রাজনীতিতে 'ককরোচ জনতা পার্টি' কেন আলোচনায়?",
+            "link": "https://www.bbc.com/bengali/articles/cd7p08vpqjzo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশে বছর বছর গরু কোরবানি কেন কমছে?",
             "link": "https://www.bbc.com/bengali/articles/c93xv4vegvlo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -14,24 +29,24 @@
             "title": "ফিলিস্তিনি শরণার্থীর গোলে ভারতসেরা হল কলকাতার  'উদ্বাস্তুদের ক্লাব'",
             "link": "https://www.bbc.com/bengali/articles/cm2p808jkj3o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'বাংলাদেশি অনুপ্রবেশকারী' যেভাবে ফেরত পাঠাতে চায় শুভেন্দু অধিকারীর সরকার",
-            "link": "https://www.bbc.com/bengali/articles/cg7py47d2zgo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "কিউবাকে 'নিরাপত্তা ঝুঁকি' বলছে যুক্তরাষ্ট্র, 'মিথ্যাচারের' অভিযোগ হাভানার",
-            "link": "https://www.bbc.com/bengali/articles/c3e2w18k0k8o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "যে সব পরিস্থিতিতে বদলি হজ করানোর বিধান রয়েছে ইসলামে",
-            "link": "https://www.bbc.com/bengali/articles/czx2p2qeww4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Tulsi Gabbard resigns as Trump’s top US intelligence official",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/tulsi-gabbard-resigns-as-trumps-top-us-intelligence-official-2?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Ebola outbreak disrupts life along the DRC-Uganda border",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/ebola-outbreak-disrupts-life-along-the-drc-uganda-border?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Israeli blockade traps would-be Hajj pilgrim in Gaza",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/israeli-blockade-traps-would-be-hajj-pilgrim-in-gaza?traffic_source=rss",
@@ -48,21 +63,6 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Mahmoud Khalil to appeal US deportation case to Supreme Court",
-            "link": "https://www.aljazeera.com/news/2026/5/22/mahmoud-khalil-to-appeal-us-deportation-case-to-supreme-court?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US judge dismisses indictment against Kilmar Abrego Garcia",
-            "link": "https://www.aljazeera.com/news/2026/5/22/us-judge-dismisses-indictment-against-kilmar-abrego-garcia?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Bolivia in crisis: Social unrest, demands for president to resign escalate",
-            "link": "https://www.aljazeera.com/economy/2026/5/22/bolivia-in-crisis-social-unrest-demands-for-president-to-resign-escalate?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
             "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -70,6 +70,11 @@
         {
             "title": "Rubio tries to reassure Nato allies over US troop deployments",
             "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "SpaceX launches massive Starship V3 rocket on test flight",
+            "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,14 +91,14 @@
             "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
             "link": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Judge dismisses criminal case against Kilmar Abrego Garcia",
-            "link": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Klaasen jumps to No. 3 in Orange Cap race, Kishan No. 5",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537895.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Roy, Curran lead Surrey surge as Lancashire fall flat",
             "link": "https://www.espncricinfo.com/ci/content/story/1537825.html?ex_cid=OTC-RSS",
@@ -117,11 +122,6 @@
         {
             "title": "Mohammed's Blast best proves too rapid for Foxes",
             "link": "https://www.espncricinfo.com/ci/content/story/1537842.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Scrimshaw surge edges thriller for Northamptonshire",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537840.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "AI is being used to resurrect the voices of dead pilots",
+            "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
             "link": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
             "source": "TechCrunch"
@@ -179,11 +184,6 @@
         {
             "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
             "link": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
-            "link": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
             "source": "TechCrunch"
         },
         {
