@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "চীনের কয়লা খনিতে বিস্ফোরণে অন্তত ৯০ জন নিহত, রাষ্ট্রীয় গণমাধ্যমের খবর",
+            "link": "https://www.bbc.com/bengali/articles/clypgkngyg3o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "তেহরানে পাকিস্তান ও কাতারের জোর প্রচেষ্টা, নতুন হামলার প্রস্তুতি নিচ্ছে যুক্তরাষ্ট্র",
             "link": "https://www.bbc.com/bengali/articles/cx21jxxw6deo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "কোন পশু কোরবানি দেওয়া যাবে, আর  কোনগুলো বৈধ হবে না",
+            "link": "https://www.bbc.com/bengali/articles/cx21grx8rz7o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,47 +29,37 @@
             "title": "ভারতের রাজনীতিতে 'ককরোচ জনতা পার্টি' কেন আলোচনায়?",
             "link": "https://www.bbc.com/bengali/articles/cd7p08vpqjzo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বাংলাদেশে বছর বছর গরু কোরবানি কেন কমছে?",
-            "link": "https://www.bbc.com/bengali/articles/c93xv4vegvlo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ডিম নিক্ষেপ-হামলা, নাসীরুদ্দীন পাটওয়ারী ও ছাত্রদলের পাল্টাপাল্টি বক্তব্য",
-            "link": "https://www.bbc.com/bengali/articles/cp9pm0k04lvo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Gilgeous-Alexander leads Thunder past Spurs for 2-1 NBA playoff lead",
-            "link": "https://www.aljazeera.com/sports/2026/5/23/gilgeous-alexander-leads-thunder-past-spurs-for-2-1-nba-playoff-lead?traffic_source=rss",
+            "title": "Failing chemical tank forces thousands to evacuate in Southern California",
+            "link": "https://www.aljazeera.com/news/2026/5/23/failing-chemical-tank-forces-thousands-to-evacuate-in-southern-california?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Burn-like rashes and hunger: Gaza’s children face skin disease crisis",
-            "link": "https://www.aljazeera.com/features/2026/5/23/burn-like-rashes-and-hunger-gazas-children-face-skin-disease-crisis?traffic_source=rss",
+            "title": "North Korean women’s team win Asian Champions League title in South Korea",
+            "link": "https://www.aljazeera.com/sports/2026/5/23/north-korean-women-team-win-asian-champions-league-in-south?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump releases new batch of previously classified UFO files",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/trump-releases-new-batch-of-previously-classified-ufo-files?traffic_source=rss",
+            "title": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
+            "link": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Over 1.6 million pilgrims arrive in Saudi Arabia for hajj pilgrimage",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/over-1-6-million-pilgrims-arrive-in-saudi-arabia-for-hajj-pilgrimage?traffic_source=rss",
+            "title": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
+            "link": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Are India and Pakistan quietly preparing to restart dialogue?",
-            "link": "https://www.aljazeera.com/news/2026/5/23/are-india-and-pakistan-quietly-preparing-to-restart-dialogue?traffic_source=rss",
+            "title": "Gas explosion at Chinese coal mine kills at least 90",
+            "link": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why are anti-migrant attacks increasing in South Africa?",
-            "link": "https://www.aljazeera.com/news/2026/5/23/why-are-anti-migrant-attacks-increasing-in-south-africa?traffic_source=rss",
+            "title": "World Cup 2026: Which star players will miss the tournament?",
+            "link": "https://www.aljazeera.com/sports/2026/5/23/world-cup-2026-which-star-players-will-miss-the-tournament?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "'A great little refresh' - Ravindra on leaving IPL early and spending time in NZ before UK tour",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537977.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Being no longer with MI has helped Kishan grow, says Rayudu",
             "link": "https://www.espncricinfo.com/ci/content/story/1537916.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -110,18 +115,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Ponting: 'We only have ourselves to blame for where we are'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537813.html?ex_cid=OTC-RSS",
+            "title": "Raghuvanshi ruled out of IPL 2026 after suffering concussion and finger fracture",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537835.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Roy, Curran lead Surrey surge as Lancashire fall flat",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537825.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Jansen, de Lange make mincemeat of Warwickshire",
-            "link": "https://www.espncricinfo.com/ci/content/story/1537847.html?ex_cid=OTC-RSS",
+            "title": "PBKS meet LSG with playoffs hopes hanging by a thread",
+            "link": "https://www.espncricinfo.com/ci/content/story/1537830.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -130,7 +130,7 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Russell edges Antonelli to take pole for Canada sprint",
+            "title": "Russell edges out Antonelli to take Canada sprint pole",
             "link": "https://www.bbc.com/sport/formula1/articles/ckgplmj1rg9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -145,17 +145,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Sabalenka cuts news conference short as French Open players protest over pay",
-            "link": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
+            "title": "Final heartbreak in Bilbao - but how have Ulster progressed?",
+            "link": "https://www.bbc.com/sport/rugby-union/articles/cwy2ggpj82yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Final heartbreak in Bilbao - but how have Ulster progressed?",
-            "link": "https://www.bbc.com/sport/rugby-union/articles/cwy2ggpj82yo?at_medium=RSS&at_campaign=rss",
+            "title": "Sabalenka cuts news conference short as French Open players protest over pay",
+            "link": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
+            "link": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+            "source": "TechCrunch"
+        },
         {
             "title": "AI is being used to resurrect the voices of dead pilots",
             "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
@@ -182,9 +187,14 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
-            "link": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
-            "source": "TechCrunch"
+            "title": "All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer",
+            "link": "https://www.wired.com/story/all-vehicles-sold-in-the-eu-must-have-breathalyzer-hook-up/",
+            "source": "Wired"
+        },
+        {
+            "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
+            "link": "https://www.wired.com/story/memorial-day-mattress-deals-2026-1/",
+            "source": "Wired"
         },
         {
             "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
@@ -204,16 +214,6 @@
         {
             "title": "Loop Earplugs Discount Codes: 40% Off",
             "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Hoka Coupon Codes: 30% Off | May 2026",
-            "link": "https://www.wired.com/story/hoka-coupon-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Squarespace Promo Codes: 20% Off in May 2026",
-            "link": "https://www.wired.com/story/squarespace-promo-code/",
             "source": "Wired"
         }
     ]
