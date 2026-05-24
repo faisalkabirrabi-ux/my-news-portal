@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
+            "link": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Senegal football fans return home after royal pardon in Morocco",
+            "link": "https://www.aljazeera.com/sports/2026/5/24/senegal-football-fans-return-home-after-royal-pardon-in-morocco?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
+            "link": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US, Iran inch closer to deal to end the war: What to know",
+            "link": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Russia pounds Ukraine’s capital with hypersonic missile",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -43,33 +63,8 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Gunman shot dead by Secret Service agents near White House: What we know",
-            "link": "https://www.aljazeera.com/news/2026/5/24/gunman-shot-dead-by-secret-service-agents-near-white-house-what-we-know?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Rubio says ‘significant progress’ made in US-Iran negotiations",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/rubio-says-significant-progress-made-in-us-iran-negotiations?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Yemen war sees scramble for scant resources between displaced and locals",
-            "link": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Toxic gases hinder rescue efforts inside deadly China mine",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/toxic-gases-hinder-rescue-efforts-inside-deadly-china-mine?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Suspect killed after opening fire on Secret Service near White House",
             "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-            "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -78,13 +73,18 @@
             "source": "BBC World"
         },
         {
-            "title": "Man killed in shark attack off Australia's north-east coast",
-            "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+            "title": "BBC at the site of China's worst mining disaster in more than a decade",
+            "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "Blast targeting train kills at least 20 in Pakistan",
             "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Man killed in shark attack off Australia's north-east coast",
+            "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -94,6 +94,11 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "MI bowl and rest Bumrah; Parag, Burger back for RR",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538121.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Arshdeep 'doesn't have the same juice as a few months back,' says Rayudu",
             "link": "https://www.espncricinfo.com/ci/content/story/1538091.html?ex_cid=OTC-RSS",
@@ -120,9 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Shreyas Iyer's maiden IPL ton keeps Punjab Kings in the hunt for playoffs spot",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538066.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "The last Football Focus",
+            "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Why the stakes are so high for Spurs and West Ham",
@@ -140,18 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Russell edges Antonelli to claim Canada pole 'out of nowhere'",
-            "link": "https://www.bbc.com/sport/formula1/articles/c0m2jz208gdo?at_medium=RSS&at_campaign=rss",
+            "title": "How well do you remember this season's Premier League?",
+            "link": "https://www.bbc.com/sport/football/articles/c3w2zy547jgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Farewell to Salah, Liverpool's 'Egyptian king'",
-            "link": "https://www.bbc.com/sport/football/articles/cgkp386p60jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Bordeaux inspired by McIlroy's Masters feat",
-            "link": "https://www.bbc.com/sport/rugby-union/articles/cgjp0772ey5o?at_medium=RSS&at_campaign=rss",
+            "title": "Flubbed lines, impressionists and Tom Jones - Football Focus memories",
+            "link": "https://www.bbc.com/sport/football/videos/cp9pvkvr4pjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,21 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used",
+            "link": "https://www.wired.com/story/topo-designs-rover-trail-pack/",
+            "source": "Wired"
+        },
+        {
+            "title": "The Best Browser Extensions to Get More Out of YouTube",
+            "link": "https://www.wired.com/story/the-best-browser-extensions-to-get-more-out-of-youtube/",
+            "source": "Wired"
+        },
+        {
+            "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+            "link": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+            "source": "Wired"
+        },
+        {
             "title": "14 New Tools for Taking on the Great Outdoors Properly",
             "link": "https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/",
             "source": "Wired"
@@ -199,21 +214,6 @@
         {
             "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
             "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Universe Is Full of ‘Impossible’ Black Holes. Now Scientists Know Why",
-            "link": "https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-            "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-            "source": "Wired"
-        },
-        {
-            "title": "Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale",
-            "link": "https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/",
             "source": "Wired"
         }
     ]
