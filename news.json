@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "রামিসা হত্যা মামলায় অভিযোগপত্র জমা, শুনানি পহেলা জুন",
+            "link": "https://www.bbc.com/bengali/articles/crlp19wnd90o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "রামিসার হত্যা ইস্যুতে 'সিরিয়াল কিলার' রসু খাঁর ঘটনা কেন সামনে আসছে?",
             "link": "https://www.bbc.com/bengali/articles/c759k6v22nqo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "হাম পরিস্থিতির দায় কার জানতে বিশ্ব স্বাস্থ্য সংস্থার 'স্বাধীন তদন্ত' চাচ্ছে সরকার",
             "link": "https://www.bbc.com/bengali/articles/cy82l81xw80o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "সুগন্ধি থেকে খচ্চর, বিশ্বনেতারা একে অপরকে কী উপহার দেন?",
-            "link": "https://www.bbc.com/bengali/articles/ce8pg759e72o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
-            "link": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
+            "title": "Suicide car bombing attack on a train in Pakistan kills dozens",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/suicide-car-bombing-attack-on-a-train-in-pakistan-kills-dozens?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Senegal football fans return home after royal pardon in Morocco",
-            "link": "https://www.aljazeera.com/sports/2026/5/24/senegal-football-fans-return-home-after-royal-pardon-in-morocco?traffic_source=rss",
+            "title": "Blast hits train in Pakistan’s Balochistan, killing at least 24 people",
+            "link": "https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
-            "link": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss",
+            "title": "Clashes in Belgrade as student-led protests demand elections",
+            "link": "https://www.aljazeera.com/gallery/2026/5/24/clashes-in-belgrade-as-student-led-protests-demand-elections?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US, Iran inch closer to deal to end the war: What to know",
-            "link": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
+            "title": "Israeli attack on Gaza kills three family members, including infant",
+            "link": "https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Russia pounds Ukraine’s capital with hypersonic missile",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss",
+            "title": "The GCC should insure itself against the next Strait of Hormuz crisis",
+            "link": "https://www.aljazeera.com/opinions/2026/5/24/the-gcc-should-insure-itself-against-the-next-strait-of-hormuz-crisis?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump says US and Iran deal to end war is ‘largely negotiated’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss",
+            "title": "What to know about Cape Verde at World Cup 2026",
+            "link": "https://www.aljazeera.com/sports/2026/5/24/what-to-know-about-cape-verde-at-world-cup-2026?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,21 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Hollie Armitage, Katie Levick cap dominant Durham win",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538117.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Learoyd, Luff make light work of depleted Warwickshire",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538119.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "KKR sign Luvnith Sisodia as replacement for injured Pathirana",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538133.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "MI bowl and rest Bumrah; Parag, Burger back for RR",
             "link": "https://www.espncricinfo.com/ci/content/story/1538121.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -110,33 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'Versatile' Josh Inglis a rare bright spot in LSG's hour of darkness",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538094.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "रायुडू : अर्शदीप में कुछ महीने पहले जैसी धार नहीं दिख रही",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538101.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'In a great mind space'- Shreyas Iyer, and the freedom of expression",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538069.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "The last Football Focus",
-            "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why the stakes are so high for Spurs and West Ham",
-            "link": "https://www.bbc.com/sport/football/articles/cpqpyprner9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "What next for heavyweight division after Usyk's win?",
             "link": "https://www.bbc.com/sport/boxing/articles/czj2wd34wzlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Saying goodbye to Football Focus after 52 years",
+            "link": "https://www.bbc.com/sport/football/articles/c4g0jep1z80o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Tribe staking England claim with Lions share",
+            "link": "https://www.bbc.com/sport/cricket/articles/cp3p8d88xgjo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Emotional Kostyuk dedicates win to Ukraine",
+            "link": "https://www.bbc.com/sport/tennis/articles/cx214p4gvr0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "How well do you remember this season's Premier League?",
-            "link": "https://www.bbc.com/sport/football/articles/c3w2zy547jgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Flubbed lines, impressionists and Tom Jones - Football Focus memories",
-            "link": "https://www.bbc.com/sport/football/videos/cp9pvkvr4pjo?at_medium=RSS&at_campaign=rss",
+            "title": "Iran says World Cup base moved to Mexico from US",
+            "link": "https://www.bbc.com/sport/football/articles/cx21e47e214o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "The Dreamie alarm clock got me to stop using my phone in bed",
+            "link": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
+            "source": "TechCrunch"
+        },
         {
             "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
             "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
@@ -179,11 +184,6 @@
         {
             "title": "Elon Musk has given up on solar power (on Earth)",
             "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
-            "link": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
             "source": "TechCrunch"
         },
         {
