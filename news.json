@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ঈদুল আযহার দিন বাংলাদেশের আবহাওয়া কেমন থাকবে?",
+            "link": "https://www.bbc.com/bengali/articles/cy82293d9zeo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ঈদে বাড়ি ফেরার পথে রড-বোঝাই ট্রাক উল্টে ১৫ জন নিহত, এই দায় কার?",
             "link": "https://www.bbc.com/bengali/articles/clypp863yj0o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "পত্রিকা: 'ঢাকা-দিল্লি সম্পর্ক: বৈরী থেকে শীতল স্বাভাবিকের অপেক্ষা'",
             "link": "https://www.bbc.com/bengali/articles/c2023q56dk0o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বাংলাদেশে ধর্ষণ ও হত্যার আলোচিত ছয়টি মামলা কী অবস্থায় আছে?",
-            "link": "https://www.bbc.com/bengali/articles/c62el4j99d8o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "What’s inside the Kaaba and what covers it? The story of the Kiswah",
-            "link": "https://www.aljazeera.com/features/2026/5/25/whats-inside-the-kaaba-and-what-covers-it-the-story-of-the-kiswah?traffic_source=rss",
+            "title": "Baloch separatists ‘take advantage’ of Pakistan’s entanglements",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/baloch-separatists-take-advantage-of-pakistans-entanglements?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Abandoned flotilla boat washes ashore in Egypt with Gaza aid",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/abandoned-flotilla-boat-washes-ashore-in-egypt-with-gaza-aid?traffic_source=rss",
+            "title": "Could Israel sabotage US-Iran deal?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/could-israel-sabotage-us-iran-deal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Messi at the World Cup: Inter Miami injury update, substitution",
-            "link": "https://www.aljazeera.com/sports/2026/5/25/messi-at-the-world-cup-inter-miami-injury-update-substitution?traffic_source=rss",
+            "title": "Iran says deal with US ‘not imminent’ despite progress",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How did a rare strain of Ebola outrun doctors?",
-            "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/25/how-did-a-rare-strain-of-ebola-outrun-doctors?traffic_source=rss",
+            "title": "Could Brazilian oil emerge as one of the big winners of the Iran war?",
+            "link": "https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why the SpaceX IPO is the talk of Wall Street and beyond",
-            "link": "https://www.aljazeera.com/news/2026/5/25/why-the-spacex-ipo-is-the-talk-of-wall-street-and-beyond?traffic_source=rss",
+            "title": "What are the biggest FIFA World Cup upsets in history?",
+            "link": "https://www.aljazeera.com/sports/2026/5/25/what-are-the-biggest-fifa-world-cup-upsets-in-history?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Timelapse shows Hajj pilgrims performing Tawaf in Mecca",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/timelapse-shows-hajj-pilgrims-performing-tawaf-in-mecca?traffic_source=rss",
+            "title": "Paraglider survives mid-air collision with plane over Austria",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/paraglider-survives-mid-air-collision-with-plane-over-austria?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,17 +83,37 @@
             "source": "BBC World"
         },
         {
-            "title": "Turkish riot police storm opposition offices after leaders ousted",
-            "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+            "title": "Anger grows after China's deadliest coal mining disaster in years",
+            "link": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Blast targeting train kills at least 20 in Pakistan",
-            "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+            "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
+            "link": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Suzie Bates returns to open as New Zealand bat first in decider",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538270.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "The Blaze take it deep to stun Lancashire",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538263.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Solid RCB, surging GT clash for direct final ticket",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538258.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "South Africa A tame Lions with two sessions to spare",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538257.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "'No one is going to point fingers' - Pollard on Hardik's captaincy",
             "link": "https://www.espncricinfo.com/ci/content/story/1538245.html?ex_cid=OTC-RSS",
@@ -105,28 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Archer rises to third on IPL 2026 Purple Cap table, Rahul finishes season on a high",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538220.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'We are getting older' - McDonald addresses 'misconception' about big three missing ODIs",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538232.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Rahane: 'When the team is struggling, it is important to show your character'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538201.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'We didn't seize those moments' - Badani on DC's what-could-have-been season",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538233.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Which side were remarkable? Who were a shambles? Phil McNulty's season review",
             "link": "https://www.bbc.com/sport/football/articles/cx2136mx2m2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Lamine Yamal in Spain squad but no Real Madrid players",
+            "link": "https://www.bbc.com/sport/football/articles/crlpp3dw14lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Who made Opta's team of the season?",
+            "link": "https://www.bbc.com/sport/football/articles/c20227e73k0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +145,22 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Nuno meeting Hammers hierarchy over future",
+            "link": "https://www.bbc.com/sport/football/articles/ce9pp057zneo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "The title battle finally came alive - then Antonelli took control",
             "link": "https://www.bbc.com/sport/formula1/articles/czr2ed3zrr5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'Spurs avoid humiliation but elation of fans will soon turn to anger'",
-            "link": "https://www.bbc.com/sport/football/articles/c5y7j7752ppo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'A big ask' in Paris - will a stronger Raducanu emerge at Wimbledon?",
-            "link": "https://www.bbc.com/sport/tennis/articles/c202q242lnyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "What happens now at relegated West Ham?",
-            "link": "https://www.bbc.com/sport/football/articles/cvgz1zl14k3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+            "link": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Everyone is navigating AI security in real time — even Google",
             "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "The Dreamie alarm clock got me to stop using my phone in bed",
-            "link": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
-            "source": "TechCrunch"
+            "title": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
+            "link": "https://www.wired.com/story/best-memorial-day-deals-2026-2/",
+            "source": "Wired"
+        },
+        {
+            "title": "These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr",
+            "link": "https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/",
+            "source": "Wired"
+        },
+        {
+            "title": "In Defense of My Attachment to This Lululemon Duffel Bag (2026)",
+            "link": "https://www.wired.com/story/i-stopped-tolerating-crossbody-pain-thanks-to-this-lululemon-duffel/",
+            "source": "Wired"
+        },
+        {
+            "title": "Use Tiny11 to Rescue a Computer Running Windows 10",
+            "link": "https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/",
+            "source": "Wired"
+        },
+        {
+            "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+            "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+            "source": "Wired"
         },
         {
             "title": "A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid",
             "link": "https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/",
-            "source": "Wired"
-        },
-        {
-            "title": "30% Off Canon Promo Codes | May 2026",
-            "link": "https://www.wired.com/story/canon-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Shark Promo Codes for This May",
-            "link": "https://www.wired.com/story/shark-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "HP Discount Codes: 60% Off May 2026",
-            "link": "https://www.wired.com/story/hp-coupon-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Design Within Reach Promo Codes: 30% Off | 2026",
-            "link": "https://www.wired.com/story/design-within-reach-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Memorial Day Tech Deals: Sony, Anker, Beats (2026)",
-            "link": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
             "source": "Wired"
         }
     ]
