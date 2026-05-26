@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Aftermath of deadly Israeli strikes in southern Lebanon",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Four people killed after minibus collides with train in Belgium",
+            "link": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Climber carries kite with Palestinian children’s dreams to Everest summit",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/climber-carries-kite-with-palestinian-childrens-dreams-to-everest-summit?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US picks potential partners for using Cold War-era plutonium as fuel",
+            "link": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
+            "link": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "US Senate confirms veteran naval officer Frank Garcia as top Africa envoy",
             "link": "https://www.aljazeera.com/news/2026/5/26/us-senate-confirms-veteran-naval-officer-frank-garcia-as-top-africa-envoy?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Did Trump oversell a broken Iran ceasefire deal?",
-            "link": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "White House proposes NDAs for all US federal workers",
-            "link": "https://www.aljazeera.com/economy/2026/5/26/white-house-proposes-ndas-for-all-us-federal-workers?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Russia slams US for not granting visa to diplomat for UN meeting",
-            "link": "https://www.aljazeera.com/news/2026/5/26/russia-slams-us-for-not-granting-visa-to-diplomat-for-un-meeting?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Former Arsenal midfielder Partey named in Ghana squad ahead of World Cup",
-            "link": "https://www.aljazeera.com/sports/2026/5/26/former-arsenal-midfielder-partey-named-in-ghana-squad-ahead-of-world-cup?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Stubbs fires on debut as Hampshire Hawks down Essex Eagles",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538463.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Ireland host rare home Test as New Zealand seek red-ball rhythm",
             "link": "https://www.espncricinfo.com/ci/content/story/1538405.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Franklin all praise for 'strong, fast and athletic' Nitish Kumar Reddy",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538404.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Foden a 'victim' of football's packed schedule",
             "link": "https://www.bbc.com/sport/football/articles/c1l223ymrrvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,8 +135,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'Long time coming' as Shankland joins Rangers from Hearts",
-            "link": "https://www.bbc.com/sport/football/articles/ce8ppl68lrlo?at_medium=RSS&at_campaign=rss",
+            "title": "Have Rangers just signed Scotland's World Cup number nine?",
+            "link": "https://www.bbc.com/sport/football/articles/c809948rmzlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,12 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "The big VAR debrief - did it deny Bournemouth Champions League spot?",
-            "link": "https://www.bbc.com/sport/football/articles/c4g090pjr7ro?at_medium=RSS&at_campaign=rss",
+            "title": "Efficient Sinner underlines status as French Open favourite with routine win",
+            "link": "https://www.bbc.com/sport/tennis/articles/ceqpp35xvr1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+            "link": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
+            "source": "TechCrunch"
+        },
         {
             "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
             "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
@@ -179,11 +184,6 @@
         {
             "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
             "link": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
-            "link": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
             "source": "TechCrunch"
         },
         {
