@@ -125,6 +125,11 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "How Palace made magical memories during 12 glorious months of Glasner",
+            "link": "https://www.bbc.com/sport/football/articles/c4g5ydnpkqro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Barca agree £69m-plus deal with Newcastle for Gordon",
             "link": "https://www.bbc.com/sport/football/articles/cz02j304egmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -142,11 +147,6 @@
         {
             "title": "Sooryavanshi, 15, stuns again in IPL eliminator",
             "link": "https://www.bbc.com/sport/cricket/articles/cwy205l3nlvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Man Utd closing in on £38m Ederson deal",
-            "link": "https://www.bbc.com/sport/football/articles/czd2ev0ggj5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme",
+            "link": "https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/",
+            "source": "Wired"
+        },
+        {
             "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
             "link": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "Drone Ports and Funding Mayhem: Trump's Ballroom Has Turned Toxic",
             "link": "https://www.wired.com/story/drone-ports-and-funding-mayhem-trumps-ballroom-takes-on-congress/",
-            "source": "Wired"
-        },
-        {
-            "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
-            "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
             "source": "Wired"
         }
     ]
