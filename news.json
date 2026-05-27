@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বিএনপি সরকারের প্রথম ১০০ দিন কেমন কাটল?",
+            "link": "https://www.bbc.com/bengali/articles/cx2119pd749o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "লেবাননে ইসরায়েলের হামলা জোরদার, বহু মানুষ নিহত",
+            "link": "https://www.bbc.com/bengali/articles/c2k2ydlww7jo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "এআই ক্যামেরায় মামলার কথা জানিয়ে ফোনে বার্তা, কী করবেন?",
             "link": "https://www.bbc.com/bengali/articles/ce9pppg2rn1o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,48 +29,43 @@
             "title": "ব্রাজিলের 'হেক্সা স্বপ্ন' কি এবার পূরণ হবে যুক্তরাষ্ট্রে?",
             "link": "https://www.bbc.com/bengali/articles/cnvppjmg611o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বাংলাদেশ থেকে ভারতে আসা মতুয়ারা  কেন নাগরিকত্ব পাওয়া নিয়ে নতুন করে দুশ্চিন্তায়?",
-            "link": "https://www.bbc.com/bengali/articles/cz622pj9109o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইরানের দক্ষিণে 'আত্মরক্ষামূলক' হামলা চালানোর দাবি যুক্তরাষ্ট্রের",
-            "link": "https://www.bbc.com/bengali/articles/c79447ypzz9o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Is the viral ‘Cockroach Janta Party’ a threat to Modi’s government?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_dnrexp-260526-warrinera-modi_05-260526?traffic_source=rss",
+            "title": "Israel ‘intensifies’ attacks in Lebanon killing at least 31 people",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-intensifies-attacks-in-lebanon-killing-at-least-31-people?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Chemical tank rupture kills multiple people in US state of Washington",
-            "link": "https://www.aljazeera.com/news/2026/5/26/chemical-tank-rupture-kills-multiple-people-in-us-state-of-washington?traffic_source=rss",
+            "title": "White House prepares for UFC showdown for Trump’s 80th birthday",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_clip-ufc-showdown-at-white-house-260526?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Aftermath of deadly Israeli strikes in southern Lebanon",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+            "title": "Trump-backed Paxton topples Senator Cornyn in Texas primary run-off",
+            "link": "https://www.aljazeera.com/news/2026/5/27/trump-backed-paxton-topples-senator-cornyn-in-texas-primary-run-off?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Four people killed after minibus collides with train in Belgium",
-            "link": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss",
+            "title": "Group of women and children with alleged ISIL ties returns to Australia",
+            "link": "https://www.aljazeera.com/news/2026/5/27/group-of-women-and-children-with-alleged-isil-ties-returns-to-australia?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Climber carries kite with Palestinian children’s dreams to Everest summit",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/climber-carries-kite-with-palestinian-childrens-dreams-to-everest-summit?traffic_source=rss",
+            "title": "Brazil’s Flavio Bolsonaro meets with Trump amid troubled presidential bid",
+            "link": "https://www.aljazeera.com/news/2026/5/27/brazils-flavio-bolsonaro-meets-with-trump-amid-troubled-presidential-bid?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US picks potential partners for using Cold War-era plutonium as fuel",
-            "link": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
+            "title": "How decision-making happens in Iran",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_draft-3-dnrexp-260526-hashema-iran_decision_making-260526?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+            "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
@@ -73,27 +78,37 @@
             "source": "BBC World"
         },
         {
-            "title": "Four killed as school minibus collides with train in Belgium",
-            "link": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+            "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+            "link": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
-            "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+            "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
+            "link": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Why temperature records are being not only broken but smashed",
-            "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Nasa unveils next steps to build permanent Moon base",
-            "link": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
+            "title": "Three killed and dozens injured in Israeli strike on Gaza City, medics and witnesses say",
+            "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "'Predictable' - GT's bowling is 'a bit like SRH's batting,' says Tom Moody",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538476.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Bhuvneshwar stays ahead of Rabada in IPL 2026 Purple Cap race",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538474.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Mo Bobat: RCB 'walk towards pressure situations rather than away from them'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538469.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Stubbs fires on debut as Hampshire Hawks down Essex Eagles",
             "link": "https://www.espncricinfo.com/ci/content/story/1538463.html?ex_cid=OTC-RSS",
@@ -107,21 +122,6 @@
         {
             "title": "Gill admits GT's ground fielding 'not up to mark'",
             "link": "https://www.espncricinfo.com/ci/content/story/1538457.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Patidar leads the way as RCB storm into second straight final",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538439.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Explosive top orders in focus as RR face bogey team SRH",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538371.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Dattani and spinners take Hampshire to first Blast win",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538418.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -167,8 +167,8 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Trump Admin permits Volvo to keep selling connected cars in the U.S.",
-            "link": "https://techcrunch.com/2026/05/26/trump-admin-permits-volvo-to-keep-selling-connected-cars-in-the-u-s/",
+            "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+            "link": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
             "source": "TechCrunch"
         },
         {
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Pope Leo Schooled the Tech Bros on Tolkien",
-            "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+            "title": "Paramount+ Coupon Codes and Deals for June 2026",
+            "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
-            "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+            "title": "Home Depot Promo Codes: 50% Off in June 2026",
+            "link": "https://www.wired.com/story/home-depot-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "The Best Movies to Stream This Month (May 2026)",
-            "link": "https://www.wired.com/story/the-9-best-movies-to-stream-right-now/",
+            "title": "Booking.com Promo Codes: 20% Off | June 2026",
+            "link": "https://www.wired.com/story/booking-com-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
-            "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+            "title": "50% Off DoorDash Promo Code | June 2026",
+            "link": "https://www.wired.com/story/doordash-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Internet Starts to Return in Iran After 3-Month Blackout",
-            "link": "https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout/",
+            "title": "Rover Promo Codes and Referral Deals for June 2026",
+            "link": "https://www.wired.com/story/rover-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "7 Best Outdoor Security Cameras (2026) After Testing Dozens",
-            "link": "https://www.wired.com/gallery/best-outdoor-security-cameras/",
+            "title": "Dell Coupon Codes: 20% Off for June 2026",
+            "link": "https://www.wired.com/story/dell-coupon-code/",
             "source": "Wired"
         }
     ]
