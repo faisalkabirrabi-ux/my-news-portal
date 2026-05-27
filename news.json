@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Is the viral ‘Cockroach Janta Party’ a threat to Modi’s government?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_dnrexp-260526-warrinera-modi_05-260526?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Chemical tank rupture kills multiple people in US state of Washington",
+            "link": "https://www.aljazeera.com/news/2026/5/26/chemical-tank-rupture-kills-multiple-people-in-us-state-of-washington?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Aftermath of deadly Israeli strikes in southern Lebanon",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "US picks potential partners for using Cold War-era plutonium as fuel",
             "link": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
-            "link": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US Senate confirms veteran naval officer Frank Garcia as top Africa envoy",
-            "link": "https://www.aljazeera.com/news/2026/5/26/us-senate-confirms-veteran-naval-officer-frank-garcia-as-top-africa-envoy?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -145,46 +145,51 @@
             "source": "BBC Sports"
         },
         {
-            "title": "London City pursuing Putellas after Barca exit",
-            "link": "https://www.bbc.com/sport/football/articles/cd9ppwqpvqdo?at_medium=RSS&at_campaign=rss",
+            "title": "Coventry's Lampard named LMA manager of the year",
+            "link": "https://www.bbc.com/sport/football/articles/cp3pp3xzw8ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Efficient Sinner underlines status as French Open favourite with routine win",
-            "link": "https://www.bbc.com/sport/tennis/articles/ceqpp35xvr1o?at_medium=RSS&at_campaign=rss",
+            "title": "Spurs launch review after season of injury woe",
+            "link": "https://www.bbc.com/sport/football/articles/cz0225ly855o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
+            "link": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+            "link": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Trump Admin permits Volvo to keep selling connected cars in the U.S.",
+            "link": "https://techcrunch.com/2026/05/26/trump-admin-permits-volvo-to-keep-selling-connected-cars-in-the-u-s/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
+            "link": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+            "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
             "link": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
             "source": "TechCrunch"
         },
         {
-            "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
-            "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-            "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "This startup is betting India’s gig economy can train the world’s robots",
-            "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’",
-            "link": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
-            "link": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
-            "source": "TechCrunch"
+            "title": "Pope Leo Schooled the Tech Bros on Tolkien",
+            "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+            "source": "Wired"
         },
         {
             "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
@@ -209,11 +214,6 @@
         {
             "title": "7 Best Outdoor Security Cameras (2026) After Testing Dozens",
             "link": "https://www.wired.com/gallery/best-outdoor-security-cameras/",
-            "source": "Wired"
-        },
-        {
-            "title": "I've Tested Dozens of Packing Cubes. Here's What's Worth Taking on Your Next Trip",
-            "link": "https://www.wired.com/gallery/the-best-packing-cubes/",
             "source": "Wired"
         }
     ]
