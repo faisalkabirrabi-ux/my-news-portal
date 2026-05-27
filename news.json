@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "'রাতে সুস্থ আছে কইয়া বাচ্চা ফেরত দিলো, ভোরে আর নাই'",
+            "link": "https://www.bbc.com/bengali/articles/cvgzl9w7vgpo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ঝড়-বৃষ্টি, ভোগান্তি আর দুর্ঘটনার মাঝেও ঈদে ঘরে ফেরার চেষ্টা",
             "link": "https://www.bbc.com/bengali/articles/c0m222ng83no?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "'পরিস্থিতি খারাপ, কোরবানির ঈদের আগে এমন কখনো দেখিনি'",
+            "link": "https://www.bbc.com/bengali/articles/cx21v7qq08po?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,52 +29,52 @@
             "title": "ইসলামের বিধান অনুযায়ী কোরবানির মাংসের তিনভাগ করা কতটা জরুরি?",
             "link": "https://www.bbc.com/bengali/articles/c2k22gn4120o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "লেবাননে ইসরায়েলের হামলা জোরদার, বহু মানুষ নিহত",
-            "link": "https://www.bbc.com/bengali/articles/c2k2ydlww7jo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বিএনপি সরকারের প্রথম ১০০ দিন কেমন কাটল?",
-            "link": "https://www.bbc.com/bengali/articles/cx2119pd749o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Video: Muslims around the world attend Eid prayers",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/video-muslims-around-the-world-attend-eid-prayers?traffic_source=rss",
+            "title": "UFC fighting cage rises on White House lawn for US and Trump celebrations",
+            "link": "https://www.aljazeera.com/sports/2026/5/27/ufc-fighting-cage-rises-on-white-house-lawn-for-us-and-trump-celebrations?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "German police clash with Crystal Palace and Vallecano fans at Europa final",
-            "link": "https://www.aljazeera.com/sports/2026/5/27/german-police-clash-with-english-and-spanish-fans-ahead-of-europa-final?traffic_source=rss",
+            "title": "Spain police enter PM Sanchez’s Socialist Party HQ in corruption probe",
+            "link": "https://www.aljazeera.com/news/2026/5/27/spain-police-enter-pm-sanchezs-socialist-party-hq-in-corruption-probe?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ken Paxton wins Texas primary election: Results and key takeaways",
-            "link": "https://www.aljazeera.com/news/2026/5/27/ken-paxton-wins-texas-primary-election-results-and-key-takeaways?traffic_source=rss",
+            "title": "Pochettino raises expectations as he reveals USMNT 2026 World Cup roster",
+            "link": "https://www.aljazeera.com/sports/2026/5/27/pochettino-raises-expectations-as-he-reveals-usmnt-2026-world-cup-roster?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel claims head of Hamas military wing killed in Gaza strike",
-            "link": "https://www.aljazeera.com/news/2026/5/27/israel-claims-head-of-hamas-military-wing-killed-in-gaza-strike?traffic_source=rss",
+            "title": "The West only discovers property rights when the landowners are white",
+            "link": "https://www.aljazeera.com/opinions/2026/5/27/the-west-only-discovers-property-rights-when-the-landowners-are-white?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli air attack kills at least two in southern Lebanon",
-            "link": "https://www.aljazeera.com/news/2026/5/27/israeli-air-attack-kills-at-least-two-in-southern-lebanon?traffic_source=rss",
+            "title": "In Britain, Brexit is debated again as Starmer’s grip on power slips",
+            "link": "https://www.aljazeera.com/news/2026/5/27/brexit-debate-reignites?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Messi set for more tests ahead of World Cup but Argentina are optimistic",
-            "link": "https://www.aljazeera.com/sports/2026/5/27/messi-set-for-more-tests-ahead-of-world-cup-but-argentina-not-disheartened?traffic_source=rss",
+            "title": "Doctor buried after he died treating Ebola patients in DRC",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/doctor-buried-after-he-died-treating-ebola-patients-in-drc?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+            "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
             "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Five people found alive after week trapped in flooded Laos cave",
+            "link": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,18 +83,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Nasa unveils next steps to build permanent Moon base",
-            "link": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-            "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
-            "link": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
+            "title": "Woman caught after 30 years on the run is jailed for armed robberies",
+            "link": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -94,6 +94,21 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Alice Tector replaces injured Laura Delany in Ireland's T20 World Cup squad",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538496.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "World Cup contenders England and India hope to get their combinations right",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538421.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Ireland opt to bowl; Matt Henry ruled out of Test with injury",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538490.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Peake 'picked for a reason' but Australia coach asks for patience",
             "link": "https://www.espncricinfo.com/ci/content/story/1538480.html?ex_cid=OTC-RSS",
@@ -110,19 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Mo Bobat: RCB 'walk towards pressure situations rather than away from them'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538469.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Rashid and Zadran rested for one-off Test against India",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538386.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Patidar leads the way as RCB storm into second straight final",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538439.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Barcelona in talks with Newcastle to sign Gordon",
+            "link": "https://www.bbc.com/sport/football/articles/cz02j304egmo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Nuno to stay as West Ham boss after relegation",
@@ -145,17 +150,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'Like the Eiffel Tower at night' - Osaka sparkles in French Open outfit",
-            "link": "https://www.bbc.com/sport/tennis/articles/cr7ppkp598zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "NI's O'Neill signs four-year contract extension",
-            "link": "https://www.bbc.com/sport/articles/ce8pmjl6q7vo?at_medium=RSS&at_campaign=rss",
+            "title": "Travelling solo and sharing rooms – what is life like on tennis’ lower rung?",
+            "link": "https://www.bbc.com/sport/tennis/articles/cgjpp5408jdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Tech CEOs are apparently suffering from AI psychosis",
+            "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Robinhood now lets your AI agents trade stocks",
+            "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
             "link": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
@@ -177,14 +187,24 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
-            "link": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
-            "source": "TechCrunch"
+            "title": "The Osprey Farpoint 40 Has Been My Go-To Travel Bag for 8 Years",
+            "link": "https://www.wired.com/story/osprey-farpoint-40-rave/",
+            "source": "Wired"
         },
         {
-            "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-            "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-            "source": "TechCrunch"
+            "title": "Waymo Takes Its Self-Driving Cars to Virginia",
+            "link": "https://www.wired.com/story/waymo-takes-its-self-driving-cars-to-virginia/",
+            "source": "Wired"
+        },
+        {
+            "title": "Department of Labor Tells Employees to Report Anyone Prioritizing DEI",
+            "link": "https://www.wired.com/story/department-of-labor-tells-employees-to-report-anyone-prioritizing-dei/",
+            "source": "Wired"
+        },
+        {
+            "title": "Corsair Galleon 100 SD Review: Stream Deck Now Included",
+            "link": "https://www.wired.com/review/review-corsair-galleon-100-sd/",
+            "source": "Wired"
         },
         {
             "title": "A New Species of Tiny Octopus Was Discovered in the Galápagos Islands",
@@ -194,26 +214,6 @@
         {
             "title": "NASA Details Its Plan to Build a Lunar Base at the Moon’s South Pole",
             "link": "https://www.wired.com/story/nasa-details-its-plan-to-build-a-lunar-base-at-the-moons-south-pole/",
-            "source": "Wired"
-        },
-        {
-            "title": "Home Depot Promo Codes: 50% Off in June 2026",
-            "link": "https://www.wired.com/story/home-depot-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Booking.com Promo Codes: 20% Off | June 2026",
-            "link": "https://www.wired.com/story/booking-com-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "50% Off DoorDash Promo Code | June 2026",
-            "link": "https://www.wired.com/story/doordash-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Rover Promo Codes and Referral Deals for June 2026",
-            "link": "https://www.wired.com/story/rover-promo-code/",
             "source": "Wired"
         }
     ]
