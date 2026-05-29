@@ -6,6 +6,11 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "ভাগ্যের এক চমক: ভুল থেকে যেভাবে  ম্যাচ বা আধুনিক দেশলাইয়ের আবিষ্কার",
+            "link": "https://www.bbc.com/bengali/articles/c5y7wg5dz93o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "রাশিয়া থেকে আকাশ প্রতিরক্ষা সরঞ্জাম পেতে যাচ্ছে তালেবান সরকার",
             "link": "https://www.bbc.com/bengali/articles/crkp5xn87p5o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,57 +29,52 @@
             "title": "সবখানে ঈদ, এখানে অপেক্ষা",
             "link": "https://www.bbc.com/bengali/articles/cd7pwqj2djdo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "কলকাতা ও আশেপাশে এবারে কোরবানির ঈদ কতটা অন্যরকম ছিল?",
-            "link": "https://www.bbc.com/bengali/articles/cjrpgw39x3yo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
-            "link": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss",
+            "title": "Australian court sets August date for ‘mushroom murderer’ appeal hearing",
+            "link": "https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Blue Origin rocket explodes on launch pad during test",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/blue-origin-rocket-explodes-on-launch-pad-during-test?traffic_source=rss",
+            "title": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
+            "link": "https://www.aljazeera.com/news/2026/5/29/dangerous-colonial-occupation-israels-digital-west-bank-land-register?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
-            "link": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal?traffic_source=rss",
+            "title": "WHO chief visits DRC amidst Ebola crisis",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "At least six feared dead after bridge collapses in northern India",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/at-least-six-feared-dead-after-bridge-collapses-in-northern-india?traffic_source=rss",
+            "title": "US-Iran 60-day proposal: What we know",
+            "link": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Messi to captain Argentina at World Cup as Scaloni plays down injury fears",
-            "link": "https://www.aljazeera.com/sports/2026/5/29/messi-to-captain-argentina-at-world-cup-as-scaloni-plays-down-injury-fears?traffic_source=rss",
+            "title": "Kenyan court suspends US Ebola quarantine facility plan",
+            "link": "https://www.aljazeera.com/news/2026/5/29/kenyan-court-suspends-us-ebola-quarantine-facility-plan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "State of trauma: Israel wrestles with mental aftershocks of war",
-            "link": "https://www.aljazeera.com/news/2026/5/29/state-of-trauma-israel-wrestles-with-mental-aftershocks-of-war?traffic_source=rss",
+            "title": "How the end of the nuclear file could reshape Iran, and the region",
+            "link": "https://www.aljazeera.com/opinions/2026/5/29/how-the-end-of-the-nuclear-file-could-reshape-iran-and-the-region?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Nato condemns Russian 'recklessness' after drone hits Romanian apartment block",
-            "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+            "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+            "link": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Exploding rocket casts doubts over Nasa's Moon plans",
+            "link": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
             "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Are US and Iran close to peace or sliding back to war?",
-            "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -88,12 +88,17 @@
             "source": "BBC World"
         },
         {
-            "title": "Moment Blue Origin rocket explodes during test in Florida",
-            "link": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
+            "title": "Italy restores lucky testicles on bull mosaic worn down by tourists",
+            "link": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "South Africa Women's maiden tour to Zimbabwe to feature five T20Is",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538776.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Babar returns while understrength Australia look to 2027 and beyond",
             "link": "https://www.espncricinfo.com/ci/content/story/1538704.html?ex_cid=OTC-RSS",
@@ -120,9 +125,19 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Blundell, Foxcroft and Smith give New Zealand vice-grip on Ireland Test",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538681.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Is Grand Slam singles woe for British players a worry for Wimbledon?",
+            "link": "https://www.bbc.com/sport/tennis/articles/c072y3k5mpno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Konate set to leave Liverpool on free transfer",
+            "link": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "I spent most of career in pain because of degenerative condition - Nadal",
+            "link": "https://www.bbc.com/sport/tennis/articles/ckgp4lw4npno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Emotional Littler underlines greatness after almost quitting Premier League",
@@ -130,28 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "French Open men's draw blown wide open - who can capitalise on Sinner exit?",
-            "link": "https://www.bbc.com/sport/tennis/articles/c5y7zyezj4po?at_medium=RSS&at_campaign=rss",
+            "title": "From non-league to Champions League - Raya's fairytale rise",
+            "link": "https://www.bbc.com/sport/football/articles/ce8pm9zdmy9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Messi to represent Argentina at sixth World Cup",
             "link": "https://www.bbc.com/sport/football/articles/cr5p96l270ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "McGrath says Israel fixtures controversy to 'heat up' after tennis balls protest",
-            "link": "https://www.bbc.com/sport/football/articles/cvgz9n103zvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Hodgkinson ready for 'battle of world records' in London",
-            "link": "https://www.bbc.com/sport/athletics/articles/c202y959xxeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "From non-league to Champions League - Raya's fairytale rise",
-            "link": "https://www.bbc.com/sport/football/articles/ce8pm9zdmy9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "AirDoctor Coupon Codes: 40% Off | June 2026",
-            "link": "https://www.wired.com/story/airdoctor-coupon-code/",
+            "title": "This MacBook Privacy Screen Totally Changed How I Work in Public",
+            "link": "https://www.wired.com/story/targus-privacy-screen-travel/",
             "source": "Wired"
         },
         {
-            "title": "Meta Quest Promo Codes and Coupons for June 2026",
-            "link": "https://www.wired.com/story/meta-quest-promo-code/",
+            "title": "HP Omnibook 3 Review: Redefining the Budget Laptop",
+            "link": "https://www.wired.com/review/hp-omnibook-3/",
             "source": "Wired"
         },
         {
-            "title": "Target Promo Code: $50 Off | June 2026",
-            "link": "https://www.wired.com/story/target-promo-code/",
+            "title": "Physical Media Is Making a Comeback. The Next Console Generation Might Kill It",
+            "link": "https://www.wired.com/story/physical-media-is-having-a-comeback-the-next-console-generation-may-kill-it/",
             "source": "Wired"
         },
         {
-            "title": "eBay Coupons: 20% Off in June 2026",
-            "link": "https://www.wired.com/story/ebay-coupon-code/",
+            "title": "GoRuck GR1 Review: Great For Travel, Rucking, the Gym, and More",
+            "link": "https://www.wired.com/story/the-goruck-gr1-is-a-rucking-great-pack/",
             "source": "Wired"
         },
         {
-            "title": "Bartesian Discount Codes: 35% Off",
-            "link": "https://www.wired.com/story/bartesian-discount-code/",
+            "title": "Streamers Like Clavicular Are Humiliating OnlyFans Girls For Clout",
+            "link": "https://www.wired.com/story/streamers-like-clavicular-are-humiliating-onlyfans-girls-for-clout/",
             "source": "Wired"
         },
         {
-            "title": "The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook",
-            "link": "https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/",
+            "title": "The Best Espresso Accessories for Home Baristas (2026)",
+            "link": "https://www.wired.com/story/best-espresso-accessories-for-home-baristas/",
             "source": "Wired"
         }
     ]
