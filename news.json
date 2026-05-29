@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "রাশিয়া থেকে আকাশ প্রতিরক্ষা সরঞ্জাম পেতে যাচ্ছে তালেবান সরকার",
+            "link": "https://www.bbc.com/bengali/articles/crkp5xn87p5o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "নরম খোলসের কাঁকড়া নিয়ে আগ্রহ বাড়ছে কেন",
+            "link": "https://www.bbc.com/bengali/articles/c20314dywwvo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "সবখানে ঈদ, এখানে অপেক্ষা",
             "link": "https://www.bbc.com/bengali/articles/cd7pwqj2djdo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "গরুর মাংসের শুঁটকি- সময় বদলালেও যে খাবার এখনো হারিয়ে যায়নি",
             "link": "https://www.bbc.com/bengali/articles/cjdpzmd3581o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইরানের সঙ্গে চুক্তির আগে ইসরায়েল সংক্রান্ত আব্রাহাম অ্যাকর্ডসকে কেন সামনে আনছেন ট্রাম্প?",
-            "link": "https://www.bbc.com/bengali/articles/cy92rvned37o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইসলামের নবী প্রথম কোন পশু কোরবানি করেছিলেন?",
-            "link": "https://www.bbc.com/bengali/articles/cjepl0yk998o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Tense protests erupt outside Delaney Hall immigrant detention centre in US",
-            "link": "https://www.aljazeera.com/gallery/2026/5/28/tense-protests-erupt-outside-delaney-hall-immigrant-detention-centre-in-us?traffic_source=rss",
+            "title": "Lebanon Latest: Mass evacuations as Israel expands attacks",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/lebanon-latest-mass-evacuations-as-israel-expands-attacks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "PSG vs Arsenal: UEFA Champions League final – 10 things to know",
-            "link": "https://www.aljazeera.com/sports/2026/5/28/psg-vs-arsenal-champions-league-final-teams-start-time-lineups?traffic_source=rss",
+            "title": "Anthropic soars to $965bn valuation, leapfrogging OpenAI",
+            "link": "https://www.aljazeera.com/economy/2026/5/29/anthropic-soars-to-965bn-valuation-leapfrogging-openai?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Indians celebrate Eid al-Adha amid prayer restrictions",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/indians-celebrate-eid-al-adha-amid-prayer-restrictions?traffic_source=rss",
+            "title": "US Treasury secretary confirms plans for banknote featuring Trump’s face",
+            "link": "https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ireland and Qatar halted twice by protests against upcoming Israel fixtures",
-            "link": "https://www.aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture?traffic_source=rss",
+            "title": "US to designate two Brazilian gangs as ‘terrorist’ organisations",
+            "link": "https://www.aljazeera.com/news/2026/5/29/us-to-designate-two-brazilian-gangs-as-terrorist-organisations?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Colombia’s first left-wing gov’t has reduced poverty, but has pile of debt",
-            "link": "https://www.aljazeera.com/economy/2026/5/28/colombias-first-left-wing-govt-has-reduced-poverty-but-has-pile-of-debt?traffic_source=rss",
+            "title": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Guatemala denies agreeing to US strikes against drug traffickers",
-            "link": "https://www.aljazeera.com/news/2026/5/28/guatemala-denies-agreeing-to-us-strikes-against-drug-traffickers?traffic_source=rss",
+            "title": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,22 +78,32 @@
             "source": "BBC World"
         },
         {
-            "title": "Israel hits Lebanese capital in 'targeted strike'",
-            "link": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+            "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
+            "link": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
-            "link": "https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss",
+            "title": "Moment Blue Origin rocket explodes during test in Florida",
+            "link": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
-            "link": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss",
+            "title": "Italy restores lucky testicles on bull mosaic worn down by tourists",
+            "link": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "David Hussey steps down as Victoria's head of men's cricket",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538699.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "'Really special' - Yastika flourishes after her long road back",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538694.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Rodrigues, Yastika, Nandani star as India secure first blood",
             "link": "https://www.espncricinfo.com/ci/content/story/1538676.html?ex_cid=OTC-RSS",
@@ -115,18 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "RR ride on teen steam against steady GT with final in sight",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538651.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Jurel: 'I am meant to keep the ship steady and take it forward'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538593.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Emotional Littler beats Humphries in epic Premier League final",
-            "link": "https://www.bbc.com/sport/darts/articles/cyv2lp0r3p4o?at_medium=RSS&at_campaign=rss",
+            "title": "Emotional Littler underlines greatness after almost quitting Premier League",
+            "link": "https://www.bbc.com/sport/darts/articles/cg7pmry8gkgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -157,6 +157,21 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
+            "link": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+            "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+            "link": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
             "link": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
             "source": "TechCrunch"
@@ -172,19 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Asana acquires no-code agent-builder StackAI",
-            "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Bluesky embraces long-form content to counter X Articles",
-            "link": "https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Hackers are trying to steal Signal users’ backups in new wave of phishing attacks",
-            "link": "https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/",
-            "source": "TechCrunch"
+            "title": "The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook",
+            "link": "https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/",
+            "source": "Wired"
         },
         {
             "title": "The $6 Billion Chinese Startup Trying to Build Hands for Every Robot",
@@ -209,11 +214,6 @@
         {
             "title": "Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach",
             "link": "https://www.wired.com/story/oura-ring-5/",
-            "source": "Wired"
-        },
-        {
-            "title": "Cotopaxi Allpa 35L Travel Pack Del Día Dark: Sustainable and Chic",
-            "link": "https://www.wired.com/story/bag-check-rave-cotopaxi-allpa-35l-travel-pack-del-dia-dark/",
             "source": "Wired"
         }
     ]
