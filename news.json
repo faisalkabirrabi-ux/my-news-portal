@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ইরানের বিষয়ে 'চূড়ান্ত সিদ্ধান্ত' নিতে ট্রাম্পের বৈঠক, তবে চুক্তির ঘোষণা হয়নি",
+            "link": "https://www.bbc.com/bengali/articles/c1e21x4ze9go?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ভারত থেকে বাংলাদেশে 'ফিরতে' চাওয়াদের সীমান্তে অপেক্ষা, জেরা এবং তারপর",
             "link": "https://www.bbc.com/bengali/articles/cwy2r9kkqe0o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,19 @@
             "title": "ভাগ্যের এক চমক: ভুল থেকে যেভাবে  ম্যাচ বা আধুনিক দেশলাইয়ের আবিষ্কার",
             "link": "https://www.bbc.com/bengali/articles/c5y7wg5dz93o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "রাশিয়া থেকে আকাশ প্রতিরক্ষা সরঞ্জাম পেতে যাচ্ছে তালেবান সরকার",
-            "link": "https://www.bbc.com/bengali/articles/crkp5xn87p5o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
+            "link": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Frustration in Lebanon as Israel expands invasion",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Louisiana lawmakers pass congressional map favouring Republicans",
             "link": "https://www.aljazeera.com/news/2026/5/30/louisiana-lawmakers-pass-congressional-map-favouring-republicans?traffic_source=rss",
@@ -53,14 +63,14 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "ICE agent arrested over shooting of Venezuelan man in US immigration raid",
-            "link": "https://www.aljazeera.com/news/2026/5/29/ice-agent-arrested-over-shooting-of-venezuelan-man-in-us-immigration-raid?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+            "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
-            "title": "‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs",
-            "link": "https://www.aljazeera.com/news/2026/5/29/arbitrary-measures-lula-slams-us-terror-designation-for-brazil-gangs?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
+            "link": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
@@ -73,11 +83,6 @@
             "source": "BBC World"
         },
         {
-            "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-            "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "First of five men found alive in flooded Laos cave rescued",
             "link": "https://www.bbc.com/news/articles/cvgzxjrkvn8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -86,14 +91,24 @@
             "title": "Ghana parliament passes anti-LGBTQ+ bill",
             "link": "https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Israel put on UN sexual violence in warzones blacklist for first time",
-            "link": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "'Disappointing' - Sangakkara on Sam Curran turning out for Surrey with IPL still on",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538912.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Henry's all-round heroics hands West Indies win against Pakistan",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538916.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Solanki banks on Gill-Sai Sudharsan's 'immense appetite for run-scoring'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538915.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Sooryavanshi finishes IPL 2026 with big lead in Orange Cap race",
             "link": "https://www.espncricinfo.com/ci/content/story/1538908.html?ex_cid=OTC-RSS",
@@ -110,23 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "McCullum refreshed and 'keen to finish job we started' with England",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538857.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Dawson delivers as Surrey are outgunned by Hampshire",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538886.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Leicestershire sneak home after Budinger injured in horror collision",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538880.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "The tactics that could win Arsenal the Champions League",
+            "link": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "The rise of PSG: From 'bling-bling' failings to European powerhouse",
             "link": "https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
+            "link": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -142,16 +152,6 @@
         {
             "title": "Arsenal's Timber fit to start Champions League final",
             "link": "https://www.bbc.com/sport/football/articles/clypqg2pr2ko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Mourinho signs three-year deal to return as Real Madrid boss",
-            "link": "https://www.bbc.com/sport/football/articles/c5yx989zpn3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why beating Djokovic is coming of age moment for Fonseca",
-            "link": "https://www.bbc.com/sport/tennis/articles/c142127px58o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
