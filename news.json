@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "US Congress advances American-Israeli military integration plan",
+            "link": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "PSG beat Arsenal to win back-to-back Champions League titles after shootout",
+            "link": "https://www.aljazeera.com/sports/2026/5/30/psg-beat-arsenal-to-win-back-to-back-champions-league-titles-after-shootout?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Women bear the brunt of DRC’s Ebola outbreak",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/women-bear-the-brunt-of-drcs-ebola-outbreak?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Putin says drone that crashed in Romania likely Ukrainian",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/putin-says-drone-that-crashed-in-romania-likely-ukrainian?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Is the war in Ukraine entering a new phase?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
-            "link": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Qatar says temporary charges ‘negotiable’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/qatar-says-temporary-charges-negotiable?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Bruce Springsteen calls out Trump’s ‘reckless’ administration",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/bruce-springsteen-calls-out-trumps-reckless-administration?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,12 +88,27 @@
             "source": "BBC World"
         },
         {
-            "title": "Ebola spread in DR Congo 'alarming', charity warns, as WHO chief visits worst-hit area",
+            "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
             "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Holden, De Caires fire Middlesex to first win of season",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539002.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Hermann hundred puts South Africa A in command at Canterbury",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538994.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Tendulkar: Sooryavanshi is 'truly special'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1538995.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Storm delays Gujarat Titans' arrival in Ahmedabad for IPL final",
             "link": "https://www.espncricinfo.com/ci/content/story/1538971.html?ex_cid=OTC-RSS",
@@ -105,24 +120,14 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Tendulkar: Sooryavanshi is 'truly special'",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538995.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Kemp makes the difference as England square the series in Bristol",
             "link": "https://www.espncricinfo.com/ci/content/story/1538960.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Hermann hundred puts South Africa A in command at Canterbury",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538994.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Patidar: Mindset is the same as last year's final",
-            "link": "https://www.espncricinfo.com/ci/content/story/1538969.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Why crucial penalty miss was 'cruel blow' for Arsenal standout Gabriel",
+            "link": "https://www.bbc.com/sport/football/articles/clypr1lzxvno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "PSG go back-to-back and join 'greatest of all time'",
@@ -135,6 +140,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Arsenal 'pain' will fuel fire after Champions League heartbreak",
+            "link": "https://www.bbc.com/sport/football/articles/c072l8mkp92o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "PSG retain Champions League with penalty shootout win over Arsenal",
             "link": "https://www.bbc.com/sport/football/videos/c302yz3p799o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -143,19 +153,19 @@
             "title": "Gilmour ruled out of World Cup - could Man Utd's Fletcher replace him?",
             "link": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Defending champion Gauff out of French Open",
-            "link": "https://www.bbc.com/sport/tennis/articles/c1j24pxyy66o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "A team in need of change - why Liverpool parted with Slot",
-            "link": "https://www.bbc.com/sport/football/articles/ckgp7zzvgy3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+            "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "This weekend’s two biggest movies were both directed by YouTubers",
+            "link": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Snap alums unveil Ghost Angels fund",
             "link": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
@@ -174,16 +184,6 @@
         {
             "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
             "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
-            "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-            "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
             "source": "TechCrunch"
         },
         {
