@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "What’s at stake in Ethiopia’s elections?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/5/31/whats-at-stake-in-ethiopias-elections?traffic_source=rss",
+            "title": "Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera",
+            "link": "https://www.aljazeera.com/news/2026/5/31/nicaragua-confirms-death-in-custody-of-indigenous-leader-brooklyn-rivera?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Explosives store blast kills dozens in Myanmar village",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/explosives-store-blast-kills-dozens-in-myanmar-village?traffic_source=rss",
+            "title": "Can AI cure loneliness? South Korea’s robot companions for seniors",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/can-ai-cure-loneliness-south-koreas-robot-companions-for-seniors?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Building collapses in New Delhi, some people rescued, more feared trapped",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/building-collapses-in-new-delhi-some-people-rescued-more-feared-trapped?traffic_source=rss",
+            "title": "New Jersey orders curfew after immigration protests escalate",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/new-jersey-orders-curfew-after-immigration-protests-escalate?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US measure to deepen Israel military cooperation faces bipartisan pushback",
-            "link": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
+            "title": "Ethiopia to vote in first elections since Tigray peace deal",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US Congress moves to deepen military ties with Israel: Why it matters",
-            "link": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
+            "title": "Kohli powers Bengaluru to ‘stuff of dreams’ back-to-back IPL titles",
+            "link": "https://www.aljazeera.com/sports/2026/5/31/kohli-powers-bengaluru-to-stuff-of-dreams-back-to-back-ipl-titles?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "The largest Israeli advance into Lebanon in years",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
+            "title": "As Ethiopia votes, its deepening human rights crisis must be addressed",
+            "link": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,7 +83,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Colombia votes in presidential election that could redefine relations with US",
+            "title": "Polls close in Colombia presidential election that may reshape relations with US",
             "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Lintott, Finch mastermind Kent thrashing of Surrey",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539081.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Charlie Allison steers Eagles past high-flying Falcons",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539080.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Kohli: 'Didn't feel like the same pressure as last year'",
             "link": "https://www.espncricinfo.com/ci/content/story/1539102.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -102,11 +112,6 @@
         {
             "title": "Kohli, bowlers lead RCB to second straight IPL title",
             "link": "https://www.espncricinfo.com/ci/content/story/1539104.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Lintott, Finch mastermind Kent thrashing of Surrey",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539081.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Charlie Allison steers Eagles past high-flying Falcons",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539080.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Liverpool to open formal talks with Iraola",
             "link": "https://www.bbc.com/sport/football/articles/c5y7ezzqge8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -132,6 +132,11 @@
         {
             "title": "Goalkeeper tactical timeouts to be banned at World Cup",
             "link": "https://www.bbc.com/sport/football/articles/c9v39x2v8yxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Stick or twist for Arteta - how do Arsenal take next step?",
+            "link": "https://www.bbc.com/sport/football/articles/c70vlvyy2pdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Stick or twist for Arteta - how do Arsenal take next step?",
-            "link": "https://www.bbc.com/sport/football/articles/c70vlvyy2pdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Exeter stun Leicester to set up Prem play-off drama",
-            "link": "https://www.bbc.com/sport/rugby-union/articles/c5ye46nn1elo?at_medium=RSS&at_campaign=rss",
+            "title": "No previous French Open champions left - who will seize chance?",
+            "link": "https://www.bbc.com/sport/tennis/articles/cm2pm56z85jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Erin Brockovich takes aim at data center secrecy",
+            "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+            "source": "TechCrunch"
+        },
         {
             "title": "This weekend’s two biggest movies were both directed by YouTubers",
             "link": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
@@ -179,11 +184,6 @@
         {
             "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
             "link": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
-            "link": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
             "source": "TechCrunch"
         },
         {
