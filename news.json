@@ -33,6 +33,11 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
+            "link": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera",
             "link": "https://www.aljazeera.com/news/2026/5/31/nicaragua-confirms-death-in-custody-of-indigenous-leader-brooklyn-rivera?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -58,18 +63,18 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "As Ethiopia votes, its deepening human rights crisis must be addressed",
-            "link": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Israel seizes castle in Lebanon as it expands ground offensive",
             "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-            "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+            "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+            "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Trump seeking edits to US-Iran deal, US media report",
+            "link": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,13 +88,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Polls close in Colombia presidential election that may reshape relations with US",
-            "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "South Africa made to look like fools over World Cup visa issues, says minister",
-            "link": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
+            "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+            "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "No previous French Open champions left - who will seize chance?",
-            "link": "https://www.bbc.com/sport/tennis/articles/cm2pm56z85jo?at_medium=RSS&at_campaign=rss",
+            "title": "Fonseca, 19, shows title credentials by backing up Djokovic win",
+            "link": "https://www.bbc.com/sport/tennis/articles/cj0p6pz1q7vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Everyone Has Their Targets Set on the MacBook Neo",
+            "link": "https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/",
+            "source": "Wired"
+        },
+        {
             "title": "M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens",
             "link": "https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "How Turkey Hacked the Hair Transplant Industry",
             "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-            "source": "Wired"
-        },
-        {
-            "title": "Keychron K2 HE Concrete Edition Review: Rock-Solid Typing",
-            "link": "https://www.wired.com/review/keychron-k2-he-concrete-edition/",
             "source": "Wired"
         }
     ]
