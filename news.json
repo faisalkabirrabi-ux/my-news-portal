@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Iran faces a new energy imbalance, but its options are limited",
-            "link": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss",
+            "title": "Kuwait labels Iran attack ‘heinous aggression’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
-            "link": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
+            "title": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Lula says Brazil cannot ‘accept treatment’ after new US tariffs proposed",
-            "link": "https://www.aljazeera.com/news/2026/6/3/lula-says-brazil-cannot-accept-treatment-after-new-us-tariffs-proposed?traffic_source=rss",
+            "title": "Deadly fire rips through New Delhi hotel",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/deadly-fire-rips-through-new-delhi-hotel?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US cites forced labour concerns as grounds for new tariffs",
-            "link": "https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss",
+            "title": "Japan’s football team sports cowboy hats ahead of World Cup",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/japans-football-team-sports-cowboy-hats-ahead-of-world-cup-2?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Netanyahu downplays US-Israel rift after Trump confirms criticism",
-            "link": "https://www.aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss",
+            "title": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
+            "link": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "FIFA World Cup 2026: Can Asian champions Qatar reach the knockouts?",
-            "link": "https://www.aljazeera.com/sports/2026/6/3/fifa-world-cup-2026-qatar-squad-team-players-group-knockouts?traffic_source=rss",
+            "title": "Ten years on, world remembers Muhammad Ali ‘the Greatest’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ten-years-on-world-remembers-muhammad-ali-the-greatest?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,6 +73,11 @@
             "source": "BBC World"
         },
         {
+            "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+            "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
             "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -80,11 +85,6 @@
         {
             "title": "Foreign nationals among at least 21 killed in Delhi fire",
             "link": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "US announces new tariffs over forced labour concerns",
-            "link": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -125,18 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Sabalenka 'fell into dark hole mentally' in shock quarter-final loss",
-            "link": "https://www.bbc.com/sport/tennis/articles/clypeq8ljp6o?at_medium=RSS&at_campaign=rss",
+            "title": "Title favourite Sabalenka lets another Slam opportunity slip from her grasp",
+            "link": "https://www.bbc.com/sport/tennis/articles/cj4pr12q4ryo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Strict IPL stance could make things messy for England - Stokes",
-            "link": "https://www.bbc.com/sport/cricket/articles/cz724r8nr7zo?at_medium=RSS&at_campaign=rss",
+            "title": "England in serious debt after Ashes and repayment must start now",
+            "link": "https://www.bbc.com/sport/cricket/articles/cvgz2nk7z8yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Iraola will make Liverpool fans excited again - Murphy",
-            "link": "https://www.bbc.com/sport/football/articles/c62dpn93n9mo?at_medium=RSS&at_campaign=rss",
+            "title": "Konate reveals depression after deaths of Jota & father",
+            "link": "https://www.bbc.com/sport/football/articles/cwy2081rrr7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,46 +145,51 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'Part-timer' McIlroy will continue to pick and choose events",
-            "link": "https://www.bbc.com/sport/golf/articles/cpvp911d404o?at_medium=RSS&at_campaign=rss",
+            "title": "Iraola will make Liverpool fans excited again - Murphy",
+            "link": "https://www.bbc.com/sport/football/articles/c62dpn93n9mo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "How many World Cup shirts might not be worn in matches?",
-            "link": "https://www.bbc.com/sport/football/articles/c89340zzd9go?at_medium=RSS&at_campaign=rss",
+            "title": "'Part-timer' McIlroy will continue to pick and choose events",
+            "link": "https://www.bbc.com/sport/golf/articles/cpvp911d404o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
-            "link": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
+            "title": "Defense tech is flooded with money, but who’s built to last?",
+            "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
             "source": "TechCrunch"
         },
         {
-            "title": "Carvana ties up with Bezos-backed Slate Auto as it plans new car sales",
-            "link": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/",
+            "title": "Uber to put 500 data-collection vehicles on the road this year",
+            "link": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
             "source": "TechCrunch"
         },
         {
-            "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
-            "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
+            "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+            "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
             "source": "TechCrunch"
         },
         {
-            "title": "Amazon will show AI product images when you search for some reason",
-            "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+            "title": "Meta mercifully spun out VR fitness game Supernatural instead of just killing it",
+            "link": "https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/",
             "source": "TechCrunch"
         },
         {
-            "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
-            "link": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
+            "title": "Substack’s new ‘Reply Rules’ feature lets creators control how people respond",
+            "link": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/",
             "source": "TechCrunch"
         },
         {
-            "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-            "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+            "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+            "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+            "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+            "source": "Wired"
         },
         {
             "title": "Elon Musk and America’s Far Right Stoke Anger Over Murder of UK Teen",
@@ -209,11 +214,6 @@
         {
             "title": "Greg Bovino Was the Star at a European Remigration Conference",
             "link": "https://www.wired.com/story/greg-bovino-was-the-star-at-a-european-remigration-conference/",
-            "source": "Wired"
-        },
-        {
-            "title": "How to Block Spam Calls and Spam Texts on iPhone and Android (2026)",
-            "link": "https://www.wired.com/story/how-to-block-calls-and-spam-messages/",
             "source": "Wired"
         }
     ]
