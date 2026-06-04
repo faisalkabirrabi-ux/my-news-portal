@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "রামিসা ধর্ষণ ও হত্যা মামলার রায় ৭ই জুন",
+            "link": "https://www.bbc.co.uk/bengali/live/c9we9zgnkrgt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ইরান যুদ্ধ বন্ধের পক্ষে মার্কিন কংগ্রেসের নিম্নকক্ষে প্রস্তাব পাস",
             "link": "https://www.bbc.com/bengali/articles/cjepqg5qdpgo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "বাংলাদেশে পাইকারি ও গ্রাহক পর্যায়ে বিদ্যুতের দাম বাড়ানো হয়েছে",
             "link": "https://www.bbc.co.uk/bengali/live/ce8p513d5ent?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "তৃণমূল কংগ্রেসের ৫৮ জন বিধায়ক 'বিদ্রোহী', বহিষ্কৃত ঋতব্রত হলেন বিরোধী দলনেতা",
-            "link": "https://www.bbc.com/bengali/articles/c86d8g000l5o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "UK far-right accused of exploiting killing of Henry Nowak",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/uk-far-right-accused-of-exploiting-killing-of-henry-nowak?traffic_source=rss",
+            "title": "Brunson scores 30 as Knicks upset Spurs in NBA Finals opener",
+            "link": "https://www.aljazeera.com/sports/2026/6/4/brunson-scores-30-as-knicks-upset-spurs-in-nba-finals-opener?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Elon Musk’s SpaceX eyes $1.77tn valuation ahead of historic IPO",
-            "link": "https://www.aljazeera.com/economy/2026/6/4/elon-musks-spacex-eyes-1-77tn-valuation-ahead-of-historic-ipo?traffic_source=rss",
+            "title": "Sabalenka ‘mentally off track’ as French Open exit made her want to ‘quit’",
+            "link": "https://www.aljazeera.com/sports/2026/6/4/sabalenka-mentally-off-track-as-french-open-exit-made-her-want-to-quit?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Rubio distances himself from Netanyahu’s Gaza plan",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/rubio-distances-himself-from-netanyahus-gaza-plan?traffic_source=rss",
+            "title": "How does football influence who we are?",
+            "link": "https://www.aljazeera.com/video/doha-debates/2026/6/4/how-does-football-influence-who-we-are?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Nigeria’s second-chance schools: women balancing study and survival",
-            "link": "https://www.aljazeera.com/features/2026/6/4/nigerias-second-chance-schools-women-balancing-study-and-survival?traffic_source=rss",
+            "title": "Israel and Lebanon agree to conditional ceasefire",
+            "link": "https://www.aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss",
+            "title": "Indonesia arrests officials in crackdown on corruption",
+            "link": "https://www.aljazeera.com/news/2026/6/4/indonesia-arrests-officials-in-crackdown-on-corruption?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "London activists try to erect statue of jailed Palestinian leader",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/london-activists-try-to-erect-statue-of-jailed-palestinian-leader?traffic_source=rss",
+            "title": "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
+            "link": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,7 +68,7 @@
             "source": "BBC World"
         },
         {
-            "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
+            "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
             "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -88,15 +88,35 @@
             "source": "BBC World"
         },
         {
-            "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
-            "link": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
+            "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+            "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
+            "title": "CA boss seeks to calm tensions after Victoria's 'not ideal' BBL move",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539589.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Sciver-Brunt on course for batting role at World Cup after calf injury",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539571.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Ahead of Afghanistan Test, Kuldeep gets a 'feel of the red ball' after underwhelming IPL",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539587.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Cummins keen to play entirety of Australia's 'unprecedented' run",
             "link": "https://www.espncricinfo.com/ci/content/story/1539577.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Explained: Why Jofra Archer isn't in England's Test squad",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539533.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -105,28 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Kathryn Bryce's all-round effort takes Scotland to tri-series win",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539563.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Man City consider legal action over Real candidate's promise to sign Haaland",
+            "link": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "England brace for new beginnings as old failings take back seat",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539531.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Ukraine-Russia tension hangs over French Open semi-finals",
+            "link": "https://www.bbc.com/sport/tennis/articles/cq5pvj280eqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Latham relishes rare chance to hit England with full-strength seam attack",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539548.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Bangladesh recall Mosaddek after four years for ODIs against Australia",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539528.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Man City have opening Anderson bid rejected by Forest",
-            "link": "https://www.bbc.com/sport/football/articles/c042w3w601yo?at_medium=RSS&at_campaign=rss",
+            "title": "Inspired by Modric and a shift inside: The evolution of Lamine Yamal",
+            "link": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,23 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Title favourite Sabalenka lets another Slam opportunity slip from her grasp",
-            "link": "https://www.bbc.com/sport/tennis/articles/cj4pr12q4ryo?at_medium=RSS&at_campaign=rss",
+            "title": "Video vault and Leeds litter picking - inside the mind of Bielsa",
+            "link": "https://www.bbc.com/sport/football/articles/c5ye2m00y5ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Konate reveals depression after deaths of Jota & father",
-            "link": "https://www.bbc.com/sport/football/articles/cwy2081rrr7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Most experience? Youngest? Best leagues? World Cup squads in numbers",
-            "link": "https://www.bbc.com/sport/football/articles/c89348x0x14o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'Part-timer' McIlroy will continue to pick and choose events",
-            "link": "https://www.bbc.com/sport/golf/articles/cpvp911d404o?at_medium=RSS&at_campaign=rss",
+            "title": "Cobolli using Nadal's shower in bid for French Open glory",
+            "link": "https://www.bbc.com/sport/tennis/articles/c332g8v03mjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-            "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+            "title": "50% Off DoorDash Promo Code | June 2026",
+            "link": "https://www.wired.com/story/doordash-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-            "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+            "title": "NordVPN Coupons and Deals: 77% Off in June 2026",
+            "link": "https://www.wired.com/story/nordvpn-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Elon Musk and America’s Far Right Stoke Anger Over Murder of UK Teen",
-            "link": "https://www.wired.com/story/elon-musk-and-americas-far-right-stoke-anger-over-murder-of-uk-teen/",
+            "title": "Hoka Coupon Codes: 30% Off | June 2026",
+            "link": "https://www.wired.com/story/hoka-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "Amazon Employees Show Up to City Council Meetings to Demand Limits on Data Centers",
-            "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
+            "title": "Walmart Promo Codes: Up to 65% Off for June 2026",
+            "link": "https://www.wired.com/story/top-walmart-promo-codes/",
             "source": "Wired"
         },
         {
-            "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-            "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
+            "title": "Google Workspace Promo Codes: 14% Off for June",
+            "link": "https://www.wired.com/story/google-workspace-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "This Is How Trump Finally Signed the AI Executive Order",
-            "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
+            "title": "Loop Earplugs Discount Codes: 40% Off",
+            "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
             "source": "Wired"
         }
     ]
