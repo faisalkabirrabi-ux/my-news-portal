@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/hezbollah-rejects-us-brokered-ceasefire-deal-between-israel-and-lebanon?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US defence secretary compares Bolivia protests to government ‘overthrow’",
+            "link": "https://www.aljazeera.com/news/2026/6/4/us-defence-secretary-compares-bolivia-protests-to-government-overthrow?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "What is the UK’s ‘two-tier policing’ debate?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/what-is-the-uks-two-tier-policing-debate?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Lufthansa employees injured after Boeing 787 collapses in Frankfurt",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lufthansa-employees-injured-after-boeing-787-collapses-in-frankfurt?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -43,24 +63,9 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "History-making qualifier Chwalinska sets up Andreeva French Open final",
-            "link": "https://www.aljazeera.com/sports/2026/6/4/qualifier-chwalinska-sets-up-andreeva-french-open-final?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Liverpool appoint Spaniard Iraola as new manager in place of Slot",
-            "link": "https://www.aljazeera.com/sports/2026/6/4/liverpool-appoint-spaniard-iraola-as-new-manager-in-place-of-slot?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
-            "link": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Hundreds protest in Libya outside UN agency against undocumented migrants",
-            "link": "https://www.aljazeera.com/news/2026/6/4/hundreds-protest-in-libya-outside-un-agency-against-undocumented-migrants?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+            "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
@@ -73,13 +78,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
-            "link": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-            "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
+            "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+            "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -94,6 +94,11 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Dickson helps Glamorgan past old side Somerset on night of floodlight drama",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539705.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Ollie Robinson was 'nowhere near ready for Ashes' despite stunning comeback display",
             "link": "https://www.espncricinfo.com/ci/content/story/1539709.html?ex_cid=OTC-RSS",
@@ -120,18 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "KS Bharat announces retirement from international cricket",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539679.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Robinson ready to put in hard work after dream return",
+            "link": "https://www.bbc.com/sport/cricket/articles/czj2j70x2mmo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Top players, title fights - why Iraola feels ready for Liverpool",
             "link": "https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Robinson ready to put in hard work after dream return",
-            "link": "https://www.bbc.com/sport/cricket/articles/czj2j70x2mmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +140,32 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Celtic fan groups state opposition to Keane",
+            "link": "https://www.bbc.com/sport/football/articles/c33234zxvl8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Caudery and Hunter Bell win at Rome Diamond League",
+            "link": "https://www.bbc.com/sport/athletics/articles/c5yeyxyrr1zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "What is happening with World Cup ticket prices?",
             "link": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Title Antonelli's to lose, says team-mate Russell",
-            "link": "https://www.bbc.com/sport/formula1/articles/c5y8yp8qrv9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Man Utd will not be swayed on transfer plan - Berrada",
-            "link": "https://www.bbc.com/sport/football/articles/c0e2enynl2qo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+            "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+            "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
             "link": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
@@ -177,14 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Meta’s Oversight Board says account bans lack due process, transparency",
-            "link": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Meta rolls out a new AI creator assistant on Facebook",
-            "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-            "source": "TechCrunch"
+            "title": "Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US",
+            "link": "https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/",
+            "source": "Wired"
         },
         {
             "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
@@ -209,11 +214,6 @@
         {
             "title": "Wave Cash App’s Magic Wand to Pay for Stuff",
             "link": "https://www.wired.com/story/wave-cash-apps-magic-wand-to-pay-for-stuff/",
-            "source": "Wired"
-        },
-        {
-            "title": "5 Best Smart Speakers (2026): Alexa, Google Assistant, Siri",
-            "link": "https://www.wired.com/story/best-smart-speakers/",
             "source": "Wired"
         }
     ]
