@@ -1,6 +1,21 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পুতিনকে জেলেনস্কির খোলাচিঠি, মুখোমুখি আলোচনায় বসার প্রস্তাব",
+            "link": "https://www.bbc.com/bengali/articles/c0727dgr5z3o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'প্রস্তাব যাচাই না করেই বিদ্যুতের দাম বৃদ্ধি'",
+            "link": "https://www.bbc.com/bengali/articles/c0k2k3jnyn7o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ফখরুদ্দীন সরকারের প্রত্ন কেলেঙ্কারি: ফ্রান্সে প্রত্নসম্পদ পাঠানো ঘিরে ২০০৭ সালে যা ঘটেছিল",
+            "link": "https://www.bbc.com/bengali/articles/c8933x3vdweo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "মন্ত্রিত্ব ধরে রেখেই জাতিসংঘের দায়িত্ব পালন করবেন খলিলুর রহমান",
             "link": "https://www.bbc.com/bengali/articles/c62d248mnggo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -14,24 +29,19 @@
             "title": "এ মাসে আপনার বিদ্যুৎ বিল কত বাড়বে, কীভাবে হিসাব করবেন?",
             "link": "https://www.bbc.com/bengali/articles/cq5pvv743z4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মমতার নেতৃত্বকে চ্যালেঞ্জ জানানো সাবেক বাম সংসদ সদস্য, কে এই ঋতব্রত ব্যানার্জী?",
-            "link": "https://www.bbc.com/bengali/articles/c78q2pgq1v4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইরান যুদ্ধ বন্ধের পক্ষে মার্কিন কংগ্রেসের নিম্নকক্ষে প্রস্তাব পাস",
-            "link": "https://www.bbc.com/bengali/articles/cjepqg5qdpgo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মিরপুরে ফ্ল্যাটে বৃদ্ধার 'করুণ মৃত্যু' ঘিরে সমালোচনার ঝড়, বাবা-মায়ের দেখভালের বিষয়ে আইনে কী আছে?",
-            "link": "https://www.bbc.com/bengali/articles/c9q38yzzq14o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
+            "link": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Democrat fails to block US measure to deepen Israel military cooperation",
             "link": "https://www.aljazeera.com/news/2026/6/4/democrat-fails-to-block-us-measure-to-deepen-israel-military-cooperation?traffic_source=rss",
@@ -50,16 +60,6 @@
         {
             "title": "Kenyan president defends US Ebola facility amid deadly protests",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/clip-kenyan-president-ebola-facility?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Why is the US so invested in Colombia’s election?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/why-is-the-us-so-invested-in-colombias-election?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,8 +88,8 @@
             "source": "BBC World"
         },
         {
-            "title": "How Trump's White House ballroom plan has doubled in size and cost over a year",
-            "link": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss",
+            "title": "China's Xi Jinping to make rare visit to North Korea",
+            "link": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -97,6 +97,11 @@
         {
             "title": "'Every team prepares pitches that suit them' - Shaheen defends Pakistan pitches",
             "link": "https://www.espncricinfo.com/ci/content/story/1539715.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Robinson routs New Zealand top-order as England hit back on 16-wicket day",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539599.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -117,11 +122,6 @@
         {
             "title": "Ollie Robinson was 'nowhere near ready for Ashes' despite stunning comeback display",
             "link": "https://www.espncricinfo.com/ci/content/story/1539709.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Robinson routs New Zealand top-order as England hit back on 16-wicket day",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539599.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Mira Murati steps back into the spotlight, carefully",
+            "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
             "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
             "source": "TechCrunch"
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
-            "link": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US",
-            "link": "https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/",
+            "title": "30% Off Canon Promo Codes | June 2026",
+            "link": "https://www.wired.com/story/canon-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
-            "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+            "title": "LG Promo Codes and Coupons for June 2026",
+            "link": "https://www.wired.com/story/lg-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working",
-            "link": "https://www.wired.com/story/phoebe-bridgers-ditched-the-internet-to-hype-up-her-new-music-its-working/",
+            "title": "The Motley Fool Promo Code: $200 Off on Stock Advisor June 2026",
+            "link": "https://www.wired.com/story/the-motley-fool-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones",
-            "link": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/",
+            "title": "Dell Coupon Codes: 20% Off for June 2026",
+            "link": "https://www.wired.com/story/dell-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "The TikTok Ban Was Never About TikTok",
-            "link": "https://www.wired.com/story/made-in-china-tiktok-never-dies/",
+            "title": "Mattress Firm Coupons: Save up to $600",
+            "link": "https://www.wired.com/story/mattress-firm-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Wave Cash App’s Magic Wand to Pay for Stuff",
-            "link": "https://www.wired.com/story/wave-cash-apps-magic-wand-to-pay-for-stuff/",
+            "title": "Booking.com Promo Codes: 20% Off | June 2026",
+            "link": "https://www.wired.com/story/booking-com-promo-code/",
             "source": "Wired"
         }
     ]
