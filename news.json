@@ -135,6 +135,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Spain expose England's flaws in heavy defeat that 'hurts'",
+            "link": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "O'Neill set to stay on as Celtic manager",
             "link": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -148,14 +153,14 @@
             "title": "Hamilton fastest but Leclerc expects 'tight qualifying'",
             "link": "https://www.bbc.com/sport/formula1/articles/clypyggd9g2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Cobolli through to French Open final as Arnaldi withdraws with virus",
-            "link": "https://www.bbc.com/sport/tennis/articles/c202083pd5do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+            "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Founders share VC horror stories, and some are naming names",
             "link": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
@@ -182,9 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
-            "link": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
-            "source": "TechCrunch"
+            "title": "Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka",
+            "link": "https://www.wired.com/gallery/best-running-shoes/",
+            "source": "Wired"
         },
         {
             "title": "GroWell Cap Review: I Have Hair for the First Time in 15 Years",
@@ -209,11 +214,6 @@
         {
             "title": "13 Environmentally Conscious Packing Tips for Your Next Vacation",
             "link": "https://www.wired.com/story/environmentally-conscious-packing-tips/",
-            "source": "Wired"
-        },
-        {
-            "title": "This Summer Travel Season Could Forever Alter the Future of Sustainable Aviation Fuel",
-            "link": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
             "source": "Wired"
         }
     ]
