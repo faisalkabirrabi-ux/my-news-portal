@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "তুরস্ক কেন বাংলাদেশের সাথে সামরিক সহযোগিতা বাড়াতে চাইছে",
+            "link": "https://www.bbc.com/bengali/articles/cjrgd4jjjwno?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "দুর্বল মৌসুমি বায়ুর কারণে বৃষ্টি ঘাটতির পূর্বাভাস ভারত জুড়ে, পশ্চিমবঙ্গে কী হবে?",
             "link": "https://www.bbc.com/bengali/articles/clypyg35z69o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,57 +29,47 @@
             "title": "বাংলাদেশে যে পাঁচ ধরনের ক্যান্সার বাড়ছে, কারণ কী?",
             "link": "https://www.bbc.com/bengali/articles/c5ylyee00evo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ফখরুদ্দীন সরকারের প্রত্ন কেলেঙ্কারি: ফ্রান্সে প্রত্নসম্পদ পাঠানো ঘিরে ২০০৭ সালে যা ঘটেছিল",
-            "link": "https://www.bbc.com/bengali/articles/c8933x3vdweo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
-            "link": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss",
+            "title": "‘Cockroach Party’ leader returns to India for first New Delhi protest",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cockroach-party-leader-returns-to-india-for-first-new-delhi-protest?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Supporters of the Cockroach People’s Party hold protest in New Delhi",
-            "link": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss",
+            "title": "Cockroach Janta Party rallies at New Delhi for youth protests",
+            "link": "https://www.aljazeera.com/gallery/2026/6/6/youth-led-satire-cockroach-janta-party-protests-exam-system-failures?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Man dies in Western Australia after shark attack",
-            "link": "https://www.aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss",
+            "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
+            "link": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Mexico zoo animals predict World Cup winners",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/mexico-zoo-animals-predict-world-cup-winners?traffic_source=rss",
+            "title": "Vaibhav Sooryavanshi, 15-year-old sensation, called up to India’s T20 squad",
+            "link": "https://www.aljazeera.com/sports/2026/6/6/vaibhav-sooryavanshi-ipl-india-t20-team-call-up-england-ireland-asian-games?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
-            "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
+            "title": "Jordan World Cup 2026 preview: Players to watch, group matches and squad",
+            "link": "https://www.aljazeera.com/sports/2026/6/6/jordan-world-cup-2026-preview-players-to-watch-group-matches-and-squad?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US says Iranian radar sites hit in Goruk and Qeshm Island",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss",
+            "title": "Ebola border shutdown leaves goods rotting between Uganda and DRC",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/ebola-border-shutdown-leaves-goods-rotting-between-uganda-and-drc?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+            "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
             "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-            "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
-            "link": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,30 +78,30 @@
             "source": "BBC World"
         },
         {
-            "title": "Iran's football team granted visas to enter US for World Cup, officials say",
+            "title": "Lebanon says three soldiers killed in Israeli attack on car",
+            "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Iran says staff blocked from entering US after players given World Cup visas",
             "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
-            "link": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
+            "title": "Man dies after bitten by shark in Western Australia, police say",
+            "link": "https://www.bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Yashasvi Jaiswal replaces injured Virat Kohli for Afghanistan ODIs",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539585.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Shreyas confirmed as India's T20I captain; Suryakumar dropped",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539867.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Rahul nears century as India dominate first two sessions",
+            "title": "Rahul, Gill hit centuries as India dominate Day 1",
             "link": "https://www.espncricinfo.com/ci/content/story/1539852.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Agarkar: Shreyas replacing Suryakumar 'best way forward'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539905.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,14 +110,24 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "England make inroads after New Zealand set 254 to win",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539785.html?ex_cid=OTC-RSS",
+            "title": "Shreyas confirmed as India's T20I captain; Suryakumar dropped",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539867.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "BBL explainer: what does the Melbourne merger mean, and what happens next?",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539768.html?ex_cid=OTC-RSS",
+            "title": "Agarkar: Sooryavanshi 'picked himself' in T20I squad, we've got 'high hopes of him'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539904.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Yashasvi Jaiswal replaces injured Virat Kohli for Afghanistan ODIs",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539585.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Sullivan steps down at West Ham over historical allegations",
+            "link": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
@@ -135,13 +140,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Vaughan feels sorry for batters on poor Lord's pitch",
-            "link": "https://www.bbc.com/sport/cricket/articles/c4g8g8pp3vgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Tuchel will not let Tampa pitch affect selection",
-            "link": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&at_campaign=rss",
+            "title": "The pioneer in an unlikely World Cup team",
+            "link": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "The pioneer in an unlikely World Cup team",
-            "link": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
+            "title": "Vaughan feels sorry for batters on poor Lord's pitch",
+            "link": "https://www.bbc.com/sport/cricket/articles/c4g8g8pp3vgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,26 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It",
+            "link": "https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/",
+            "source": "Wired"
+        },
+        {
+            "title": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
+            "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
+            "source": "Wired"
+        },
+        {
+            "title": "2 Best Bluetooth Trackers of 2026, Plus Honorable Mentions",
+            "link": "https://www.wired.com/story/the-best-bluetooth-trackers/",
+            "source": "Wired"
+        },
+        {
+            "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+            "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+            "source": "Wired"
+        },
+        {
             "title": "Velotric Nomad 2 Fat Tire Ebike, Tested and Reviewed (2026)",
             "link": "https://www.wired.com/review/velotric-nomad-2-fat-tire-ebike/",
             "source": "Wired"
@@ -194,26 +214,6 @@
         {
             "title": "How to Share a Link to a Particular Phrase",
             "link": "https://www.wired.com/story/how-to-share-a-link-to-a-particular-phrase/",
-            "source": "Wired"
-        },
-        {
-            "title": "30 Best Father’s Day Gifts for Dads (2026)",
-            "link": "https://www.wired.com/story/the-best-gifts-for-dads-2026/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Moons of Uranus May Hold the Key to Finding Missing Planets",
-            "link": "https://www.wired.com/story/the-moons-of-uranus-may-hold-the-key-to-finding-missing-planets/",
-            "source": "Wired"
-        },
-        {
-            "title": "‘It’s Not a Joke’: A ‘Simpsons’ Writer Holds His First Presidential Campaign Rally",
-            "link": "https://www.wired.com/story/simpsons-writer-dan-greaney-holds-his-first-presidential-campaign-rally/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka",
-            "link": "https://www.wired.com/gallery/best-running-shoes/",
             "source": "Wired"
         }
     ]
