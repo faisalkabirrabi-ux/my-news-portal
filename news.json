@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
+            "link": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Tunisians protest for press freedom and release of political prisoners",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Cuba’s Raul Castro makes first public appearance since US charges",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cubas-raul-castro-makes-first-public-appearance-since-us-charges?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Rights group says drone strike kills 11 in central Sudan market",
+            "link": "https://www.aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "US doctor recovers from Ebola in Germany as DRC cases surge to 488",
             "link": "https://www.aljazeera.com/news/2026/6/6/us-doctor-recovers-from-ebola-in-germany-as-drc-cases-surge-to-488?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Video shows Israeli soldier and settlers assaulting two Palestinians",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "From first lady to president? Inside the rise of Peru’s Keiko Fujimori",
-            "link": "https://www.aljazeera.com/features/longform/2026/6/6/from-first-lady-to-president-inside-the-rise-of-perus-keiko-fujimori?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Unacceptable situation’: Minister cries foul as Jamaica suffers blackout",
-            "link": "https://www.aljazeera.com/news/2026/6/6/unacceptable-situation-minister-cries-foul-as-jamaica-suffers-blackout?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Broad, Sanderson and Sales help keep Northants winning run going",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539944.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "WI bowl first in drizzly Kingston; Malinga, Jangoo named in XIs",
             "link": "https://www.espncricinfo.com/ci/content/story/1539945.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -117,11 +122,6 @@
         {
             "title": "Ashwin: Suryakumar's axing will set precedent for future selection calls",
             "link": "https://www.espncricinfo.com/ci/content/story/1539928.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Bumrah named in full-strength India T20I squad for Asian Games",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539863.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -150,12 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "The pioneer in an unlikely World Cup team",
-            "link": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
+            "title": "Wales must be better after Romania woe - Bellamy",
+            "link": "https://www.bbc.com/sport/football/articles/cy736ndkknno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+            "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+            "source": "TechCrunch"
+        },
         {
             "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
             "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
@@ -179,11 +184,6 @@
         {
             "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
             "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Founders share VC horror stories, and some are naming names",
-            "link": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
             "source": "TechCrunch"
         },
         {
