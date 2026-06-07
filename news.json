@@ -1,6 +1,21 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ইরান বিশ্বকাপ দলের কিছু কর্মীকে যুক্তরাষ্ট্রে ভিসা না দেওয়ার অভিযোগ",
+            "link": "https://www.bbc.com/bengali/articles/cwyd5x47r8ro?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'প্রধানমন্ত্রীর সফরে খুলতে পারে মালয়েশিয়ার শ্রমবাজার'",
+            "link": "https://www.bbc.com/bengali/articles/c0rywpqvx7qo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "মাদক কারবারের অভিযোগে নির্যাতন, কেন আইন নিজের হাতে তুলে নিচ্ছেন অনেকে?",
+            "link": "https://www.bbc.com/bengali/articles/c0ey8g77v33o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "তুরস্ক কেন বাংলাদেশের সাথে সামরিক সহযোগিতা বাড়াতে চাইছে",
             "link": "https://www.bbc.com/bengali/articles/cjrgd4jjjwno?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -14,52 +29,37 @@
             "title": "দুর্বল মৌসুমি বায়ুর কারণে বৃষ্টি ঘাটতির পূর্বাভাস ভারত জুড়ে, পশ্চিমবঙ্গে কী হবে?",
             "link": "https://www.bbc.com/bengali/articles/clypyg35z69o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "জেলেনস্কির সাথে সরাসরি বৈঠকের প্রস্তাব নাকচ করলেন পুতিন",
-            "link": "https://www.bbc.com/bengali/articles/c707029164po?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'তদন্তে মমতার বক্তব্যকে গুরুত্ব দিচ্ছে সিআইডি'",
-            "link": "https://www.bbc.com/bengali/articles/cy82832g9x5o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "দিল্লির বাজারে ভারী ব্যাগ বয়ে দেওয়ার জন্য সহায়ক ভাড়া পাওয়া যাচ্ছে",
-            "link": "https://www.bbc.com/bengali/articles/ce8p8g3p794o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
-            "link": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
+            "title": "How many times were the US and Iran on the verge of a deal?",
+            "link": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Tunisians protest for press freedom and release of political prisoners",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
+            "title": "Why is Chinese President Xi Jinping visiting North Korea now?",
+            "link": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Cuba’s Raul Castro makes first public appearance since US charges",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cubas-raul-castro-makes-first-public-appearance-since-us-charges?traffic_source=rss",
+            "title": "Kenyan graduates turn to AI tools for farming as jobs dry up",
+            "link": "https://www.aljazeera.com/economy/2026/6/7/kenyan-graduates-turn-to-ai-tools-for-farming-as-jobs-dry-up?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Rights group says drone strike kills 11 in central Sudan market",
-            "link": "https://www.aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market?traffic_source=rss",
+            "title": "Protests grow in Albania against Trump-Kushner-linked resort",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/aje-onl-nf_protests-grow-in-albania-against-trump-resort-060626?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US doctor recovers from Ebola in Germany as DRC cases surge to 488",
-            "link": "https://www.aljazeera.com/news/2026/6/6/us-doctor-recovers-from-ebola-in-germany-as-drc-cases-surge-to-488?traffic_source=rss",
+            "title": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Video shows Israeli soldier and settlers assaulting two Palestinians",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss",
+            "title": "Trump pardons former US Congress member accused of insider trading",
+            "link": "https://www.aljazeera.com/news/2026/6/6/trump-pardons-former-us-congress-member-accused-of-insider-trading?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Cricket Victoria applies to trademark Melbourne Rangers name",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539950.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Rahul, Gill hit centuries as India dominate Afghanistan on opening day",
+            "link": "https://www.espncricinfo.com/ci/content/story/1539852.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Persistent rain in Kingston washes out second ODI between West Indies and Sri Lanka",
             "link": "https://www.espncricinfo.com/ci/content/story/1539945.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -115,16 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Robinson double-strike moves England closer between showers",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539927.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Ashwin: Suryakumar's axing will set precedent for future selection calls",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539928.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "This was a training game - England & Tuchel now need to get serious",
             "link": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -132,6 +132,11 @@
         {
             "title": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
             "link": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Friendship to be forgotten with French Open on the line",
+            "link": "https://www.bbc.com/sport/tennis/articles/cgmd791pjkno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "England move closer to win on wet day at Lord's",
-            "link": "https://www.bbc.com/sport/cricket/articles/cdxd6zkp2z6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Billam-Smith stops Rozicki in Zuffa Boxing's UK debut",
-            "link": "https://www.bbc.com/sport/boxing/articles/cwy0xq34ekro?at_medium=RSS&at_campaign=rss",
+            "title": "Scotland score four in first half to beat Bolivia",
+            "link": "https://www.bbc.com/sport/football/videos/c3ryd40w04xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
