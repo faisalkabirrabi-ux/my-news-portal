@@ -33,38 +33,48 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "North Korea’s Kim Jong Un inspects munitions at weapons factory",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
+            "link": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Videos show missiles launched from Iran into Israel",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
+            "link": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Iran fires missiles at Israel after it attacked Beirut",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran losing patience with Israel and US over ceasefire violations",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Israel strikes Beirut suburb days after US-brokered truce",
+            "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
-            "title": "Iranian World Cup excitement dulled by war and economic crisis",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Italy recovers 10 bodies as boat with nearly 60 on board capsizes off Malta",
-            "link": "https://www.aljazeera.com/news/2026/6/7/malta-latest?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Hezbollah MP: Resistance defends Lebanon where the state failed",
-            "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Lawsuit seeks to stop Trump’s planned White House UFC match",
-            "link": "https://www.aljazeera.com/news/2026/6/7/lawsuit-seeks-to-stop-trumps-planned-white-house-ufc-match?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Zelensky in Downing Street for Ukraine war talks with European leaders",
+            "title": "Zelensky's close European allies set out five conditions for peace talks",
             "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
+            "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,23 +83,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Armenia votes as Russia piles pressure on pro-West government",
-            "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "Eriksen conscious after collapsing in Denmark game",
             "link": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
-            "link": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Insecurity and instability drive voters in Peru's tight presidential race",
-            "link": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
+            "title": "Hundreds of captives freed from Boko Haram mountain hideout",
+            "link": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -125,6 +125,11 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "From dazzling winger to veteran who barely runs - the evolution of Messi",
+            "link": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Eriksen conscious after collapsing in Denmark game",
             "link": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -145,13 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Remarkable Tongue is England's premier bowler - Agnew",
-            "link": "https://www.bbc.com/sport/cricket/articles/cly7966nwp5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Hamilton 'feels like I'm reminding people who I am'",
-            "link": "https://www.bbc.com/sport/formula1/articles/c2kyjev1pvzo?at_medium=RSS&at_campaign=rss",
+            "title": "Rice to be England's vice-captain at World Cup",
+            "link": "https://www.bbc.com/sport/football/articles/cn4r74yjpxvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
