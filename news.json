@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "‘পুশব্যাক’ নিয়ে আলোচনা দিল্লিতে বিএসএফ-বিজিবির বৈঠকে",
+            "title": "বাংলাদেশে পুশইনের বিষয়ে ভারতকে ১২ থেকে ১৩টি চিঠি দেওয়া হয়েছে: বাংলাদেশের পররাষ্ট্র প্রতিমন্ত্রী",
             "link": "https://www.bbc.co.uk/bengali/live/cvgm3pdry10t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "তৃণমূল কংগ্রেসের ২০ জন সংসদ সদস্য সমর্থন করবেন মোদীর বিজেপি সরকারকে",
+            "link": "https://www.bbc.com/bengali/articles/cm2093093ngo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "'পুশইন-পুশব্যাক' ইস্যুতে ভারত বাংলাদেশ সম্পর্ক উন্নয়ন চেষ্টা কী ক্ষতির মুখে?",
+            "link": "https://www.bbc.com/bengali/articles/czde1yrq25mo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,57 +29,47 @@
             "title": "পত্রিকা: 'আন্তর্জাতিক আইন মানতে চায় ঢাকা, সাড়া নেই দিল্লির'",
             "link": "https://www.bbc.com/bengali/articles/cy9r44zpjx2o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "চীন ও উত্তর কোরিয়ার মধ্যে যেভাবে ভালোবাসা-ঘৃণার সম্পর্ক",
-            "link": "https://www.bbc.com/bengali/articles/cvgj5v3zzrno?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "রামিসা হত্যার ১৯ দিনে ৬ কার্যদিবসে রায় হলো, এরপর কী হবে",
-            "link": "https://www.bbc.com/bengali/articles/c78y5l3p331o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Asia’s stock markets dive amid Iran-Israel conflict, Wall Street jitters",
-            "link": "https://www.aljazeera.com/economy/2026/6/8/asias-stock-markets-dive-amid-iran-israel-conflict-wall-street-jitters?traffic_source=rss",
+            "title": "How extreme weather and heat could affect players at World Cup 2026",
+            "link": "https://www.aljazeera.com/sports/2026/6/8/how-extreme-weather-and-heat-could-affect-players-at-world-cup-2026?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ukraine, Russia trade fire as Zelenskyy allies back call for direct talks",
-            "link": "https://www.aljazeera.com/news/2026/6/8/ukraine-russia-trade-fire-as-zelenskyy-allies-back-call-for-direct-talks?traffic_source=rss",
+            "title": "Texas-bound jet crashes during emergency landing in Dominican Republic",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/texas-bound-jet-crashes-during-emergency-landing-in-dominican-republic?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "New York stabbing, Kansas City shooting raise World Cup security concerns",
-            "link": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss",
+            "title": "Al Jazeera explains China-North Korea ties as Xi visits Pyongyang",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/al-jazeera-explains-china-north-korea-ties-as-xi-visits-pyongyang?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Yemen’s Houthis declare ban on Israeli ships sailing the Red Sea",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/yemens-houthis-declare-ban-on-israeli-ships-sailing-the-red-sea?traffic_source=rss",
+            "title": "At least 11 killed in Pakistan-administered Kashmir clashes before rally",
+            "link": "https://www.aljazeera.com/news/2026/6/8/at-least-11-killed-in-pakistan-administered-kashmir-clashes-before-rally?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Magnitude 7.8 earthquake rocks southern Philippines",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/magnitude-7-8-earthquake-rocks-southern-philippines?traffic_source=rss",
+            "title": "The retaking of Cuba",
+            "link": "https://www.aljazeera.com/opinions/2026/6/8/the-retaking-of-cuba?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ori Goldberg: Israel’s escalations threaten relationship with US",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/ori-goldberg-israels-escalations-threaten-relationship-with-us?traffic_source=rss",
+            "title": "North Korea needs China for survival: Why does Beijing need Pyongyang?",
+            "link": "https://www.aljazeera.com/news/2026/6/8/north-korea-needs-china-for-survival-why-does-beijing-need-pyongyang?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "At least 19 dead after major earthquake strikes southern Philippines",
-            "link": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+            "title": "Iran releases footage of missiles launched at Israel",
+            "link": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Rare footage captured of Great White shark in Mediterranean Sea",
-            "link": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
+            "title": "At least 32 dead after major earthquake strikes southern Philippines",
+            "link": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -78,24 +78,39 @@
             "source": "BBC World"
         },
         {
-            "title": "Trump to cheer on Knicks at NBA Finals game in New York City",
+            "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+            "link": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Knicks' long-awaited NBA run electrifies NYC, with Trump set to attend key game",
             "link": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Zelensky's close European allies set out five conditions for peace talks",
-            "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
-            "link": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
+            "title": "Rare footage captured of Great White shark in Mediterranean Sea",
+            "link": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Afghanistan crumble and stare at massive defeat",
+            "title": "Mehidy confident of taking on Australia on green-tinged pitch",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540169.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "ECB move start times for India T20Is to maximise TV viewership",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540168.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "McCullum 'hopeful' of Archer's availability for second NZ Test",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540165.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Suthar's debut six-for powers India to their biggest Test win",
             "link": "https://www.espncricinfo.com/ci/content/story/1540115.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
@@ -110,28 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Head out of Bangladesh tour, Marsh to miss ODIs; Murphy called up",
-            "link": "https://www.espncricinfo.com/ci/content/story/1539607.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Molineux urges Australia to play with freedom in bid to reclaim title",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540082.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Dan Lawrence double-hundred puts Surrey in charge",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540066.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Eriksen 'in good spirits' after collapse",
-            "link": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
+            "title": "Bellingham has fight to start for England - Tuchel",
+            "link": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Bellingham has fight to start for England - Tuchel",
-            "link": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&at_campaign=rss",
+            "title": "How can athletes play with ICDs, and what happens when it goes off?",
+            "link": "https://www.bbc.com/sport/football/articles/ceqdnr89yy0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +140,37 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Hodgkinson stunned by Werro despite personal best",
-            "link": "https://www.bbc.com/sport/athletics/articles/cly8l037pp9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Mourinho set for Real after Perez re-elected",
             "link": "https://www.bbc.com/sport/football/articles/cgk67jxy106o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Five reasons why this French Open was a classic - pick your favourite moment",
-            "link": "https://www.bbc.com/sport/tennis/articles/ce9p9mg2r0ko?at_medium=RSS&at_campaign=rss",
+            "title": "How Williams' British hitting partner kept comeback secret",
+            "link": "https://www.bbc.com/sport/tennis/articles/c8r2xyjz0v8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Why Hull's US Open near-miss shows major win is close",
+            "link": "https://www.bbc.com/sport/golf/articles/cj4gd54825lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Eventbrite and Vimeo owner Bending Spoons files to go public",
+            "link": "https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Massachusetts votes to pass new privacy rights bill that bans sale of precise location data",
+            "link": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Uber, Wayve and Waymo are headed towards a robotaxi showdown in London",
+            "link": "https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Is this the dawn of the Tokenpocalypse?",
             "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
@@ -172,19 +187,24 @@
             "source": "TechCrunch"
         },
         {
-            "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
-            "link": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
-            "source": "TechCrunch"
+            "title": "Lenovo IdeaPad Slim 5x Review: The Best Laptop Under $1,000",
+            "link": "https://www.wired.com/review/lenovo-ideapad-slim-5x/",
+            "source": "Wired"
         },
         {
-            "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
-            "link": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-            "source": "TechCrunch"
+            "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
+            "link": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+            "source": "Wired"
         },
         {
-            "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-            "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-            "source": "TechCrunch"
+            "title": "Apple WWDC 2026 Live Blog: All the Updates, as They Happen",
+            "link": "https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen/",
+            "source": "Wired"
+        },
+        {
+            "title": "Afroman Is Back—and He’s Bitcoin’s Latest Freedom Fighter",
+            "link": "https://www.wired.com/afroman-bitcoin-conference-free-speech/",
+            "source": "Wired"
         },
         {
             "title": "All the Ways Europe Is Ditching American Technology",
@@ -194,26 +214,6 @@
         {
             "title": "Sigma BF Review (2026): Eccentric but Strangely Lovable",
             "link": "https://www.wired.com/review/sigma-bf-camera/",
-            "source": "Wired"
-        },
-        {
-            "title": "You May Not Need a Giant Chef’s Knife When a Midsize Knife Does the Trick",
-            "link": "https://www.wired.com/story/you-may-not-need-a-giant-chefs-knife-when-a-midsize-knife-does-the-trick/",
-            "source": "Wired"
-        },
-        {
-            "title": "Lauf eElja Electric Mountain Bike Review: Power Trip",
-            "link": "https://www.wired.com/review/lauf-eelja-electric-mountain-bike/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Red-Light Therapy for Hair Restoration and Regrowth (2026)",
-            "link": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
-            "source": "Wired"
-        },
-        {
-            "title": "How to Watch Apple’s WWDC 2026 Keynote—and What to Expect",
-            "link": "https://www.wired.com/story/how-to-watch-apple-wwdc-2026/",
             "source": "Wired"
         }
     ]
