@@ -33,37 +33,37 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "CCTV captures moment of deadly strike on Zaporizhzhia, Ukraine",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/cctv-captures-moment-of-deadly-strike-on-zaporizhzhia-ukraine?traffic_source=rss",
+            "title": "UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’",
+            "link": "https://www.aljazeera.com/news/2026/6/8/un-human-rights-leader-calls-for-cuba-sanctions-to-be-lifted-immediately?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US congressman demands probe into Israel’s 1967 attack on USS Liberty",
-            "link": "https://www.aljazeera.com/news/2026/6/8/us-congressman-demands-probe-into-israels-1967-attack-on-uss-liberty?traffic_source=rss",
+            "title": "US confirms it denied entry to Somali referee set to take part in World Cup",
+            "link": "https://www.aljazeera.com/news/2026/6/8/us-confirms-denying-entry-to-somali-referee-set-to-take-part-in-world-cup?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Floods tear through homes and farmland in China’s Guizhou province",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/floods-tear-through-homes-and-farmland-in-chinas-guizhou-province?traffic_source=rss",
+            "title": "Pope Leo makes visit to Spain’s Almudena Cathedral",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/pope-leo-makes-visit-to-spains-almudena-cathedral?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "China’s Xi Jinping and North Korea’s Kim Jong Un meet in Pyongyang",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/chinas-xi-jinping-and-north-koreas-kim-jong-un-meet-in-pyongyang?traffic_source=rss",
+            "title": "EU planning to add to $1.5 trillion sanctions hit on Russia",
+            "link": "https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Albanian PM Rama vows to push on with Kushner-linked luxury resort",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/albanian-pm-rama-vows-to-push-on-with-kushner-linked-luxury-resort?traffic_source=rss",
+            "title": "Italian prosecutors to probe Israeli minister Ben-Gvir over flotilla abuse",
+            "link": "https://www.aljazeera.com/news/2026/6/8/italian-prosecutors-to-probe-israeli-minister-ben-gvir-over-flotilla-abuse?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Southern Philippines hit by 7.8-magnitude earthquake",
-            "link": "https://www.aljazeera.com/gallery/2026/6/8/southern-philippines-hit-by-7-8-magnitude-earthquake?traffic_source=rss",
+            "title": "Could Iran and the US play each other at the World Cup?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/could-iran-and-the-us-play-each-other-at-the-world-cup?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran and Israel say they have halted strikes after first exchange of fire since truce",
+            "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
             "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -130,6 +130,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Somali referee Artan to miss World Cup after being barred from entering US",
+            "link": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Stokes & Atkinson investigated over nightclub incident",
             "link": "https://www.bbc.com/sport/cricket/articles/c0ry801k2geo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -140,51 +145,56 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Man City and Chelsea remain in talks over Maresca",
-            "link": "https://www.bbc.com/sport/football/articles/cql1v2ped53o?at_medium=RSS&at_campaign=rss",
+            "title": "McGinn in the form of his life and now dancing to Scotland's tune",
+            "link": "https://www.bbc.com/sport/football/articles/cn94d7w2zylo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Rashford 'dead cert to start for me' - Walcott",
             "link": "https://www.bbc.com/sport/football/articles/c07yepr7xj0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Norway boss brands Scotland's Clarke 'unprofessional'",
-            "link": "https://www.bbc.com/sport/football/articles/c17ylw8vz05o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+            "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "OpenAI files confidentially for IPO, following Anthropic",
+            "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Apple plays catch-up at WWDC",
+            "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Apple bets cheaper AI will woo small developers",
+            "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
+            "link": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
             "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
             "source": "TechCrunch"
         },
         {
-            "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-            "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-            "source": "TechCrunch"
+            "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+            "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+            "source": "Wired"
         },
         {
-            "title": "Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military",
-            "link": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-            "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-            "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Apple’s Image Playground doesn’t suck anymore",
-            "link": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-            "source": "TechCrunch"
+            "title": "Polymarket and Kalshi Say Influencer Partners Can’t Deny Election Results, Actually",
+            "link": "https://www.wired.com/story/kalshi-polymarket-influencer-election-denial-spencer-pratt/",
+            "source": "Wired"
         },
         {
             "title": "Everything Apple Announced at WWDC 2026",
@@ -204,16 +214,6 @@
         {
             "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
             "link": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
-            "source": "Wired"
-        },
-        {
-            "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
-            "link": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
-            "source": "Wired"
-        },
-        {
-            "title": "Apple WWDC 2026 Live Blog: All the Updates, as They Happen",
-            "link": "https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen/",
             "source": "Wired"
         }
     ]
