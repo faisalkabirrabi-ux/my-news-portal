@@ -1,12 +1,17 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "আওয়ামী লীগ নেতাদের স্থানীয় নির্বাচনে অংশ নেওয়ার সুযোগ দেওয়া হচ্ছে?",
+            "link": "https://www.bbc.com/bengali/articles/c1ey74nxny4o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ইসলামী ব্যাংক নিয়ে রাজনৈতিক ইন্ধনের অভিযোগসহ সামনে আসছে যেসব বিষয়",
             "link": "https://www.bbc.com/bengali/articles/cn8kgvr4742o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "বিরোধী এমপিদের এলাকায় উন্নয়ন তদারকিতে নারী এমপিদের দায়িত্ব, ব্যাখ্যা দিলেন প্রধানমন্ত্রী",
+            "title": "চুক্তি করতে দেরি করার খেসারত দিতে হবে ইরানকে: ট্রাম্প",
             "link": "https://www.bbc.co.uk/bengali/live/cqx1w29v1j1t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -24,113 +29,108 @@
             "title": "সাইবার সুরক্ষা আইনে কন্টেন্ট অপসারণসহ কী পরিবর্তন আসছে?",
             "link": "https://www.bbc.com/bengali/articles/cgjx439327vo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "হেলিকপ্টার হারিয়ে ইরানে হামলা চালালো যুক্তরাষ্ট্র",
-            "link": "https://www.bbc.com/bengali/articles/cm2jm4eye73o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Eight red cards shown to Brazil in fiery friendly against US women",
-            "link": "https://www.aljazeera.com/sports/2026/6/10/eight-red-cards-shown-to-brazil-in-fiery-friendly-against-us-women?traffic_source=rss",
+            "title": "Is Fortress Europe becoming more strict?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/is-fortress-europe-becoming-more-strict?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US bombs Iran’s water facilities: Why that’s so significant",
-            "link": "https://www.aljazeera.com/news/2026/6/10/us-bombs-irans-water-facilities-why-thats-so-significant?traffic_source=rss",
+            "title": "US inflation hits new three-year high amid energy price surge",
+            "link": "https://www.aljazeera.com/economy/2026/6/10/us-inflation-hits-new-three-year-high-amid-energy-price-surge?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Mexico vs South Africa: World Cup 2026 opening game – teams, start, lineups",
-            "link": "https://www.aljazeera.com/sports/2026/6/10/mexico-south-africa-fifa-world-cup-2026-match-lineup-players-news-football?traffic_source=rss",
+            "title": "LIVE: Portugal vs Nigeria – World Cup 2026 international friendly",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/6/10/live-portugal-vs-nigeria-world-cup-2026-international-friendly?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
-            "link": "https://www.aljazeera.com/news/2026/6/10/west-bank-ethnic-cleansing-settler-attacks-israels-state-policy-amnesty?traffic_source=rss",
+            "title": "Mass shooting with at least 10 attackers in Johannesburg",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/mass-shooting-with-at-least-10-attackers-in-johannesburg?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "7-month-old baby shot by Israeli soldier in Hebron",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/7-month-old-baby-shot-by-israeli-soldier-in-hebron?traffic_source=rss",
+            "title": "The Light Within | Ep 5 – El Salvador",
+            "link": "https://www.aljazeera.com/video/making-peace/2026/6/10/the-light-within-ep-5-el?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ukraine-made ‘Flamingo’ missile hits target 900 km inside Russia",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/ukraine-made-flamingo-missile-hits-target-900-km-inside-russia?traffic_source=rss",
+            "title": "Trump hardens tone against Iran, says ‘may keep going’ with strikes",
+            "link": "https://www.aljazeera.com/news/2026/6/10/trump-hardens-tone-against-iran-says-may-keep-going-with-strikes?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump and Iran trade new threats after strikes exchanged",
+            "title": "Trump says US will hit Iran 'hard' again today",
             "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
-            "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+            "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
+            "link": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
+            "title": "Three questions Bill Gates could face as he testifies to Congress on Epstein",
+            "link": "https://www.bbc.com/news/articles/crr892qp255o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Israeli strikes in southern Lebanon kill 17, reports say",
+            "link": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
+            "link": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "US official claims banned referee had links with 'terror organisations'",
             "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "First charges laid over deadly Hong Kong fire",
-            "link": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Ukraine says missiles hit military plant deep inside Russia",
-            "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-            "link": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Ashwin sees 'no reason' why Kohli and Rohit shouldn't play 2027 ODI World Cup",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540429.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Injured Hardik set to miss ODIs against Afghanistan; Rohit joins squad",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540380.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "All-round England trump Richa's heroics; Australia ease past WI",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540417.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Lawrence's latest hundred not enough for Surrey win - or England call-up",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540430.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Stokes, Atkinson omitted from second Test as Root steps up as interim captain",
             "link": "https://www.espncricinfo.com/ci/content/story/1540348.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "All-round England trump Richa Ghosh's heroics in warm-up",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540417.html?ex_cid=OTC-RSS",
+            "title": "Root rides again in moment of crisis as England pay the price for optics",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540424.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Mohammad Saleem added to Afghanistan squad for India ODIs",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540410.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Bransgrove severs final ties with Hampshire as GMR complete acquisition",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540404.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Sahibzada Farhan to lead Pakistan at Asian Games",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540395.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Brook replaces Root as No. 1 Test batter",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540393.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Stokes out of England squad, Root named captain",
-            "link": "https://www.bbc.com/sport/cricket/articles/ce371kq48v7o?at_medium=RSS&at_campaign=rss",
+            "title": "'In emergency, break glass' - England seek stability in Root",
+            "link": "https://www.bbc.com/sport/cricket/articles/c6219nxw6llo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Banned referee had links with 'terror organisations' - US official",
+            "title": "US official claims banned referee had links with 'terror organisations'",
             "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -140,51 +140,56 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Former Warwickshire wicketkeeper Piper dies aged 56",
-            "link": "https://www.bbc.com/sport/cricket/articles/cy8wn51qp43o?at_medium=RSS&at_campaign=rss",
+            "title": "Manager McKenna leaves promoted Ipswich",
+            "link": "https://www.bbc.com/sport/football/articles/cd7wn0erlvwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "How Sancho's dream Man Utd move ended as a nightmare",
-            "link": "https://www.bbc.com/sport/football/articles/c6204jpy7v6o?at_medium=RSS&at_campaign=rss",
+            "title": "Williams' Queen's campaign in doubt after Mboko injury",
+            "link": "https://www.bbc.com/sport/tennis/articles/c3ey8pkgjzlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Sciver-Brunt finds form as England overcome India",
-            "link": "https://www.bbc.com/sport/cricket/articles/c802ldd5dlgo?at_medium=RSS&at_campaign=rss",
+            "title": "Scotland's Super Mario and social butterfly who emerged from Man Utd cocoon",
+            "link": "https://www.bbc.com/sport/football/articles/cx2jd7knx15o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "ServiceNow tells customers a bug left some of their data exposed to the internet",
-            "link": "https://techcrunch.com/2026/06/10/servicenow-tells-customers-a-bug-left-some-of-their-data-exposed-to-the-internet/",
+            "title": "Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming",
+            "link": "https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/",
             "source": "TechCrunch"
         },
         {
-            "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-            "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+            "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+            "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
             "source": "TechCrunch"
         },
         {
-            "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
-            "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+            "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
+            "link": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
             "source": "TechCrunch"
         },
         {
-            "title": "Snapchat limits users under 16 to sharing Spotlights with friends",
-            "link": "https://techcrunch.com/2026/06/10/snapchat-limits-users-under-16-to-sharing-spotlights-with-friends/",
+            "title": "How memory tools can make AI models worse",
+            "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
             "source": "TechCrunch"
         },
         {
-            "title": "Why everyone’s an energy company now",
-            "link": "https://techcrunch.com/2026/06/10/why-everyones-an-energy-company-now/",
+            "title": "Zest launches a restaurant discovery app powered by where people actually eat",
+            "link": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
             "source": "TechCrunch"
         },
         {
-            "title": "Avalanche’s desktop fusion reactor delivers blistering-hot plasma",
-            "link": "https://techcrunch.com/2026/06/10/avalanches-desktop-fusion-reactor-delivers-blistering-hot-plasma/",
+            "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+            "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "Donald Trump Is Ready for Fight Night. So Are Donors",
+            "link": "https://www.wired.com/story/donald-trump-ufc-white-house-south-lawn/",
+            "source": "Wired"
         },
         {
             "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
@@ -209,11 +214,6 @@
         {
             "title": "Best iPad Accessories (2026): Keyboards, Cases, Styli",
             "link": "https://www.wired.com/gallery/best-ipad-accessories/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Laptops For College Students (2026): MacBooks and Beyond",
-            "link": "https://www.wired.com/story/best-college-laptops/",
             "source": "Wired"
         }
     ]
