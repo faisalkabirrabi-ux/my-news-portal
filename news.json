@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Iran war live: US strikes after downing of helicopter, Tehran vows response",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US military launches ‘self-defence strikes’ targeting Iran",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Afghan authorities open fire on protesters over women’s dress code",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_afghan-authorities-open-fire-on-protesters-090626?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US judge halts execution by nitrogen gas, ruling it unconstitutional",
+            "link": "https://www.aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Mississippi residents sue Musk’s xAI and SpaceX over data centre ‘nuisance’",
             "link": "https://www.aljazeera.com/economy/2026/6/9/mississippi-residents-sue-musks-xai-and-spacex-over-data-centre-nuisance?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -43,26 +63,6 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israeli forces kill nine in Tyre after issuing forced displacement orders",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Canada confirms opening of Gordie Howe Bridge, despite Trump’s threats",
-            "link": "https://www.aljazeera.com/news/2026/6/9/canada-confirms-opening-of-gordie-howe-bridge-despite-trumps-threats?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Bear captured after days of panic and school closures in Japan",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/bear-captured-after-days-of-panic-and-school-closures-in-japan?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
             "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -70,6 +70,11 @@
         {
             "title": "US striking Iran in response to downing of helicopter, military says",
             "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "World's largest chipmaker does not rule out price rises as costs increase",
+            "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -85,11 +90,6 @@
         {
             "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
             "link": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
-            "link": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -135,12 +135,17 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Why England missed out on automatic World Cup spot",
+            "link": "https://www.bbc.com/sport/football/articles/cvg70dzg3ngo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "'Maybe a C-minus?' - how good was Williams' winning return?",
             "link": "https://www.bbc.com/sport/tennis/articles/cwy0ldzprrwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Real Madrid's £130m Alvarez bid rejected",
+            "title": "Real Madrid's £130m Alvarez bid laughed off by Atletico",
             "link": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -148,14 +153,14 @@
             "title": "Stokes and alcohol give England another headache",
             "link": "https://www.bbc.com/sport/cricket/articles/c4gydnq8qw2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Williams makes winning return at Queen's",
-            "link": "https://www.bbc.com/sport/tennis/videos/c4gypxylkjmo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+            "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+            "source": "TechCrunch"
+        },
         {
             "title": "GM joins race to build batteries for AI data centers and the grid",
             "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
@@ -179,11 +184,6 @@
         {
             "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
             "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
-            "link": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
             "source": "TechCrunch"
         },
         {
