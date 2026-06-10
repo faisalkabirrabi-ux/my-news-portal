@@ -1,6 +1,21 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "হেলিকপ্টার হারিয়ে ইরানে হামলা চালালো যুক্তরাষ্ট্র",
+            "link": "https://www.bbc.com/bengali/articles/cm2jm4eye73o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'ইসলামী ব্যাংক ইস্যুতে সংসদে মুখোমুখি সরকার-বিরোধী দল'",
+            "link": "https://www.bbc.com/bengali/articles/c1wyj0474v3o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "সাইবার সুরক্ষা আইনে কন্টেন্ট অপসারণসহ কী পরিবর্তন আসছে?",
+            "link": "https://www.bbc.com/bengali/articles/cgjx439327vo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "‘দখল করা ব্যাংক বেদখল হয়ে যাবে এই যাতনা আমরা বুঝি’- ইসলামী ব্যাংক প্রসঙ্গে স্বরাষ্ট্রমন্ত্রী",
             "link": "https://www.bbc.co.uk/bengali/live/c8e2lnj54g9t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -14,52 +29,37 @@
             "title": "কী থাকবে প্রাথমিক ও মাধ্যমিক স্তরে যুক্ত হতে যাওয়া নতুন চার বিষয়ের মধ্যে?",
             "link": "https://www.bbc.com/bengali/articles/c04yp0z2d7no?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভারত থেকে কেন সীমান্ত দিয়ে মানুষজনকে বাংলাদেশে ঠেলে পাঠানোর চেষ্টা?",
-            "link": "https://www.bbc.com/bengali/articles/c4g7g41erejo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইসরায়েল-ইরান সংঘাত তেহরানের আলোচনার অবস্থানকে শক্তিশালী করতে পারে",
-            "link": "https://www.bbc.com/bengali/articles/c8720qge4jpo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "যুক্তরাষ্ট্রে প্রবেশে বাধা পেলেন রেফারি ওমর আরতান",
-            "link": "https://www.bbc.com/bengali/articles/cwy0l08dl0jo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Iran war live: US strikes after downing of helicopter, Tehran vows response",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
+            "title": "Afghanistan says Pakistan air raids killed 13 people, including children",
+            "link": "https://www.aljazeera.com/news/2026/6/10/afghanistan-says-pakistan-air-raids-killed-13-people-including-children?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US military launches ‘self-defence strikes’ targeting Iran",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss",
+            "title": "UN report: Israeli forces shield settlers during attacks on Palestinians",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/un-report-israeli-forces-shield-settlers-during-attacks-on-palestinians?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Afghan authorities open fire on protesters over women’s dress code",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_afghan-authorities-open-fire-on-protesters-090626?traffic_source=rss",
+            "title": "Jordan intercepts Iranian missiles over its airspace",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/jordan-intercepts-iranian-missiles-over-its-airspace?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US judge halts execution by nitrogen gas, ruling it unconstitutional",
-            "link": "https://www.aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss",
+            "title": "Somalia criticises US decision to bar World Cup referee",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/somalia-criticises-us-decision-to-bar-world-cup-referee?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Mississippi residents sue Musk’s xAI and SpaceX over data centre ‘nuisance’",
-            "link": "https://www.aljazeera.com/economy/2026/6/9/mississippi-residents-sue-musks-xai-and-spacex-over-data-centre-nuisance?traffic_source=rss",
+            "title": "Air Canada pilot accused of flying for 17 years without proper licence",
+            "link": "https://www.aljazeera.com/economy/2026/6/10/air-canada-pilot-accused-of-flying-for-17-years-without-proper-licence?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on-2?traffic_source=rss",
+            "title": "Bolivia approves military measures against nationwide protests",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/bolivia-approves-military-measures-against-nationwide-protests?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,7 +68,7 @@
             "source": "BBC World"
         },
         {
-            "title": "US striking Iran in response to downing of helicopter, military says",
+            "title": "US and Iran exchange fire after American patrol helicopter downed in Hormuz",
             "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -157,8 +157,18 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup",
+            "link": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Google just fired a warning shot in the AI subscription price wars",
+            "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-            "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+            "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
             "source": "TechCrunch"
         },
         {
@@ -177,43 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Can tech companies learn to love cheaper AI models?",
-            "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-            "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Great White Sharks Have Been in the Mediterranean Sea for Millions of Years—but Sightings Are Incredibly Rare",
-            "link": "https://www.wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered/",
+            "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
+            "link": "https://www.wired.com/story/naturepedic-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "GM Wants Your Electric Car to Power Your House—and Your Neighborhood",
-            "link": "https://www.wired.com/story/gm-vehicle-to-grid-charging-your-electric-car-can-power-your-house-and-your-neighborhood/",
+            "title": "Corsair Discount Code: Up to 50% Off for June 2026",
+            "link": "https://www.wired.com/story/corsair-coupon/",
             "source": "Wired"
         },
         {
-            "title": "MacOS 27 Golden Gate: Top New Features",
-            "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/",
+            "title": "Best Buy Discount Codes: Up to 60% Off",
+            "link": "https://www.wired.com/story/best-buy-discount-code/",
             "source": "Wired"
         },
         {
-            "title": "The Top New Features in Apple’s iOS 27 and iPadOS 27",
-            "link": "https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/",
+            "title": "Lenovo Coupon Codes and Deals in June 2026",
+            "link": "https://www.wired.com/story/lenovo-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
-            "link": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+            "title": "Ulta Promo Codes: Up to 50% Off in June 2026",
+            "link": "https://www.wired.com/story/ulta-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Longevity Startup Doses First Human in Bid to Reverse Age-Related Sight Loss",
-            "link": "https://www.wired.com/story/longevity-startup-doses-first-human-in-bid-to-reverse-age-related-sight-loss/",
+            "title": "Surfshark Promo Codes: 87% Off | June 2026",
+            "link": "https://www.wired.com/story/surfshark-coupon/",
             "source": "Wired"
         }
     ]
