@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "প্রস্তাবিত বাজেট নিয়ে সমালোচনার জবাবে যা বললো সরকার",
+            "link": "https://www.bbc.com/bengali/articles/c621zvp1420o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "আদ্-দ্বীন হাসপাতালের ভর্তি রোগীরা অনিশ্চয়তায়, লাইসেন্স বাতিল ঘিরে বিতর্ক",
             "link": "https://www.bbc.com/bengali/articles/c872851wej4o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "বিশ্বকাপ জার্সি কুইজ: কয়টি দলের জার্সি আপনি চেনেন?",
+            "link": "https://www.bbc.com/bengali/articles/cgjx60xd651o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,48 +29,43 @@
             "title": "সই জাল মামলায় অভিষেক ব্যানার্জীকে জেরায় সন্তুষ্ট নয় সিআইডি",
             "link": "https://www.bbc.com/bengali/articles/cpq39yw2e3vo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইরানে হামলার ঘোষণা বাতিলের পর চুক্তি নিয়ে সমঝোতার দাবি ট্রাম্পের",
-            "link": "https://www.bbc.com/bengali/articles/c9823d9ymq4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "করের ক্ষেত্রে যে আটটি পরিবর্তন আসছে",
-            "link": "https://www.bbc.com/bengali/articles/c9v2kk0yxexo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Thai Princess Bajrakitiyabha dies after years in coma",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/thai-princess-bajrakitiyabha-dies-after-years-in-coma?traffic_source=rss",
+            "title": "SpaceX IPO debuts in US markets, Musk becomes world’s first trillionaire",
+            "link": "https://www.aljazeera.com/economy/2026/6/12/spacex-ipo-debuts-in-us-markets-musk-becomes-worlds-first-trillionaire?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Violence escalates in Israel amid ultra-Orthodox military draft protests",
-            "link": "https://www.aljazeera.com/news/2026/6/12/violence-escalates-in-israel-amid-ultra-orthodox-military-draft-protests?traffic_source=rss",
+            "title": "Alarm as Ebola spreads into new areas of DR Congo",
+            "link": "https://www.aljazeera.com/news/2026/6/12/alarm-as-ebola-spreads-into-new-areas-of-dr-congo?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "One injured as Israel hits southern Lebanon with air raids, artillery",
-            "link": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss",
+            "title": "Activists form human Palestine flag at World Cup opener in Mexico City",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/activists-form-human-palestine-flag-at-world-cup-opener-in-mexico-city?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "A year after Air India crash killed 260: Do we know what happened?",
-            "link": "https://www.aljazeera.com/news/2026/6/12/a-year-after-air-india-crash-killed-260-do-we-know-what-happened?traffic_source=rss",
+            "title": "Archaeologists find ancient female-led society in Turkiye",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/archaeologists-find-ancient-female-led-society-in-turkiye?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "France-Germany jet plans crash: Can Europe end reliance on US for security?",
-            "link": "https://www.aljazeera.com/features/2026/6/12/france-germany-jet-plans-crash-can-europe-ever-end-us-security-reliance?traffic_source=rss",
+            "title": "Why Mo Amer jokes to survive",
+            "link": "https://www.aljazeera.com/video/the-take-2/2026/6/12/why-mo-amer-jokes-to-survive-2?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Nigeria killed more than 13,000 ‘terrorists’ in past year, president says",
-            "link": "https://www.aljazeera.com/news/2026/6/12/nigeria-killed-more-than-13000-terrorists-in-past-year-president-says?traffic_source=rss",
+            "title": "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
+            "link": "https://www.aljazeera.com/news/2026/6/12/dishonorable-trump-says-leaked-iran-ceasefire-terms-fake?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Tributes paid to David Hockney, a 'giant' and 'true icon' of British art",
+            "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
@@ -68,61 +73,71 @@
             "source": "BBC World"
         },
         {
-            "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
-            "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
+            "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
+            "link": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
+            "link": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "More time needed for deadly Air India crash inquiry, officials say",
+            "link": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
             "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Why the economics make this the craziest World Cup ever",
-            "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-            "link": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Deadly Sudan drone strike targets funeral procession",
-            "link": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Rainey replaces injured Maqsood in Scotland squad",
-            "link": "https://www.cricinfo.com/ci/content/story/1540746.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "India face test of depth in first-ever ODI series against Afghanistan",
-            "link": "https://www.cricinfo.com/ci/content/story/1540722.html?ex_cid=OTC-RSS",
+            "title": "Saturday at T20 World Cup: Ismail's return, reruns of 2024 semis, and some rain",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540724.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "Kane Williamson retires from international cricket",
-            "link": "https://www.cricinfo.com/ci/content/story/1540723.html?ex_cid=OTC-RSS",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540723.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Williamson on retiring mid-series: 'Just feels like the right time'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540747.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "India face test of depth in first-ever ODI series against Afghanistan",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540722.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Rainey replaces injured Maqsood in Scotland squad",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540746.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "Devonshire, Patel and Sharp earn NZ central contracts for 2026-27",
-            "link": "https://www.cricinfo.com/ci/content/story/1540571.html?ex_cid=OTC-RSS",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540571.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Holder, Joseph set up victory as West Indies go 1-0 up",
-            "link": "https://www.cricinfo.com/ci/content/story/1540554.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Norris heads Russell in Barcelona practice",
+            "link": "https://www.bbc.com/sport/formula1/articles/c8r2j40x707o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Edgbaston takes center stage as England, Sri Lanka kick off T20 World Cup",
-            "link": "https://www.cricinfo.com/ci/content/story/1540503.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Raducanu joins Boulter in Queen's quarter-finals",
+            "link": "https://www.bbc.com/sport/tennis/articles/c1wyq5r20djo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Dzeko's last dance could be Bosnia's new beginning",
+            "link": "https://www.bbc.com/sport/football/articles/c9d3vexqg2do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Williamson ends New Zealand career during series with England",
@@ -130,32 +145,32 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Gasly's Monaco third place reinstated after appeal",
-            "link": "https://www.bbc.com/sport/formula1/articles/cevlg742y3do?at_medium=RSS&at_campaign=rss",
+            "title": "'Best Canada team ever' bid to shine at home World Cup",
+            "link": "https://www.bbc.com/sport/football/articles/c4g8w635v49o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Watford great Jackett dies aged 64",
-            "link": "https://www.bbc.com/sport/football/articles/cqj1z2wqkw2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "A new way to experience the World Cup - only on BBC Sport",
-            "link": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "We need to feel love playing for England - Bellingham",
-            "link": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "McTominay travels separately in Boston as precaution",
-            "link": "https://www.bbc.com/sport/football/articles/c78y50pmd2go?at_medium=RSS&at_campaign=rss",
+            "title": "Premier League target hair pulling and set-piece grappling in rules review",
+            "link": "https://www.bbc.com/sport/football/articles/cvgqrlkr24zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
+            "link": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "SpaceX opens at $150, an 11% pop for the most anticipated debut in history",
+            "link": "https://techcrunch.com/2026/06/12/spacex-opens-at-150-an-11-pop-for-the-most-anticipated-debut-in-history/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "SpaceX IPO: Everything you need to know",
+            "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+            "source": "TechCrunch"
+        },
         {
             "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
             "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
@@ -172,19 +187,14 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-            "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-            "source": "TechCrunch"
+            "title": "Crypto Guys Bought the Answer to the CIA’s Mysterious Kryptos Sculpture",
+            "link": "https://www.wired.com/story/crypto-guys-bought-the-answer-to-the-cias-mysterious-kryptos-sculpture/",
+            "source": "Wired"
         },
         {
-            "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-            "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-            "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-            "source": "TechCrunch"
+            "title": "A White Supremacist Youth Group Helped Orchestrate the Belfast Riots",
+            "link": "https://www.wired.com/story/a-white-supremacist-youth-group-helped-orchestrate-the-belfast-riots/",
+            "source": "Wired"
         },
         {
             "title": "6 Best Digital Notebooks (2026): ReMarkable, Kobo, Kindle",
@@ -202,18 +212,8 @@
             "source": "Wired"
         },
         {
-            "title": "Why Real-Life Disclosure Day Will Look Nothing Like Steven Spielberg’s New Movie",
+            "title": "Real-Life Disclosure Day Will Look Nothing Like Steven Spielberg’s New Movie",
             "link": "https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie/",
-            "source": "Wired"
-        },
-        {
-            "title": "Sheeran Loopers Looper X Review: Create Your One-Person Tour",
-            "link": "https://www.wired.com/review/ed-sheeran-looper-x/",
-            "source": "Wired"
-        },
-        {
-            "title": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
-            "link": "https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/",
             "source": "Wired"
         }
     ]
