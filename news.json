@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "সঞ্চয়পত্রের লাভ হাতে আসবে কম, প্রতিক্রিয়া কেমন হবে",
+            "link": "https://www.bbc.com/bengali/articles/cr4766p6qplo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "কীভাবে এত সম্পদের মালিক হলেন বিশ্বের প্রথম ট্রিলিয়নেয়ার ইলন মাস্ক",
             "link": "https://www.bbc.com/bengali/articles/ckg0n7ddz4go?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -16,55 +21,60 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "থাইল্যান্ডে এক রাজকুমারীর মৃত্যুতে উত্তরাধিকার নিয়ে প্রশ্ন",
+            "link": "https://www.bbc.com/bengali/articles/cm2079rz5vmo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ফুটবল বিশ্বকাপ যেভাবে উত্তর আমেরিকার তিন প্রতিবেশীর টানাপোড়েনকে সামনে এনেছে",
             "link": "https://www.bbc.com/bengali/articles/cg536j8e3mpo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'তিন বছ‌র পর সরকারের ঋণ দাঁড়াবে প্রায় ৩৪ লাখ কো‌টি টাকায়'",
-            "link": "https://www.bbc.com/bengali/articles/c0ey48nzgjzo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'পুশ-ইন' বন্ধ করতে বিএসএফকে বিজিবির আহ্বান",
-            "link": "https://www.bbc.com/bengali/articles/cp36zp2nxq2o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
-            "link": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
+            "title": "Israel attacks Lebanon despite being included in potential peace deal",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-despite-being-included-in-potential-peace-deal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "England training equipment stolen ahead of squad’s arrival in Kansas City",
-            "link": "https://www.aljazeera.com/sports/2026/6/13/england-training-equipment-stolen-ahead-of-squads-arrival-in-kansas-city?traffic_source=rss",
+            "title": "The US border runs straight through the World Cup",
+            "link": "https://www.aljazeera.com/opinions/2026/6/13/the-us-border-runs-straight-through-the-world-cup?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US fans celebrate victory over Paraguay in World Cup opener",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-fans-celebrate-victory-over-paraguay-in-world-cup-opener?traffic_source=rss",
+            "title": "US orders Anthropic to disable AI models for all foreign nationals",
+            "link": "https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Lebanon war victims among 117M people displaced worldwide",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/lebanon-war-victims-among-117m-people-displaced-worldwide?traffic_source=rss",
+            "title": "Knicks face Spurs in Game 5, with first NBA title in 53 years in sight",
+            "link": "https://www.aljazeera.com/sports/2026/6/13/knicks-vs-spurs-game-5-nba-finals-2026-title-53-years?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "One killed as Israel hits south Lebanon, issues forced displacement orders",
-            "link": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss",
+            "title": "‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters",
+            "link": "https://www.aljazeera.com/news/2026/6/13/right-to-protest-genocide-denied-scotlands-palestine-action-supporters?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump seeks ‘off-ramp’ from war in ‘Iran deal’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/trump-seeks-off-ramp-from-war-in-iran?traffic_source=rss",
+            "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
+            "link": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+            "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
             "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Switzerland to vote on plan to cap population at 10 million",
+            "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+            "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,27 +83,27 @@
             "source": "BBC World"
         },
         {
-            "title": "French town buries murdered child as questions mount over police failings",
-            "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-            "link": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "Fans on concourses instead of in seats, claims Fifa",
             "link": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
-            "link": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
+            "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+            "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "New Zealand call up Young as Williamson's replacement for remaining two Tests",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540976.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Ireland bowl against Scotland in their first World Cup meeting",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540965.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Nayeem Hasan allegedly assaulted by policemen in Chattogram",
             "link": "https://www.espncricinfo.com/ci/content/story/1540830.html?ex_cid=OTC-RSS",
@@ -115,23 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Zaib, McSweeney bag centuries as Gloucestershire toil",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540755.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Saturday at T20 World Cup: Ismail's return, reruns of 2024 semis, and some rain",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540724.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "USA start World Cup in style - but will they finally join the elite?",
             "link": "https://www.bbc.com/sport/football/articles/c621z2k51rdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Balogun stars in impressive USA win over Paraguay",
-            "link": "https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,12 +145,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'Mummy hundred' gives Wyatt-Hodge her deserved day in the sun",
-            "link": "https://www.bbc.com/sport/cricket/articles/c23yvjpv7kpo?at_medium=RSS&at_campaign=rss",
+            "title": "Balogun stars in impressive USA win over Paraguay",
+            "link": "https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "VAR makes 'mistaken identity' history as strange booking confuses fans",
+            "link": "https://www.bbc.com/sport/football/articles/c5yze890365o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+            "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
             "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
-            "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
-            "source": "TechCrunch"
+            "title": "How Can Soccer Players Bend Their Shots in Midair?",
+            "link": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/",
+            "source": "Wired"
+        },
+        {
+            "title": "The FCC Wants to Kill Burner Phones",
+            "link": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
+            "source": "Wired"
+        },
+        {
+            "title": "EcoFlow PowerOcean Battery Review: Cutting My Bill in Half",
+            "link": "https://www.wired.com/review/ecoflow-powerocean-home-battery/",
+            "source": "Wired"
+        },
+        {
+            "title": "Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails",
+            "link": "https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/",
+            "source": "Wired"
+        },
+        {
+            "title": "A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+            "link": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+            "source": "Wired"
         },
         {
             "title": "Here’s How AI Agents Can Protect EV Chargers",
             "link": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
-            "source": "Wired"
-        },
-        {
-            "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-            "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
-            "source": "Wired"
-        },
-        {
-            "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
-            "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
-            "source": "Wired"
-        },
-        {
-            "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
-            "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-            "source": "Wired"
-        },
-        {
-            "title": "Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere",
-            "link": "https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/",
-            "source": "Wired"
-        },
-        {
-            "title": "Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards",
-            "link": "https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/",
             "source": "Wired"
         }
     ]
