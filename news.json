@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বাংলাদেশে শিশুদের ভিটামিন-এ ক্যাম্পেইন বন্ধ কেন?",
+            "link": "https://www.bbc.com/bengali/articles/cn0vdk19xgyo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'তিন বছ‌র পর সরকারের ঋণ দাঁড়াবে প্রায় ৩৪ লাখ কো‌টি টাকায়'",
+            "link": "https://www.bbc.com/bengali/articles/c0ey48nzgjzo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "'পুশ-ইন' বন্ধ করতে বিএসএফকে বিজিবির আহ্বান",
             "link": "https://www.bbc.com/bengali/articles/cp36zp2nxq2o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,19 +29,29 @@
             "title": "'পুশ ইনের আগে ভারত সীমান্তের লাইট বন্ধ করে দেওয়া হয়, এটি সবচেয়ে বড় সিগন্যাল'",
             "link": "https://www.bbc.com/bengali/articles/c23y8dv2ppmo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "প্রস্তাবিত বাজেট নিয়ে সমালোচনার জবাবে যা বলল সরকার",
-            "link": "https://www.bbc.com/bengali/articles/c621zvp1420o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "আদ্-দ্বীন হাসপাতালের ভর্তি রোগীরা অনিশ্চয়তায়, লাইসেন্স বাতিল ঘিরে বিতর্ক",
-            "link": "https://www.bbc.com/bengali/articles/c872851wej4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "USA hit Paraguay for four in dream start to their World Cup campaign",
+            "link": "https://www.aljazeera.com/sports/2026/6/13/usa-ease-past-paraguay-to-complete-world-cup-opening-rounds-of-hosts?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "World Cup kicks off in US as Katy Perry, Future headline opening ceremony",
+            "link": "https://www.aljazeera.com/sports/2026/6/13/world-cup-kicks-off-in-us-as-katy-perry-future-headline-opening-ceremony?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Thomas Partey denied entry into Canada, will miss Ghana’s World Cup opener",
+            "link": "https://www.aljazeera.com/sports/2026/6/13/thomas-partey-denied-entry-into-canada-will-miss-ghanas-world-cup-opener?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Palestine football chief says he wasn’t granted US visa to attend World Cup",
             "link": "https://www.aljazeera.com/sports/2026/6/12/palestine-football-chief-says-he-wasnt-granted-us-visa-to-attend-world-cup?traffic_source=rss",
@@ -40,26 +60,6 @@
         {
             "title": "Bosnia, Canada share points in hard-fought draw at World Cup",
             "link": "https://www.aljazeera.com/sports/2026/6/12/bosnia-canada-share-points-in-hard-fought-draw-at-world-cup?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Mother sues OpenAI in US after daughter’s death linked to ChatGPT use",
-            "link": "https://www.aljazeera.com/economy/2026/6/12/mother-sues-openai-in-us-after-daughters-death-linked-to-chatgpt-use?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Judge keeps order in place to remove Trump’s name from Kennedy Center",
-            "link": "https://www.aljazeera.com/news/2026/6/12/judge-keeps-order-in-place-to-remove-trumps-name-from-kennedy-center?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "UAE to unlock frozen Iranian funds amid US ceasefire push: Sources",
-            "link": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "EU agrees launch of accession process for Ukraine and Moldova",
-            "link": "https://www.aljazeera.com/news/2026/6/12/eu-agrees-launch-of-accession-process-for-ukraine-and-moldova?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Mismatch in batting firepower could dictate the outcome again",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540813.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "D-day looms for Australian cricket in BBL privatisation push",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540661.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Jaydev Unadkat takes four as Sussex dominate",
             "link": "https://www.espncricinfo.com/ci/content/story/1540752.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -115,47 +125,42 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Jordan Cox celebrates Test call-up with unbeaten 184",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540751.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "VAR makes 'mistaken identity' history as strange booking confuses fans",
+            "link": "https://www.bbc.com/sport/football/articles/c5yze890365o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Liam Livingstone marks return with five-wicket haul as Kent crumble",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540756.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "'Mummy hundred' gives Wyatt-Hodge her deserved day in the sun",
+            "link": "https://www.bbc.com/sport/cricket/articles/c23yvjpv7kpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Balogun scores stunner as USA run riot",
+            "link": "https://www.bbc.com/sport/football/videos/cvgje542y30o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "England have training equipment stolen",
+            "link": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Topuria shoves Gaethje in front of Lincoln Memorial before UFC Freedom",
+            "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/c0eywew2x90o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "'Clear red' for Bosnia or 'wins the ball'? BBC pundits disagree",
             "link": "https://www.bbc.com/sport/football/articles/c2lyd45wl7no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Bellingham set to start, but no Guehi - England's expected team",
-            "link": "https://www.bbc.com/sport/football/articles/cx2dn77m8gwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Wyatt-Hodge stars as England ease past Sri Lanka in T20 World Cup",
-            "link": "https://www.bbc.com/sport/cricket/videos/c9w2k87gld0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Boulter stuns Rybakina at Queen's for biggest career win",
-            "link": "https://www.bbc.com/sport/tennis/articles/c1wyq5r20djo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Club revokes Mickelson membership over allegations",
-            "link": "https://www.bbc.com/sport/golf/articles/cjrg2we25zxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "England win World Cup opener after Wyatt-Hodge ton",
-            "link": "https://www.bbc.com/sport/cricket/articles/cx2jpz5nl7lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+            "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+            "source": "TechCrunch"
+        },
         {
             "title": "SpaceX IPO: Live updates on everything you need to know",
             "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
@@ -182,9 +187,14 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Mistral is rumored to be raising €3B at €20B valuation",
-            "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-            "source": "TechCrunch"
+            "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+            "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+            "source": "Wired"
+        },
+        {
+            "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
+            "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+            "source": "Wired"
         },
         {
             "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
@@ -204,16 +214,6 @@
         {
             "title": "Elon Musk Is the World’s First Trillionaire",
             "link": "https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/",
-            "source": "Wired"
-        },
-        {
-            "title": "China Didn’t Make Americans Hate Data Centers",
-            "link": "https://www.wired.com/story/china-us-data-center-opposition/",
-            "source": "Wired"
-        },
-        {
-            "title": "Crypto Guys Bought the Answer to the CIA’s Mysterious Kryptos Sculpture",
-            "link": "https://www.wired.com/story/crypto-guys-bought-the-answer-to-the-cias-mysterious-kryptos-sculpture/",
             "source": "Wired"
         }
     ]
