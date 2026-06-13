@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "চট্টগ্রামে ক্রিকেটার নাঈম হাসানকে মারধর-হেনস্তার অভিযোগ, ফের পুলিশের ভূমিকা নিয়ে প্রশ্ন",
+            "link": "https://www.bbc.com/bengali/articles/cpv3mk2z882o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "সঞ্চয়পত্রের লাভ হাতে আসবে কম, প্রতিক্রিয়া কেমন হবে",
             "link": "https://www.bbc.com/bengali/articles/cr4766p6qplo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "থাইল্যান্ডে এক রাজকুমারীর মৃত্যুতে উত্তরাধিকার নিয়ে প্রশ্ন",
             "link": "https://www.bbc.com/bengali/articles/cm2079rz5vmo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ফুটবল বিশ্বকাপ যেভাবে উত্তর আমেরিকার তিন প্রতিবেশীর টানাপোড়েনকে সামনে এনেছে",
-            "link": "https://www.bbc.com/bengali/articles/cg536j8e3mpo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Fans reveal how much they paid for World Cup tickets",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/fans-reveal-how-much-they-paid-for-world-cup-tickets?traffic_source=rss",
+            "title": "Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp",
+            "link": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘Lots of things can still go wrong’ with US-Iran deal to end the war",
-            "link": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss",
+            "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+            "link": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
-            "link": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
+            "title": "Thousands attend anti-racism rallies following unrest in Belfast",
+            "link": "https://www.aljazeera.com/news/2026/6/13/thousands-attend-anti-racism-rallies-following-unrest-in-belfast?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Deadly military plane crash in India’s Assam",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss",
+            "title": "Iranians divided on peace prospects after US-Iran say a deal is near",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Football: Why is India struggling to play the world’s most popular sport?",
-            "link": "https://www.aljazeera.com/video/101-east/2026/6/13/football-why-is-india-struggling-to-play-the-worlds-most-popular-sport?traffic_source=rss",
+            "title": "Workers remove Trump’s name from Kennedy Center after court ruling",
+            "link": "https://www.aljazeera.com/news/2026/6/13/workers-remove-trumps-name-from-kennedy-center-after-court-ruling?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Five Indian air force staff killed as transport plane crashes in Assam",
-            "link": "https://www.aljazeera.com/news/2026/6/13/five-indian-air-force-staff-killed-as-transport-plane-crashes-in-assam?traffic_source=rss",
+            "title": "From colony to cell: Sexual violence in Israeli prisons",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/from-colony-to-cell-sexual-violence-in-israeli-prisons?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,17 +83,37 @@
             "source": "BBC World"
         },
         {
-            "title": "Fans on concourses instead of in seats, claims Fifa",
-            "link": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+            "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+            "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-            "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+            "title": "Woman seriously injured in shark attack at Sydney beach",
+            "link": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Soumya: 'There should have been a much bigger celebration after series win'",
+            "link": "https://www.espncricinfo.com/ci/content/story/1541043.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Sunday at T20 World Cup: It's India vs Pakistan, and a debut for Netherlands",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540994.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "England call up Henry Crocombe as Ollie Robinson cover",
+            "link": "https://www.espncricinfo.com/ci/content/story/1541029.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "New Zealand call up Young as Williamson's replacement for remaining two Tests",
+            "link": "https://www.espncricinfo.com/ci/content/story/1540976.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Litchfield fit as Australia bat against SA",
             "link": "https://www.espncricinfo.com/ci/content/story/1541013.html?ex_cid=OTC-RSS",
@@ -105,57 +125,42 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Bangladesh aim for 3-0 against Australia in ODI series",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540834.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Gurnoor Brar and Harsh Dubey make ODI debuts for India in Dharamsala",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540988.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "New Zealand call up Young as Williamson's replacement for remaining two Tests",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540976.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Ireland bowl against Scotland in their first World Cup meeting",
-            "link": "https://www.espncricinfo.com/ci/content/story/1540965.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Might Scotland throw midfield curveball at Haiti?",
             "link": "https://www.bbc.com/sport/football/articles/cqj1z4e21gro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "West Ham shareholders address Sullivan allegations and agree ownership deal",
-            "link": "https://www.bbc.com/sport/football/articles/c932ll05592o?at_medium=RSS&at_campaign=rss",
+            "title": "Can Vinicius finally convince Brazil in Neymar's absence?",
+            "link": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Stokes returns to Durham training after England omission",
-            "link": "https://www.bbc.com/sport/cricket/articles/c4gyw078vggo?at_medium=RSS&at_campaign=rss",
+            "title": "Russell beats Hamilton to Barcelona pole",
+            "link": "https://www.bbc.com/sport/formula1/articles/cdr40v6y0j7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Raducanu overcomes injury to reach Queen's semis",
-            "link": "https://www.bbc.com/sport/tennis/articles/crlwkx2j5nyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'Gang leaders are soccer lovers' - Haiti play with hope for peace",
+            "title": "The trauma and hope behind Haiti's rare World Cup appearance",
             "link": "https://www.bbc.com/sport/football/articles/c23yvvv7kr3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Pole vaulter Caudery has emergency spinal surgery",
-            "link": "https://www.bbc.com/sport/athletics/articles/cx2xp8l8qv1o?at_medium=RSS&at_campaign=rss",
+            "title": "Raducanu battles into Queen's semis but Boulter goes out",
+            "link": "https://www.bbc.com/sport/tennis/articles/crlwkx2j5nyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Uncapped Crocombe added to England Test squad",
+            "link": "https://www.bbc.com/sport/cricket/articles/c74ymz7vym1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+            "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+            "source": "TechCrunch"
+        },
         {
             "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
             "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
@@ -179,11 +184,6 @@
         {
             "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
             "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-            "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
             "source": "TechCrunch"
         },
         {
