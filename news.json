@@ -6,6 +6,11 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "'মায়ের মৃতদেহ আটকে ছেলেকে কান ধরে ওঠবস', কী ঘটেছিল রংপুর মেডিকেলে",
+            "link": "https://www.bbc.com/bengali/articles/cvg5exmr4ddo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "মরক্কোর বিপক্ষে কষ্টার্জিত ড্র, কতদূর যাবে ব্রাজিল?",
             "link": "https://www.bbc.com/bengali/articles/cq51gxj757jo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -13,11 +18,6 @@
         {
             "title": "সাবেক আইজিপি বেনজীর আহমেদ দুবাইয়ে গ্রেফতার, নিশ্চিত করলেন স্বরাষ্ট্রমন্ত্রী",
             "link": "https://www.bbc.co.uk/bengali/live/c07yk2yk24mt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'মায়ের মৃতদেহ আটকে ছেলেকে কান ধরে ওঠবস', কী ঘটেছিল রংপুর মেডিকেলে",
-            "link": "https://www.bbc.com/bengali/articles/cvg5exmr4ddo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -33,42 +33,37 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Thousands protest as Trump, other world leaders set to meet for G7 summit",
+            "link": "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Al Jazeera reports from Israeli attack site in southern Beirut",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Knicks fans set bus alight during celebrations",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/knicks-fans-set-bus-alight-during-celebrations?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Analyst says what attacks on Lebanon could mean for potential US-Iran deal",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/analyst-says-what-attacks-on-lebanon-could-mean-for-potential-us-iran-deal?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Netherlands vs Japan live: World Cup 2026",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/6/14/netherlands-vs-japan-live-world-cup-2026?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "‘Unacceptable’: London protesters slam illegal Israeli settlement land sale",
             "link": "https://www.aljazeera.com/news/2026/6/14/unacceptable-london-protesters-slam-illegal-israeli-settlement-land-sale?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump makes endorsement in key Georgia Republican US Senate run-off",
-            "link": "https://www.aljazeera.com/news/2026/6/14/trump-makes-endorsement-in-key-georgia-republican-us-senate-run-off?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump condemns Israel’s attack on Beirut, says Iran deal still close",
-            "link": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "EU set to hold membership talks with Ukraine",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/eu-set-to-hold-membership-talks-with-ukraine?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘We were herded like animals’: Freed from Boko Haram captivity",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/we-were-herded-like-animals-freed-from-boko-haram-captivity?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-            "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+            "title": "Israeli military says Hezbollah targets struck in Beirut",
             "link": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -91,17 +86,17 @@
             "title": "UK and Japan agree £18bn investment deal",
             "link": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
+        },
+        {
+            "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
+            "link": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Potts eight-for seals innings win for Durham",
-            "link": "https://www.espncricinfo.com/ci/content/story/1541181.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Connolly's 149 helps Australia survive Shoriful's six-for in one-wicket thriller",
-            "link": "https://www.espncricinfo.com/ci/content/story/1541135.html?ex_cid=OTC-RSS",
+            "title": "Luxton, Bairstow, Hill cement Yorkshire ascendency",
+            "link": "https://www.espncricinfo.com/ci/content/story/1541188.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -110,18 +105,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Visa issues force Cambodia to forfeit ACC Men's Challenger Cup games",
-            "link": "https://www.espncricinfo.com/ci/content/story/1541171.html?ex_cid=OTC-RSS",
+            "title": "Ollie Robinson out of second Test with knee injury",
+            "link": "https://www.espncricinfo.com/ci/content/story/1541219.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "India opt to bat against Pakistan and pick Fulmali over Bhatia",
-            "link": "https://www.espncricinfo.com/ci/content/story/1541172.html?ex_cid=OTC-RSS",
+            "title": "Mandhana, Deepti, Richa star as India breeze past Pakistan",
+            "link": "https://www.espncricinfo.com/ci/content/story/1541215.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "BBL privatisation bid in trouble after ACA rejects current proposal",
-            "link": "https://www.espncricinfo.com/ci/content/story/1541147.html?ex_cid=OTC-RSS",
+            "title": "Mahmud six sets up Kent for three-day win over Lancashire",
+            "link": "https://www.espncricinfo.com/ci/content/story/1541177.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Haines, Coles see off Glamorgan rearguard to wrap up thumping win",
+            "link": "https://www.espncricinfo.com/ci/content/story/1541187.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -135,6 +135,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Real Madrid agree £51.8m deal for Chelsea's Cucurella",
+            "link": "https://www.bbc.com/sport/football/articles/cx2xp7gv09lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "The 20-year-old who stole the show on Scotland's World Cup return",
             "link": "https://www.bbc.com/sport/football/articles/clyrepwp0gno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -145,17 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
-            "link": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "What does 1-0 win mean for Scotland's chances of qualification?",
-            "link": "https://www.bbc.com/sport/football/articles/cvglm8n1nyjo?at_medium=RSS&at_campaign=rss",
+            "title": "Mandhana and Deepti star as India beat Pakistan",
+            "link": "https://www.bbc.com/sport/cricket/articles/ce8jy547mx5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "As AI companies race to go public, who else is along for the ride?",
+            "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+            "source": "TechCrunch"
+        },
         {
             "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
             "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
@@ -179,11 +184,6 @@
         {
             "title": "KPMG pulls report on AI usage due to apparent hallucinations",
             "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-            "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
             "source": "TechCrunch"
         },
         {
