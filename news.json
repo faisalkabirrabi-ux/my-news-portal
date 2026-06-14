@@ -33,39 +33,34 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Lewis Hamilton wins first F1 race with Ferrari in Barcelona",
-            "link": "https://www.aljazeera.com/sports/2026/6/14/lewis-hamilton-wins-first-f1-race-with-ferrari-in-barcelona?traffic_source=rss",
+            "title": "India beat Pakistan by 64 runs to open Women’s T20 World Cup campaign",
+            "link": "https://www.aljazeera.com/sports/2026/6/14/india-beat-pakistan-by-64-runs-to-open-womens-t20-world-cup-campaign?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "The president, the billionaires and the news",
-            "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/14/the-president-the-billionaires-and-the-news?traffic_source=rss",
+            "title": "LIVE: Ilia Topuria vs Justin Gaethje title fight at UFC Freedom 250",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/6/14/live-ilia-topuria-vs-justin-gaethje-title-fight-at-ufc-freedom-250?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Twelve killed in plane crash in US state of Missouri",
-            "link": "https://www.aljazeera.com/news/2026/6/14/twelve-killed-in-plane-crash-in-us-state-of-missouri?traffic_source=rss",
+            "title": "Gaza mourns four killed in Israeli strike",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Germany hit Curacao for seven to open their World Cup",
-            "link": "https://www.aljazeera.com/sports/2026/6/14/germany-hit-curacao-for-seven-to-open-their-world-cup?traffic_source=rss",
+            "title": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel welcomes Somaliland president in ‘historic’ visit",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-welcomes-somaliland-president-in-historic-visit?traffic_source=rss",
+            "title": "Swiss right-wing plan to cap population rejected by narrow margins",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/swiss-right-wing-plan-to-cap-population-rejected-by-narrow-margins?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
-            "link": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss",
+            "title": "Medical teams in Goma face mistrust from relatives of Ebola victims",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/medical-teams-in-goma-face-mistrust-from-relatives-of-ebola-victims?traffic_source=rss",
             "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israeli military says Hezbollah targets struck in Beirut",
-            "link": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         },
         {
             "title": "Swiss voters reject 10 million population cap",
@@ -75,6 +70,11 @@
         {
             "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
             "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Protesters clash with police ahead of G7 summit in Geneva",
+            "link": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -95,23 +95,23 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Mandhana, Deepti, Richa star as India breeze past Pakistan",
-            "link": "https://www.espncricinfo.com/ci/content/story/1541215.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Guthrie spearheads Northants push despite Bancroft, Bracey resistance",
             "link": "https://www.espncricinfo.com/ci/content/story/1541183.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Middlesex eye route to victory after du Plooy ton",
-            "link": "https://www.espncricinfo.com/ci/content/story/1541179.html?ex_cid=OTC-RSS",
+            "title": "Ollie Robinson out of second Test with knee injury",
+            "link": "https://www.espncricinfo.com/ci/content/story/1541219.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Ollie Robinson out of second Test with knee injury",
-            "link": "https://www.espncricinfo.com/ci/content/story/1541219.html?ex_cid=OTC-RSS",
+            "title": "Mandhana, Deepti, Ghosh star as India breeze past Pakistan",
+            "link": "https://www.espncricinfo.com/ci/content/story/1541215.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Middlesex eye route to victory after du Plooy ton",
+            "link": "https://www.espncricinfo.com/ci/content/story/1541179.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -145,17 +145,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Havertz scores twice as Germany thrash Curacao",
-            "link": "https://www.bbc.com/sport/football/videos/c74y83g7jqxo?at_medium=RSS&at_campaign=rss",
+            "title": "Summerville scores 'sizzler' as Netherlands retake lead",
+            "link": "https://www.bbc.com/sport/football/videos/c1jypd85k0go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "The 20-year-old who stole the show on Scotland's World Cup return",
-            "link": "https://www.bbc.com/sport/football/articles/clyrepwp0gno?at_medium=RSS&at_campaign=rss",
+            "title": "England-Croatia referee was called Grade E by Tuchel",
+            "link": "https://www.bbc.com/sport/football/articles/ckg8z2k2yplo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+            "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
+            "source": "TechCrunch"
+        },
         {
             "title": "UK may ban social media for children under 16",
             "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
@@ -179,11 +184,6 @@
         {
             "title": "As Anthropic suspends access to new models, India debates its AI future",
             "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-            "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
             "source": "TechCrunch"
         },
         {
