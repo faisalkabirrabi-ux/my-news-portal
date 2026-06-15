@@ -33,7 +33,12 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Egypt draw 1–1 with Belgium at World Cup group-stage game",
+            "title": "Journalist hit by Israeli strike while reporting in Lebanon",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Egypt draw 1–1 with Belgium at World Cup group game",
             "link": "https://www.aljazeera.com/sports/2026/6/15/egypt-draw-1-1-with-belgium-at-world-cup-group-stage?traffic_source=rss",
             "source": "আল জাজিরা"
         },
@@ -55,11 +60,6 @@
         {
             "title": "EU officially launches Ukraine and Moldova accession process",
             "link": "https://www.aljazeera.com/news/2026/6/15/eu-officially-launches-ukraine-and-moldova-accession-processes?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Hungarian MPs approve PM limits to block potential return of Orban",
-            "link": "https://www.aljazeera.com/news/2026/6/15/hungarian-mps-approve-pm-limits-to-block-potential-return-of-orban?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -130,13 +130,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "I'll keep gambling with fitness for England - Saka",
-            "link": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&at_campaign=rss",
+            "title": "VAR official says hand gesture was 'involuntary, subconscious twitch'",
+            "link": "https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Palace appoint Sage as head coach on three-year deal",
-            "link": "https://www.bbc.com/sport/football/articles/c932k94ggr9o?at_medium=RSS&at_campaign=rss",
+            "title": "'Cartwheels at breakfast' & kicking about Boston - the culture shift in Scotland camp",
+            "link": "https://www.bbc.com/sport/football/articles/cj3gnz8kvevo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +145,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Vozinha heroics help Cape Verde hold Spain to goalless draw",
-            "link": "https://www.bbc.com/sport/football/videos/c621kr6q2rro?at_medium=RSS&at_campaign=rss",
+            "title": "Lukaku makes impact off the bench as Belgium draw with Egypt",
+            "link": "https://www.bbc.com/sport/football/videos/cly72zdjzgqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "GB's Jones misses match points in Nottingham loss",
-            "link": "https://www.bbc.com/sport/tennis/articles/c14yj747m5vo?at_medium=RSS&at_campaign=rss",
+            "title": "I'll keep gambling with fitness for England - Saka",
+            "link": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+            "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
             "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
@@ -179,11 +184,6 @@
         {
             "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
             "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "UK unveils sweeping social media ban for users under 16",
-            "link": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
             "source": "TechCrunch"
         },
         {
