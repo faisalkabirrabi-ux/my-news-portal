@@ -33,34 +33,39 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Can the Global South have a say in global affairs?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/6/18/can-the-global-south-have-a-say-in-global-affairs?traffic_source=rss",
+            "title": "Are prices really dropping in the US, as Trump claims?",
+            "link": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "World Cup 2026: South Africa grab 1-1 draw with Czechia with late penalty",
-            "link": "https://www.aljazeera.com/sports/2026/6/18/woerld-cup-2026-south-africa-grab-1-1-draw-with-czechia-with-late-penalty?traffic_source=rss",
+            "title": "Cuba’s Communist Party approves opening economy in unprecedented move",
+            "link": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Pakistan signs US-Iran MoU",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss",
+            "title": "Myanmar military airstrike kills seven civilians in Rakhine state",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_myanmar-military-airstrike-kills-seven-civilians-180626?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel says cutting ties with top EU diplomat over ‘apartheid’ comments",
-            "link": "https://www.aljazeera.com/news/2026/6/18/israel-says-cutting-ties-with-top-eu-diplomat-over-apartheid-comments?traffic_source=rss",
+            "title": "Brazil executes warrant against Lula ally in widening financial scandal",
+            "link": "https://www.aljazeera.com/news/2026/6/18/brazil-executes-warrant-against-lula-ally-in-widening-financial-scandal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Somalia warns Israel against meddling in Somaliland",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/somalia-warns-israel-against-meddling-in-somaliland?traffic_source=rss",
+            "title": "Conjoined twins separated after surgery in Saudi Arabia",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/conjoined-twins-separated-after-surgery-in-saudi-arabia?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US vice president slams Israel over criticism of Trump’s Iran deal",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-vice-president-slams-israel-over-criticism-of-trumps-iran-deal?traffic_source=rss",
+            "title": "Neymar will not play in Brazil’s World Cup match against Haiti due to injury",
+            "link": "https://www.aljazeera.com/sports/2026/6/18/neymar-will-not-play-in-brazils-world-cup-match-against-haiti-due-to-injury?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+            "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
@@ -68,7 +73,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Why Iran believes deal with US leaves it stronger than before",
+            "title": "What Iran and US get from deal and why both could struggle to keep it",
             "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -86,42 +91,37 @@
             "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
             "link": "https://www.bbc.com/news/articles/c14ykj2nr8lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
-            "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Stafanie Taylor, spinners help West Indies overcome Scotland threat",
+            "link": "https://www.cricinfo.com/ci/content/story/1541762.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Prema Rawat replaces Shreyanka Patil at the T20 World Cup",
+            "link": "https://www.cricinfo.com/ci/content/story/1541719.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Phillips dedicates maiden Test hundred to late dad 'watching in some stage'",
+            "link": "https://www.cricinfo.com/ci/content/story/1541747.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "New Zealand surge with Phillips' century and Henry's wickets",
             "link": "https://www.cricinfo.com/ci/content/story/1541685.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Scotland bowl; Henry and Taylor return for WI",
-            "link": "https://www.cricinfo.com/ci/content/story/1541731.html?ex_cid=OTC-RSS",
+            "title": "NZ toast Gay wicket after Conway and Nicholls coax Latham into review",
+            "link": "https://www.cricinfo.com/ci/content/story/1541754.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "New Zealand desperate to put title defence back on track against Ireland",
-            "link": "https://www.cricinfo.com/ci/content/story/1541686.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "PCB sets minimum international appearance criteria for new central contracts",
-            "link": "https://www.cricinfo.com/ci/content/story/1541718.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Shreyanka Patil all but out of T20 World Cup with ankle ligament injury",
-            "link": "https://www.cricinfo.com/ci/content/story/1541719.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Nidar Dar makes herself available for Pakistan selection after year-long hiatus",
-            "link": "https://www.cricinfo.com/ci/content/story/1541724.html?ex_cid=OTC-RSS",
+            "title": "Cricket journalist and broadcast legend Qamar Ahmed dies aged 88",
+            "link": "https://www.cricinfo.com/ci/content/story/1541697.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -130,40 +130,50 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Scotland fall short of famous win over Windies",
+            "link": "https://www.bbc.com/sport/cricket/articles/cly738qd150o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Usyk-Verhoeven ref had seen enough to end fight before bell",
+            "link": "https://www.bbc.com/sport/boxing/articles/c5yzxxe0x27o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Stokes could return as captain for third Test against NZ",
+            "link": "https://www.bbc.com/sport/cricket/articles/clyeggrj8ddo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Tuchel's complaints lead to Fifa moving photographers",
             "link": "https://www.bbc.com/sport/football/articles/cdejd2p65k3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Lord Botham criticises Stokes for breaking curfew",
-            "link": "https://www.bbc.com/sport/cricket/articles/ce379v45kdjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Lionesses will face Greece in World Cup play-offs",
-            "link": "https://www.bbc.com/sport/football/articles/cvgl9xp2lgno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Van der Vaart apologises over Japan racial slur",
-            "link": "https://www.bbc.com/sport/football/articles/cdjk9yw9xv3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Olympic medallist Simpson recovering after collapse",
-            "link": "https://www.bbc.com/sport/athletics/articles/c5yzxx3010do?at_medium=RSS&at_campaign=rss",
+            "title": "Sutton's World Cup score predictions - second group games",
+            "link": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
-            "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+            "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega round",
+            "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
             "source": "TechCrunch"
         },
         {
-            "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-            "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+            "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+            "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+            "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
+            "link": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
             "source": "TechCrunch"
         },
         {
@@ -172,19 +182,24 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Mivo’s new app takes a mindful approach to managing screen time",
-            "link": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/",
+            "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+            "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
             "source": "TechCrunch"
         },
         {
-            "title": "AI data centers just got a government-mandated fast lane to the grid",
-            "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-            "source": "TechCrunch"
+            "title": "The White House Is Making Up Its Rules for AI in Real Time",
+            "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+            "source": "Wired"
         },
         {
-            "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
-            "link": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
-            "source": "TechCrunch"
+            "title": "44 Best Father’s Day Gifts for Dads (2026)",
+            "link": "https://www.wired.com/story/the-best-gifts-for-dads-2026-1/",
+            "source": "Wired"
+        },
+        {
+            "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+            "source": "Wired"
         },
         {
             "title": "Trump Mocked Mark Zuckerberg and Jeff Bezos by Showing Off Fawning Texts",
@@ -199,21 +214,6 @@
         {
             "title": "Silicon Valley’s Elite Financial Advisers Say This Era of Wealth Is Different",
             "link": "https://www.wired.com/story/silicon-valleys-elite-financial-advisers-say-this-era-of-wealth-is-different/",
-            "source": "Wired"
-        },
-        {
-            "title": "Waymo Recalls Robotaxis Over Risk They'll Drive at Speed Into Freeway Construction Zones",
-            "link": "https://www.wired.com/story/waymo-recalls-robotaxis-over-risk-theyll-drive-at-speed-into-freeway-construction-zones/",
-            "source": "Wired"
-        },
-        {
-            "title": "Samsung The Frame Pro 2026 Review: Pricey But Worth It",
-            "link": "https://www.wired.com/review/samsung-the-frame-pro-2026/",
-            "source": "Wired"
-        },
-        {
-            "title": "Amazon’s Fire Tablets, Tested, So You Don’t Have To (2026)",
-            "link": "https://www.wired.com/gallery/best-amazon-fire-tablet/",
             "source": "Wired"
         }
     ]
