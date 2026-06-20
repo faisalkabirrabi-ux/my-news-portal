@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "আওয়ামী লীগের প্রতিষ্ঠাবার্ষিকী ঘিরে দেশজুড়ে পুলিশের সর্তকতার কারণ কী?",
+            "link": "https://www.bbc.com/bengali/articles/c2eyzn3j848o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "হরমুজ প্রণালি আবার বন্ধের ঘোষণা ইরানের, যুক্তরাষ্ট্র বলছে 'হয়নি'",
+            "link": "https://www.bbc.com/bengali/articles/c5yzklp8nzko?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "যেসব ঘটনায় আলোচনায় স্থানীয় সরকার প্রতিমন্ত্রী মীর শাহে আলম",
             "link": "https://www.bbc.com/bengali/articles/ckg4l2jy2v3o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "জাদুটোনা, তাবিজ, প্রার্থনা- বিশ্বকাপে পছন্দের দলের জয় দেখতে যা যা করেন সমর্থকেরা",
             "link": "https://www.bbc.com/bengali/articles/cj4ge81r2r7o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "কেন ২০শে জুন 'পশ্চিমবঙ্গ দিবস' পালন করছে বিজেপি সরকার?",
-            "link": "https://www.bbc.com/bengali/articles/cvg5dy8lkkvo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ট্রাম্পের যে মন্তব্যকে 'বানানো গল্প' বলে ক্ষোভ ঝাড়লেন ইতালির প্রধানমন্ত্রী মেলোনি",
-            "link": "https://www.bbc.com/bengali/articles/ce37n1gxlqgo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Where do Iran’s political factions stand on the US peace deal?",
-            "link": "https://www.aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss",
+            "title": "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election",
+            "link": "https://www.aljazeera.com/news/longform/2026/6/20/how-ivan-cepeda-emerged-a-frontrunner-in-colombias-presidential-election?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith",
-            "link": "https://www.aljazeera.com/features/longform/2026/6/20/in-nepals-highlands-climate-change-threatens-tibets-bon-faith?traffic_source=rss",
+            "title": "Germany vs Ivory Coast: LIVE – World Cup 2026",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/6/20/germany-vs-ivory-coast-live-world-cup-2026?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "UK condemns Israeli minister over inflammatory Lebanon remarks",
-            "link": "https://www.aljazeera.com/news/2026/6/20/uk-condemns-israeli-minister-over-inflammatory-lebanon-remarks?traffic_source=rss",
+            "title": "Trump insists Italy’s Meloni sought photos with him to boost popularity",
+            "link": "https://www.aljazeera.com/news/2026/6/20/trump-insists-italys-meloni-sought-photos-with-him-to-boost?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Top Ukrainian officials return Polish awards in WWII dispute",
-            "link": "https://www.aljazeera.com/news/2026/6/20/top-ukrainian-officials-return-polish-awards-in-wwii-dispute?traffic_source=rss",
+            "title": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-warns-of-reciprocal-action-if-us-doesnt-honour-mou-commitments?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Spain vs Saudi Arabia: World Cup 2026 – Yamal, prediction, watch, kickoff",
-            "link": "https://www.aljazeera.com/sports/2026/6/20/spain-vs-saudi-arabia-world-cup-2026-yamal-prediction-watch-kickoff?traffic_source=rss",
+            "title": "Nine left in critical condition after UK train collision that killed driver",
+            "link": "https://www.aljazeera.com/news/2026/6/20/nine-left-in-critical-condition-after-uk-train-collision-that-killed-driver?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why Tunisia’s renewable energy strategy is facing resistance",
-            "link": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss",
+            "title": "Court bans Spanish PM’s wife from leaving country amid corruption probe",
+            "link": "https://www.aljazeera.com/news/2026/6/20/court-bans-spanish-pms-wife-from-leaving-country-amid-corruption-probe?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,8 +68,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
-            "link": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+            "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+            "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Bolivian president declares state of emergency",
+            "link": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -78,35 +83,35 @@
             "source": "BBC World"
         },
         {
-            "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-            "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+            "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+            "link": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "US to stop funding HIV programmes in South Africa",
             "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
-            "link": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
-        {
-            "title": "Bangladesh bat; Pakistan bring back Rubab, Jabeen",
-            "link": "https://www.cricinfo.com/ci/content/story/1542026.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
         {
             "title": "Chance for West Indies and India to take big step towards semi-finals",
             "link": "https://www.cricinfo.com/ci/content/story/1542012.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "England need 463 to win as Fisher brings rapid end after lunch",
+            "title": "Prasidh five-for, Jaiswal hundred help India sweep Afghanistan 3-0",
+            "link": "https://www.cricinfo.com/ci/content/story/1542002.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "England's top-order rattled in 463 chase",
             "link": "https://www.cricinfo.com/ci/content/story/1542005.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Bangladesh bat; Pakistan bring back Rubab, Jabeen",
+            "link": "https://www.cricinfo.com/ci/content/story/1542026.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,28 +120,28 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Prasidh grabs five in Chennai, Afghanistan fold for 218",
-            "link": "https://www.cricinfo.com/ci/content/story/1542002.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Ailsa Lister handed demerit point for breaching Level 1 of ICC Code of Conduct",
             "link": "https://www.cricinfo.com/ci/content/story/1541998.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Why Kane is different at this World Cup",
+            "title": "Why Kane is different at this World Cup - Shearer",
             "link": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Almiron first player sent off for covering mouth",
-            "link": "https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&at_campaign=rss",
+            "title": "Boston bounce sends Scotland to Miami with hope and no fear",
+            "link": "https://www.bbc.com/sport/football/articles/c0my8z7vpg3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Flawed but relentless Scotland show themselves as men of substance",
-            "link": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss",
+            "title": "Northampton beat Exeter to win Prem Rugby title",
+            "link": "https://www.bbc.com/sport/rugby-union/articles/c872jn540p5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Stokes hits 95 for Durham while England struggle",
+            "link": "https://www.bbc.com/sport/cricket/articles/cnv9m71j7ydo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Oh, brother! The sibling rivals lining up for different World Cup teams",
-            "link": "https://www.bbc.com/sport/football/articles/ce3ev0v7ge4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "World Cup first sees Almiron sent off for covering mouth",
-            "link": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
+            "title": "Curacao's trailblazer doctor on football's big stage",
+            "link": "https://www.bbc.com/sport/football/articles/ckg08ewg9l2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Every new iOS 27 feature that’s worth knowing about",
+            "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+            "source": "TechCrunch"
+        },
         {
             "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
             "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
@@ -179,11 +184,6 @@
         {
             "title": "Every fusion startup that has raised over $100M",
             "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-            "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
             "source": "TechCrunch"
         },
         {
