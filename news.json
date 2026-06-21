@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Europe heatwave scorches cities and wildlife",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/europe-heatwave-scorches-cities-and-wildlife?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Yamal scores first World Cup goal as Spain thrash Saudi Arabia",
+            "link": "https://www.aljazeera.com/sports/2026/6/21/spain-thrash-saudi-arabia-4-0-as-lamine-yamal-off-mark-at-world-cup-2026?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "What’s next in the Strait of Hormuz crisis?",
             "link": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -53,17 +63,7 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "The looming Super El Nino",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/the-looming-super-el-nino?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "India’s ‘Cockroach’ movement camps out until education minister resigns",
-            "link": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US and Iran begin talks on initial peace deal in Switzerland",
+            "title": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
             "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,34 +95,44 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "O'Neill, Patterson-White complete innings win for Notts at Chelmsford",
-            "link": "https://www.cricinfo.com/ci/content/story/1542209.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Robinson, Potts turn tables to give Durham a fighting chance",
-            "link": "https://www.cricinfo.com/ci/content/story/1542220.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Brookes, Waite give Worcestershire the edge though draw beckons",
-            "link": "https://www.cricinfo.com/ci/content/story/1542221.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Hashmatullah Shahidi reprimanded for running on the pitch despite official warning",
+            "title": "Hashmatullah Shahidi handed one demerit point for running on pitch",
             "link": "https://www.cricinfo.com/ci/content/story/1542250.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Mahidul Islam replaces injured Litton Das for Zimbabwe Test",
-            "link": "https://www.cricinfo.com/ci/content/story/1542243.html?ex_cid=OTC-RSS",
+            "title": "Henry takes 11 as New Zealand romp to 253-run victory against England",
+            "link": "https://www.cricinfo.com/ci/content/story/1542175.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Jack fells Sussex as Hampshire claim vital victory",
-            "link": "https://www.cricinfo.com/ci/content/story/1542210.html?ex_cid=OTC-RSS",
+            "title": "Sharma stars in fightback as Middlesex ride on Holden 182",
+            "link": "https://www.cricinfo.com/ci/content/story/1542225.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Thomas Rew sparkles again to loosen Warwickshire grip",
+            "link": "https://www.cricinfo.com/ci/content/story/1542219.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Rex Rooms, the reckoning: What happens next after curfew-gate?",
+            "link": "https://www.cricinfo.com/ci/content/story/1542258.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Rory Burns hundred keeps Glamorgan sweating in Cardiff",
+            "link": "https://www.cricinfo.com/ci/content/story/1542218.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Serena Williams to make singles comeback at Wimbledon",
+            "link": "https://www.bbc.com/sport/tennis/articles/cn8kz0vm4d2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Lamine Yamal shows why this could be his World Cup",
+            "link": "https://www.bbc.com/sport/football/articles/cj0gy46d5vro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Stokes & Atkinson 'blameless for violent conduct'",
@@ -135,27 +145,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'He's arrived' - Yamal scores the opener for Spain",
-            "link": "https://www.bbc.com/sport/football/videos/c1jyr87472jo?at_medium=RSS&at_campaign=rss",
+            "title": "Lamine Yamal on target as Spain put four past Saudi Arabia",
+            "link": "https://www.bbc.com/sport/football/videos/cze9g190rz1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "The beauty of sharing your child's first World Cup",
             "link": "https://www.bbc.com/sport/football/articles/cd957318ewdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "The World Cup records that look set to be broken",
-            "link": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Brilliant Kapp leads South Africa past India",
-            "link": "https://www.bbc.com/sport/cricket/articles/c0ly687p8n5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+            "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
             "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
@@ -179,11 +184,6 @@
         {
             "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
             "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "In the Weights is your new AI-centric vanity search",
-            "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
             "source": "TechCrunch"
         },
         {
