@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "প্রধানমন্ত্রী হিসেবে প্রথম বিদেশ সফরে মালয়েশিয়ার উদ্দেশ্যে তারেক রহমান",
+            "title": "যুদ্ধ বন্ধে সুইজারল্যান্ডে যুক্তরাষ্ট্র-ইরান বৈঠক শুরু",
             "link": "https://www.bbc.co.uk/bengali/live/c9w210gjpy0t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "বিতর্কিত বক্তব্যের অভিযোগে প্রত্যাহার খুলনার পুলিশ কর্মকর্তা, ঠিক কী ঘটেছে?",
+            "link": "https://www.bbc.com/bengali/articles/cz75lz75yw2o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "এবার বিশ্বকাপে নকআউট পর্বে উঠতে যেসব হিসাব করতে হবে",
+            "link": "https://www.bbc.com/bengali/articles/cwykez27vx1o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,62 +29,47 @@
             "title": "পিতৃত্ব কীভাবে পুরুষের মস্তিষ্কে প্রভাব ফেলে?",
             "link": "https://www.bbc.com/bengali/articles/cwy038n8v47o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'চীনের সঙ্গে আলোচনায় থাকছে তিস্তা মহাপ্রকল্প'",
-            "link": "https://www.bbc.com/bengali/articles/c862geljnl1o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ঢাকার বাস টার্মিনাল স্থানান্তরে চ্যালেঞ্জ হতে পারে যে সাত বিষয়",
-            "link": "https://www.bbc.com/bengali/articles/cy8wgdqy3ppo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Henry stars as New Zealand wrap up victory against England in second Test",
+            "link": "https://www.aljazeera.com/sports/2026/6/21/henry-stars-as-new-zealand-wrap-up-victory-against-england-in-second-test?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US-Iran delegations arrive as talks begin in Switzerland",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-delegations-arrive-as-talks-begin-in-switzerland?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Messi, Argentina play Austria in World Cup group match: All to know",
+            "link": "https://www.aljazeera.com/sports/2026/6/21/messi-argentina-play-austria-in-world-cup-group-match-all-to-know?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
+            "link": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "‘Kind, principled’: Colleagues remember Gaza journalist killed by Israel",
+            "link": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Stop ‘Greater Israel’ to make peace",
             "link": "https://www.aljazeera.com/opinions/2026/6/21/stop-greater-israel-to-make-peace?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Lebanon’s ancient monuments remain at risk from Israeli attack",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/lebanons-ancient-monuments-remain-at-risk-from-israeli-attack?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Mother of Al Jazeera’s Ahmed Wishah mourns his killing",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/mother-of-al-jazeeras-ahmed-wishah-mourns-his-killing?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Albanian protesters rally against Kushner-backed resort in protected area",
-            "link": "https://www.aljazeera.com/gallery/2026/6/21/albanian-protesters-rally-against-kushner-backed-resort-in-protected-area?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Colombians to vote in presidential run-off pitting leftist against hardliner",
-            "link": "https://www.aljazeera.com/news/2026/6/21/colombians-to-vote-in-presidential-run-off-pitting-leftist-against-hardliner?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Protests in Albania against Kushner resort swell to tens of thousands",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/protests-in-albania-against-kushner-resort-swell-to-tens-of-thousands?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+            "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
             "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
-            "link": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-            "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+            "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+            "link": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,46 +78,61 @@
             "source": "BBC World"
         },
         {
+            "title": "France bans alcohol at music festival events under red heatwave alert",
+            "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
             "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-            "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+            "title": "Tight security as Indian students resit medical exam after alleged paper leak",
+            "link": "https://www.bbc.com/news/articles/cwy0gjqv783o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Aitchison caps allround masterclass as Derbyshire rout Lancashire",
+            "link": "https://www.cricinfo.com/ci/content/story/1542201.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "'Sorry Universe Boss' - Pollard surpasses Gayle despite embracing finisher role",
+            "link": "https://www.cricinfo.com/ci/content/story/1542195.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Henry takes 11 as New Zealand romp to 253-run victory against England",
+            "link": "https://www.cricinfo.com/ci/content/story/1542175.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "McCullum confirms Ben Stokes' return as captain for third Test",
+            "link": "https://www.cricinfo.com/ci/content/story/1542171.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Johnson and Marsh star as Australia secure 3-0 sweep of T20I series",
+            "link": "https://www.cricinfo.com/ci/content/story/1542178.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Munisar in as West Indies bowl vs Sri Lanka",
             "link": "https://www.cricinfo.com/ci/content/story/1542159.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Jaiswal misses out on ODI squad for England tour despite Afghanistan ton",
-            "link": "https://www.cricinfo.com/ci/content/story/1542154.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Chaotic England fortnight ends with huge defeat",
+            "link": "https://www.bbc.com/sport/cricket/articles/c1ey0532yevo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Bangladesh bat first, make three changes in search of consolation win",
-            "link": "https://www.cricinfo.com/ci/content/story/1542143.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Owen's 155 powers Freedom to victory even as Pollard overtakes Gayle",
-            "link": "https://www.cricinfo.com/ci/content/story/1542132.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'I'm all good' - Mooney eases concerns after Voll's emergency role",
-            "link": "https://www.cricinfo.com/ci/content/story/1542124.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Siddle, Pretorius, Short lead Unicorns to comfortable win",
-            "link": "https://www.cricinfo.com/ci/content/story/1542121.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Sooryavanshi, 15, hits record 11-ball fifty",
+            "link": "https://www.bbc.com/sport/cricket/articles/czdev6lp8p9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Doku criticised over plan to return home for birth",
@@ -130,28 +140,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "How Murray was tempted back to tennis - and would he ever do a Serena?",
-            "link": "https://www.bbc.com/sport/tennis/articles/c621zrvxp6vo?at_medium=RSS&at_campaign=rss",
+            "title": "Dutch royals enjoy two big results in one World Cup day",
+            "link": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "England embarrassed by Henry as NZ secure huge win to level series",
+            "link": "https://www.bbc.com/sport/cricket/videos/ce8kzrw51pzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Mark Hughes' son Alex dies aged 38",
             "link": "https://www.bbc.com/sport/football/articles/cm2j0x3zgego?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Meet the record-equalling keeper who helped Curacao make history",
-            "link": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Stokes and Atkinson withdrawn from county games",
-            "link": "https://www.bbc.com/sport/cricket/articles/c5yz7wdwgw2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Every moment ached with importance as Northampton win compelling final",
-            "link": "https://www.bbc.com/sport/rugby-union/articles/cdjkxmr3wrgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Wooting 60HE v2: Peak Keyboard Perfection",
+            "link": "https://www.wired.com/review/review-wooting-60he-v2/",
+            "source": "Wired"
+        },
+        {
             "title": "The Best NAS Devices for Your Home After Months of Testing",
             "link": "https://www.wired.com/story/best-nas-devices/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "A Critical Deadline Is Approaching for Windows and Linux Security",
             "link": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
-            "source": "Wired"
-        },
-        {
-            "title": "Home Batteries: How They're Installed and How Much They Cost",
-            "link": "https://www.wired.com/story/how-to-buy-a-home-battery/",
             "source": "Wired"
         }
     ]
