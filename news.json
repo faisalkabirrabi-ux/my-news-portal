@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "প্রধানমন্ত্রী হিসেবে প্রথম বিদেশ সফরে মালয়েশিয়ার উদ্দেশ্যে তারেক রহমান",
+            "link": "https://www.bbc.co.uk/bengali/live/c9w210gjpy0t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "সুইজারল্যান্ডে যুক্তরাষ্ট্র-ইরান আলোচনা শুরু হচ্ছে, হরমুজ বন্ধের দাবি তেহরানের",
             "link": "https://www.bbc.com/bengali/articles/cn0vqw70dkwo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "'বাবা' নিয়ে জনপ্রিয় পাঁচটি গানের গল্প",
+            "link": "https://www.bbc.com/bengali/articles/c78y70dq508o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,47 +29,37 @@
             "title": "ঢাকার বাস টার্মিনাল স্থানান্তরে চ্যালেঞ্জ হতে পারে যে সাত বিষয়",
             "link": "https://www.bbc.com/bengali/articles/cy8wgdqy3ppo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "আওয়ামী লীগের প্রতিষ্ঠাবার্ষিকী ঘিরে দেশজুড়ে পুলিশের সর্তকতার কারণ কী?",
-            "link": "https://www.bbc.com/bengali/articles/c2eyzn3j848o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "যেসব ঘটনায় আলোচনায় স্থানীয় সরকার প্রতিমন্ত্রী মীর শাহে আলম",
-            "link": "https://www.bbc.com/bengali/articles/ckg4l2jy2v3o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "South Africa’s immigration crackdown divides Johannesburg’s inner city",
-            "link": "https://www.aljazeera.com/economy/2026/6/21/south-africas-immigration-crackdown-divides-johannesburgs-inner-city?traffic_source=rss",
+            "title": "Stop ‘Greater Israel’ to make peace",
+            "link": "https://www.aljazeera.com/opinions/2026/6/21/stop-greater-israel-to-make-peace?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/al-jazeera-cameraman-ahmed-wishah-killed-in-targeted-israeli-strike?traffic_source=rss",
+            "title": "Lebanon’s ancient monuments remain at risk from Israeli attack",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/lebanons-ancient-monuments-remain-at-risk-from-israeli-attack?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-            "link": "https://www.aljazeera.com/sports/2026/6/21/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
+            "title": "Mother of Al Jazeera’s Ahmed Wishah mourns his killing",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/mother-of-al-jazeeras-ahmed-wishah-mourns-his-killing?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Egypt coach denies Salah rift before World Cup match against New Zealand",
-            "link": "https://www.aljazeera.com/sports/2026/6/21/egypt-coach-denies-salah-rift-before-world-cup-match-against-new-zealand?traffic_source=rss",
+            "title": "Albanian protesters rally against Kushner-backed resort in protected area",
+            "link": "https://www.aljazeera.com/gallery/2026/6/21/albanian-protesters-rally-against-kushner-backed-resort-in-protected-area?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Room the hero as tiny Curacao earn first World Cup point against Ecuador",
-            "link": "https://www.aljazeera.com/sports/2026/6/21/room-the-hero-as-tiny-curacao-earn-first-world-cup-point-against-ecuador?traffic_source=rss",
+            "title": "Colombians to vote in presidential run-off pitting leftist against hardliner",
+            "link": "https://www.aljazeera.com/news/2026/6/21/colombians-to-vote-in-presidential-run-off-pitting-leftist-against-hardliner?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Suspect arrested after anti-Muslim stabbing rampage in Scotland",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/aje-onl-nf_suspect-arrested-anti-muslim-stabbing-in-scotland-200626?traffic_source=rss",
+            "title": "Protests in Albania against Kushner resort swell to tens of thousands",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/protests-in-albania-against-kushner-resort-swell-to-tens-of-thousands?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,17 +83,32 @@
             "source": "BBC World"
         },
         {
-            "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-            "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+            "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+            "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-            "link": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+            "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+            "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Munisar in as West Indies bowl vs Sri Lanka",
+            "link": "https://www.cricinfo.com/ci/content/story/1542159.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Jaiswal misses out on ODI squad for England tour despite Afghanistan ton",
+            "link": "https://www.cricinfo.com/ci/content/story/1542154.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Bangladesh bat first, make three changes in search of consolation win",
+            "link": "https://www.cricinfo.com/ci/content/story/1542143.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Owen's 155 powers Freedom to victory even as Pollard overtakes Gayle",
             "link": "https://www.cricinfo.com/ci/content/story/1542132.html?ex_cid=OTC-RSS",
@@ -110,19 +125,19 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Gill toasts a top-order headache after Jaiswal's century",
-            "link": "https://www.cricinfo.com/ci/content/story/1542090.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Doku criticised over plan to return home for birth",
+            "link": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Dunkley, Kemp and Gibson star as England win three in three",
-            "link": "https://www.cricinfo.com/ci/content/story/1542107.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "How Murray was tempted back to tennis - and would he ever do a Serena?",
+            "link": "https://www.bbc.com/sport/tennis/articles/c621zrvxp6vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Pakistan 'defeated ourselves' against Bangladesh - Wahab",
-            "link": "https://www.cricinfo.com/ci/content/story/1542108.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Mark Hughes' son Alex dies aged 38",
+            "link": "https://www.bbc.com/sport/football/articles/cm2j0x3zgego?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Meet the record-equalling keeper who helped Curacao make history",
@@ -130,28 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "From factory floor to World Cup star - Germany's super-sub Undav",
-            "link": "https://www.bbc.com/sport/football/articles/c8r2pm4xrxro?at_medium=RSS&at_campaign=rss",
+            "title": "Stokes and Atkinson withdrawn from county games",
+            "link": "https://www.bbc.com/sport/cricket/articles/c5yz7wdwgw2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Scheffler makes move but US Open is Clark's to lose",
-            "link": "https://www.bbc.com/sport/golf/articles/cyv0j59py30o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Country music fan Kane leaves Ella Langley gig early to make curfew",
-            "link": "https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Tongue admits England have missed absent Stokes",
-            "link": "https://www.bbc.com/sport/cricket/articles/c9329xx4e3no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Goalline technology denies Japan goal by fractions",
-            "link": "https://www.bbc.com/sport/football/videos/cgevqpe33jvo?at_medium=RSS&at_campaign=rss",
+            "title": "Every moment ached with importance as Northampton win compelling final",
+            "link": "https://www.bbc.com/sport/rugby-union/articles/cdjkxmr3wrgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
+            "title": "The Best NAS Devices for Your Home After Months of Testing",
+            "link": "https://www.wired.com/story/best-nas-devices/",
+            "source": "Wired"
+        },
+        {
+            "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+            "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+            "source": "Wired"
+        },
+        {
+            "title": "If You’re Searching for a New Skillet, Consider Stainless Steel",
+            "link": "https://www.wired.com/story/stainless-steel-skillets-are-great/",
+            "source": "Wired"
+        },
+        {
+            "title": "Buying a Used iPhone Makes More Sense Than Ever",
+            "link": "https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/",
+            "source": "Wired"
+        },
+        {
+            "title": "A Critical Deadline Is Approaching for Windows and Linux Security",
+            "link": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
+            "source": "Wired"
+        },
+        {
             "title": "Home Batteries: How They're Installed and How Much They Cost",
             "link": "https://www.wired.com/story/how-to-buy-a-home-battery/",
-            "source": "Wired"
-        },
-        {
-            "title": "I Found 29 Early Prime Day Deals That Are Worth Shopping Now (2026)",
-            "link": "https://www.wired.com/story/early-prime-day-deals-june-2026-2/",
-            "source": "Wired"
-        },
-        {
-            "title": "16 Best Greens Powders (2026): Taste-Tested for Months",
-            "link": "https://www.wired.com/gallery/best-greens-powders/",
-            "source": "Wired"
-        },
-        {
-            "title": "Siri AI Hands On: A Smart, Helpful Assistant",
-            "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
-            "source": "Wired"
-        },
-        {
-            "title": "Hackers Claim to Leak Stolen Madison Square Garden Data",
-            "link": "https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/",
-            "source": "Wired"
-        },
-        {
-            "title": "Scientists Invent a Way to Brew Espresso With Ultrasonic Waves—No Hot Water Required",
-            "link": "https://www.wired.com/story/scientists-brew-espresso-with-ultrasonic-waves/",
             "source": "Wired"
         }
     ]
