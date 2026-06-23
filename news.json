@@ -33,38 +33,43 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "EU hosts Taliban officials for the first time in talks on deportations",
-            "link": "https://www.aljazeera.com/news/2026/6/23/eu-hosts-taliban-officials-for-the-first-time-in-talks-on-deportations?traffic_source=rss",
+            "title": "Iran’s president arrives in Pakistan for peace talks",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/irans-president-arrives-in-pakistan-for-peace-talks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US appeals court says Trump can proceed with fast-track deportation efforts",
-            "link": "https://www.aljazeera.com/news/2026/6/23/us-appeals-court-says-trump-can-proceed-with-fast-track-deportation-efforts?traffic_source=rss",
+            "title": "US Senate votes to halt Iran war, bucking Trump",
+            "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "The weight of the Three Lions: Football, colonialism, diaspora",
-            "link": "https://www.aljazeera.com/opinions/2026/6/23/the-weight-of-the-three-lions-football-colonialism-diaspora?traffic_source=rss",
+            "title": "US says Iran can stay for two days before Egypt World Cup game",
+            "link": "https://www.aljazeera.com/sports/2026/6/23/us-says-iran-can-stay-for-two-days-before-egypt-world-cup-game?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "SpaceX shares drop below debut price before jumping amid $600bn sell-off",
-            "link": "https://www.aljazeera.com/economy/2026/6/23/spacex-shares-drop-below-debut-price-before-jumping-amid-600bn-sell-off?traffic_source=rss",
+            "title": "Ronaldo scores twice as Portugal thrash Uzbekistan 5-0 at World Cup 2026",
+            "link": "https://www.aljazeera.com/sports/2026/6/23/ronaldo-scores-twice-as-portugal-thrash-uzbekistan-5-0-at-world-cup-2026?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Missile strike kills three in Ukraine as Russia feels war’s economic strain",
-            "link": "https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain?traffic_source=rss",
+            "title": "Displaced Lebanese return south under fragile ceasefire deal",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/displaced-lebanese-return-south-under-fragile-ceasefire-deal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli police clash with anti-draft ultra-Orthodox protesters",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-police-clash-with-anti-draft-ultra-orthodox-protesters?traffic_source=rss",
+            "title": "Video: Israeli troops seen patrolling Syrian countryside",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/video-israeli-troops-seen-patrolling-syrian-countryside?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
             "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
             "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+            "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,14 +91,14 @@
             "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
             "link": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Spider which uses spring trap to capture prey discovered in Australia",
-            "link": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Carter hopes for more cricket after Scotland threaten T20 World Cup upsets",
+            "link": "https://www.cricinfo.com/ci/content/story/1542643.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Unchanged Australia bat first at Headingley against Pakistan",
             "link": "https://www.cricinfo.com/ci/content/story/1542641.html?ex_cid=OTC-RSS",
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Levick, Villiers, Armitage star as Durham overwhelm Surrey",
-            "link": "https://www.cricinfo.com/ci/content/story/1542632.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Have World Cup changes made final group stage games unfair?",
             "link": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -140,22 +140,37 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Portugal thrash Uzbekistan as Ronaldo scores twice to make history",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c932y4rrw02o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Quiz: Name every England World Cup goalscorer since 2014",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckgpyxpxekko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "How Semenyo overcame rejection to reach World Cup with Ghana",
             "link": "https://www.bbc.co.uk/sport/football/articles/cp9p9r7gg4eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "O'Neil signs three-year deal as new Ipswich boss",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvg41ewngvwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Promotion and relegation in revamped 2028 PGA Tour",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/c0ry0nz48k9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+            "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
+            "link": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+            "link": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
             "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
@@ -172,48 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Meta debuts new, cheaper smart glasses under its own brand",
-            "link": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-            "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Ribbie turns real-time baseball stats into arcade-like, pixel-art broadcasts",
-            "link": "https://techcrunch.com/2026/06/23/ribbie-turns-real-time-baseball-stats-into-arcade-like-pixel-art-broadcasts/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "95 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On",
-            "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals/",
+            "title": "The Best Apple Watch Is 30 Percent off Right Now (2026)",
+            "link": "https://www.wired.com/story/apple-watch-series-11-deal-apd-2026/",
             "source": "Wired"
         },
         {
-            "title": "The Oura Ring Prime Day Sale I've Been Waiting For (2026)",
-            "link": "https://www.wired.com/story/oura-ring-prime-day-sale-2026/",
+            "title": "This Prime Day Neck Fan Deal Will Save You from Summer Sweats (2026)",
+            "link": "https://www.wired.com/story/jisulife-neck-fan-deal-prime-day-2026/",
             "source": "Wired"
         },
         {
-            "title": "The Best Movies to Stream This Month (June 2026)",
-            "link": "https://www.wired.com/story/the-12-best-movies-to-stream-right-now/",
+            "title": "The Prime Day MacBook Deals I Recommend (2026)",
+            "link": "https://www.wired.com/story/best-prime-day-macbook-deals-2026/",
             "source": "Wired"
         },
         {
-            "title": "Just in Time for July Fourth, I Found 3 Great Yeti Cooler Deals (2026)",
-            "link": "https://www.wired.com/story/yeti-tundra-coolers-are-on-rare-sale-today-apd/",
+            "title": "Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed",
+            "link": "https://www.wired.com/story/dialog-hack-website-misconfiguration/",
             "source": "Wired"
         },
         {
-            "title": "Best Prime Day Beauty Deals of 2026 (We Sifted Through Hundreds to Pick Them)",
-            "link": "https://www.wired.com/story/best-prime-day-beauty-deals-2026/",
+            "title": "The 13 Best Amazon Prime Day Deals Under $100 in 2026",
+            "link": "https://www.wired.com/story/best-prime-day-deals-under-100-june-2026/",
             "source": "Wired"
         },
         {
-            "title": "Amazon's Best Fire TV Stick Is Almost Half Off (2026)",
-            "link": "https://www.wired.com/story/amazon-fire-tv-stick-4k-max-deal-6-2026-apd/",
+            "title": "Even the Internet’s Favorite Pool Guy Doesn’t Know How to Fix the Reflecting Pool",
+            "link": "https://www.wired.com/story/internets-favorite-pool-guy-doesnt-know-how-to-fix-reflecting-pool/",
             "source": "Wired"
         }
     ]
