@@ -1,8 +1,23 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "আটকের পরদিনই চট্টগ্রামের কেন্দ্রীয় কারাগারে যুবলীগ নেতার মৃত্যু",
+            "link": "https://www.bbc.co.uk/bengali/live/c77ydkn1lmdt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "মাজারে দানের টাকা আসলে কোথায় যায়?",
+            "link": "https://www.bbc.com/bengali/articles/c4gyzp04dnyo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ঢাকার কাছাকাছি একের পর এক ভূমিকম্পের উৎপত্তিস্থল, কী বার্তা দিচ্ছে?",
             "link": "https://www.bbc.com/bengali/articles/cgrkqyx795lo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "রোনালদোর জীবনের অসাধারণ উত্থানের ছয়টি ধাপ",
+            "link": "https://www.bbc.com/bengali/articles/c5yz4pyk5q0o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -14,62 +29,47 @@
             "title": "খেলাপি ঋণ, ঝুঁকিপূর্ণ ঋণ, পুনঃতফসিল, দেউলিয়া - এসব শব্দের অর্থ কী?",
             "link": "https://www.bbc.com/bengali/articles/ckg7d5pl5pgo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'শিগগির খুলছে না মালয়েশিয়ার শ্রমবাজার'",
-            "link": "https://www.bbc.com/bengali/articles/cq51j898078o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "অ্যাটর্নি জেনারেল কার্যালয়ের ১৮ আইন কর্মকর্তার একযোগে পদত্যাগ",
-            "link": "https://www.bbc.co.uk/bengali/live/c4gyzg7pvpwt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "তৃণমূল কংগ্রেসের সভানেত্রীর পদ থেকে 'অপসারিত' মমতা ব্যানার্জী, এরপরে কী?",
-            "link": "https://www.bbc.com/bengali/articles/c982d17ejzeo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Power outage in France as Europe bakes in record heat",
-            "link": "https://www.aljazeera.com/news/2026/6/24/power-outage-in-france-as-europe-bakes-in-record-heat?traffic_source=rss",
+            "title": "Brazil vs Scotland World Cup 2026: Preview, prediction, team news, lineups",
+            "link": "https://www.aljazeera.com/sports/2026/6/24/brazil-vs-scotland-world-cup-2026-preview-prediction-team-news-lineups?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
-            "link": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
+            "title": "Kenya braces for return of Gen Z protests – how did they begin?",
+            "link": "https://www.aljazeera.com/features/2026/6/24/kenya-braces-for-return-of-gen-z-protests-how-did-they-begin?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Diabetes patients in Gaza face survival battle amid war shortages",
-            "link": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
+            "title": "France confirms first Ebola case in doctor returning from DR Congo",
+            "link": "https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Deadly heatwave grips Europe as temperatures soar across continent",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_deadly-heatwave-grips-europe-as-temperatures-soars-240626?traffic_source=rss",
+            "title": "How to stay cool and treat heatstroke during a heatwave",
+            "link": "https://www.aljazeera.com/news/2026/6/24/how-to-stay-cool-and-treat-heatstroke-during-a-heatwave?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Kenyan Health Minister orders halt of construction of US Ebola facility",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/kenyan-health-minister-orders-halt-of-construction-of-us-ebola-facility?traffic_source=rss",
+            "title": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
+            "link": "https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ghana celebrates after holding nervous England to 0-0 draw",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ghana-celebrates-after-holding-nervous-england-to-0-0-draw?traffic_source=rss",
+            "title": "Four Gaza aid flotilla activists released from Libya detention",
+            "link": "https://www.aljazeera.com/news/2026/6/24/four-gaza-aid-flotilla-activists-released-from-libya-detention?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Power outages hit France as record heatwave set to peak",
+            "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
             "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-            "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,75 +83,75 @@
             "source": "BBC World"
         },
         {
-            "title": "Sydney woman wakes from induced coma more than a week after shark attack",
-            "link": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
+            "title": "Ukraine strikes knock out power in key city in Russian-occupied Crimea",
+            "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-            "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+            "title": "France confirms first Ebola case",
+            "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
-        {
-            "title": "Perry's greatness on display in her drive for continual improvement",
-            "link": "https://www.cricinfo.com/ci/content/story/1542658.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Chathli, MacDonald-Gay star as England A draw level",
-            "link": "https://www.cricinfo.com/ci/content/story/1542701.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "BBL's 'No. 1 priority' is to make domestic stars 'feel valued'",
-            "link": "https://www.cricinfo.com/ci/content/story/1542676.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
         {
             "title": "Bob Blair, who soldiered on after Tangiwai disaster, dies aged 94",
             "link": "https://www.cricinfo.com/ci/content/story/1542668.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Scotland still have 2028 T20 World Cup automatic qualification incentive",
-            "link": "https://www.cricinfo.com/ci/content/story/1542661.html?ex_cid=OTC-RSS",
+            "title": "Sooryavanshi to use separate dressing room during India's tour of England",
+            "link": "https://www.cricinfo.com/ci/content/story/1542721.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'I'm still alive' - Athapaththu channels her pain into thrilling display",
-            "link": "https://www.cricinfo.com/ci/content/story/1542654.html?ex_cid=OTC-RSS",
+            "title": "Nandre Burger ruled out of rest of MLC 2026",
+            "link": "https://www.cricinfo.com/ci/content/story/1542720.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "No need to panic for England - but this was a reality check",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&at_campaign=rss",
+            "title": "Henry and Root go top of the table after Oval heroics",
+            "link": "https://www.cricinfo.com/ci/content/story/1542713.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "PCB may fly players to USA for power-hitting training",
+            "link": "https://www.cricinfo.com/ci/content/story/1542714.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Perry's greatness on display in her drive for continual improvement",
+            "link": "https://www.cricinfo.com/ci/content/story/1542658.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Tuchel's England is opposite to Southgate's - and is built to beat top teams",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckg7655mvxeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'VAR went for a coffee' - should Ghana have had penalty against England?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss",
+            "title": "Stokes apologises to team-mates before Test return",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c7vy10p37p5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Big players must step up as Scotland pursue history against Brazil",
+            "title": "Scotland primed for game of their lives against fallible Brazil",
             "link": "https://www.bbc.co.uk/sport/football/articles/cwyewnxnx11o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Silly tackle, bad reaction - Tuchel defends Bellingham after Queiroz row",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ce8k4zr6l2no?at_medium=RSS&at_campaign=rss",
+            "title": "Why Bellingham was not sent off for covering his mouth",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c70y1ljdz8zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Anisimova plots Wimbledon sequel with happier ending",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c98medmy6ego?at_medium=RSS&at_campaign=rss",
+            "title": "England to face Scotland? World Cup knockout stage as it stands",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Who am I? Guess World Cup star No 17",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4g70vjd1n8o?at_medium=RSS&at_campaign=rss",
+            "title": "Spurs' Tonali hunt shows chasm Newcastle must bridge",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq8177l2wplo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "I Found the Very Best Prime Day Laptop Deals onMacBooks and More (2026)",
-            "link": "https://www.wired.com/story/best-prime-day-laptop-deals-06-24-2026/",
+            "title": "We're Tracking Prime Day Live To Find Sales Worth Shopping in 2026",
+            "link": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-24-2026/",
             "source": "Wired"
         },
         {
-            "title": "129 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On",
-            "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-24-2026/",
+            "title": "18 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
+            "link": "https://www.wired.com/story/walmart-deals-apd-06-24-2026/",
             "source": "Wired"
         },
         {
-            "title": "Booking.com Promo Codes: 20% Off | June 2026",
-            "link": "https://www.wired.com/story/booking-com-promo-code/",
+            "title": "Form Smart Swim 2 LT Goggles Include Innovative Form Correction",
+            "link": "https://www.wired.com/review/form-smart-swim-2-lt-goggles/",
             "source": "Wired"
         },
         {
-            "title": "Lenovo Coupon Codes and Deals in June 2026",
-            "link": "https://www.wired.com/story/lenovo-coupon-code/",
+            "title": "BenQ 4100i Review: Bringing the Cinema to Your Living Room",
+            "link": "https://www.wired.com/review/review-benq-w4100i-projector/",
             "source": "Wired"
         },
         {
-            "title": "Peacock Promo Codes: 40% Off June 2026",
-            "link": "https://www.wired.com/story/peacock-promo-code/",
+            "title": "Get $145 Off The Best Mesh Router This Prime Day 2026",
+            "link": "https://www.wired.com/story/amazon-prime-day-router-deals-06-24-2026/",
             "source": "Wired"
         },
         {
-            "title": "Hostinger Promo Code: 79% Off for June 2026",
-            "link": "https://www.wired.com/story/hostinger-coupon-code/",
+            "title": "Best Prime Day Action Cameras Deals I've Found (2026): GoPro, Insta360, DJI",
+            "link": "https://www.wired.com/story/prime-day-camera-deals-06-24-2026/",
             "source": "Wired"
         }
     ]
