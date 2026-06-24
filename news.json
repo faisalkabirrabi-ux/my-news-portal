@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ঢাকার কাছাকাছি একের পর এক ভূমিকম্পের উৎপত্তিস্থল, কী বার্তা দিচ্ছে?",
+            "link": "https://www.bbc.com/bengali/articles/cgrkqyx795lo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ইরান যুদ্ধ বন্ধে ট্রাম্পকে মার্কিন কংগ্রেসের কড়া বার্তা",
             "link": "https://www.bbc.com/bengali/articles/cqx1zzzwz1ro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,46 +29,41 @@
             "title": "তৃণমূল কংগ্রেসের সভানেত্রীর পদ থেকে 'অপসারিত' মমতা ব্যানার্জী, এরপরে কী?",
             "link": "https://www.bbc.com/bengali/articles/c982d17ejzeo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "হরমুজ প্রণালি থেকে যেভাবে বের হয়ে এলো বাংলার জয়যাত্রা",
-            "link": "https://www.bbc.com/bengali/articles/clywl0ydw30o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Munoz sends Colombia into World Cup knockouts with 1-0 win over DR Congo",
-            "link": "https://www.aljazeera.com/sports/2026/6/24/colombia-dr-congo-1-0-fifa-world-cup-2026-knockout-munoz-rodrigruez-arias-mpasi?traffic_source=rss",
+            "title": "Power outage in France as Europe bakes in record heat",
+            "link": "https://www.aljazeera.com/news/2026/6/24/power-outage-in-france-as-europe-bakes-in-record-heat?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "China takes US crown on ranking of world’s fastest supercomputers",
-            "link": "https://www.aljazeera.com/economy/2026/6/24/china-takes-us-crown-for-worlds-fastest-supercomputer?traffic_source=rss",
+            "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+            "link": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump claims US recouped Venezuela war costs 28 times over",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/trump-claims-us-recouped-venezuela-war-costs-28-times-over?traffic_source=rss",
+            "title": "Diabetes patients in Gaza face survival battle amid war shortages",
+            "link": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-            "link": "https://www.aljazeera.com/sports/2026/6/24/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
+            "title": "Deadly heatwave grips Europe as temperatures soar across continent",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_deadly-heatwave-grips-europe-as-temperatures-soars-240626?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Prada plays a part in designing NASA’s lunar mission spacesuits",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/prada-plays-a-part-in-designing-nasas-lunar-mission-spacesuits?traffic_source=rss",
+            "title": "Kenyan Health Minister orders halt of construction of US Ebola facility",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/kenyan-health-minister-orders-halt-of-construction-of-us-ebola-facility?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Disinfectant brand apologises after ‘toxic men’ advert backfires in China",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/disinfectant-brand-apologises-after-toxic-men-advert-backfires-in-china?traffic_source=rss",
+            "title": "Ghana celebrates after holding nervous England to 0-0 draw",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ghana-celebrates-after-holding-nervous-england-to-0-0-draw?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+            "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
             "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -83,8 +83,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Germany rail network briefly halted nationwide due to IT malfunction",
-            "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+            "title": "Sydney woman wakes from induced coma more than a week after shark attack",
+            "link": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -94,6 +94,21 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Perry's greatness on display in her drive for continual improvement",
+            "link": "https://www.cricinfo.com/ci/content/story/1542658.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Chathli, MacDonald-Gay star as England A draw level",
+            "link": "https://www.cricinfo.com/ci/content/story/1542701.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "BBL's 'No. 1 priority' is to make domestic stars 'feel valued'",
+            "link": "https://www.cricinfo.com/ci/content/story/1542676.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Bob Blair, who soldiered on after Tangiwai disaster, dies aged 94",
             "link": "https://www.cricinfo.com/ci/content/story/1542668.html?ex_cid=OTC-RSS",
@@ -105,23 +120,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Perry's greatness on display in her drive for continual improvement",
-            "link": "https://www.cricinfo.com/ci/content/story/1542658.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "'I'm still alive' - Athapaththu channels her pain into thrilling display",
             "link": "https://www.cricinfo.com/ci/content/story/1542654.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Ellyse Perry runs the show as Australia brush past Pakistan",
-            "link": "https://www.cricinfo.com/ci/content/story/1542651.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Carter hopes for more cricket after Scotland threaten T20 World Cup upsets",
-            "link": "https://www.cricinfo.com/ci/content/story/1542643.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -130,32 +130,37 @@
             "source": "BBC Sports"
         },
         {
+            "title": "'VAR went for a coffee' - should Ghana have had penalty against England?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Big players must step up as Scotland pursue history against Brazil",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwyewnxnx11o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Silly tackle, bad reaction - Tuchel defends Bellingham after Queiroz row",
             "link": "https://www.bbc.co.uk/sport/football/articles/ce8k4zr6l2no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Should Ghana have been awarded a penalty against England?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss",
+            "title": "Anisimova plots Wimbledon sequel with happier ending",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c98medmy6ego?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'I'm back' - record-breaking Ronaldo answers critics",
-            "link": "https://www.bbc.co.uk/sport/football/articles/clyx746enj9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "England held to goalless draw by Ghana",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c04yqexwpn0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Spence appears not to shake hands with Partey",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cg4w21g45zyo?at_medium=RSS&at_campaign=rss",
+            "title": "Who am I? Guess World Cup star No 17",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4g70vjd1n8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "How to invest when everything is moving too fast",
+            "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
             "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
-            "link": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More",
-            "link": "https://www.wired.com/story/prime-day-dyson-deals-2026/",
+            "title": "I Found the Very Best Prime Day Laptop Deals onMacBooks and More (2026)",
+            "link": "https://www.wired.com/story/best-prime-day-laptop-deals-06-24-2026/",
             "source": "Wired"
         },
         {
-            "title": "Microsoft Comes Through With the Best Laptop Deal of Prime Day So Far",
-            "link": "https://www.wired.com/story/surface-laptop-prime-day-deal/",
+            "title": "129 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On",
+            "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-24-2026/",
             "source": "Wired"
         },
         {
-            "title": "Amazon Prime Day Deal 2026: A Tushy Bidet for Under $100",
-            "link": "https://www.wired.com/story/tushy-classic-wave-amazon-prime-day-deal-2026/",
+            "title": "Booking.com Promo Codes: 20% Off | June 2026",
+            "link": "https://www.wired.com/story/booking-com-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "117 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On",
-            "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals/",
+            "title": "Lenovo Coupon Codes and Deals in June 2026",
+            "link": "https://www.wired.com/story/lenovo-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "My Favorite Art TV Is Half-off for Amazon Prime Day",
-            "link": "https://www.wired.com/story/i-love-this-hisense-art-tv-and-its-half-off-apd/",
+            "title": "Peacock Promo Codes: 40% Off June 2026",
+            "link": "https://www.wired.com/story/peacock-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "The 16 Best Amazon Prime Day Deals Under $30 We've Found",
-            "link": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30-june-2026-2/",
+            "title": "Hostinger Promo Code: 79% Off for June 2026",
+            "link": "https://www.wired.com/story/hostinger-coupon-code/",
             "source": "Wired"
         }
     ]
