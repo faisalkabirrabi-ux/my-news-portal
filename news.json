@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ভেনেজুয়েলায় ধ্বংসস্তূপে জীবিতদের খুঁজছে উদ্ধারকর্মীরা, বাড়ছে মৃতের সংখ্যা",
+            "link": "https://www.bbc.com/bengali/articles/cvgjmd2zkr8o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'অন্তর্বর্তী সরকারের আমলে সেবা খাতে দুর্নীতি বেড়েছে'",
             "link": "https://www.bbc.com/bengali/articles/cy8dvp9vk4jo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "বাংলাদেশ-মিয়ানমার সীমান্তে মাইন আতঙ্কের শেষ কোথায়?",
             "link": "https://www.bbc.com/bengali/articles/cgqjl9e9q0zo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শক্তিশালী দুটি ভূমিকম্পের পর ভেনেজুয়েলায় জরুরি অবস্থা জারি",
-            "link": "https://www.bbc.com/bengali/articles/c70yj3e5d20o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
+            "link": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US ends deportation protections (TPS) for Haitians and Syrians",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Turkiye beat US with stoppage-time goal in World Cup dead rubber",
+            "link": "https://www.aljazeera.com/sports/2026/6/26/turkiye-usa-fifa-world-cup-2026-ayhan-guler-yilmaz-trusty-berhalter-pulisic?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
             "link": "https://www.aljazeera.com/sports/2026/6/26/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Forever wars: Israel’s cycle of conflict shows no finish line",
-            "link": "https://www.aljazeera.com/news/2026/6/26/forever-wars-israels-conflict-cycle-shows-no-finish-line?traffic_source=rss",
+            "title": "Apple, Microsoft hike prices over surging chip costs",
+            "link": "https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan",
-            "link": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Marina Mabrey ties WNBA scoring record with 53 points; Tempo rout Sparks",
-            "link": "https://www.aljazeera.com/sports/2026/6/26/marina-mabrey-ties-wnba-scoring-record-with-53-points-tempo-rout-sparks?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Netherlands beat Tunisia 3-1, enter World Cup knockouts as group winners",
-            "link": "https://www.aljazeera.com/sports/2026/6/26/netherlands-beat-tunisia-3-1-enter-world-cup-knockouts-as-group-winners?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Hundreds trapped beneath buildings a day after Venezuela’s twin earthquakes",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/hundreds-trapped-beneath-buildings-a-day-after-venezuelas-twin-earthquakes?traffic_source=rss",
+            "title": "Australia reach World Cup knockouts after gritty draw with Paraguay",
+            "link": "https://www.aljazeera.com/sports/2026/6/26/australia-paraguay-fifa-world-cup-2026-score-report-socceroos?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,11 +78,6 @@
             "source": "BBC World"
         },
         {
-            "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-            "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
             "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -91,12 +86,37 @@
             "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
             "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
+        },
+        {
+            "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+            "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
+            "title": "Hopes named Queensland, Heat coach leaving Sixers to look again",
+            "link": "https://www.cricinfo.com/ci/content/story/1542971.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Hetmyer, Stoinis and Jasdeep combine to hand Freedom 88-run defeat",
+            "link": "https://www.cricinfo.com/ci/content/story/1542932.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "WI wrap SL up for 308 despite Dhananjaya 120",
             "link": "https://www.cricinfo.com/ci/content/story/1542916.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "A new beginning for T20 champions India against Ireland",
+            "link": "https://www.cricinfo.com/ci/content/story/1542849.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Ryan Cook steps down as Netherlands men's head coach",
+            "link": "https://www.cricinfo.com/ci/content/story/1542808.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -105,28 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Brits 114* helps South Africa bag NRR-boosting win over Netherlands",
-            "link": "https://www.cricinfo.com/ci/content/story/1542895.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "From 42% to 5.26% - how Scotland's World Cup hopes are fading",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Conway scraps technical tweak ... and makes it a Daddy for New Zealand",
-            "link": "https://www.cricinfo.com/ci/content/story/1542922.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "MacDonald-Gay leads line as England A seal 2-1 series win over India A",
-            "link": "https://www.cricinfo.com/ci/content/story/1542926.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Shafali, spinners keep India's semi-final hopes alive",
-            "link": "https://www.cricinfo.com/ci/content/story/1542897.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Beccacece goes from brink to World Cup history with Ecuador",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqx133qlve2o?at_medium=RSS&at_campaign=rss",
+            "title": "Mbappe v Haaland: Who is more important for their country?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c77yz87xdpno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,23 +140,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Ecuador fight back to upset Germany",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c0qyzg4zje4o?at_medium=RSS&at_campaign=rss",
+            "title": "How not to be a tennis parent",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cx23r1r55npo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "England can play on NZ memories of 2022 - Southee",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c932d9n7xvno?at_medium=RSS&at_campaign=rss",
+            "title": "Turkey end World Cup on high with last-gasp win over USA",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c8j2rxn00d4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "James doubtful for Panama but England hopeful on Rice",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cp8rywj8rnpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Tennis legend Evert says 'relentless' cancer has returned",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c0myx8lr1mpo?at_medium=RSS&at_campaign=rss",
+            "title": "What is SkyJo? The card game being played in the England camp",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5yzdryjj8vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
+            "link": "https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/",
+            "source": "Wired"
+        },
+        {
+            "title": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
+            "link": "https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/",
+            "source": "Wired"
+        },
+        {
+            "title": "19 Best Prime Day Apple Deals Up to 30% Off: iPad, Apple Watch, Mac, and More",
+            "link": "https://www.wired.com/story/best-prime-day-apple-deals-06-26-2026/",
+            "source": "Wired"
+        },
+        {
+            "title": "I Found the Very Best Prime Day Laptop Deals onMacBooks and More (2026)",
+            "link": "https://www.wired.com/story/best-prime-day-laptop-deals-06-26-2026/",
+            "source": "Wired"
+        },
+        {
+            "title": "I Found the Best iPad Deal for Amazon Prime Day This Year (2026)",
+            "link": "https://www.wired.com/story/the-ipad-you-should-buy-on-amazon-prime-day-this-year-2026/",
+            "source": "Wired"
+        },
+        {
             "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
             "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
-            "source": "Wired"
-        },
-        {
-            "title": "This Is Probably Your Last Chance to Buy a Cheap MacBook for a While",
-            "link": "https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/",
-            "source": "Wired"
-        },
-        {
-            "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-            "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
-            "source": "Wired"
-        },
-        {
-            "title": "99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off (2026)",
-            "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/",
-            "source": "Wired"
-        },
-        {
-            "title": "Venezuela’s Powerful Earthquakes Were a Rare ‘Seismic Doublet’",
-            "link": "https://www.wired.com/story/venezuelas-powerful-earthquakes-rare-seismic-doublet/",
-            "source": "Wired"
-        },
-        {
-            "title": "Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)",
-            "link": "https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/",
             "source": "Wired"
         }
     ]
