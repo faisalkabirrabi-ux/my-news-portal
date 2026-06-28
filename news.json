@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ভেনেজুয়েলায় দুই দফার ভূমিকম্পে অন্তত ১৪৩০ জনের মৃত্যু, বহু মানুষ এখনো নিখোঁজ",
+            "link": "https://www.bbc.co.uk/bengali/live/cr7xlgn17p0t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশি কাজল ও ভারতীয় তরুণের প্রেমের গল্প পাল্টে দিলো একটি ফোনকল",
             "link": "https://www.bbc.com/bengali/articles/cqx1zl8e38jo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "মালয়েশিয়া ও চীন সফর থেকে কী অর্জন করলেন প্রধানমন্ত্রী তারেক রহমান?",
             "link": "https://www.bbc.com/bengali/articles/cy067wy11jro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভেনেজুয়েলায় ভূমিকম্পে মৃত্যু ৯০০ ছাড়িয়েছে, প্রিয়জনের খবর পেতে উদ্বিগ্ন বহু মানুষ",
-            "link": "https://www.bbc.com/bengali/articles/cn9483pv2p9o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "‘US trying to find its way out of MoU with Iran’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-trying-to-find-its-way-out-of-mou-with?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iraq security forces arrest several officials in anticorruption crackdown",
+            "link": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit",
+            "link": "https://www.aljazeera.com/sports/2026/6/28/fifa-world-cup-2026-sunday-schedule-round-of-32-fixtures-predictions?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran attacks Kuwait and Bahrain in response to US strikes",
+            "link": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Watch World Cup Day 17: Messi breaks record as Algeria and DR Congo advance",
+            "link": "https://www.aljazeera.com/video/2026/6/28/video-world-cup-2026-highlights?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "South Africa vs Canada: World Cup 2026 – prediction, team news and lineups",
             "link": "https://www.aljazeera.com/sports/2026/6/28/south-africa-vs-canada-fifa-world-cup-2026-prediction-team-news-start-lineups?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "DR Congo fans celebrate reaching World Cup knockout stage",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/dr-congo-fans-celebrate-reaching-world-cup-knockout-stage?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
-            "link": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream",
-            "link": "https://www.aljazeera.com/sports/2026/6/28/late-drama-ends-irans-hopes-of-reaching-world-cup-knockouts-for-first-time?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Polls open in New Caledonia’s first provincial elections since 2019",
-            "link": "https://www.aljazeera.com/news/2026/6/28/polls-open-in-new-caledonias-first-provincial-elections-since-2019?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "In pictures: Race against time to rescue Venezuela earthquake survivors",
-            "link": "https://www.aljazeera.com/gallery/2026/6/28/in-pictures-race-against-time-to-rescue-venezuela-earthquake-survivors?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,13 +78,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-            "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+            "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+            "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-            "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+            "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+            "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -95,13 +95,23 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Zimbabwe opt to bowl; Bangladesh hand debuts to Amite Hasan and Towhid Hridoy",
-            "link": "https://www.cricinfo.com/ci/content/story/1543380.html?ex_cid=OTC-RSS",
+            "title": "LAKR lose 10 for 50 after Pooran rescues MI New York",
+            "link": "https://www.cricinfo.com/ci/content/story/1543319.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Bangladesh opt to bat, SA unchanged in high-stakes game",
+            "link": "https://www.cricinfo.com/ci/content/story/1543392.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "Chaudhary's last-ball six wins it for Freedom after Hosein's hat-trick",
             "link": "https://www.cricinfo.com/ci/content/story/1543339.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Zimbabwe opt to bowl; Bangladesh hand debuts to Amite Hasan and Towhid Hridoy",
+            "link": "https://www.cricinfo.com/ci/content/story/1543380.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,28 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "LAKR lose 10 for 50 after Pooran rescues MI New York",
-            "link": "https://www.cricinfo.com/ci/content/story/1543319.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Zimbabwe look to build on rare Test momentum against Bangladesh",
-            "link": "https://www.cricinfo.com/ci/content/story/1543215.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "New deal, new beginnings & a sudden exit - Clarke's Scotland timeline",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ce8mqmg327vo?at_medium=RSS&at_campaign=rss",
+            "title": "Clarke leaves strong Scotland legacy but exit brings sense of relief",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cn4d1eg5eqeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Job done - but England will not win World Cup unless they improve",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss",
+            "title": "Knockouts are here - what is England's path to the final?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Best team, moments, matches and players of World Cup group stage",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ce3e256752qo?at_medium=RSS&at_campaign=rss",
+            "title": "Are Iran the unluckiest side in World Cup history?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "England labour past Panama to qualify for last 32 as group winners",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
+            "title": "Williams sisters return & Murray's new job - Wimbledon 2026 preview",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c0qypk51v7do?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Knockouts are here - what is England's path to the final?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
+            "title": "England labour past Panama to qualify for last 32 as group winners",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
+            "title": "The ‘Almost Homeless’ Subreddit Is a Stark Glimpse at Soaring Wealth Inequality",
+            "link": "https://www.wired.com/story/the-almost-homeless-subreddit-is-a-stark-glimpse-at-soaring-wealth-inequality/",
+            "source": "Wired"
+        },
+        {
+            "title": "Why Wear Anything Other Than a Sun Hoodie This Summer? Our Picks for the Best",
+            "link": "https://www.wired.com/story/im-addicted-to-sun-hoodies/",
+            "source": "Wired"
+        },
+        {
+            "title": "This Is the Most Detailed Image Yet of the Milky Way's Center",
+            "link": "https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/",
+            "source": "Wired"
+        },
+        {
+            "title": "The Ebike Accessories You Need to Help You Haul the Most Stuff",
+            "link": "https://www.wired.com/story/how-to-trick-out-your-ebike/",
+            "source": "Wired"
+        },
+        {
+            "title": "China Defies US Restrictions and Builds the World’s Fastest Supercomputer",
+            "link": "https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/",
+            "source": "Wired"
+        },
+        {
             "title": "62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)",
             "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/",
-            "source": "Wired"
-        },
-        {
-            "title": "Duer’s Wear-Everywhere Pants Are on Sale This Weekend",
-            "link": "https://www.wired.com/story/save-on-some-stellar-pants-during-a-rare-duer-sale/",
-            "source": "Wired"
-        },
-        {
-            "title": "Does DeleteMe Actually Get Your Info off the Internet? I Tried It",
-            "link": "https://www.wired.com/story/i-tried-deleteme-the-original-data-broker-removal-service/",
-            "source": "Wired"
-        },
-        {
-            "title": "Security News This Week: LastPass Users Had Their Data Stolen—Again",
-            "link": "https://www.wired.com/story/security-news-this-week-lastpass-users-had-their-data-stolen-again/",
-            "source": "Wired"
-        },
-        {
-            "title": "The 37 Best Outdoor Deals From the REI 4th of July Sale",
-            "link": "https://www.wired.com/story/rei-4th-of-july-sale-2026/",
-            "source": "Wired"
-        },
-        {
-            "title": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings",
-            "link": "https://www.wired.com/story/why-venezuelas-second-earthquake-so-damaging-to-buildings/",
             "source": "Wired"
         }
     ]
