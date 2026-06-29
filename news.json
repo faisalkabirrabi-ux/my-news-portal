@@ -1,8 +1,23 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ভূমিকম্পের ধ্বংসস্তূপ থেকে 'অলৌকিক উদ্ধার', হাজার হাজার এখনো নিখোঁজ",
+            "link": "https://www.bbc.com/bengali/articles/cpq3yn125xpo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'সংসদে অন্তর্বর্তী সরকারের দুর্নীতি তদন্তের দাবি'",
+            "link": "https://www.bbc.com/bengali/articles/cd6ew27qg3go?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ভারতীয় ভিসা কার্যক্রম চালু, সম্পর্ক স্বাভাবিক হতে আরও যত চ্যালেঞ্জ",
             "link": "https://www.bbc.com/bengali/articles/cvge1g39g5no?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "বিশ্বকাপের নকআউট পর্বে কে, কবে, কার বিপক্ষে খেলবেন",
+            "link": "https://www.bbc.com/bengali/articles/cgrk1rz9dydo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -14,56 +29,41 @@
             "title": "বাংলাদেশি কাজল ও ভারতীয় তরুণের প্রেমের গল্প পাল্টে দিলো একটি ফোনকল",
             "link": "https://www.bbc.com/bengali/articles/cqx1zl8e38jo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইরানে আবারো যুক্তরাষ্ট্রের সামরিক হামলা, পাল্টা হামলা ইরানের",
-            "link": "https://www.bbc.com/bengali/articles/c79yxgzlj53o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'সাদা পতাকা কাণ্ডে বিদেশী বিনিয়োগকারী ও আন্তর্জাতিক শ্রমবাজারে ভুল বার্তার শঙ্কা'",
-            "link": "https://www.bbc.com/bengali/articles/c5yzqzq6v3qo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "চীন কেন বাংলাদেশ থেকে কাঁঠাল নিতে চায়?",
-            "link": "https://www.bbc.com/bengali/articles/cm2d0ejy215o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
-            "link": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss",
+            "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+            "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ireland upstage world champions India to win T20 series at home",
-            "link": "https://www.aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss",
+            "title": "Australian man charged with murder after Thai girl’s body found in suitcase",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/australian-man-charged-with-murder-after-thai-girls-body-found-in-suitcase?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Canada score late to beat South Africa and reach last 16 at World Cup 2026",
-            "link": "https://www.aljazeera.com/sports/2026/6/28/canada-score-late-to-beat-south-africa-and-reach-last-16-at-world-cup-2026?traffic_source=rss",
+            "title": "Venezuelans angry with government as time runs out to rescue survivors",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuelans-angry-government-as-time-runs-out-to-dig-out-survivors?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Protesters in Serbia doubt Vucic resignation will bring change",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
+            "title": "Putin says Ukraine proposed halt to deep strikes",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/putin-says-ukraine-proposed-halt-to-deep-strikes?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss",
+            "title": "Venezuela’s earthquakes pose first major test for President Delcy Rodriguez",
+            "link": "https://www.aljazeera.com/features/longform/2026/6/29/venezuelas-earthquakes-pose-first-major-test-for-president-delcy-rodriguez?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
-            "link": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
+            "title": "Late goal gives Canada first-ever World Cup knockout stage victory",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-nf_ig_thumb1-280626?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+            "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
             "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,43 +95,48 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Sooryavanshi must 'bide his time and wait,' says ten Doeschate",
+            "link": "https://www.cricinfo.com/ci/content/story/1543544.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Hasabnis and Deol take India A past England A in first one-dayer",
+            "link": "https://www.cricinfo.com/ci/content/story/1543541.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Shanaka's blitz hands Knight Riders another defeat",
+            "link": "https://www.cricinfo.com/ci/content/story/1543537.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "'Disbelief' in India camp after a failure to adapt to 'fantastic' Ireland",
+            "link": "https://www.cricinfo.com/ci/content/story/1543531.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Tector: Never been involved in a bigger accomplishment",
+            "link": "https://www.cricinfo.com/ci/content/story/1543528.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Ben Stokes to retire from international cricket after third Test",
             "link": "https://www.cricinfo.com/ci/content/story/1543450.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Bell-Drummond, Billings star in chase after Stewart four-for",
-            "link": "https://www.cricinfo.com/ci/content/story/1543522.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Raza, Mir play key hands as Worcestershire hold off Somerset",
-            "link": "https://www.cricinfo.com/ci/content/story/1543523.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Munsey, Linde extend Notts dominance in 74-run win",
-            "link": "https://www.cricinfo.com/ci/content/story/1543524.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Lees lays waste to Middlesex with matchwinning hundred",
-            "link": "https://www.cricinfo.com/ci/content/story/1543521.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Revis fireworks salvage thrilling tie as Derbyshire's winning streak ends",
-            "link": "https://www.cricinfo.com/ci/content/story/1543520.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Injured Raducanu withdraws from Wimbledon",
+            "title": "Injured Raducanu pulls out of Wimbledon in latest bitter setback",
             "link": "https://www.bbc.co.uk/sport/tennis/articles/c15y0q31522o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Retirement the best thing for me - Stokes",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -147,11 +152,6 @@
         {
             "title": "Canada into last 16 with late winner against South Africa",
             "link": "https://www.bbc.co.uk/sport/videos/clyx5432r8do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Hunter Bell triumphs again at Paris Diamond League",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/c0ry4w4k5v0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
