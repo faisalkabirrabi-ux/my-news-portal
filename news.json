@@ -33,38 +33,43 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Cuba’s foreign minister observes ‘no progress’ in US negotiations",
-            "link": "https://www.aljazeera.com/news/2026/6/30/cubas-foreign-minister-observes-no-progress-in-us-negotiations?traffic_source=rss",
+            "title": "What is birthright citizenship, and what does the Supreme Court ruling say?",
+            "link": "https://www.aljazeera.com/news/2026/6/30/what-is-birthright-citizenship-and-what-does-the-supreme-court-ruling-say?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "German heatwave melts tram tracks, triggers travel disruptions",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/german-heatwave-melts-tram-tracks-triggers-travel-disruptions?traffic_source=rss",
+            "title": "Emergency crews search rubble after Athens building collapse",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/emergency-crews-search-rubble-after-athens-building-collapse?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How much of your life do you spend on social media?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/how-much-of-your-life-do-you-spend-on-social-media-2?traffic_source=rss",
+            "title": "More than 30 students remain missing after Nigeria school attack",
+            "link": "https://www.aljazeera.com/news/2026/6/30/more-than-30-students-remain-missing-after-nigeria-school-attack?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Healthcare situation in DR Congo improves amidst Ebola crisis",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/healthcare-situation-in-dr-congo-improves-amidst-ebola-crisis?traffic_source=rss",
+            "title": "Rescuers find more bodies under rubble as Venezuela death toll rises",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/rescuers-find-more-bodies-under-rubble-as-venezuela-death-toll-rises?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "What happened on South Africa’s anti-migrant ‘deadline day’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/what-happened-on-south-africas-anti-migrant-deadline?traffic_source=rss",
+            "title": "Five humanitarian workers killed in convoy ambush in South Sudan",
+            "link": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Russia’s fuel crisis deepens following Ukrainian drone strikes",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/russias-fuel-crisis-deepens-following-ukrainian-drone-strikes?traffic_source=rss",
+            "title": "Norway edge Ivory Coast 2–1 to enter World Cup Round of 16",
+            "link": "https://www.aljazeera.com/sports/2026/6/30/norway-edge-ivory-coast-2-1-to-enter-world-cup-round-of?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Supreme Court's birthright ruling is major blow to Trump",
-            "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+            "title": "Americans react to Supreme Court upholding birthright citizenship",
+            "link": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+            "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -80,11 +85,6 @@
         {
             "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
             "link": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "US Supreme Court upholds bans on transgender women in female school and college sports",
-            "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -125,37 +125,47 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Defying logic - how Haaland could end up with 260 international goals",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Williams falls just short on Wimbledon singles return",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c802jk8rz44o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Koeman resigns, while Netherlands report racist abuse",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Quansah & James miss training as England right-back problems mount",
             "link": "https://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c2ky8qk2gl9o?at_medium=RSS&at_campaign=rss",
+            "title": "Poor Wimbledon performance prompts yet another British inquest",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c2ey1l4383lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Spurs agree £85m deal for West Ham's Fernandes",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6210xn3x14o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Williams 'takes it all in' on Centre Court return",
-            "link": "https://www.bbc.co.uk/sport/tennis/videos/c932jy2qz24o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Brook would accept 'honour' of Test captaincy",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c0lyjz3np60o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Basketball superstar James to leave LA Lakers",
-            "link": "https://www.bbc.co.uk/sport/basketball/articles/c9v20gn7r21o?at_medium=RSS&at_campaign=rss",
+            "title": "'I've been dreaming of this moment' - Joint stunned to beat 'legend' Williams",
+            "link": "https://www.bbc.co.uk/sport/tennis/videos/c4gy2jdzjg9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "OpenClaw is finally available on Android and iOS",
+            "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+            "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
             "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
@@ -177,14 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-            "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Acti puts AI agents directly into your smartphone keyboard",
-            "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-            "source": "TechCrunch"
+            "title": "Daisy Sound’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper",
+            "link": "https://www.wired.com/story/daisy-sound-yet-another-company-is-making-premium-high-end-headphones/",
+            "source": "Wired"
         },
         {
             "title": "New York Is About to Feel Hotter Than Phoenix",
@@ -209,11 +214,6 @@
         {
             "title": "How Hunter Biden Won the Internet",
             "link": "https://www.wired.com/story/how-hunter-biden-won-the-internet/",
-            "source": "Wired"
-        },
-        {
-            "title": "Venezuela Earthquake Destruction Revealed in New Satellite Images",
-            "link": "https://www.wired.com/story/satellite-images-damage-caused-by-venezuela-earthquakes/",
             "source": "Wired"
         }
     ]
