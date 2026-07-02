@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বাংলাদেশে ভোক্তাপর্যায়ে সিলিন্ডার গ্যাসের দাম কমলো",
+            "link": "https://www.bbc.co.uk/bengali/live/ckg7ey0jmpnt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "কাতারে যুক্তরাষ্ট্র-ইরান আলোচনা শেষ, পরবর্তী বৈঠক খামেনির দাফনের পর",
             "link": "https://www.bbc.com/bengali/articles/crm01n2x7jro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,46 +29,41 @@
             "title": "পত্রিকা: \"যুব ব্যাংক' খুলতে চায় যুব ও ক্রীড়া মন্ত্রণালয়'",
             "link": "https://www.bbc.com/bengali/articles/cm2d94r9q89o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "নম্বরের বদলে ইউজারনেম দিয়েই চ্যাট করা যাবে হোয়াটসঅ্যাপে, ঝুঁকি কোথায়?",
-            "link": "https://www.bbc.com/bengali/articles/c0ryjxd1yrro?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "In Pictures: Hunger, despair as Venezuela quake death toll rises",
-            "link": "https://www.aljazeera.com/gallery/2026/7/2/in-pictures-hunger-despair-as-venezuela-quake-death-toll-rises?traffic_source=rss",
+            "title": "Vatican expels members of rebel Catholic group over unapproved ordination",
+            "link": "https://www.aljazeera.com/news/2026/7/2/breakaway-catholic-group-condemned-sacraments-deemed-illicit-by-vatican?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news",
-            "link": "https://www.aljazeera.com/sports/2026/7/2/spain-vs-austria-world-cup-round-of-32-preview-predictions-team-news?traffic_source=rss",
+            "title": "Philippines volcano erupts blasting plumes of ash and steam",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/philippines-volcano-erupts-blasting-plumes-of-ash-and-steam?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "More than 900 arrested during South Africa’s antimigrant protests",
-            "link": "https://www.aljazeera.com/news/2026/7/2/more-than-900-arrested-during-south-africas-antimigrant-protests?traffic_source=rss",
+            "title": "German coalition agrees on sweeping reform package in key breakthrough",
+            "link": "https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Maradona to Messi: Why Bangladesh loves Argentina’s footballers",
-            "link": "https://www.aljazeera.com/news/2026/7/2/maradona-to-messi-why-bangladesh-loves-argentinas-footballers?traffic_source=rss",
+            "title": "FIFA World Cup: Portugal vs Croatia prediction, schedules, round of 16 race",
+            "link": "https://www.aljazeera.com/news/2026/7/2/fifa-world-cup-portugal-vs-croatia-prediction-schedules-round-of-16-race?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "China’s new ethnic unity law extends its legal reach overseas",
-            "link": "https://www.aljazeera.com/news/2026/7/2/chinas-new-ethnic-unity-law-extends-its-legal-reach-overseas?traffic_source=rss",
+            "title": "An extra 229,000 deaths: Is that the cost of US-UK drugs deal?",
+            "link": "https://www.aljazeera.com/news/2026/7/2/an-extra-229000-deaths-is-that-the-cost-of-us-uk-drugs-deal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Businessman on trial in Malta over prominent journalist’s murder",
-            "link": "https://www.aljazeera.com/news/2026/7/2/businessman-on-trial-in-malta-over-prominent-journalists-murder?traffic_source=rss",
+            "title": "A Palestinian Home Inside a Cage",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/a-palestinian-home-inside-a-cage?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
+            "title": "'Most massive' Russian attack on Kyiv kills at least 18",
             "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -73,8 +73,13 @@
             "source": "BBC World"
         },
         {
-            "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-            "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+            "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+            "link": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+            "link": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,20 +88,30 @@
             "source": "BBC World"
         },
         {
-            "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-            "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Did this AI anti-drug video make drugs look appealing?",
-            "link": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss",
+            "title": "Gaza patients face agonising delays for medical evacuation",
+            "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
+            "title": "Galle and Colombo to host India for two Tests in August 2026",
+            "link": "https://www.cricinfo.com/ci/content/story/1543992.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Nathan McSweeney agrees 2027 Northants return",
+            "link": "https://www.cricinfo.com/ci/content/story/1543991.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "WBBL still 'the best' competition despite growth of WPL and Hundred",
             "link": "https://www.cricinfo.com/ci/content/story/1543928.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Australia hint Ellyse Perry could play final even if not fully fit",
+            "link": "https://www.cricinfo.com/ci/content/story/1543987.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -110,23 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "ETPL: Ashwin joins Dublin Guardians as captain and mentor",
-            "link": "https://www.cricinfo.com/ci/content/story/1543782.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "England were 15 minutes from humiliation - the issues Tuchel must solve",
+            "link": "https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Can NZ manage their pace riches with India and Australia looming?",
-            "link": "https://www.cricinfo.com/ci/content/story/1543777.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Mickelson denies new misconduct allegations",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/c5yz925758vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "MCC issues plea for members to attend Women's T20 World Cup final",
-            "link": "https://www.cricinfo.com/ci/content/story/1543913.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Spurs sign West Ham midfielder Fernandes for £85m",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c862ejqg3leo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Let children stay up for England-Mexico - Tuchel",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss",
+            "title": "England fans face resale prices of at least £2,600 for Mexico tickets",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cdxdg73n911o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,23 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Norris 'happy I have the pain of this year for the glory of last'",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c36y3p1xj4jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Will Britain's final four lift Wimbledon gloom?",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cvg73y9lnp8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why did England struggle against DR Congo - and what can they learn?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cewqzvnw5v7o?at_medium=RSS&at_campaign=rss",
+            "title": "Jockey Dettori breaks ribs in car crash",
+            "link": "https://www.bbc.co.uk/news/articles/cgqjkvypn5eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Paramount+ Coupon Codes and Deals for July 2026",
-            "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+            "title": "8 Best Travel Adapters (2026): My Top Recommendations",
+            "link": "https://www.wired.com/gallery/best-travel-adapters/",
             "source": "Wired"
         },
         {
-            "title": "30% Off Canon Promo Codes | July 2026",
-            "link": "https://www.wired.com/story/canon-promo-code/",
+            "title": "Bublue BuVortex V5 Pool Skimmer Review: An Impractical Cleaner",
+            "link": "https://www.wired.com/review/bublue-buvortex-v5-pool-skimmer/",
             "source": "Wired"
         },
         {
-            "title": "Walmart Promo Codes: Up to 65% Off for July 2026",
-            "link": "https://www.wired.com/story/top-walmart-promo-codes/",
+            "title": "How Trump Helped China Make America’s Cheapest EV",
+            "link": "https://www.wired.com/story/how-trump-helped-china-make-slate-americas-cheapest-ev/",
             "source": "Wired"
         },
         {
-            "title": "Dell Coupon Codes: 20% Off for July 2026",
-            "link": "https://www.wired.com/story/dell-coupon-code/",
+            "title": "I Tried Rips, the Card-Pack App Where Users Spend Thousands Chasing Pricey Pokémon",
+            "link": "https://www.wired.com/story/i-tried-rips-the-card-pack-app-where-users-spend-thousands-chasing-pricey-pokemon/",
             "source": "Wired"
         },
         {
-            "title": "Booking.com Promo Codes: 20% Off | July 2026",
-            "link": "https://www.wired.com/story/booking-com-promo-code/",
+            "title": "Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech",
+            "link": "https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
             "source": "Wired"
         },
         {
-            "title": "B&H Photo Promo Codes and Deals This July 2026",
-            "link": "https://www.wired.com/story/bh-photo-coupon/",
+            "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
+            "link": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
             "source": "Wired"
         }
     ]
