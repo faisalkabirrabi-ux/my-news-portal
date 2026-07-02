@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Spain immigration scheme sees 1.2 million apply for legal status",
-            "link": "https://www.aljazeera.com/news/2026/7/2/spain-immigration-scheme-sees-1-2-million-apply-for-legal-status?traffic_source=rss",
+            "title": "How the North American heatwave could impact the FIFA World Cup",
+            "link": "https://www.aljazeera.com/news/2026/7/2/how-the-north-american-heatwave-could-impact-the-fifa-world-cup?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘Collateral damage’: 73 Palestinian children Israel shot in the head",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/collateral-damage-73-palestinian-children-israel-shot-in-the-head?traffic_source=rss",
+            "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why is Prada facing pro-Israeli backlash?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss",
+            "title": "Rally for Luxembourg teacher fired over pro-Gaza posts",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "What is the Society of St Pius X? Why Pope Leo excommunicated its members",
-            "link": "https://www.aljazeera.com/news/2026/7/2/what-is-the-society-of-st-pius-x-why-pope-leo-excommunicated-its-bishops?traffic_source=rss",
+            "title": "Amid the World Cup, the new pan-Africanism is conditional",
+            "link": "https://www.aljazeera.com/opinions/2026/7/2/amid-the-world-cup-the-new-pan-africanism-is-conditional?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Spain vs Austria LIVE: FIFA World Cup 2026",
-            "link": "https://www.aljazeera.com/sports/liveblog/2026/7/2/spain-vs-austria-live-fifa-world-cup-2026?traffic_source=rss",
+            "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
+            "link": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Into the Darkness",
-            "link": "https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss",
+            "title": "What’s behind the deadly bombing of a crowded Damascus cafe?",
+            "link": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,7 +68,7 @@
             "source": "BBC World"
         },
         {
-            "title": "'Most massive' Russian attack on Kyiv kills at least 21",
+            "title": "'Most massive' Russian attack on Kyiv kills at least 22",
             "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -78,7 +78,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Vatican excommunicates hundreds of thousands of splinter sect followers",
+            "title": "Vatican excommunicates followers of global Catholic sect",
             "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -94,6 +94,11 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "South Africa bowl and bring in Sune Luus against England",
+            "link": "https://www.cricinfo.com/ci/content/story/1544076.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Hope fit but Roach doubtful as WI eye series win",
             "link": "https://www.cricinfo.com/ci/content/story/1544068.html?ex_cid=OTC-RSS",
@@ -120,18 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "WBBL still 'the best' competition despite growth of WPL and Hundred",
-            "link": "https://www.cricinfo.com/ci/content/story/1543928.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Why Spurs' statement spending looks set to continue",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crel1w2ddq3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "England were 15 minutes from humiliation - the issues Tuchel must solve",
             "link": "https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why Spurs' statement spending looks set to continue",
-            "link": "https://www.bbc.co.uk/sport/football/articles/crel1w2ddq3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -156,6 +156,11 @@
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
+            "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
             "link": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
@@ -182,9 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-            "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-            "source": "TechCrunch"
+            "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+            "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+            "source": "Wired"
         },
         {
             "title": "The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH",
@@ -209,11 +214,6 @@
         {
             "title": "How Trump Helped China Make America’s Cheapest EV",
             "link": "https://www.wired.com/story/how-trump-helped-china-make-slate-americas-cheapest-ev/",
-            "source": "Wired"
-        },
-        {
-            "title": "I Tried Rips, the Card-Pack App Where Users Spend Thousands Chasing Pricey Pokémon",
-            "link": "https://www.wired.com/story/i-tried-rips-the-card-pack-app-where-users-spend-thousands-chasing-pricey-pokemon/",
             "source": "Wired"
         }
     ]
