@@ -1,6 +1,21 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "হালাল শিল্প কী, এ খাতে বাংলাদেশের সম্ভাবনা কতটা?",
+            "link": "https://www.bbc.com/bengali/articles/cx2j8qjdvjlo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: \"যুব ব্যাংক' খুলতে চায় যুব ও ক্রীড়া মন্ত্রণালয়'",
+            "link": "https://www.bbc.com/bengali/articles/cm2d94r9q89o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "নম্বরের বদলে ইউজারনেম দিয়েই চ্যাট করা যাবে হোয়াটসঅ্যাপে, ঝুঁকি কোথায়?",
+            "link": "https://www.bbc.com/bengali/articles/c0ryjxd1yrro?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশে সরকারি চাকরিজীবীদের বেতন বাড়ানো নিয়ে সবশেষ কী জানা যাচ্ছে",
             "link": "https://www.bbc.com/bengali/articles/c5yzrzq0017o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -14,53 +29,43 @@
             "title": "পশ্চিমবঙ্গে 'গুন্ডা দমন বিল' নিয়ে যেসব কারণে বিতর্ক",
             "link": "https://www.bbc.com/bengali/articles/cly8xvq1d5eo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "হোলি আর্টিজানের এক দশক, বাংলাদেশে জঙ্গি তৎপরতা বেড়েছে নাকি কমেছে?",
-            "link": "https://www.bbc.com/bengali/articles/cd95g278k7jo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভারতের 'দ্য টেলিগ্রাফ'-এর সাবেক সম্পাদকের নাম ভোটার তালিকা থেকে বাদ, হচ্ছে না পাসপোর্ট নবায়নও",
-            "link": "https://www.bbc.com/bengali/articles/c0qy30p1p7do?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভেনেজুয়েলায় ভূমিকম্পের ছয় দিন পর তিন বছরের শিশুকে জীবিত উদ্ধার",
-            "link": "https://www.bbc.com/bengali/articles/cj9g8yndvggo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss",
+            "title": "US designates Ecuador’s Chone Killers gang as ‘terrorist’ organisation",
+            "link": "https://www.aljazeera.com/news/2026/7/2/us-designates-ecuadors-chone-killers-gang-as-terrorist-organisation?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Couple arrested after daring Empire State marriage proposal stunt",
-            "link": "https://www.aljazeera.com/news/2026/7/1/couple-arrested-after-daring-empire-state-marriage-proposal-stunt?traffic_source=rss",
+            "title": "German prosecutors charge Ukrainian suspect over Nord Stream explosions",
+            "link": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-charge-ukrainian-suspect-over-nord-stream-explosions?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US judge sides with NAACP over proposed mail-in ballot restrictions",
-            "link": "https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss",
+            "title": "Lawyer takes Trump to Task over Unchecked Presidential Powers",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/lawyer-takes-trump-to-task-over-unchecked-presidential-powers?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran football team welcomed home after World Cup exit",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-football-team-welcomed-home-after-world-cup-exit?traffic_source=rss",
+            "title": "EU border rules causing travel chaos ahead of summer peak, industry warns",
+            "link": "https://www.aljazeera.com/economy/2026/7/2/eu-border-rules-causing-travel-chaos-ahead-of-summer-peak-industry-warns?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
-            "link": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
+            "title": "On the front line of Congo’s Ebola outbreak",
+            "link": "https://www.aljazeera.com/editorial/2026/7/2/on-the-front-line-of-congos-ebola-outbreak?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
+            "title": "USA beat Bosnia 2-0 despite Balogun red card, enter World Cup last 16",
+            "link": "https://www.aljazeera.com/sports/2026/7/2/usa-beat-bosnia-2-0-despite-balogun-red-card-enter-world-cup-last-16?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "At least ten killed in large-scale Russian missile and drone strikes on Kyiv",
+            "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
@@ -73,6 +78,11 @@
             "source": "BBC World"
         },
         {
+            "title": "Did this AI anti-drug video make drugs look appealing?",
+            "link": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Ukrainian charged in Germany over Nord Stream blasts",
             "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -81,19 +91,19 @@
             "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
             "link": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "US blocks long-term renewal of North American trade deal",
-            "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
-            "link": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Lister replaces injured Sears for ODI series in the West Indies",
+            "link": "https://www.cricinfo.com/ci/content/story/1543929.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Can NZ manage their pace riches with India and Australia looming?",
+            "link": "https://www.cricinfo.com/ci/content/story/1543777.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "MCC issues plea for members to attend Women's T20 World Cup final",
             "link": "https://www.cricinfo.com/ci/content/story/1543913.html?ex_cid=OTC-RSS",
@@ -115,18 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "First T20I washed out after Abhishek, Shreyas fifties take India to 189",
-            "link": "https://www.cricinfo.com/ci/content/story/1543911.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'Not like I've forgotten how to bat' - Wolvaardt hopes to find her groove again",
-            "link": "https://www.cricinfo.com/ci/content/story/1543905.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "USA march on but will Balogun red card prove costly?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Genuine superstar Kane produces his biggest England moment",
             "link": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -142,16 +152,6 @@
         {
             "title": "Vintage Djokovic 'in full flow' to crush Tsitsipas as Sinner wins",
             "link": "https://www.bbc.co.uk/sport/tennis/articles/cgjxzeqnn1vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Did hydration breaks spark England comeback?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4gy8nrny19o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
