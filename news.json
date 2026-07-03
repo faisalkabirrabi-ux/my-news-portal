@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বাংলাদেশের বিভিন্ন স্থানে কালেমাখচিত পতাকা মিছিল, নেপথ্যে কী?",
+            "link": "https://www.bbc.com/bengali/articles/c0ey7x1710xo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ইরান কেন চীন, ভারত, ইরাকে আটকা শত শত কোটি ডলারের সম্পত্তি উদ্ধার করতে পারছে না?",
+            "link": "https://www.bbc.com/bengali/articles/cx24dj845vlo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "চীনের অর্থনৈতিক করিডোরে যুক্ত হতে বাংলাদেশের চ্যালেঞ্জ কোথায়",
             "link": "https://www.bbc.com/bengali/articles/cwyedk3z4p0o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,52 +29,57 @@
             "title": "এবছর ডেঙ্গু পরিস্থিতি খারাপ হওয়ার আশঙ্কা কেন করছেন বিশেষজ্ঞরা?",
             "link": "https://www.bbc.com/bengali/articles/cvgm402ryngo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভেনেজুয়েলায় ভূমিকম্পের আট দিন পর ধ্বংসস্তূপ থেকে একজনকে জীবিত উদ্ধার",
-            "link": "https://www.bbc.co.uk/bengali/live/ckg7ey0jmpnt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "রহস্যময় 'সুবোধ' এবার ভারতে, 'হবেকি?'র নতুন গ্রাফিতি",
-            "link": "https://www.bbc.com/bengali/articles/c802m5pymneo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Papua rebels claim to have killed US pilot in Indonesia",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/papua-rebels-claim-to-have-killed-us-pilot-in-indonesia?traffic_source=rss",
+            "title": "Argentina vs Cape Verde: World Cup Round of 32: Messi, prediction, kickoff",
+            "link": "https://www.aljazeera.com/sports/2026/7/3/argentina-vs-cape-verde-world-cup-round-of-32-messi-vozinha-prediction-kickoff?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran warns ships against using unapproved routes in Strait of Hormuz",
-            "link": "https://www.aljazeera.com/economy/2026/7/3/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz?traffic_source=rss",
+            "title": "Man holding Tibetan flag dies after setting himself on fire outside UN",
+            "link": "https://www.aljazeera.com/news/2026/7/3/man-holding-tibetan-flag-dies-after-setting-himself-on-fire-outside-un?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Who are the rogue bishops defying Pope Leo XIV?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/who-are-the-rogue-bishops-defying-pope-leo-xiv?traffic_source=rss",
+            "title": "At least 40 killed in passenger bus crash in southwest Pakistan",
+            "link": "https://www.aljazeera.com/news/2026/7/3/at-least-40-killed-in-passenger-bus-crash-in-southwest-pakistan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘They gave their best’: Congolese reflect on historic World Cup run",
-            "link": "https://www.aljazeera.com/sports/2026/7/3/they-gave-their-best-congolese-reflect-on-historic-world-cup-run?traffic_source=rss",
+            "title": "Are Europe’s extreme summers the new normal? What the science says",
+            "link": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Powerful explosion as firefighters probe smoke at Tacoma apartment",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/powerful-explosion-as-firefighters-probe-smoke-at-tacoma-apartment?traffic_source=rss",
+            "title": "Delcy Rodriguez responds to public anger at government response",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/delcy-rodriguez-responds-to-public-anger-at-government-response?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ronaldo scores as Portugal come back to win, Croatia denied by late VAR",
-            "link": "https://www.aljazeera.com/sports/2026/7/3/ronaldo-scores-as-portugal-comeback-to-win-but-croatia-denied-by-late-var?traffic_source=rss",
+            "title": "Switzerland beat Algeria 2-0 to reach World Cup Round of 16 in style",
+            "link": "https://www.aljazeera.com/sports/2026/7/3/switzerland-algeria-fifa-world-cup-2026-score-embolo-ndoye?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+            "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Venezuela quake survivor pulled out alive after eight days",
             "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+            "link": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+            "link": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,27 +88,22 @@
             "source": "BBC World"
         },
         {
-            "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
-            "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Vatican excommunicates followers of global Catholic sect",
-            "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
-            "link": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-            "link": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
+            "title": "How the American Dream has survived 250 years, but only just",
+            "link": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Shepherd and de Kock make the difference as MI New York defend 132 in Pomona",
+            "link": "https://www.cricinfo.com/ci/content/story/1544130.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Wijesundara set for debut as injury-hit Sri Lanka struggle to make up XI",
+            "link": "https://www.cricinfo.com/ci/content/story/1544116.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Hope fit but Roach doubtful as WI eye series win",
             "link": "https://www.cricinfo.com/ci/content/story/1544068.html?ex_cid=OTC-RSS",
@@ -115,28 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Ashwin: ETPL crucial in making cricket a global sport",
-            "link": "https://www.cricinfo.com/ci/content/story/1543995.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Galle and Colombo to host India for two Tests in August 2026",
-            "link": "https://www.cricinfo.com/ci/content/story/1543992.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "The one club man who is Spain's under-the-radar hero",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvgd0jz1xq7o?at_medium=RSS&at_campaign=rss",
+            "title": "Huge Snicko VAR call prolongs Ronaldo's last dance but ends Modric's",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Hard work and a disco jacket - how England turned fielding woes around",
+            "title": "Four-time Tour de France winner Froome retires",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/clyere67jpmo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Hard work and a disco jacket - England turn fielding woes around to reach final",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Secret location & sleep devices: England bid to combat noisy Mexico fans",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c74y7jwj30eo?at_medium=RSS&at_campaign=rss",
+            "title": "The one club man who is Spain's under-the-radar hero",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cvgd0jz1xq7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Victorious Portugal pay emotional tribute to Jota",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Late VAR drama as Croatia denied equaliser",
-            "link": "https://www.bbc.co.uk/sport/football/videos/ckg7eerdx6go?at_medium=RSS&at_campaign=rss",
+            "title": "The French-born star carrying British hopes at Wimbledon",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cx2vr595pg7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+            "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
             "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
@@ -182,9 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-            "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-            "source": "TechCrunch"
+            "title": "EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones",
+            "link": "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/",
+            "source": "Wired"
         },
         {
             "title": "The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It",
@@ -209,11 +214,6 @@
         {
             "title": "The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH",
             "link": "https://www.wired.com/story/the-dea-plans-to-ban-kratom-compound-7-oh-sold-as-a-gas-station-opioid/",
-            "source": "Wired"
-        },
-        {
-            "title": "7 Lesser-Known Google Account Settings You Should Change",
-            "link": "https://www.wired.com/story/7-google-account-settings-you-should-change/",
             "source": "Wired"
         }
     ]
