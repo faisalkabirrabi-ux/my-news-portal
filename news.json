@@ -1,6 +1,21 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "চীনের অর্থনৈতিক করিডোরে যুক্ত হতে বাংলাদেশের চ্যালেঞ্জ কোথায়",
+            "link": "https://www.bbc.com/bengali/articles/cwyedk3z4p0o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "আয়াতুল্লাহ খামেনির শেষ বিদায়ে ছয় দিনের আনুষ্ঠানিকতায় কী কী থাকছে",
+            "link": "https://www.bbc.com/bengali/articles/c1mykkd5gvko?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'বৈশ্বিক পোশাক রফতানিতে দ্বিতীয় স্থান হারাতে পারে বাংলাদেশ'",
+            "link": "https://www.bbc.com/bengali/articles/cj0gvd669v1o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "এবছর ডেঙ্গু পরিস্থিতি খারাপ হওয়ার আশঙ্কা কেন করছেন বিশেষজ্ঞরা?",
             "link": "https://www.bbc.com/bengali/articles/cvgm402ryngo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -14,52 +29,37 @@
             "title": "রহস্যময় 'সুবোধ' এবার ভারতে, 'হবেকি?'র নতুন গ্রাফিতি",
             "link": "https://www.bbc.com/bengali/articles/c802m5pymneo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "কাতারে যুক্তরাষ্ট্র-ইরান আলোচনা শেষ, পরবর্তী বৈঠক খামেনির দাফনের পর",
-            "link": "https://www.bbc.com/bengali/articles/crm01n2x7jro?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "টাইপ ৫ ডায়াবেটিসের লক্ষণ কী এবং রোগ ধরা না পড়লে কী ক্ষতি হতে পারে?",
-            "link": "https://www.bbc.com/bengali/articles/cpq3wjwleg5o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "হালাল শিল্প কী, এ খাতে বাংলাদেশের সম্ভাবনা কতটা?",
-            "link": "https://www.bbc.com/bengali/articles/cx2j8qjdvjlo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Trump administration indicts Olympic athlete for Reflecting Pool vandalism",
-            "link": "https://www.aljazeera.com/news/2026/7/2/trump-administration-indicts-olympic-athlete-for-reflecting-pool-vandalism?traffic_source=rss",
+            "title": "Papua rebels claim to have killed US pilot in Indonesia",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/papua-rebels-claim-to-have-killed-us-pilot-in-indonesia?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Will the end of TPS for Haitians mean a caregiving crisis in US?",
-            "link": "https://www.aljazeera.com/news/2026/7/2/will-the-end-of-tps-for-haitians-mean-a-caregiving-crisis-in-us?traffic_source=rss",
+            "title": "Iran warns ships against using unapproved routes in Strait of Hormuz",
+            "link": "https://www.aljazeera.com/economy/2026/7/3/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Portugal fans gather ahead of Ronaldo-Modric clash",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss",
+            "title": "Who are the rogue bishops defying Pope Leo XIV?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/who-are-the-rogue-bishops-defying-pope-leo-xiv?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Senegal’s World Cup agony: Nation left rueing last-gasp collapse",
-            "link": "https://www.aljazeera.com/sports/2026/7/2/senegals-world-cup-agony-nation-left-rueing-last-gasp-collapse?traffic_source=rss",
+            "title": "‘They gave their best’: Congolese reflect on historic World Cup run",
+            "link": "https://www.aljazeera.com/sports/2026/7/3/they-gave-their-best-congolese-reflect-on-historic-world-cup-run?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Oyarzabal scores two goals as Spain dominates Austria in World Cup knockout",
-            "link": "https://www.aljazeera.com/sports/2026/7/2/oyarzabal-scores-two-goals-as-spain-dominates-austria-in-world-cup-knockout?traffic_source=rss",
+            "title": "Powerful explosion as firefighters probe smoke at Tacoma apartment",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/powerful-explosion-as-firefighters-probe-smoke-at-tacoma-apartment?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Could water become a flashpoint between Islamabad and New Delhi?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss",
+            "title": "Ronaldo scores as Portugal come back to win, Croatia denied by late VAR",
+            "link": "https://www.aljazeera.com/sports/2026/7/3/ronaldo-scores-as-portugal-comeback-to-win-but-croatia-denied-by-late-var?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,7 +68,7 @@
             "source": "BBC World"
         },
         {
-            "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+            "title": "'Most massive' Russian attack on Kyiv kills at least 30",
             "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Hope fit but Roach doubtful as WI eye series win",
+            "link": "https://www.cricinfo.com/ci/content/story/1544068.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Nat Sciver-Brunt, Heather Knight put England in final",
             "link": "https://www.cricinfo.com/ci/content/story/1544095.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -102,11 +107,6 @@
         {
             "title": "South Africa bowl and bring in Sune Luus against England",
             "link": "https://www.cricinfo.com/ci/content/story/1544076.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Hope fit but Roach doubtful as WI eye series win",
-            "link": "https://www.cricinfo.com/ci/content/story/1544068.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -125,13 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Sciver-Brunt leads superb England into World Cup final",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cy731p46j5mo?at_medium=RSS&at_campaign=rss",
+            "title": "The one club man who is Spain's under-the-radar hero",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cvgd0jz1xq7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "The one club man who is Spain's under-the-radar hero",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvgd0jz1xq7o?at_medium=RSS&at_campaign=rss",
+            "title": "Hard work and a disco jacket - how England turned fielding woes around",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,18 +140,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "The French-born star carrying British hopes at Wimbledon",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cx2vr595pg7o?at_medium=RSS&at_campaign=rss",
+            "title": "Portugal through to last 16 after dramatic victory over Croatia",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cy9r11gj8lzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Silverstone completely different with new cars - Hamilton",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cp36le6vlv6o?at_medium=RSS&at_campaign=rss",
+            "title": "Victorious Portugal pay emotional tribute to Jota",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "England-Mexico one of four last-16 ties live on BBC TV",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ckg4wvn1ke9o?at_medium=RSS&at_campaign=rss",
+            "title": "Late VAR drama as Croatia denied equaliser",
+            "link": "https://www.bbc.co.uk/sport/football/videos/ckg7eerdx6go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
