@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Police clash with protesters outside AfD meeting",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/police-clash-with-protesters-outside-afd-meeting?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "FIFA World Cup 2026: Best Round of 16 knockout matches to watch",
+            "link": "https://www.aljazeera.com/sports/2026/7/4/biggest-fifa-world-cup-matches-to-watch-in-round-of-16-knockout-stage?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
+            "link": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Iran promotes message of continuity and revenge at Khamenei commemoration",
             "link": "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -45,21 +60,6 @@
         {
             "title": "Canada vs Morocco LIVE: FIFA World Cup 2026 last 16",
             "link": "https://www.aljazeera.com/sports/liveblog/2026/7/4/canada-vs-morocco-live-fifa-world-cup-2026-last-16?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
-            "link": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Why closure matters at the end of life",
-            "link": "https://www.aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Nabatieh recovery begins amid ongoing southern Lebanon tensions",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/nabatieh-recovery-begins-amid-ongoing-southern-lebanon-tensions?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,22 +78,32 @@
             "source": "BBC World"
         },
         {
+            "title": "Former chess champion Kramnik banned over cheating remarks",
+            "link": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Injury ends Williams' Wimbledon comeback",
             "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Pope urges Europe to do more for migrants while visiting gateway island",
+            "title": "Pope urges Europe to do more for migrants as he visits gateway island",
             "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Row after Indian state drops eggs from school lunch menu",
-            "link": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Bethell's takedown of Bishnoi takes England 1-0 up",
+            "link": "https://www.cricinfo.com/ci/content/story/1544339.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Kusal Mendis, Dinusha take Sri Lanka past 400",
+            "link": "https://www.cricinfo.com/ci/content/story/1544328.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Can Lord's memories inspire England to bring down mighty Australia?",
             "link": "https://www.cricinfo.com/ci/content/story/1544297.html?ex_cid=OTC-RSS",
@@ -115,14 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "India A grow lead after Sai Sudharsan hits 168",
-            "link": "https://www.cricinfo.com/ci/content/story/1544268.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "West Indies hope new ball brings change of luck after Udara bosses first day",
-            "link": "https://www.cricinfo.com/ci/content/story/1544256.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Antonelli beats Leclerc & Hamilton to Silverstone pole",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cj3g73x2ggeo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Lightning, hotel security and spying - issues England face in Mexico",
@@ -130,32 +135,37 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Bethell outshines debutant Sooryavanshi, 15, as England beat India",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cq61pz1e1nno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "'Stand and deliver!' - Brook turns tables with 15-ball blitz",
+            "link": "https://www.bbc.co.uk/sport/cricket/videos/c1ly2zz36qvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "England outclassed by seven-try South Africa",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglz11w29xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Injury ends Williams' Wimbledon comeback",
             "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Six-try Wales beat Fiji in Nations Championship opener",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c0my2xvzg3do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Advantage Sabalenka? Swiatek & Rybakina out in Wimbledon shocks",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/clywpdxx9n8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Ireland deny Wallabies after nail-biting finish",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cevlpz2zkneo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "All Blacks beat France in Nations Championship thriller",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5yze25d46do?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+            "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Alibaba reportedly bans employees from using Claude Code",
+            "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+            "source": "TechCrunch"
+        },
         {
             "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
             "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
@@ -174,16 +184,6 @@
         {
             "title": "The Dune keypad device can be your meeting controller and more",
             "link": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Chevy built an all-American EV truck — why is nobody buying it?",
-            "link": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-            "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
             "source": "TechCrunch"
         },
         {
