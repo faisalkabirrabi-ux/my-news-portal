@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Iran promotes message of continuity and revenge at Khamenei commemoration",
+            "link": "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Russian attacks leave trail of destruction across Ukraine",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Canada vs Morocco LIVE: FIFA World Cup 2026 last 16",
             "link": "https://www.aljazeera.com/sports/liveblog/2026/7/4/canada-vs-morocco-live-fifa-world-cup-2026-last-16?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -53,33 +63,8 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Pope Leo urges migrant protection, integration on visit to Lampedusa",
-            "link": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Firefighters race to contain flames in northeastern Spain",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/firefighters-race-to-contain-flames-in-northeastern-spain?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-            "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
             "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-            "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-            "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -88,12 +73,32 @@
             "source": "BBC World"
         },
         {
-            "title": "'Flamingo Revolution' takes off as thousands demand Albanian PM's resignation",
-            "link": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
+            "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+            "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Injury ends Williams' Wimbledon comeback",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Pope urges Europe to do more for migrants while visiting gateway island",
+            "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Row after Indian state drops eggs from school lunch menu",
+            "link": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Can Lord's memories inspire England to bring down mighty Australia?",
+            "link": "https://www.cricinfo.com/ci/content/story/1544297.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Farbrace agrees to stay at Sussex as part-time director of cricket",
             "link": "https://www.cricinfo.com/ci/content/story/1544280.html?ex_cid=OTC-RSS",
@@ -120,23 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Lahiru Udara 188 carries the fight for Sri Lanka",
-            "link": "https://www.cricinfo.com/ci/content/story/1544207.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Lightning, hotel security and spying - issues England face in Mexico",
             "link": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Five and a half hours that left England's World Cup tie in chaos",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss",
+            "title": "Injury ends Williams' Wimbledon comeback",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Antonelli passes Hamilton to win Silverstone sprint",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cvglegml3llo?at_medium=RSS&at_campaign=rss",
+            "title": "Six-try Wales beat Fiji in Nations Championship opener",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c0my2xvzg3do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Advantage Sabalenka? Swiatek & Rybakina out in Wimbledon shocks",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/clywpdxx9n8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "All Blacks beat France in thrilling Nations Championship opener",
+            "title": "All Blacks beat France in Nations Championship thriller",
             "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5yze25d46do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Second seed Rybakina knocked out of Wimbledon",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/clywpdxx9n8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+            "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+            "source": "TechCrunch"
+        },
         {
             "title": "The only AI glossary you’ll need this year",
             "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -182,9 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-            "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-            "source": "TechCrunch"
+            "title": "Submit Your Questions: Inside The World of Online Romance Scams",
+            "link": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
+            "source": "Wired"
         },
         {
             "title": "15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers",
@@ -209,11 +214,6 @@
         {
             "title": "Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease",
             "link": "https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Best Fourth of July Mattress Sales on Beds We Actually Sleep On (2026)",
-            "link": "https://www.wired.com/story/best-july-fourth-mattress-deals-2026/",
             "source": "Wired"
         }
     ]
