@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "তেহরানে আয়াতুল্লাহ আলী খামেনির জানাজা অনুষ্ঠিত",
+            "link": "https://www.bbc.co.uk/bengali/live/cy4e2xxkpedt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ইউরোপে এস আলমসহ তিন অভিযুক্তের সম্পদ জব্দ, পাচারের টাকা দেশে ফিরবে কবে?",
             "link": "https://www.bbc.com/bengali/articles/c0lyekp55rno?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,29 @@
             "title": "বিদেশি মাকড়সা কিংবা সাপ কেন আনা হচ্ছে বাংলাদেশে?",
             "link": "https://www.bbc.com/bengali/articles/cvgezrl6r7go?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "রাউন্ড অব সিক্সটিনে কে কার মুখোমুখি, হার-জিতের নিশ্চয়তা কতটা?",
-            "link": "https://www.bbc.com/bengali/articles/cjwgpy3wyn4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Egypt and Morocco fans celebrate World Cup wins by singing for Palestine",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/egypt-and-morocco-fans-celebrate-world-cup-wins-by-singing-for-palestine?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction",
+            "link": "https://www.aljazeera.com/sports/2026/7/5/brazil-vs-norway-fifa-world-cup-last-16-vinicius-haaland-and-prediction?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Native Americans Resisting ICE",
+            "link": "https://www.aljazeera.com/video/witness/2026/7/5/native-americans-resisting-ice?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump lauds Americans in storm-delayed 250th anniversary speech",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_trump-lauds-americans-in-250th-anniversary-speech-050726?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "A name, a document, a future: Cameroon’s fight to register every child",
             "link": "https://www.aljazeera.com/news/2026/7/5/a-name-a-document-a-future-cameroons-fight-to-register-every-child?traffic_source=rss",
@@ -43,28 +63,8 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Severe weather disrupts US’s 250th celebrations",
-            "link": "https://www.aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "This immigrant served in the US military. Now he faces deportation",
-            "link": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-            "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+            "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+            "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,8 +73,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-            "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+            "title": "Chinese underground church figure Jin Mingri freed from prison",
+            "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,45 +83,45 @@
             "source": "BBC World"
         },
         {
-            "title": "Injury ends Williams' Wimbledon comeback",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+            "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+            "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Pope urges Europe to do more for migrants as he visits gateway island",
-            "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+            "title": "Injury ends Williams' Wimbledon comeback",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Edwards four-for lifts Freedom from sixth to first",
+            "title": "Pakistan drop Shaheen, Hasan and Noman for West Indies and England Tests",
+            "link": "https://www.cricinfo.com/ci/content/story/1544381.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Babar Azam takes charge after Shan Masood is removed as Pakistan Test captain",
+            "link": "https://www.cricinfo.com/ci/content/story/1544378.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Pollard and Bosch star as MI NY leapfrog Freedom to reclaim No. 1 spot",
+            "link": "https://www.cricinfo.com/ci/content/story/1544377.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Seales praises Sri Lanka for 'brave decision' to bat first",
+            "link": "https://www.cricinfo.com/ci/content/story/1544369.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Edwards four-for lifts Freedom from the bottom of the table",
             "link": "https://www.cricinfo.com/ci/content/story/1544366.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "Kusal Mendis, Dinusha make it Sri Lanka's day in Antigua",
             "link": "https://www.cricinfo.com/ci/content/story/1544328.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Short 92* inspires Gloucestershire to Surrey thrashing",
-            "link": "https://www.cricinfo.com/ci/content/story/1544349.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Bethell's takedown of Bishnoi takes England 1-0 up",
-            "link": "https://www.cricinfo.com/ci/content/story/1544339.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Bethell: 'Nothing sweeter as a batter than walking off not out with a win'",
-            "link": "https://www.cricinfo.com/ci/content/story/1544350.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Punia, Tanisha lay foundation as India A secure series win",
-            "link": "https://www.cricinfo.com/ci/content/story/1544348.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -135,23 +135,23 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Boks unleash big-game brutality on Borthwick's faltering England",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cz752234r45o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Tuchel praises respectful Mexico fans amid increased security",
             "link": "https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
+            "title": "Hodgkinson beaten into second by Odira in Eugene",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/clyrpp0v0nqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "James doubtful for Mexico tie but Quansah fit again",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "GB's Fery fights off Bergs and nosebleeds to win five-set epic",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cj3gp85me40o?at_medium=RSS&at_campaign=rss",
+            "title": "A rivalry renewed - Sabalenka and Osaka meet again",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cg53p7mn85mo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
