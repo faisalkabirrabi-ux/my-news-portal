@@ -1,18 +1,8 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "শ্রীলঙ্কায় নেগোম্বো কারাগারে বন্দীদের মধ্যে সংঘর্ষে অন্তত ২৫ জন নিহত",
+            "title": "অক্টোবরে স্থানীয় সরকার নির্বাচনের প্রস্তুতি নিচ্ছে বাংলাদেশের নির্বাচন কমিশন",
             "link": "https://www.bbc.co.uk/bengali/live/c0jyyd34j7pt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "স্পেন আর পর্তুগালের জমজমাট লড়াইয়ের অপেক্ষায় বিশ্বকাপ",
-            "link": "https://www.bbc.com/bengali/articles/crr881kn7vko?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "কক্সবাজারে প্রবল বর্ষণে রোহিঙ্গা ক্যাম্পে পাহাড়ধসে ৮ জনের মৃত্যু, এ অবস্থা কয়দিন থাকবে",
-            "link": "https://www.bbc.com/bengali/articles/c4gyy0pdkepo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -26,40 +16,50 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "কক্সবাজারে প্রবল বর্ষণে রোহিঙ্গা ক্যাম্পে পাহাড়ধসে ৮ জনের মৃত্যু, এ অবস্থা কয়দিন থাকবে",
+            "link": "https://www.bbc.com/bengali/articles/c4gyy0pdkepo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "আলী খামেনির জানাজায় কেন ইরানের সর্বোচ্চ নেতা মোজতবা খামেনি ছিলেন না",
             "link": "https://www.bbc.com/bengali/articles/c3wyy5zev0wo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "স্পেন আর পর্তুগালের জমজমাট লড়াইয়ের অপেক্ষায় বিশ্বকাপ",
+            "link": "https://www.bbc.com/bengali/articles/crr881kn7vko?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Netanyahu says his ties with Trump are ‘fine’, takes aim at Turkiye",
-            "link": "https://www.aljazeera.com/news/2026/7/6/netanyahu-says-his-ties-with-trump-are-fine-takes-aim-at-turkiye?traffic_source=rss",
+            "title": "Iran reappoints a familiar face to powerful post during Khamenei funeral",
+            "link": "https://www.aljazeera.com/news/2026/7/6/iran-reappoints-a-familiar-face-to-powerful-post-during-khamenei-funeral?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "UN discusses prevention of genocide: Six times it failed to do just that",
-            "link": "https://www.aljazeera.com/news/2026/7/6/un-discusses-prevention-of-genocide-six-times-it-failed-to-do-just-that?traffic_source=rss",
+            "title": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
+            "link": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US president Trump defends FIFA’s Balogun red card reversal",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/us-president-trump-defends-fifas-balogun-red-card-reversal?traffic_source=rss",
+            "title": "Ticket prices continue to fall for USA-Belgium World Cup last 16 clash",
+            "link": "https://www.aljazeera.com/sports/2026/7/6/ticket-prices-continue-to-fall-for-usa-belgium-world-cup-last-16-clash?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Is NATO at breaking point as it meets in Turkiye?",
-            "link": "https://www.aljazeera.com/news/2026/7/6/is-nato-at-breaking-point-as-it-meets-in-turkiye?traffic_source=rss",
+            "title": "Belgian football body challenges reversal of Balogun’s World Cup suspension",
+            "link": "https://www.aljazeera.com/news/2026/7/6/belgian-football-body-challenges-reversal-of-baloguns-world-cup-suspension?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel’s Smotrich declares ‘revolution’ in West Bank settlement expansion",
-            "link": "https://www.aljazeera.com/news/2026/7/6/israels-smotrich-declares-revolution-in-west-bank-settlement-expansion?traffic_source=rss",
+            "title": "What makes this NATO summit high stakes?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/what-makes-this-nato-summit-high-stakes?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "FIFA World Cup: Mohamed Salah and the ghosts of Egypt’s ‘golden generation’",
-            "link": "https://www.aljazeera.com/sports/2026/7/6/fifa-world-cup-mohamed-salah-egypt-football-team-golden-generation?traffic_source=rss",
+            "title": "Balogun, Garrincha and Pinochet: FIFA’s controversial World Cup decisions",
+            "link": "https://www.aljazeera.com/news/2026/7/6/balogun-garrincha-and-pinochet-fifas-controversial-world-cup-decisions?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,8 +68,18 @@
             "source": "BBC World"
         },
         {
-            "title": "Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region",
+            "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
             "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+            "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+            "link": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -81,19 +91,14 @@
             "title": "Wildfire in southern France forces evacuation of 10,000 people",
             "link": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-            "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
-            "link": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Greaves, Hope tons keep Sri Lanka at bay",
+            "link": "https://www.cricinfo.com/ci/content/story/1544618.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Sanju Samson left out of India's T20I squad for Zimbabwe tour",
             "link": "https://www.cricinfo.com/ci/content/story/1544584.html?ex_cid=OTC-RSS",
@@ -120,23 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Notts sign Binura Fernando as Mohammad Ali replacement",
-            "link": "https://www.cricinfo.com/ci/content/story/1544542.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Trump confirms he asked Fifa to review Balogun ban",
             "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "How England used five mini games to beat Mexico",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'You've been trying to kill me for 23 years' - should Ronaldo start?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cz7523l9rdvo?at_medium=RSS&at_campaign=rss",
+            "title": "James expected to return for Norway quarter-final",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx2xxl6772no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +140,37 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Henderson expected to have surgery on injured wrist",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvgmmm5923yo?at_medium=RSS&at_campaign=rss",
+            "title": "The personal story of a dad who took his autistic son to the British Grand Prix",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c4g7glkj614o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "How England's epic night at the Azteca unfolded",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c9q225nn0dqo?at_medium=RSS&at_campaign=rss",
+            "title": "How England used five mini games to beat Mexico",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "PM intervened in row over Mexico-England kick-off time",
+            "link": "https://www.bbc.co.uk/news/articles/cjwgggp28dlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+            "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Amazon competitor Bookshop.org says Kobo e-reader support will happen this year after all",
+            "link": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+            "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
             "link": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
@@ -169,21 +184,6 @@
         {
             "title": "Reddit is using LLMs to solve a problem LLMs largely created",
             "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year",
-            "link": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "How to reserve and change your WhatsApp username",
-            "link": "https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-            "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
             "source": "TechCrunch"
         },
         {
