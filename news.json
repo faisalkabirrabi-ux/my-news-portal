@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পত্রিকা: 'নতুন পে স্কেল একবারেই বাস্তবায়ন করা হবে'",
+            "link": "https://www.bbc.com/bengali/articles/cvg77ewk258o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ডিজিটাল লেনদেনে বাংলা কিউআর ব্যবহারে গ্রাহকের খরচ কি বাড়তে পারে?",
+            "link": "https://www.bbc.com/bengali/articles/cvgjzdrdv2zo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশ পুলিশের ৩৩ কর্মকর্তা বাধ্যতামূলক অবসরে",
             "link": "https://www.bbc.co.uk/bengali/live/cy4e2xxkpedt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "ইউরোপে এস আলমসহ তিন অভিযুক্তের সম্পদ জব্দ, পাচারের টাকা দেশে ফিরবে কবে?",
             "link": "https://www.bbc.com/bengali/articles/c0lyekp55rno?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "কঠিন প্রতিপক্ষ ও ইতিহাসের মুখোমুখি ব্রাজিল-নরওয়ে এবং ইংল্যান্ড-মেক্সিকো",
-            "link": "https://www.bbc.com/bengali/articles/c8922vylgy1o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "রাশিয়ার সেন্ট পিটার্সবার্গে বড় তেল টার্মিনালে ইউক্রেনের হামলা",
-            "link": "https://www.bbc.com/bengali/articles/czde26p2vy8o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Venezuelan leader marks Independence Day with message of ‘no social unrest’",
-            "link": "https://www.aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest?traffic_source=rss",
+            "title": "Bellingham inspires ten-man England in 3-2 last-16 thriller against Mexico",
+            "link": "https://www.aljazeera.com/sports/2026/7/6/bellingham-inspires-ten-man-england-in-3-2-last-16-thriller-against-mexico?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How a son rescued his father from the rubble of Venezuela’s earthquakes",
-            "link": "https://www.aljazeera.com/news/longform/2026/7/5/how-a-son-rescued-his-father-from-the-rubble-of-venezuelas-earthquakes?traffic_source=rss",
+            "title": "OPEC+ countries say they will expand monthly oil production",
+            "link": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Haaland scores twice as Norway stun Brazil 2-1 in World Cup 2026 last 16",
-            "link": "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16?traffic_source=rss",
+            "title": "Sports stadium becomes home for victims of the Venezuela earthquakes",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/sports-stadium-becomes-home-for-victims-of-the-venezuela-earthquakes?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
-            "link": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss",
+            "title": "Ronaldo’s last World Cup? We will see, says Portugal star before Spain clash",
+            "link": "https://www.aljazeera.com/sports/2026/7/6/ronaldos-last-world-cup-we-will-see-says-portugal-star-before-spain-clash?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Turkiye gears up for its first NATO summit in 22 years",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss",
+            "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+            "link": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Albanian court frees protesters who rallied against Kushner-linked resort",
-            "link": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss",
+            "title": "Tuareg fighters claim to have shot down a Russian helicopter in Mali",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/aje-onl-nf_mali-rebels-claim-to-have-shot-down-russian-helicop-050726?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,18 +73,18 @@
             "source": "BBC World"
         },
         {
+            "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+            "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+            "link": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
             "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-            "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Australia probes mystery space balls that washed up on beach",
-            "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -94,6 +94,11 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Shanaka's four in four balls seals low-scoring tussle for Seattle Orcas",
+            "link": "https://www.cricinfo.com/ci/content/story/1544504.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Hope, Greaves stand tall after Jayasuriya double-strike",
             "link": "https://www.cricinfo.com/ci/content/story/1544448.html?ex_cid=OTC-RSS",
@@ -120,38 +125,33 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Vince, Weatherley hit fifties as Hampshire prove too strong for Kent",
-            "link": "https://www.cricinfo.com/ci/content/story/1544469.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Shelter-in-place order amid storm at Azteca before Mexico-England",
-            "link": "https://www.bbc.co.uk/sport/football/articles/clyeegldnmpo?at_medium=RSS&at_campaign=rss",
+            "title": "Who produced another iconic performance? England player ratings",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cp8r40y5r9eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Trump thanks Fifa after USA striker Balogun's ban suspended",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
+            "title": "The man England will fear most - Haaland fires Norway to history",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Haaland double fires Norway into World Cup quarter-finals",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cwy00v2xk05o?at_medium=RSS&at_campaign=rss",
+            "title": "Ageing Brazil need major surgery - but is Ancelotti the man to do it?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c20yywnqwl5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
+            "title": "Penalty? Red card? Why were they given against England?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq6115rj9ymo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Safety car decisive again in confusing end to chaotic British GP",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cd6eejgnpg8o?at_medium=RSS&at_campaign=rss",
+            "title": "Red card system in disarray over Trump, Fifa and Balogun decision",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Australia give improved England plenty to ponder one year out from Ashes",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c5yzz0yp629o?at_medium=RSS&at_campaign=rss",
+            "title": "'Nasty, nasty challenge' - Quansah shown red card",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cp8rrwk5624o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
