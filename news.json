@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বাংলাদেশের চার বিভাগের বিভিন্ন স্থানে বন্যার শঙ্কা",
+            "link": "https://www.bbc.co.uk/bengali/live/c4gyjzjd1pyt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "মার্কিন খেলোয়াড়কে লাল কার্ড দেখানোয় ট্রাম্পের হস্তক্ষেপ, ইউরোপিয়ানদের তোপের মুখে ফিফা",
             "link": "https://www.bbc.com/bengali/articles/cly95wg2ep4o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "আর্লিং হালান্ড সম্পর্কে যে ৫টি বিষয়  হয়তো আপনার অজানা",
+            "link": "https://www.bbc.com/bengali/articles/czdeml53vj6o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,47 +29,37 @@
             "title": "অক্টোবরে স্থানীয় সরকার নির্বাচনের প্রস্তুতি নিচ্ছে বাংলাদেশের নির্বাচন কমিশন",
             "link": "https://www.bbc.co.uk/bengali/live/c0jyyd34j7pt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পশ্চিমবঙ্গের বারুইপুরে কিশোরীকে ধর্ষণের বিষয়ে এখনও পর্যন্ত যা জানা যাচ্ছে",
-            "link": "https://www.bbc.com/bengali/articles/c5yzzjrz1p8o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "নরওয়ের কাছে হারের পর ব্রাজিল ক্যারিয়ার 'শেষ', বললেন নেইমার",
-            "link": "https://www.bbc.com/bengali/articles/c74yyvd4ljzo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Explosions heard in Syria’s Damascus during French President Macron’s visit",
-            "link": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
+            "title": "What does Trump want from his NATO allies?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/what-does-trump-want-from-his-nato-allies?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
+            "title": "Egypt coach makes impassioned plea for Palestine in pre-match conference",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/egypt-coach-makes-impassioned-plea-for-palestine-in-pre-match-conference?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
-            "link": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss",
+            "title": "The Responsibility to Protect doctrine can be resurrected",
+            "link": "https://www.aljazeera.com/opinions/2026/7/7/the-responsibility-to-protect-doctrine-can-be-resurrected?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
-            "link": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
+            "title": "Bangladesh landslides kill nine, including eight Rohingya in refugee camp",
+            "link": "https://www.aljazeera.com/news/2026/7/7/bangladesh-landslides-kill-nine-including-eight-rohingya-in-refugee-camp?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "China sentences former local official to death in $324m corruption case",
-            "link": "https://www.aljazeera.com/economy/2026/7/7/china-sentences-former-local-official-to-death-in-324m-corruption-case?traffic_source=rss",
+            "title": "Ukrainian drones hit Russian fuel tankers",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Palestine weekly: One thousand days of genocide in Gaza",
-            "link": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
+            "title": "What is the new Gaza administration as Hamas dissolves government?",
+            "link": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,13 +68,18 @@
             "source": "BBC World"
         },
         {
+            "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+            "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
             "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
-            "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+            "title": "Explosions injure 18 in Damascus during Macron's visit",
+            "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,17 +88,32 @@
             "source": "BBC World"
         },
         {
-            "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-            "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Trump confirms he asked Fifa to review Balogun ban",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+            "title": "Zimbabwean football star survives gun attack in South Africa",
+            "link": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Fatima Sana to skip Sri Lanka T20Is to play in women's Hundred",
+            "link": "https://www.cricinfo.com/ci/content/story/1544658.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Shapoor Zadran dies after prolonged illness",
+            "link": "https://www.cricinfo.com/ci/content/story/1544651.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "World Cup heroics put Mooney back on top of T20I batting table",
+            "link": "https://www.cricinfo.com/ci/content/story/1544654.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Why Sanju Samson was omitted from Zimbabwe T20I squad",
+            "link": "https://www.cricinfo.com/ci/content/story/1544653.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "'Dialling in on clear plans' the key to massive Hope-Greaves stand",
             "link": "https://www.cricinfo.com/ci/content/story/1544642.html?ex_cid=OTC-RSS",
@@ -105,24 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Potts holds nerve to seal Derbyshire tie and dent Lancashire hopes",
-            "link": "https://www.cricinfo.com/ci/content/story/1544628.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Falconer, Minto seal series win for England Under-19s",
-            "link": "https://www.cricinfo.com/ci/content/story/1544625.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Sanju Samson left out of India's T20I squad for Zimbabwe tour",
-            "link": "https://www.cricinfo.com/ci/content/story/1544584.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Nyamhuri and Ngarava stun Bangladesh by defending 141",
-            "link": "https://www.cricinfo.com/ci/content/story/1544558.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "The superstar double act that became England's Wonderwall",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c24yym25rgjo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "A shambolic end for the American dream - did Balogun saga play a part?",
@@ -135,27 +140,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go?at_medium=RSS&at_campaign=rss",
+            "title": "Former Afghanistan fast bowler Zadran dies aged 38",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cdx78nwxkjno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Messi v Salah: A World Cup meeting of two national icons",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "'Learn how to lose' - tempers flare in Wimbledon mixed doubles",
             "link": "https://www.bbc.co.uk/sport/tennis/videos/c4gyy151xzyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Why European backlash over Trump intervention won't worry Infantino",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Fery 'stands tall and takes advantage' to continue dream Wimbledon run",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c3wyyj54p18o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+            "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Netflix invented binge-watching. Now it may have outgrown it.",
             "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Every major tech layoff in 2026 that has name-checked AI",
-            "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Instacart Promo Code: $15 Off | July 2026",
-            "link": "https://www.wired.com/story/instacart-promo/code/",
+            "title": "The Best iPhone 17 Cases (2026): Our Picks After Testing 100+",
+            "link": "https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/",
             "source": "Wired"
         },
         {
-            "title": "Office Depot Coupons: Save With Promo Codes in July 2026",
-            "link": "https://www.wired.com/story/office-depot-promo-codes/",
+            "title": "Hisense UR9 RGB MiniLED: An Affordable TV in Its Class",
+            "link": "https://www.wired.com/review/hisense-ur9-rgb-miniled/",
             "source": "Wired"
         },
         {
-            "title": "Loop Earplugs Discount Codes: 40% Off",
-            "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
+            "title": "Best Indoor Garden Systems: I've Been Testing All Year (2026)",
+            "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
             "source": "Wired"
         },
         {
-            "title": "20% Off Sephora Promo Code | July 2026",
-            "link": "https://www.wired.com/story/sephora-promo-code/",
+            "title": "Pete Holmes Is Not Reading Your Email",
+            "link": "https://www.wired.com/story/pete-holmes-user-behavior/",
             "source": "Wired"
         },
         {
-            "title": "Nomad Goods Promo Codes: Get 25% Off in July 2026",
-            "link": "https://www.wired.com/story/nomad-discount-code/",
+            "title": "People Used to Control Machines. They Don’t Anymore",
+            "link": "https://www.wired.com/story/loss-of-physical-world-book-excerpt-the-small-stuff-ian-bogost/",
             "source": "Wired"
         },
         {
-            "title": "Mattress Firm Coupons: Save up to $600",
-            "link": "https://www.wired.com/story/mattress-firm-coupon/",
+            "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
+            "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
             "source": "Wired"
         }
     ]
