@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "'সতর্কতা' সত্ত্বেও গত ছয় মাসে ভারত-বাংলাদেশ সীমান্তে ১০ জন নিহত কেন?",
+            "link": "https://www.bbc.com/bengali/articles/c5yzrxd1170o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশের চার বিভাগের বিভিন্ন স্থানে বন্যার শঙ্কা",
             "link": "https://www.bbc.co.uk/bengali/live/c4gyjzjd1pyt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "বারবার কেন 'নিষেধাজ্ঞার' মুখে পাঞ্জাবে গুম-খুনের ঘটনা নিয়ে তৈরি সিনেমা 'সাতলুজ'?",
+            "link": "https://www.bbc.com/bengali/articles/c8e2nwwkgpgo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,51 +29,41 @@
             "title": "পত্রিকা: 'সরকারি চাকরিজীবীর বেতন ১০০% পর্যন্ত বাড়তে পারে'",
             "link": "https://www.bbc.com/bengali/articles/c8x2nljp1jpo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইরানের নতুন নেতৃত্ব কীভাবে আগের শাসকদের চেয়ে অনেক আলাদা",
-            "link": "https://www.bbc.com/bengali/articles/cz755n950gjo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "অক্টোবরে স্থানীয় সরকার নির্বাচনের প্রস্তুতি নিচ্ছে বাংলাদেশের নির্বাচন কমিশন",
-            "link": "https://www.bbc.co.uk/bengali/live/c0jyyd34j7pt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "What does Trump want from his NATO allies?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/what-does-trump-want-from-his-nato-allies?traffic_source=rss",
+            "title": "The World Cup is exposing the contradictions of national identity",
+            "link": "https://www.aljazeera.com/opinions/2026/7/7/the-world-cup-is-exposing-the-contradictions-of-national-identity?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Egypt coach makes impassioned plea for Palestine in pre-match conference",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/egypt-coach-makes-impassioned-plea-for-palestine-in-pre-match-conference?traffic_source=rss",
+            "title": "Mbappe slams racism by Paraguay’s Amarilla at World Cup: What we know",
+            "link": "https://www.aljazeera.com/news/2026/7/7/mbappe-slams-racism-by-paraguays-amarilla-at-world-cup-what-we-know?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "The Responsibility to Protect doctrine can be resurrected",
-            "link": "https://www.aljazeera.com/opinions/2026/7/7/the-responsibility-to-protect-doctrine-can-be-resurrected?traffic_source=rss",
+            "title": "Two mothers, each certain a viral Gaza prisoner photo shows her son",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/two-mothers-each-certain-a-viral-gaza-prisoner-photo-shows-her-son?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Bangladesh landslides kill nine, including eight Rohingya in refugee camp",
-            "link": "https://www.aljazeera.com/news/2026/7/7/bangladesh-landslides-kill-nine-including-eight-rohingya-in-refugee-camp?traffic_source=rss",
+            "title": "At least nine police officers killed in southwestern Pakistan attack",
+            "link": "https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ukrainian drones hit Russian fuel tankers",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss",
+            "title": "Displaced Gaza farmers turn to dirt near tents to grow crops",
+            "link": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "What is the new Gaza administration as Hamas dissolves government?",
-            "link": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+            "title": "LIVE: Argentina vs Egypt – FIFA World Cup 2026",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/7/7/argentina-vs-egypt-live-fifa-world-cup-2026?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+            "title": "Zelensky presses Nato for air defence systems after intense Russian strikes",
             "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "England players overlooked as Women's Hundred captains are named",
+            "link": "https://www.cricinfo.com/ci/content/story/1544670.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Fatima Sana to skip Sri Lanka T20Is to play in women's Hundred",
             "link": "https://www.cricinfo.com/ci/content/story/1544658.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,23 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Sri Lanka try to make a play after Greaves 180 and Hope 112",
-            "link": "https://www.cricinfo.com/ci/content/story/1544618.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "La Liga chief critical of 'complicit silence' surrounding Fifa",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c0ly51j7grxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "The superstar double act that became England's Wonderwall",
             "link": "https://www.bbc.co.uk/sport/football/articles/c24yym25rgjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "A shambolic end for the American dream - did Balogun saga play a part?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,8 +140,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Messi v Salah: A World Cup meeting of two national icons",
+            "title": "The different ways Salah and Messi are viewed by their people",
             "link": "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -156,6 +156,26 @@
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+            "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "This startup pits dealerships against each other to bid on your used car",
+            "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
+            "link": "https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+            "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+            "source": "TechCrunch"
+        },
         {
             "title": "The first American autonomous ground vehicles are fighting in Ukraine",
             "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
@@ -167,24 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "The ‘first’ AI-run ransomware attack still needed a human",
-            "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-            "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-            "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-            "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-            "source": "TechCrunch"
+            "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
+            "link": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
+            "source": "Wired"
         },
         {
             "title": "The Best iPhone 17 Cases (2026): Our Picks After Testing 100+",
@@ -204,11 +209,6 @@
         {
             "title": "Pete Holmes Is Not Reading Your Email",
             "link": "https://www.wired.com/story/pete-holmes-user-behavior/",
-            "source": "Wired"
-        },
-        {
-            "title": "People Used to Control Machines. They Don’t Anymore",
-            "link": "https://www.wired.com/story/loss-of-physical-world-book-excerpt-the-small-stuff-ian-bogost/",
             "source": "Wired"
         },
         {
