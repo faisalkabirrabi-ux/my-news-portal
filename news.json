@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পত্রিকা: 'সরকারি চাকরিতে ইনক্রিমেন্ট হার সমান থাকছে না'",
+            "link": "https://www.bbc.com/bengali/articles/c2dyk78e7dpo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "শেখ হাসিনা দেশে ফিরলে কী হবে?",
+            "link": "https://www.bbc.com/bengali/articles/c802nypj08mo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশের চার বিভাগের বিভিন্ন স্থানে বন্যার শঙ্কা, টানা বৃষ্টির পূর্বাভাস",
             "link": "https://www.bbc.co.uk/bengali/live/c4gyjzjd1pyt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "বারবার কেন 'নিষেধাজ্ঞার' মুখে পাঞ্জাবে গুম-খুনের ঘটনা নিয়ে তৈরি সিনেমা 'সাতলুজ'?",
             "link": "https://www.bbc.com/bengali/articles/c8e2nwwkgpgo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মার্কিন খেলোয়াড়কে লাল কার্ড দেখানোয় ট্রাম্পের হস্তক্ষেপ, ইউরোপিয়ানদের তোপের মুখে ফিফা",
-            "link": "https://www.bbc.com/bengali/articles/cly95wg2ep4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "আর্লিং হালান্ড সম্পর্কে যে ৫টি বিষয়  হয়তো আপনার অজানা",
-            "link": "https://www.bbc.com/bengali/articles/czdeml53vj6o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Egypt buoyed by praise for World Cup heroics despite controversial exit",
-            "link": "https://www.aljazeera.com/sports/2026/7/7/egypt-buoyed-by-praise-for-world-cup-heroics-despite-controversial-exit?traffic_source=rss",
+            "title": "US immigration officer shoots and kills man in Texas",
+            "link": "https://www.aljazeera.com/news/2026/7/8/us-immigration-officer-shoots-and-kills-man-in-texas?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Egypt were ‘cheated’ in World Cup loss to Argentina, coach Hassan says",
-            "link": "https://www.aljazeera.com/sports/2026/7/7/egypt-were-cheated-in-world-cup-loss-to-argentina-coach-hassan-says?traffic_source=rss",
+            "title": "Argentina fans hurl beer at Egypt supporters after final whistle",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_argentina-fans-hurl-beer-at-egypt-supporters-070726?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US says strikes launched as explosions heard in southern Iran",
-            "link": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss",
+            "title": "US strikes Iran despite promised pause for Khamenei funeral",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/us-strikes-iran-despite-promised-pause-for-khamenei-funeral?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
-            "link": "https://www.aljazeera.com/economy/2026/7/7/nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one?traffic_source=rss",
+            "title": "Unstable Manhattan skyscraper triggers collapse fears",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
+            "title": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
+            "link": "https://www.aljazeera.com/news/2026/7/8/how-the-us-iran-conflict-is-reshaping-africas-geopolitical-opportunities?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Pro-Palestine MEP Rima Hassan arrives at trial for ‘glorifying terrorism’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/pro-palestine-mep-rima-hassan-arrives-at-trial-for-glorifying?traffic_source=rss",
+            "title": "Marine Le Pen to run for French Presidency despite criminal conviction",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,12 +88,22 @@
             "source": "BBC World"
         },
         {
-            "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
+            "title": "Suspect ate Chick-fil-A and interacted with Charlie Kirk staff before shooting, court hears",
             "link": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "New Zealand confirm four players to hold casual contracts",
+            "link": "https://www.cricinfo.com/ci/content/story/1544812.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Vitel Lawes could make West Indies debut without professional game",
+            "link": "https://www.cricinfo.com/ci/content/story/1544810.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "CA confident Sheffield Shield injury subsitution rule right for international cricket",
             "link": "https://www.cricinfo.com/ci/content/story/1544649.html?ex_cid=OTC-RSS",
@@ -115,18 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "High-scoring draw gives West Indies rare series win",
-            "link": "https://www.cricinfo.com/ci/content/story/1544757.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Egypt fume at 'injustice' and make Messi favouritism claims after exit",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Archer, Tongue hand India their biggest T20I defeat",
-            "link": "https://www.cricinfo.com/ci/content/story/1544796.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'The moments I still play tennis for' - extraordinary Djokovic wins five-set epic",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/czx5q0kzrkro?at_medium=RSS&at_campaign=rss",
+            "title": "'It is not normal' - but extraordinary Djokovic defies odds once again",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8wev0p0wno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,18 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "The fury and heartbreak of Egypt's stunning World Cup collapse",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o?at_medium=RSS&at_campaign=rss",
+            "title": "Fulham appoint Arbeloa as Silva's successor",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cvgjnlj0d1go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "'How?!' - Gauff battles into first Wimbledon semi-final",
             "link": "https://www.bbc.co.uk/sport/tennis/articles/c0qyv12xyw5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Shades of Keane and Gerrard in Bellingham display - Rooney",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -162,7 +162,7 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Meta rolls out Muse, a new AI image generator",
+            "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
             "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
             "source": "TechCrunch"
         },
