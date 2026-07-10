@@ -33,7 +33,27 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Syria says cell behind ‘terrorist bombings’ in Damascus arrested",
+            "title": "Venezuela earthquakes toll rises to 3,889 as risk of disease grows",
+            "link": "https://www.aljazeera.com/news/2026/7/9/venezuela-earthquakes-toll-rises-to-3889-as-risk-of-disease-grows?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "New Mexico accuses US Justice Department of impeding Epstein investigation",
+            "link": "https://www.aljazeera.com/news/2026/7/9/new-mexico-accuses-us-justice-department-of-impeding-epstein-investigation?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Waiting for Moses: Africa’s sons in Russia’s war",
+            "link": "https://www.aljazeera.com/features/2026/7/9/waiting-for-moses-africas-sons-in-russias-war?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Mbappe and Dembele net as France beat Morocco to reach World Cup semifinal",
+            "link": "https://www.aljazeera.com/sports/2026/7/9/mbappe-and-dembele-net-as-france-beat-morocco-to-reach-world-cup-semifinal?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
             "link": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
             "source": "আল জাজিরা"
         },
@@ -43,38 +63,13 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump airport name change sparks backlash  in Florida",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/trump-airport-name-change-sparks-backlash-in-florida?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "NYT-led group asks court to sanction OpenAI in US copyright dispute",
-            "link": "https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US military denies involvement after explosions heard in Iran",
-            "link": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Mexico seeks prosecutions over migrant deaths in the US",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/mexico-seeks-prosecutions-over-migrant-deaths-in-the-us?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Tehran launches more strikes after second round of US attacks in southern Iran",
+            "title": "US and Iran trade attacks as Khamenei is buried",
             "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-            "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-            "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+            "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+            "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -88,12 +83,22 @@
             "source": "BBC World"
         },
         {
-            "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-            "link": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
+            "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+            "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
+            "link": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Melbourne Renegades BBL team leave Marvel Stadium after 15 years",
+            "link": "https://www.cricinfo.com/ci/content/story/1545059.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Brook targets England No.1 ranking after sealing series win",
             "link": "https://www.cricinfo.com/ci/content/story/1545058.html?ex_cid=OTC-RSS",
@@ -120,18 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'Historic' Lord's Test offers chance at redemption for India and England",
-            "link": "https://www.cricinfo.com/ci/content/story/1545007.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "I've changed my mind, we might actually be able to win this thing - Shearer",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cz6vz34yv82o?at_medium=RSS&at_campaign=rss",
+            "title": "Guehi a doubt for Norway game with hamstring injury",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "England seal first T20 series victory over India",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c23yxr99rdko?at_medium=RSS&at_campaign=rss",
+            "title": "To Wimbledon and back - Fery's voyage to Centre Court spotlight",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "France into semi-finals after comfortable win over Morocco",
+            "link": "https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,24 +145,29 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'Absolute perfection!' Mbappe fires France ahead against Morocco",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cwyemrl4dw8o?at_medium=RSS&at_campaign=rss",
+            "title": "England thrash India as Brook shines in Bristol to secure series win",
+            "link": "https://www.bbc.co.uk/sport/cricket/videos/cdx78w5lwveo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Quansah banned for two games after Mexico red card",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cjdgvrnn5n3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Norway's Haaland says pressure is all on England",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cj3gd8rg628o?at_medium=RSS&at_campaign=rss",
+            "title": "I've changed my mind, we might actually be able to win this thing - Shearer",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cz6vz34yv82o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "An AI agent startup just let its agent run its $100 million fundraise",
+            "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+            "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "OpenAI launches its new family of models with GPT-5.6",
+            "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "An AI agent startup just let its agent run its $100M fundraise",
             "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
             "source": "TechCrunch"
         },
@@ -177,14 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-            "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
-            "link": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
-            "source": "TechCrunch"
+            "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+            "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+            "source": "Wired"
         },
         {
             "title": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
@@ -209,11 +214,6 @@
         {
             "title": "A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They’re Going to Anyway",
             "link": "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
-            "source": "Wired"
-        },
-        {
-            "title": "Slate’s Gray $25,000 Truck Just Got a Crayola Makeover",
-            "link": "https://www.wired.com/story/slates-gray-dollar25000-truck-just-got-a-crayola-makeover/",
             "source": "Wired"
         }
     ]
