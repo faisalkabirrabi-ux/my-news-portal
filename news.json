@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "উগ্রবাদী কর্মকাণ্ডে অভিযুক্ত 'ফাতাহ কমব্যাট সিস্টেম' সম্পর্কে কী জানা যাচ্ছে?",
+            "link": "https://www.bbc.com/bengali/articles/cm2rg6418d6o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "যুক্তরাষ্ট্র-ইরান পাল্টাপাল্টি হামলার মধ্যেই খামেনির দাফন সম্পন্ন",
             "link": "https://www.bbc.com/bengali/articles/cgmdrdwxmlxo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,52 +29,47 @@
             "title": "বৃষ্টি-পাহাড়ধসে বিপর্যস্ত পার্বত্য অঞ্চল, সাজেকে আটকে আছে কয়েকশ পর্যটক",
             "link": "https://www.bbc.com/bengali/articles/ckg7vde760yo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "আর্জেন্টিনাকে কি বিশ্বকাপে বিশেষ সুবিধা দিচ্ছে ফিফা?",
-            "link": "https://www.bbc.com/bengali/articles/cj0g6z8mj58o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Venezuela’s turn to Israel is about survival, not conviction",
-            "link": "https://www.aljazeera.com/opinions/2026/7/10/venezuelas-turn-to-israel-is-about-survival-not-conviction?traffic_source=rss",
+            "title": "Bodies found in cars as deadly Spain wildfire kills at least 12",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/bodies-found-in-cars-as-deadly-spain-wildfire-kills-at-least-12?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Norway change World Cup team hotel in Miami days before England showdown",
-            "link": "https://www.aljazeera.com/sports/2026/7/10/norway-change-world-cup-team-hotel-in-miami-days-before-england-showdown?traffic_source=rss",
+            "title": "Administration without sovereignty will not free Palestine",
+            "link": "https://www.aljazeera.com/opinions/2026/7/10/administration-without-sovereignty-will-not-free-palestine?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Which records has France’s Kylian Mbappe broken at FIFA World Cup 2026?",
-            "link": "https://www.aljazeera.com/sports/2026/7/10/which-records-has-frances-kylian-mbappe-broken-at-fifa-world-cup-2026?traffic_source=rss",
+            "title": "Bayeux Tapestry smuggled into Britain for first visit in 1,000 years",
+            "link": "https://www.aljazeera.com/news/2026/7/10/bayeux-tapestry-smuggled-into-britain-for-first-visit-in-1000-years?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Paris celebrates as France secures World Cup semi-final spot",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/paris-celebrates-as-france-secures-world-cup-semi-final-spot?traffic_source=rss",
+            "title": "England vs Norway: All to know ahead of FIFA World Cup quarterfinal",
+            "link": "https://www.aljazeera.com/sports/2026/7/10/england-vs-norway-all-to-know-ahead-of-fifa-world-cup-quarterfinal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Zelenskyy urges urgent efforts in Ukraine to start Patriot production",
-            "link": "https://www.aljazeera.com/news/2026/7/10/zelenskyy-urges-urgent-efforts-in-ukraine-to-start-patriot-production?traffic_source=rss",
+            "title": "Wildfires in southern Spain kill at least 12",
+            "link": "https://www.aljazeera.com/news/2026/7/10/wildfires-in-southern-spain-kill-at-least-12?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran says strikes hit southern areas, but US denies it carried attacks",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/iran-says-strikes-hit-southern-areas-but-us-denies-it-carried-attacks?traffic_source=rss",
+            "title": "The US is building a new pressure architecture against Iran",
+            "link": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US and Iran trade attacks as Khamenei is buried",
-            "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+            "title": "At least 11 dead and 19 missing in wildfire in southern Spain",
+            "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Twelve die in wildfire in Spain as heatwave continues in southern Europe",
-            "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+            "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+            "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Tromp, Fletcher and Russell lift LAKR to No. 3",
+            "link": "https://www.cricinfo.com/ci/content/story/1545075.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Mustafizur Rahman ruled out for four weeks with hamstring and knee injuries",
             "link": "https://www.cricinfo.com/ci/content/story/1545065.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -110,28 +115,23 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Ashwin ruled out of rest of MLC 2026 with knee injury",
+            "link": "https://www.cricinfo.com/ci/content/story/1545008.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Melbourne Renegades BBL team leave Marvel Stadium after 15 years",
             "link": "https://www.cricinfo.com/ci/content/story/1545059.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Brook targets England No.1 ranking after sealing series win",
-            "link": "https://www.cricinfo.com/ci/content/story/1545058.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Brook and Salt blow India away as England romp to series win",
-            "link": "https://www.cricinfo.com/ci/content/story/1545054.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "France cruise into semi-finals - could this be the best Les Bleus ever?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gy74978myo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Guehi a doubt for Norway game and Rice ill with bug",
             "link": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "France cruise into semi-finals - could this be the best Les Bleus ever?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4gy74978myo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,18 +140,18 @@
             "source": "BBC Sports"
         },
         {
+            "title": "How De la Fuente's Spain are closing in on greatness",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwyez8r7ve8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Born in Leeds, crafted in Norway - Haaland's worlds about to collide",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "France into semi-finals after comfortable win over Morocco",
             "link": "https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'The whole match was the tie-break' - how Muchova-Gauff semi-final unfolded",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c8j2dwr07p0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "England thrash India as Brook shines in Bristol to secure series win",
-            "link": "https://www.bbc.co.uk/sport/cricket/videos/cdx78w5lwveo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo",
-            "link": "https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/",
+            "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+            "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
             "source": "Wired"
         },
         {
-            "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-            "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+            "title": "Ulta Promo Codes: Up to 50% Off in July 2026",
+            "link": "https://www.wired.com/story/ulta-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
-            "link": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/",
+            "title": "Chewy Promo Codes: $20 Off July 2026",
+            "link": "https://www.wired.com/story/chewy-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Come to Our WIRED@NIGHT02 Film Screening!",
-            "link": "https://www.wired.com/story/come-to-wirednight02-film-screening/",
+            "title": "Dell Coupon Codes: 20% Off for July 2026",
+            "link": "https://www.wired.com/story/dell-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-            "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+            "title": "Uber Eats Promo Codes: $15 Off│July 2026",
+            "link": "https://www.wired.com/story/uber-eats-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "The 1X Neo Robot Has Freaky Fast Fingers",
-            "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+            "title": "Booking.com Promo Codes: 20% Off | July 2026",
+            "link": "https://www.wired.com/story/booking-com-promo-code/",
             "source": "Wired"
         }
     ]
