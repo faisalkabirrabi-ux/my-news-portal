@@ -33,12 +33,27 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Indian tourists killed after speedboat capsizes in Vietnam",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
+            "link": "https://www.aljazeera.com/news/2026/7/11/whistleblower-claims-kennedy-center-rushed-renovations-to-please-trump?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "FIFA to sell pieces of World Cup final stadium pitch, could earn millions",
+            "link": "https://www.aljazeera.com/sports/2026/7/11/fifa-to-sell-pieces-of-world-cup-final-stadium-pitch-could-earn-millions?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
             "link": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal",
+            "title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026",
             "link": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss",
             "source": "আল জাজিরা"
         },
@@ -48,27 +63,12 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "What’s behind Pakistan’s mass deportation of Afghans?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
-            "link": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
-            "link": "https://www.aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "China's second typhoon in a week makes landfall",
             "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Iran supreme leader calls for revenge for father's killing",
+            "title": "Iran says Strait of Hormuz closed 'until further notice'",
             "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -125,18 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "'He has dragged them through all tournament' - England player ratings",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "BBC to show England's World Cup semi-final",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Noskova, an astonishing Wimbledon fightback - and a kiss to the sky",
             "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg85p1dp12o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Fifa official refuses to answer BBC's ban questions",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4gy1j87e1yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Former England captain Knight announces retirement",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cwy090krk0go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "England too good for India as Buttler hits 131",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cy73ljle6dro?at_medium=RSS&at_campaign=rss",
+            "title": "Fifa official refuses to answer BBC's Balogun ban questions",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gy1j87e1yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Eleven-try England thrash sorry Fiji to end losing run",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/crely1qlj47o?at_medium=RSS&at_campaign=rss",
+            "title": "Former England captain Knight announces retirement",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cwy090krk0go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
