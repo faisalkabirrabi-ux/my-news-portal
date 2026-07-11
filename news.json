@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বাইশ বছরেই বিধবা রাখি, চোখ হারানো মোবিন আর মায়ের ওড়না মাথায় গুলিবিদ্ধ শ্রাবণের গল্প",
+            "link": "https://www.bbc.com/bengali/articles/cy04zpl29eno?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'মন্ত্রিসভায় রদবদলের সম্ভাবনা আগস্টে'",
+            "link": "https://www.bbc.com/bengali/articles/cewqednje5xo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "শেখ হাসিনার 'দেশে ফেরার' বক্তব্য নিয়ে যা বলছে বিএনপি, জামায়াত ও এনসিপি",
             "link": "https://www.bbc.com/bengali/articles/cg4w7q9kk4po?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,19 +29,29 @@
             "title": "উগ্রবাদী কর্মকাণ্ডে অভিযুক্ত 'ফাতাহ কমব্যাট সিস্টেম' সম্পর্কে কী জানা যাচ্ছে?",
             "link": "https://www.bbc.com/bengali/articles/cm2rg6418d6o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "যুক্তরাষ্ট্র-ইরান পাল্টাপাল্টি হামলার মধ্যেই খামেনির দাফন সম্পন্ন",
-            "link": "https://www.bbc.com/bengali/articles/cgmdrdwxmlxo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মুঘল সম্রাট আওরঙ্গজেবের শাসনামল নিয়ে প্রচলিত ভাষ্য বদলে দিতে পারে তিনশ বছর আগের নথির যে সংগ্রহ",
-            "link": "https://www.bbc.com/bengali/articles/cq511638pl1o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Yamal does not mind lack of goals if Spain win World Cup 2026",
+            "link": "https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Why the new US housing bill won’t fix the crisis",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Nicaragua strips lawyers of certification in latest crackdown on dissent",
             "link": "https://www.aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent?traffic_source=rss",
@@ -43,24 +63,9 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-            "link": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Colombia’s Jaminton Campaz receives death threats after World Cup exit",
-            "link": "https://www.aljazeera.com/sports/2026/7/10/colombias-jaminton-campaz-receives-death-threats-after-world-cup-exit?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Under Lula, Amazon deforestation falls to lowest level in a decade",
-            "link": "https://www.aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Canada’s Bill C-36 tackles AI privacy. Is it enough?",
-            "link": "https://www.aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+            "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
@@ -85,11 +90,6 @@
         {
             "title": "Zulu king expresses regret after video captures tirade against his wife",
             "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-            "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -157,6 +157,16 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+            "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+            "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Meta removes controversial AI feature on Instagram after backlash",
             "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
             "source": "TechCrunch"
@@ -177,14 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-            "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-            "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
-            "source": "TechCrunch"
+            "title": "OpenAI’s Head of Safety Is Leaving the Company",
+            "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+            "source": "Wired"
         },
         {
             "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
@@ -209,11 +214,6 @@
         {
             "title": "Hiboy P6 Fat Tire Electric Bike Review: Smooth Sailing",
             "link": "https://www.wired.com/review/hiboy-p6-fat-tire-electric-bike/",
-            "source": "Wired"
-        },
-        {
-            "title": "Meta’s Pursuit of the 'Careless People' Author Is Relentless and Self-Defeating",
-            "link": "https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/",
             "source": "Wired"
         }
     ]
