@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বিরল কোরাল রেড কুকরি বা কমলাবতী সাপের সংখ্যা বাংলাদেশে বাড়লো কীভাবে?",
+            "link": "https://www.bbc.com/bengali/articles/c0qyx7w3dlzo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ইরানের কাছ থেকে হরমুজ প্রণালিতে হামলা বন্ধের অঙ্গীকার চায় যুক্তরাষ্ট্র",
             "link": "https://www.bbc.com/bengali/articles/cm2r6lrl1y3o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "পত্রিকা: 'মন্ত্রিসভায় রদবদলের সম্ভাবনা আগস্টে'",
             "link": "https://www.bbc.com/bengali/articles/cewqednje5xo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ডিসেম্বরে আওয়ামী লীগের নেতাদেরসহ বাংলাদেশে ফিরে আত্মসমর্পণ করতে চান শেখ হাসিনা: রয়টার্স",
-            "link": "https://www.bbc.com/bengali/articles/czx5zvjlejdo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Venezuelan doctors convert restaurant into a clinic after earthquake",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/venezuelan-doctors-convert-restaurant-into-a-clinic-after-earthquake?traffic_source=rss",
+            "title": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
+            "link": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Meta backtracks on AI-image feature for Instagram due to privacy backlash",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backlash?traffic_source=rss",
+            "title": "Watch World Cup: Merino, Spain beats Belgium, move on to semifinals",
+            "link": "https://www.aljazeera.com/video/2026/7/11/video-world-cup-2026-highlights?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Scaloni not surprised by Messi’s World Cup form at 39 – ‘He’s a machine’",
-            "link": "https://www.aljazeera.com/sports/2026/7/11/argentina-lionel-messi-form-goals-penalty-scaloni-switzerland-world-cup?traffic_source=rss",
+            "title": "Russian overnight strikes on Kyiv injure ten",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Are the US and Iran at war again?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
+            "title": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
+            "link": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘We are the lost generation of Sudan’: Students in exile",
-            "link": "https://www.aljazeera.com/news/2026/7/11/we-are-the-lost-generation-of-sudan-students-in-exile?traffic_source=rss",
+            "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+            "link": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Conor McGregor weighs in at 170.5 pounds for UFC 329 bout vs Max Holloway",
-            "link": "https://www.aljazeera.com/sports/2026/7/11/conor-mcgregor-max-holloway-weighs-in-at-170-5-pounds-ufc-329?traffic_source=rss",
+            "title": "Wembanyama signs contract with Spurs for five years, $252m: Report",
+            "link": "https://www.aljazeera.com/sports/2026/7/11/wembanyama-signs-contract-with-spurs-for-five-years-252m-report?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,7 +83,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Forced to wait his turn, Marine Le Pen's deputy returns to the shadows",
+            "title": "The photo that shows who's really on top in Le Pen's party",
             "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -94,6 +94,16 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Bangladesh bowl; Raza leads Zimbabwe in Ngarava's absence",
+            "link": "https://www.cricinfo.com/ci/content/story/1545176.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Holder, Russell bowl LAKR to thrilling win over Unicorns",
+            "link": "https://www.cricinfo.com/ci/content/story/1545172.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Santner backs Duffy as New Zealand's 'front man' for West Indies ODIs",
             "link": "https://www.cricinfo.com/ci/content/story/1545169.html?ex_cid=OTC-RSS",
@@ -115,14 +125,19 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Wong refuses to allow England to fester in short Lord's turnaround",
-            "link": "https://www.cricinfo.com/ci/content/story/1545156.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Is it time to give record-breaker Pickford the credit he deserves?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "History takes centre stage as Mandhana, Harmanpreet fifties steer India",
-            "link": "https://www.cricinfo.com/ci/content/story/1545139.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Not 'something in the beer' - why Czechs are dominating Wimbledon",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cy5v6439e37o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "England set for open-air Miami heat - but do Norway hold the edge?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
@@ -130,28 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Lammens' error spells end for Belgium's golden generation",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4gy107g38eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Is it time to give record-breaker Pickford the credit he deserves?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "England's Guehi, Rice & James all train before Norway game",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss",
+            "title": "Haaland has advantage over Man City team-mates",
+            "link": "https://www.bbc.co.uk/sport/videos/cy06rd1z816o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Fery's Wimbledon run ended by Zverev in semi-finals",
             "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "All the goals from England's 2026 World Cup campaign so far",
-            "link": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
