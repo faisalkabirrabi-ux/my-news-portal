@@ -33,6 +33,11 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Algeria and Mali restore diplomatic ties following yearlong rift",
+            "link": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
             "link": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -58,11 +63,6 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Sheinbaum takes on cartels, Trump and the legacy of 1968",
-            "link": "https://www.aljazeera.com/features/longform/2026/7/11/sheinbaum-takes-on-cartels-trump-and-the-legacy-of-1968?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
             "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -70,6 +70,11 @@
         {
             "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
             "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+            "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,14 +91,14 @@
             "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
             "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
-            "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Shoriful four-for, Tanzid 94 guide Bangladesh to consolation win",
+            "link": "https://www.cricinfo.com/ci/content/story/1545190.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Start of fifth T20I delayed by 30 minutes with India stuck in traffic",
             "link": "https://www.cricinfo.com/ci/content/story/1545205.html?ex_cid=OTC-RSS",
@@ -102,11 +107,6 @@
         {
             "title": "Pakistan fielding coach Shane McDermott quits",
             "link": "https://www.cricinfo.com/ci/content/story/1545217.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Shoriful, Taskin keep Zimbabwe down to 199",
-            "link": "https://www.cricinfo.com/ci/content/story/1545190.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Former Chelsea and Leeds owner Bates dies aged 94",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c3ry513ljq3o?at_medium=RSS&at_campaign=rss",
+            "title": "GB's Patten wins second Wimbledon doubles title with Heliovaara",
+            "link": "https://www.bbc.co.uk/sport/tennis/videos/cp36gl466l7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
