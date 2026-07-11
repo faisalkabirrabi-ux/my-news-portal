@@ -6,6 +6,11 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "ভারী বৃষ্টি আর বন্যা পরিস্থিতি কোন দিকে যাচ্ছে",
+            "link": "https://www.bbc.com/bengali/articles/cn8qw1jv808o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ইরানের কাছ থেকে হরমুজ প্রণালিতে হামলা বন্ধের অঙ্গীকার চায় যুক্তরাষ্ট্র",
             "link": "https://www.bbc.com/bengali/articles/cm2r6lrl1y3o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,24 @@
             "title": "যুক্তরাষ্ট্রের ৩১ অঙ্গরাজ্যে 'মারাত্মক ডায়রিয়ার' সৃষ্টিকারী পরজীবীর প্রাদুর্ভাব নিয়ে কী জানা যাচ্ছে",
             "link": "https://www.bbc.com/bengali/articles/c9v2zrx3glno?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'মন্ত্রিসভায় রদবদলের সম্ভাবনা আগস্টে'",
-            "link": "https://www.bbc.com/bengali/articles/cewqednje5xo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
+            "link": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Cuba suffers second nationwide blackout in five days",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Russian missile attacks wound 11 in Kyiv",
+            "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
             "link": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss",
@@ -45,21 +60,6 @@
         {
             "title": "Russian overnight strikes on Kyiv injure ten",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
-            "link": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
-            "link": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Wembanyama signs contract with Spurs for five years, $252m: Report",
-            "link": "https://www.aljazeera.com/sports/2026/7/11/wembanyama-signs-contract-with-spurs-for-five-years-252m-report?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,12 +88,17 @@
             "source": "BBC World"
         },
         {
-            "title": "Meta pulls new AI image feature after days of backlash",
-            "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+            "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+            "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "West Indies desperate for ODI upswing with World Cup qualification on the line",
+            "link": "https://www.cricinfo.com/ci/content/story/1545177.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Bangladesh bowl; Raza leads Zimbabwe in Ngarava's absence",
             "link": "https://www.cricinfo.com/ci/content/story/1545176.html?ex_cid=OTC-RSS",
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Livingstone, Stanley keep Yorkshire waiting on Blast qualification",
-            "link": "https://www.cricinfo.com/ci/content/story/1545152.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Is it time to give record-breaker Pickford the credit he deserves?",
             "link": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -140,8 +140,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
+            "title": "Jordan breaks All Blacks try record in win over Italy",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c24y0lpj227o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Fery's Wimbledon run ended by Zverev in semi-finals",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&at_campaign=rss",
+            "title": "Who am I? Guess World Cup star No 34",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cd0pmv2mr3jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,26 @@
             "source": "TechCrunch"
         },
         {
+            "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
+            "link": "https://www.wired.com/story/gourmet-dog-food/",
+            "source": "Wired"
+        },
+        {
+            "title": "Best Hiking Boots (2026): Walking Shoes, Trails, Backpacking",
+            "link": "https://www.wired.com/gallery/best-hiking-boots/",
+            "source": "Wired"
+        },
+        {
+            "title": "China’s Tianwen-2 Space Probe Has Rendezvoused With Earth’s Quasi-Moon",
+            "link": "https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/",
+            "source": "Wired"
+        },
+        {
+            "title": "El Niño Is Already Wreaking Havoc on Pacific Fisheries",
+            "link": "https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/",
+            "source": "Wired"
+        },
+        {
             "title": "Exclusive: How Jay-Z Pulled Off a Surprise-Filled Show During New York’s Wildest Summer",
             "link": "https://www.wired.com/story/exclusive-how-jay-z-pulled-off-a-surprise-filled-show-during-new-yorks-wildest-summer/",
             "source": "Wired"
@@ -194,26 +214,6 @@
         {
             "title": "OpenAI’s Head of Safety Is Leaving the Company",
             "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-            "source": "Wired"
-        },
-        {
-            "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
-            "link": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/",
-            "source": "Wired"
-        },
-        {
-            "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-            "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-            "source": "Wired"
-        },
-        {
-            "title": "Meet the Battery Startup Taking on China’s Giants",
-            "link": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
-            "source": "Wired"
-        },
-        {
-            "title": "What Watching a Soccer Final Does to Your Body, According to Science",
-            "link": "https://www.wired.com/story/what-watching-soccer-final-does-to-your-body/",
             "source": "Wired"
         }
     ]
