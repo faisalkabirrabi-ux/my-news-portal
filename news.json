@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "What is going on in Yemen?",
+            "link": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "China prepares as Typhoon Bavi leaves Taiwan",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/china-prepares-as-typhoon-bavi-leaves-taiwan?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Zimbabweans return home amid xenophobic violence in South Africa",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zimbabweans-return-home-amid-xenophobic-violence-in-south-africa?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Sheinbaum takes on cartels, Trump and the legacy of 1968",
+            "link": "https://www.aljazeera.com/features/longform/2026/7/11/sheinbaum-takes-on-cartels-trump-and-the-legacy-of-1968?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Speedboat accident in southern Vietnam kills 15 Indian tourists",
             "link": "https://www.aljazeera.com/news/2026/7/11/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
             "link": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "World cup wrap day 30",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/world-cup-wrap-day-30?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
-            "link": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Cuba suffers second nationwide blackout in five days",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Russian missile attacks wound 11 in Kyiv",
-            "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,23 +73,23 @@
             "source": "BBC World"
         },
         {
+            "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+            "link": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "China braced for second typhoon in a week as Bavi approaches landfall",
+            "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+            "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Meet the crypto billionaires building a world where money buys you a vote",
             "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "The photo that shows who's really on top in Le Pen's party",
-            "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-            "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
-            "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -125,23 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "England set for open-air Miami heat - but do Norway hold the edge?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Hey Jude: Bellingham's return to England indispensability",
             "link": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Should Argentina take Messi off penalties?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'They're in trouble' - England's dreadful start to day two",
-            "link": "https://www.bbc.co.uk/sport/cricket/videos/ckg0k9gx0rwo?at_medium=RSS&at_campaign=rss",
+            "title": "England set for open-air Miami heat - but do Norway hold the edge?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +140,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Six-try France fight back to beat Wallabies",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cz6v5nevpvyo?at_medium=RSS&at_campaign=rss",
+            "title": "Ireland hold off spirited Japan for bonus-point win",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwy0ql5p3v1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Hewett & Reid win seventh Wimbledon doubles title",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c0qyk5wxk5eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Should Argentina take Messi off penalties?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
