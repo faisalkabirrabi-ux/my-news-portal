@@ -6,13 +6,13 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "ভারী বৃষ্টি আর বন্যা পরিস্থিতি কোন দিকে যাচ্ছে",
-            "link": "https://www.bbc.com/bengali/articles/cn8qw1jv808o?at_medium=RSS&at_campaign=rss",
+            "title": "ট্রাম্পকে 'হত্যার পরিকল্পনা' ইস্যুতে যুক্তরাষ্ট্রের হুমকির পর মোজতবা খামেনির 'প্রতিশোধের' বার্তা",
+            "link": "https://www.bbc.com/bengali/articles/ckg4l8npx4go?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "আর্লিং হালান্ডের দল নরওয়ে ফুটবলের 'সোনালি প্রজন্ম' গড়ে তুললো কীভাবে?",
-            "link": "https://www.bbc.com/bengali/articles/cj6gj9pg1z8o?at_medium=RSS&at_campaign=rss",
+            "title": "ভারী বৃষ্টি আর বন্যা পরিস্থিতি কোন দিকে যাচ্ছে",
+            "link": "https://www.bbc.com/bengali/articles/cn8qw1jv808o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -26,12 +26,22 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "ইরানের কাছ থেকে হরমুজ প্রণালিতে হামলা বন্ধের অঙ্গীকার চায় যুক্তরাষ্ট্র",
-            "link": "https://www.bbc.com/bengali/articles/cm2r6lrl1y3o?at_medium=RSS&at_campaign=rss",
+            "title": "আর্লিং হালান্ডের দল নরওয়ে ফুটবলের 'সোনালি প্রজন্ম' গড়ে তুললো কীভাবে?",
+            "link": "https://www.bbc.com/bengali/articles/cj6gj9pg1z8o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
+            "link": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+            "link": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "What is going on in Yemen?",
             "link": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
@@ -50,16 +60,6 @@
         {
             "title": "Sheinbaum takes on cartels, Trump and the legacy of 1968",
             "link": "https://www.aljazeera.com/features/longform/2026/7/11/sheinbaum-takes-on-cartels-trump-and-the-legacy-of-1968?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Speedboat accident in southern Vietnam kills 15 Indian tourists",
-            "link": "https://www.aljazeera.com/news/2026/7/11/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
-            "link": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,19 +83,29 @@
             "source": "BBC World"
         },
         {
-            "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
-            "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
+            "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+            "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Meet the crypto billionaires building a world where money buys you a vote",
-            "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+            "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+            "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Madhevere and Evans fifties take Zimbabwe to 199",
+            "title": "Start of fifth T20I delayed by 30 minutes with India stuck in traffic",
+            "link": "https://www.cricinfo.com/ci/content/story/1545205.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Pakistan fielding coach Shane McDermott quits",
+            "link": "https://www.cricinfo.com/ci/content/story/1545217.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Shoriful, Taskin keep Zimbabwe down to 199",
             "link": "https://www.cricinfo.com/ci/content/story/1545190.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
@@ -115,18 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Santner backs Duffy as New Zealand's 'front man' for West Indies ODIs",
-            "link": "https://www.cricinfo.com/ci/content/story/1545169.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Tajinder, Pollard lead MI New York to come-from-behind win over Seattle Orcas",
-            "link": "https://www.cricinfo.com/ci/content/story/1545167.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Hey Jude: Bellingham's return to England indispensability",
             "link": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Klopp agrees to replace Nagelsmann as Germany coach",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ced44061g8qo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +140,27 @@
             "source": "BBC Sports"
         },
         {
+            "title": "South Africa World Cup midfielder Adams dies aged 25",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Not 'something in the beer' - why Czechs are dominating Wimbledon",
             "link": "https://www.bbc.co.uk/sport/tennis/articles/cy5v6439e37o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Ireland hold off spirited Japan for bonus-point win",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwy0ql5p3v1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Hewett & Reid win seventh Wimbledon doubles title",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c0qyk5wxk5eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Should Argentina take Messi off penalties?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno?at_medium=RSS&at_campaign=rss",
+            "title": "Former Chelsea and Leeds owner Bates dies aged 94",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c3ry513ljq3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+            "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+            "source": "TechCrunch"
+        },
         {
             "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
             "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
@@ -179,11 +184,6 @@
         {
             "title": "Apple sues OpenAI over alleged trade secret theft",
             "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-            "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
             "source": "TechCrunch"
         },
         {
