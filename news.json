@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
+            "link": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Thousands gather to bid farewell to Qatar’s Father Emir Sheikh Hamad",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/thousands-gather-to-bid-farewell-to-qatars-father-emir-sheikh-hamad?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Who will replace Trump ally Lindsey Graham in the US Senate?",
             "link": "https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -43,23 +53,13 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad in Doha",
+            "title": "Qatar’s Father Emir Sheikh Hamad bin ⁠Khalifa Al Thani laid to rest in Doha",
             "link": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
             "title": "UK Christians protest for Church of England to recognise genocide in Gaza",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-christians-protest-for-church-of-england-to-recognise-genocide-in-gaza?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Sheikh Hamad will be fondly remembered across the Gulf’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/sheikh-hamad-will-be-fondly-remembered-across-the?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,38 +95,43 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Gould backs Key to continue as England MD despite McCullum sacking",
+            "title": "Lyth, Tye keep Yorkshire rolling into quarter-finals",
+            "link": "https://www.cricinfo.com/ci/content/story/1545389.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Yastika century, seamers put India on the brink of historic win at Lord's",
+            "link": "https://www.cricinfo.com/ci/content/story/1545386.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Jennings steers Lancashire chase to keep knockout dreams alive",
+            "link": "https://www.cricinfo.com/ci/content/story/1545388.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Van Biljon, Rowles keep South Africa U19s in driving seat",
+            "link": "https://www.cricinfo.com/ci/content/story/1545385.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Liberty Heap helps Essex pile them up for season-ending victory",
+            "link": "https://www.cricinfo.com/ci/content/story/1545356.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Gould backs Key to continue as England MD for 'long term' despite McCullum sacking",
             "link": "https://www.cricinfo.com/ci/content/story/1545381.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Matthews, Taylor centuries seal dominant series win for West Indies",
-            "link": "https://www.cricinfo.com/ci/content/story/1545379.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Brendon McCullum successor could job-share with IPL",
-            "link": "https://www.cricinfo.com/ci/content/story/1545378.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Smith, Hain turn the tables on Northants with unbeaten century stand",
-            "link": "https://www.cricinfo.com/ci/content/story/1545380.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Cartwright, Mayes light the blaze as Hampshire edge high-scoring thriller",
-            "link": "https://www.cricinfo.com/ci/content/story/1545376.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Javed four, Donald 91 gives Madsen winning send-off",
-            "link": "https://www.cricinfo.com/ci/content/story/1545377.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'Not happy with the performance' - so why do England keep winning?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
+            "title": "From the ride to the rubble - how McCullum lost England Test job",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cqx15e27v3eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,13 +140,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Rice in bed for nearly three days before Norway game - Tuchel",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "England want new coach before Pakistan - who could it be?",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c0ly317wg32o?at_medium=RSS&at_campaign=rss",
+            "title": "Tuchel unhappy with England display - so why do they keep winning?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "The highs and lows of Bazball",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c4grpj0lz7ro?at_medium=RSS&at_campaign=rss",
+            "title": "England want new coach before Pakistan - who could it be?",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c0ly317wg32o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
