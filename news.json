@@ -33,34 +33,44 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "UK to list Iran’s IRGC as ‘terror’ threat",
-            "link": "https://www.aljazeera.com/news/2026/7/13/uk-to-list-irans-irgc-as-terror-threat?traffic_source=rss",
+            "title": "Spanish PM visits site of deadly wildfire",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/spanish-pm-visits-site-of-deadly-wildfire?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How Lyhanna’s murder case is shedding light on child abuse in France",
-            "link": "https://www.aljazeera.com/features/2026/7/13/how-lyhannas-murder-case-is-shedding-light-on-child-abuse-in-france?traffic_source=rss",
+            "title": "US judge voids Trump’s IRS settlement, alleges self-dealing",
+            "link": "https://www.aljazeera.com/news/2026/7/13/us-judge-voids-trumps-irs-settlement-alleges-self-dealing?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Staff at DR Congo Ebola centre strike as virus continues spreading",
-            "link": "https://www.aljazeera.com/news/2026/7/13/staff-at-congo-ebola-centre-strike-as-virus-continues-spreading?traffic_source=rss",
+            "title": "UK designates IRGC as terrorist organisation",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/uk-designates-irgc-as-terrorist-organisation?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Bangkok pub fire kills 27, wounds dozens: What we know",
-            "link": "https://www.aljazeera.com/news/2026/7/13/bangkok-pub-fire-kills-27-wounds-dozens-what-we-know?traffic_source=rss",
+            "title": "Locked exits, burning decor: inside Bangkok’s deadly pub fire",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/locked-exits-burning-decor-inside-bangkoks-deadly-pub-fire?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "EU unveils $1bn fund for Gaza war recovery",
-            "link": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
+            "title": "FIFA World Cup: Five biggest controversies of the 2026 tournament",
+            "link": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-five-biggest-controversies-of-the-2026-tournament?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Person killed in shooting involving ICE agents in US state of Maine",
-            "link": "https://www.aljazeera.com/news/2026/7/13/person-killed-in-shooting-involving-ice-agents-in-us-state-of-maine?traffic_source=rss",
+            "title": "Trump administration vows to ‘disable’ International Criminal Court",
+            "link": "https://www.aljazeera.com/news/2026/7/13/trump-administration-vows-to-disable-international-criminal-court?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+            "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+            "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
@@ -81,19 +91,19 @@
             "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
             "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Infantino opens door to 64-team World Cup",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
-            "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Kohli, Rohit and Bumrah arrive to help India face England",
+            "link": "https://www.cricinfo.com/ci/content/story/1545455.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Basson seven secures Test for SA U19s as Falconer hundred in vain",
+            "link": "https://www.cricinfo.com/ci/content/story/1545481.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "New Zealand bowl first, both teams make a change each",
             "link": "https://www.cricinfo.com/ci/content/story/1545480.html?ex_cid=OTC-RSS",
@@ -112,16 +122,6 @@
         {
             "title": "Afghan women's refugee team could play internationals by 2030",
             "link": "https://www.cricinfo.com/ci/content/story/1545465.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'We just weren't good enough' - McCullum apologises for failures in marquee series",
-            "link": "https://www.cricinfo.com/ci/content/story/1545462.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Kohli, Rohit and Bumrah arrive to help India face England",
-            "link": "https://www.cricinfo.com/ci/content/story/1545455.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+            "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
             "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
             "source": "TechCrunch"
@@ -182,9 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
-            "link": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
-            "source": "TechCrunch"
+            "title": "The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It",
+            "link": "https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/",
+            "source": "Wired"
         },
         {
             "title": "Wi-Fi 8 Explained: Features, Release Date, and More",
@@ -209,11 +214,6 @@
         {
             "title": "iGarden Swim Jet X Pro 10 Review: Endless Pool",
             "link": "https://www.wired.com/review/igarden-swim-jet-x-pro-10/",
-            "source": "Wired"
-        },
-        {
-            "title": "Python Is So Slow. Can Julia Solve the Two-Language Problem?",
-            "link": "https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/",
             "source": "Wired"
         }
     ]
