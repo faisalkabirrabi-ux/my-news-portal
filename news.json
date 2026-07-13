@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ব্যাংককের বারে অগ্নিকাণ্ডে অন্তত ২৭ জন নিহত",
+            "link": "https://www.bbc.com/bengali/articles/cz754pxv354o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "বিশ্ববিদ্যালয়গুলোর গবেষণার অর্থ ব্যয়ের কর্তৃত্ব নিয়ে কী হচ্ছে",
+            "link": "https://www.bbc.com/bengali/articles/ckg0d7q7kd4o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "সাত জেলায় আড়াই লাখের বেশি মানুষ পানিবন্দি, মৃতের সংখ্যা বেড়ে ৫১",
             "link": "https://www.bbc.com/bengali/articles/ckg472mlykzo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,51 +29,41 @@
             "title": "সুইজারল্যান্ডের সাথে আর্জেন্টিনার জয়ের ম্যাচে আলোচনায় রেফারির লাল কার্ডের সিদ্ধান্ত",
             "link": "https://www.bbc.com/bengali/articles/cwy08wev8ywo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "হরমুজ প্রণালি বন্ধ করে দেওয়ায় ইরানে নতুন করে হামলা শুরু করেছে যুক্তরাষ্ট্র",
-            "link": "https://www.bbc.com/bengali/articles/cq51nvj01q9o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'জঙ্গলে থাকার চেয়ে মেয়েকে নিয়ে রাস্তায় ঘুমানো বেশি ভয়ঙ্কর'- দিল্লিতে গৃহহীনদের রাতের অভিজ্ঞতা",
-            "link": "https://www.bbc.com/bengali/articles/c1jyeerkk3wo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "US launches new wave of strikes against Iran aimed at ‘degrading’ military",
-            "link": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
+            "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
+            "link": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
-            "link": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
+            "title": "Israel releases video of hidden tunnels below Lebanon’s Beaufort Castle",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/israel-releases-video-of-hidden-tunnels-below-lebanons-beaufort-castle?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel releases video of huge detonations in Lebanon",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss",
+            "title": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Deadly Israeli strikes pound Gaza",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss",
+            "title": "Japan’s pet care industry booms as ‘fur babies’ outnumber infants",
+            "link": "https://www.aljazeera.com/economy/2026/7/13/japans-pet-care-industry-booms-as-fur-babies-outnumber-infants?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel to hold national elections on October 27, parliament says",
-            "link": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
+            "title": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
+            "link": "https://www.aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Protest on London’s Tower Bridge demands release of Dr Hussam Abu Safia",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/protest-on-londons-tower-bridge-demands-release-of-dr-hussam-abu-safia?traffic_source=rss",
+            "title": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "At least 27 killed in Bangkok bar fire",
+            "title": "At least 27 killed, eight critically injured in Bangkok bar fire",
             "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -83,17 +83,22 @@
             "source": "BBC World"
         },
         {
-            "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-            "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+            "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+            "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
-            "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+            "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+            "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Bhatia century, seamers put India on the brink of historic win at Lord's",
+            "link": "https://www.cricinfo.com/ci/content/story/1545386.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Carlson leads the carnage as Glamorgan win with club-record total",
             "link": "https://www.cricinfo.com/ci/content/story/1545373.html?ex_cid=OTC-RSS",
@@ -117,11 +122,6 @@
         {
             "title": "Lyth, Tye keep Yorkshire rolling into quarter-finals",
             "link": "https://www.cricinfo.com/ci/content/story/1545389.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Essex ride Critchley, Pepper efforts into Blast quarter-finals",
-            "link": "https://www.cricinfo.com/ci/content/story/1545391.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
