@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "বাংলাদেশে আরও ভারী বৃষ্টির পূর্বাভাস ও উত্তরাঞ্চলের বন্যার অবনতির শঙ্কা",
+            "title": "সংবিধান সংশোধনে সংসদে বিশেষ কমিটি, বিরোধী দলের ওয়াকআউট",
             "link": "https://www.bbc.co.uk/bengali/live/czj8r1x377yt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "অর্থপাচারের অভিযোগে গ্রেফতার হওয়া আলোচিত হরিদাস সম্পর্কে কী জানা যাচ্ছে?",
+            "link": "https://www.bbc.com/bengali/articles/c70y2dk54n1o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "লর্ডসে নারীদের প্রথম টেস্ট ম্যাচে ইতিহাস লিখলেন ভারতের যে নারীরা",
+            "link": "https://www.bbc.com/bengali/articles/cx2x7x2zv39o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,47 +29,37 @@
             "title": "ঢাকায় বিমানবন্দরে মরদেহ ছাড় করাতে বিলম্ব, হেনস্তার অভিযোগ কতটা সত্যি",
             "link": "https://www.bbc.com/bengali/articles/cj0gd6rjep6o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পশ্চিমবঙ্গে বিজেপি কি সুভাষ বসুর বিপরীতে শ্যামাপ্রসাদকে দাঁড় করাতে চাইছে?",
-            "link": "https://www.bbc.com/bengali/articles/ckg8x3r033ko?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ব্যাংককের বারে অগ্নিকাণ্ডে অন্তত ২৭ জন নিহত",
-            "link": "https://www.bbc.com/bengali/articles/cz754pxv354o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "What is Japan’s new intelligence agency, and why is Tokyo building it?",
-            "link": "https://www.aljazeera.com/news/2026/7/13/what-is-japans-new-intelligence-agency-and-why-is-tokyo-building-it?traffic_source=rss",
+            "title": "US imposes new sanctions on Cuba tourism ministry, state-owned companies",
+            "link": "https://www.aljazeera.com/economy/2026/7/13/us-imposes-new-sanctions-on-cuba-tourism-ministry-state-owned-companies?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "What will happen to Trump’s agenda after Lindsey Graham’s death?",
-            "link": "https://www.aljazeera.com/news/2026/7/13/what-will-happen-to-trumps-agenda-after-lindsey-grahams-death?traffic_source=rss",
+            "title": "Anti-terror police take over probe into death of UK politician Widdecombe",
+            "link": "https://www.aljazeera.com/news/2026/7/13/anti-terror-police-take-over-probe-into-death-of-uk-politician-widdecombe?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/the-late-sheikh-hamad-bin-khalifa-al-thanis-legacy-on-womens-reform?traffic_source=rss",
+            "title": "India thrash England in historic first women’s cricket Test match at Lord’s",
+            "link": "https://www.aljazeera.com/sports/2026/7/13/india-thrash-england-in-historic-first-womens-cricket-test-match-at-lords?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Street in Illinois named after murdered Palestinian boy",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/street-in-illinois-named-after-murdered-palestinian-boy?traffic_source=rss",
+            "title": "Trump: US will ‘take over’ Strait of Hormuz",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/trump-us-will-take-over-strait-of-hormuz?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "March to July: What’s different as US-Iran fighting escalates again?",
-            "link": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again?traffic_source=rss",
+            "title": "Iraqi PM heads to US seeking balance between security and economy",
+            "link": "https://www.aljazeera.com/news/2026/7/13/iraqi-pm-heads-to-us-seeking-balance-between-security-and-economy?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "South Korea rolls out plan to tackle youth suicide crisis",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/south-korea-rolls-out-plan-to-tackle-youth-suicide-crisis?traffic_source=rss",
+            "title": "Iraq seizes 375kg of gold in sweeping anti-corruption crackdown",
+            "link": "https://www.aljazeera.com/news/2026/7/13/iraq-seizes-375kg-of-gold-in-sweeping-anti-corruption-crackdown?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "'We just weren't good enough' - McCullum apologises for failures in marquee series",
+            "link": "https://www.cricinfo.com/ci/content/story/1545462.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Kohli, Rohit and Bumrah arrive to help India face England",
+            "link": "https://www.cricinfo.com/ci/content/story/1545455.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "West Indies and New Zealand embrace cricket's simple problems",
             "link": "https://www.cricinfo.com/ci/content/story/1545437.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -115,14 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Gous and Ravindra lead Washington Freedom's charge",
-            "link": "https://www.cricinfo.com/ci/content/story/1545408.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Tromp, Munro power LAKR into second, set up playoff date with Unicorns",
-            "link": "https://www.cricinfo.com/ci/content/story/1545413.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Man Utd sign £48m Santos and close in on Tielemans",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Most clinical? Least creative? Best in the air? Comparing the last four",
@@ -130,18 +135,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "England outplayed by India in crushing Test defeat",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cj0g5vpr2qpo?at_medium=RSS&at_campaign=rss",
+            "title": "Sacked McCullum holds hands up for England results",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/crkvg5y2y0zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Man Utd close to completing Tielemans deal",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "BBC experts pick their England World Cup semi-final XI - do you agree?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&at_campaign=rss",
+            "title": "India outplay England - but is women's Test cricket struggling for relevance?",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cgjx3xq6182o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,41 +150,46 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Ted Lasso actor Fernandez makes professional debut",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ckg7me5kdk1o?at_medium=RSS&at_campaign=rss",
+            "title": "Alonso wants to keep Fernandez at Chelsea",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gyny9d0z2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
-            "link": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+            "title": "Should AI help you get away with killing your spouse?",
+            "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
             "source": "TechCrunch"
         },
         {
-            "title": "TechCrunch Mobility: A robotaxi ultimatum",
-            "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+            "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
+            "link": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
             "source": "TechCrunch"
         },
         {
-            "title": "Reed Jobs would rather talk about curing cancer than his last name",
-            "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+            "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+            "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
             "source": "TechCrunch"
         },
         {
-            "title": "This slushie machine was a lifesaver during NYC’s heat wave",
-            "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+            "title": "SpaceX cleared to fly Starship again after booster failure in May",
+            "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
             "source": "TechCrunch"
         },
         {
-            "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
-            "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+            "title": "Waze adds new AI-powered features and customization updates",
+            "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
             "source": "TechCrunch"
         },
         {
-            "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-            "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+            "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
+            "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "There Are Endless Conspiracy Theories About Lindsey Graham’s Death",
+            "link": "https://www.wired.com/story/there-are-endless-conspiracy-theories-about-lindsey-grahams-death/",
+            "source": "Wired"
         },
         {
             "title": "6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom",
@@ -209,11 +214,6 @@
         {
             "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance",
             "link": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Kitchen Composters and Food Recyclers (2026)",
-            "link": "https://www.wired.com/story/home-composters-buying-guide/",
             "source": "Wired"
         }
     ]
