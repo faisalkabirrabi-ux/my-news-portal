@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "এইচএসসি পরীক্ষা স্থগিত ও শিক্ষামন্ত্রীর পদত্যাগের দাবিতে বিক্ষোভ নিয়ে যা জানা যাচ্ছে",
+            "link": "https://www.bbc.com/bengali/articles/c0ryrqgdndwo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বৃষ্টির পূর্বাভাসে ভরসা করেই এইচএসসি পরীক্ষা স্থগিত করা হয়নি: সংসদে শিক্ষামন্ত্রী",
             "link": "https://www.bbc.co.uk/bengali/live/cvgdg5gjz3jt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "শেখ হাসিনার 'দেশে ফেরার' বাস্তবতা কতটা?",
             "link": "https://www.bbc.com/bengali/articles/cn590pxzlrno?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভারতের বিস্তীর্ণ অঞ্চলে মেঘ উধাও, 'মনসুন ব্রেক' নিয়ে কেন উদ্বেগ?",
-            "link": "https://www.bbc.com/bengali/articles/c4gyn8vj533o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Utah Jazz guard Trey Alexander stretchered off court in NBA Summer League",
-            "link": "https://www.aljazeera.com/sports/2026/7/14/utah-jazz-guard-trey-alexander-stretchered-off-court-in-nba-summer-league?traffic_source=rss",
+            "title": "How new Yemen tensions could complicate the global energy crisis",
+            "link": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
-            "link": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
+            "title": "Tour de France crash and concussion cases expose limits of roadside checks",
+            "link": "https://www.aljazeera.com/sports/2026/7/14/tour-de-france-crash-and-concussion-cases-expose-limits-of-roadside-checks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Argentina war vets urge focus on football for England World Cup semifinal",
-            "link": "https://www.aljazeera.com/sports/2026/7/14/argentina-war-vets-urge-focus-on-football-for-england-world-cup-semifinal?traffic_source=rss",
+            "title": "Lebanon, Israel hold talks in Rome on implementing framework deal",
+            "link": "https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
-            "link": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss",
+            "title": "Can Gulf countries defend themselves against renewed Iranian attacks?",
+            "link": "https://www.aljazeera.com/news/2026/7/14/can-gulf-countries-defend-themselves-against-renewed-iranian-attacks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Emir of Qatar receives condolences on the death of the Father Emir",
-            "link": "https://www.aljazeera.com/news/2026/7/14/emir-of-qatar-receives-condolences-on-the-death-of-the-father-emir?traffic_source=rss",
+            "title": "Dozens of healthcare workers in DRC strike amid Ebola outbreak",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/dozens-of-healthcare-workers-in-drc-strike-amid-ebola-outbreak?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "FIFA World Cup brackets: Semifinal schedule, France vs Spain prediction",
-            "link": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-brackets-semifinal-schedule-france-vs-spain-prediction?traffic_source=rss",
+            "title": "Schumer slams Trump over Iran war",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/schumer-slams-trump-over-iran-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -125,8 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Who will win the World Cup? The view from the semi-finalists",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
+            "title": "Walked for 47% of the World Cup - the evolution of Messi",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cy4e943j1j1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Barry's journey from Accrington Stanley to World Cup semi-final",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gyng8z8v2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,18 +140,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Increased security for England v Argentina tie in Atlanta",
-            "link": "https://www.bbc.co.uk/sport/football/articles/clyey5glv4ko?at_medium=RSS&at_campaign=rss",
+            "title": "Who will win the World Cup? The view from the semi-finalists",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Could it work if Verstappen wanted to go to McLaren? F1 Q&A",
             "link": "https://www.bbc.co.uk/sport/formula1/articles/c872v408y2xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why it's time for The Open to crown an English winner",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/cpd3wwxp94vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -167,7 +167,7 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+            "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
             "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
             "source": "TechCrunch"
         },
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Plex Keeps Getting Worse. Is Jellyfin a Decent Replacement?",
+            "link": "https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/",
+            "source": "Wired"
+        },
+        {
+            "title": "9 Tips to Get More Out of Google Chat",
+            "link": "https://www.wired.com/story/9-tips-to-get-more-out-of-google-chat/",
+            "source": "Wired"
+        },
+        {
+            "title": "Best RGB TVs (2026): My Picks After Testing the Hottest TVs",
+            "link": "https://www.wired.com/story/best-rgb-tvs/",
+            "source": "Wired"
+        },
+        {
+            "title": "Oura Ring 5 Review: Still the Smart Ring to Beat",
+            "link": "https://www.wired.com/review/oura-ring-5/",
+            "source": "Wired"
+        },
+        {
+            "title": "This German Man Is on a Quest to Cut the Perfect Slice of Bread",
+            "link": "https://www.wired.com/story/this-german-man-is-on-a-mad-quest-to-cut-the-perfect-slice-of-bread/",
+            "source": "Wired"
+        },
+        {
             "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
             "link": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
-            "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
-            "source": "Wired"
-        },
-        {
-            "title": "Sotheby’s Big T. Rex Auction Raises Concerns Hype and Wealth Are Upending Science",
-            "link": "https://www.wired.com/story/sothebys-t-rex-auction-shows-wealth-upending-science/",
-            "source": "Wired"
-        },
-        {
-            "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
-            "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
-            "source": "Wired"
-        },
-        {
-            "title": "The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night",
-            "link": "https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/",
-            "source": "Wired"
-        },
-        {
-            "title": "Hotels.com Coupon Codes for July 2026",
-            "link": "https://www.wired.com/story/hotels-com-coupon/",
             "source": "Wired"
         }
     ]
