@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca",
+            "link": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Colombian father identified in deadly ICE shooting",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/colombian-father-identified-in-deadly-ice-shooting?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Spain deliver masterclass to beat France 2-0 and reach World Cup final",
             "link": "https://www.aljazeera.com/sports/2026/7/14/spain-deliver-masterclass-to-beat-france-2-0-and-reach-world-cup-final?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "Why the England shirt feels complicated for some fans this World Cup",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/why-the-england-shirt-feels-complicated-for-some-fans-this-world-cup?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
-            "link": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -135,6 +135,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "World Cup final half-time to last up to 25 minutes",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1wyw9wx19yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Henderson & Quansah only England absentees for Argentina",
             "link": "https://www.bbc.co.uk/sport/football/articles/c20y0gp3p70o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -148,14 +153,19 @@
             "title": "Man Utd sign Tielemans for £35m from Aston Villa",
             "link": "https://www.bbc.co.uk/sport/football/articles/c9929gzdl2go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Villa warned over sportswashing after Visit Rwanda deal",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+            "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "OpenAI pushes back on Apple trade secret lawsuit",
+            "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+            "source": "TechCrunch"
+        },
         {
             "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
             "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
@@ -177,14 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Lucid Motors denies report it’s considering bankruptcy",
-            "link": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Google faces another AI training lawsuit from major publishers",
-            "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-            "source": "TechCrunch"
+            "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
+            "link": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
+            "source": "Wired"
         },
         {
             "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
@@ -209,11 +214,6 @@
         {
             "title": "9 Tips to Get More Out of Google Chat",
             "link": "https://www.wired.com/story/9-tips-to-get-more-out-of-google-chat/",
-            "source": "Wired"
-        },
-        {
-            "title": "Oura Ring 5 Review: Still the Smart Ring to Beat",
-            "link": "https://www.wired.com/review/oura-ring-5/",
             "source": "Wired"
         }
     ]
