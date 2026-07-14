@@ -1,7 +1,7 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "শিক্ষামন্ত্রীর পদত্যাগ চেয়ে সায়েন্সল্যাব থেকে সংসদ ভবনের পাশে বিক্ষোভকারীরা",
+            "title": "বাংলাদেশের শিক্ষামন্ত্রীর পদত্যাগ চেয়ে বিভিন্ন স্থানে শিক্ষার্থীদের বিক্ষোভ",
             "link": "https://www.bbc.co.uk/bengali/live/cvgdg5gjz3jt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -33,34 +33,39 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Mexico begins legal action in US over deaths of its citizens in ICE custody",
-            "link": "https://www.aljazeera.com/news/2026/7/14/mexico-begins-legal-action-in-us-over-deaths-of-its-citizens-in-ice-custody?traffic_source=rss",
+            "title": "Trump meets with Iraq Prime Minister at White House, vows ‘a lot of deals’",
+            "link": "https://www.aljazeera.com/news/2026/7/14/trump-meets-with-iraq-prime-minister-at-white-house-vows-a-lot-of-deals?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli attack on north Gaza police station kills eight",
-            "link": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss",
+            "title": "Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP",
+            "link": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "France vs Spain LIVE: FIFA World Cup 2026 semifinal",
-            "link": "https://www.aljazeera.com/sports/liveblog/2026/7/14/france-vs-spain-live-fifa-world-cup-2026-semifinal?traffic_source=rss",
+            "title": "US consumer prices drop in June as energy costs tumble",
+            "link": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Jude Bellingham Station unveiled ahead of World Cup semi-final",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/jude-bellingham-station-unveiled-ahead-of-world-cup-semi-final?traffic_source=rss",
+            "title": "Murder of UK politician Ann Widdecombe was ‘targeted attack’, police say",
+            "link": "https://www.aljazeera.com/news/2026/7/14/murder-of-uk-politician-ann-widdecombe-was-targeted-attack-police-say?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Leading Houthi threatens ‘siege’ on Saudi Arabia after Yemen airport attack",
-            "link": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack?traffic_source=rss",
+            "title": "World leaders travel to Qatar to honour Father Emir",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/world-leaders-travel-to-qatar-to-honour-father-emir?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How the late Father Emir transformed Qatar’s economy",
-            "link": "https://www.aljazeera.com/video/money-works/2026/7/14/how-the-late-father-emir-transformed-qatars-economy?traffic_source=rss",
+            "title": "Mexico: Football Without Fear",
+            "link": "https://www.aljazeera.com/video/witness/2026/7/14/mexico-football-without-fear?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
+            "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
@@ -83,13 +88,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
-            "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
-            "link": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
+            "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+            "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -110,6 +110,11 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Women's cricket shortchanged again as men's Test binfire sucks up the oxygen",
+            "link": "https://www.cricinfo.com/ci/content/story/1545483.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Knight: 'Wanted to give my all this summer but right time to step away'",
             "link": "https://www.cricinfo.com/ci/content/story/1545472.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,18 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Hetmyer replaces injured Greaves for second and third NZ ODIs",
-            "link": "https://www.cricinfo.com/ci/content/story/1545423.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "What's next at Liverpool for Argentina's proven winner Mac Allister?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cd0m02yl03zo?at_medium=RSS&at_campaign=rss",
+            "title": "Man Utd sign Tielemans for £35m from Aston Villa",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c9929gzdl2go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "A winner and true friend - Bartoli on France boss Deschamps",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c77y2151e4go?at_medium=RSS&at_campaign=rss",
+            "title": "Balogun expected controversy after World Cup ban waived",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx262x3rmx2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +140,37 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Man Utd seek another midfielder as Tielemans has medical",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ckg4gqj5kk5o?at_medium=RSS&at_campaign=rss",
+            "title": "Barry's journey from Accrington Stanley to World Cup semi-final",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gyng8z8v2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'I didn't think I'd live to this age' - Howard's inspiring journey to The Open",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/c3ryr83d9q3o?at_medium=RSS&at_campaign=rss",
+            "title": "'Weird stuff is going to happen' - Scheffler and McIlroy on sun-baked Birkdale",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/cp9l94e9xr7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Premier League rules World Cup defences - but not attacks",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5yzy9g501vo?at_medium=RSS&at_campaign=rss",
+            "title": "Secret friendlies and promoting youngsters - Alonso's first week at Chelsea",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c20yv3jmg01o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+            "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+            "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+            "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Google Images gets a Pinterest-like redesign focused on discovery",
             "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
@@ -172,19 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty)",
-            "link": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Reflection inks $1B compute deal with Nebius",
-            "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "The real AI race may no longer be at the frontier",
-            "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-            "source": "TechCrunch"
+            "title": "How To Watch the 2026 FIFA World Cup Semifinals: France vs Spain",
+            "link": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-14-2026/",
+            "source": "Wired"
         },
         {
             "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
@@ -202,18 +207,13 @@
             "source": "Wired"
         },
         {
-            "title": "9 Tips to Get More Out of Google Chat",
-            "link": "https://www.wired.com/story/9-tips-to-get-more-out-of-google-chat/",
-            "source": "Wired"
-        },
-        {
             "title": "Best RGB TVs (2026): My Picks After Testing the Hottest TVs",
             "link": "https://www.wired.com/story/best-rgb-tvs/",
             "source": "Wired"
         },
         {
-            "title": "Oura Ring 5 Review: Still the Smart Ring to Beat",
-            "link": "https://www.wired.com/review/oura-ring-5/",
+            "title": "9 Tips to Get More Out of Google Chat",
+            "link": "https://www.wired.com/story/9-tips-to-get-more-out-of-google-chat/",
             "source": "Wired"
         }
     ]
