@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "শেখ হাসিনার 'দেশে ফেরার' বাস্তবতা কতটা?",
+            "link": "https://www.bbc.com/bengali/articles/cn590pxzlrno?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "সংবিধান সংশোধনে সংসদে বিশেষ কমিটি, বিরোধী দলের ওয়াকআউট",
             "link": "https://www.bbc.co.uk/bengali/live/czj8r1x377yt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,47 +29,47 @@
             "title": "মধ্যপ্রদেশে স্বঘোষিত গোরক্ষকদের সাজা দেওয়ার পর মুসলিম নারী বিচারককে খুন ও ধর্ষণের হুমকি",
             "link": "https://www.bbc.com/bengali/articles/cly8w795wqno?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ঢাকায় বিমানবন্দরে মরদেহ ছাড় করাতে বিলম্ব, হেনস্তার অভিযোগ কতটা সত্যি",
-            "link": "https://www.bbc.com/bengali/articles/cj0gd6rjep6o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Haaland’s Norway receive heroes’ welcome in Oslo after World Cup exit",
-            "link": "https://www.aljazeera.com/sports/2026/7/13/haalands-norway-receive-heroes-welcome-in-oslo-after-world-cup-exit?traffic_source=rss",
+            "title": "Hungary’s parliament votes to oust president in latest anti-Orban move",
+            "link": "https://www.aljazeera.com/news/2026/7/14/hungarys-parliament-votes-to-oust-president-in-latest-anti-orban-move?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Police in South Africa open probe into post-World Cup death of Jayden Adams",
-            "link": "https://www.aljazeera.com/sports/2026/7/13/police-in-south-africa-open-probe-into-post-world-cup-death-of-jayden-adams?traffic_source=rss",
+            "title": "Trump demands payment to protect Gulf nations from Iranian attacks",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US, Iran exchange attacks around Strait of Hormuz",
-            "link": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
+            "title": "Record El Niño threatens to unleash floods across East Africa and Asia",
+            "link": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
-            "link": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
+            "title": "Indonesia’s jailing of Gojek founder raises fears for investor confidence",
+            "link": "https://www.aljazeera.com/economy/2026/7/14/indonesias-jailing-of-gojek-founder-raises-fears-for-investor-confidence?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How is the US tech industry regulated?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/7/13/how-is-the-us-tech-industry-regulated?traffic_source=rss",
+            "title": "How Kenyan volunteers hunt polio’s hidden trail",
+            "link": "https://www.aljazeera.com/news/2026/7/14/how-kenyan-volunteers-hunt-polios-hidden-trail?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Andy Burnham in line to become British PM after securing party support",
-            "link": "https://www.aljazeera.com/news/2026/7/13/andy-burnham-in-line-to-become-british-pm-after-securing-party-support?traffic_source=rss",
+            "title": "Iran war live: US launches more attacks; UAE says 1 killed in tanker strike",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+            "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
             "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "''There was no way to get out': Witnesses describe how deadly inferno swept through Bangkok bar",
+            "link": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,27 +78,32 @@
             "source": "BBC World"
         },
         {
-            "title": "Hungary parliament votes to remove president from office",
-            "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+            "title": "Colombian national killed by ICE agent during operation in Maine",
+            "link": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
-            "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+            "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
+            "link": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-            "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-            "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+            "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
+            "link": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "BBL returns to Christmas Eve, Australia Day final",
+            "link": "https://www.cricinfo.com/ci/content/story/1545415.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Lennox stars with five wickets as New Zealand level ODI series",
+            "link": "https://www.cricinfo.com/ci/content/story/1545496.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Knight: 'Wanted to give my all this summer but right time to step away'",
             "link": "https://www.cricinfo.com/ci/content/story/1545472.html?ex_cid=OTC-RSS",
@@ -112,16 +122,6 @@
         {
             "title": "Kohli, Rohit and Bumrah arrive to help India face England",
             "link": "https://www.cricinfo.com/ci/content/story/1545455.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Basson seven secures Test for SA U19s as Falconer hundred in vain",
-            "link": "https://www.cricinfo.com/ci/content/story/1545481.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "New Zealand bowl first, both teams make a change each",
-            "link": "https://www.cricinfo.com/ci/content/story/1545480.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -157,6 +157,26 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+            "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+            "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+            "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+            "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Satya Nadella has issued a shocking warning to companies using AI",
             "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
             "source": "TechCrunch"
@@ -167,24 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-            "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Sam Altman’s space data center trash talk is what most experts already believe",
-            "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
-            "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
-            "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
-            "source": "TechCrunch"
+            "title": "The Best Movies to Stream This Month (July 2026)",
+            "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+            "source": "Wired"
         },
         {
             "title": "Sam Neill Inspired a Generation of Scientists",
@@ -209,11 +214,6 @@
         {
             "title": "Tesla Says It’s Building a Wheelchair-Accessible Robotaxi",
             "link": "https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi/",
-            "source": "Wired"
-        },
-        {
-            "title": "There Are Endless Conspiracy Theories About Lindsey Graham’s Death",
-            "link": "https://www.wired.com/story/there-are-endless-conspiracy-theories-about-lindsey-grahams-death/",
             "source": "Wired"
         }
     ]
