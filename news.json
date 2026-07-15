@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Russia pounds Ukraine with missile, drone strikes",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
+            "title": "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
+            "link": "https://www.aljazeera.com/sports/2026/7/15/argentina-stun-england-in-2-1-comeback-win-to-reach-2026-world-cup-final?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "French Parliament approves landmark assisted-dying bill",
-            "link": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss",
+            "title": "xAI sues user for exploiting AI tool to sexualise minors",
+            "link": "https://www.aljazeera.com/economy/2026/7/15/xai-sues-user-for-exploiting-ai-tool-to-sexualise-minors?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ukraine strikes 20 Russian vessels",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/ukraine-strikes-20-russian-vessels?traffic_source=rss",
+            "title": "Authors, publishers sue Google over alleged AI copyright infringement",
+            "link": "https://www.aljazeera.com/economy/2026/7/15/authors-publishers-sue-google-over-alleged-ai-copyright-infringement?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "The history of the US and Iraq’s complicated relationship",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss",
+            "title": "Sheinbaum rejects US claim that Mexico’s government is linked to cartels",
+            "link": "https://www.aljazeera.com/news/2026/7/15/sheinbaum-rejects-us-claim-that-mexicos-government-is-linked-to-cartels?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Protests in Paris, Gaza for release of Hussam Abu Safia",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss",
+            "title": "What are the obstacles to peace between Israel and Lebanon?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
-            "link": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
+            "title": "What happened in the first half of the England vs Argentina semifinal?",
+            "link": "https://www.aljazeera.com/sports/2026/7/15/what-happened-in-the-first-half-of-the-england-vs-argentina-semifinal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,7 +68,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+            "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
             "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -83,7 +83,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
+            "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
             "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -125,8 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Rate the players as England face Argentina",
+            "title": "Argentina celebrate progressing to World Cup final",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c9w0jlx451go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "'The change didn't work' - England player ratings",
             "link": "https://www.bbc.co.uk/sport/football/articles/cx2w3rqp6w1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Final two World Cup matches to be shown live on BBC",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cp8xn7178x1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -143,19 +153,14 @@
             "title": "New camera guidelines for female athletics coverage",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Waerenskjold takes maiden Tour win in fastest stage",
-            "link": "https://www.bbc.co.uk/sport/cycling/articles/c78y88pndeqo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Portmarnock 'pretty close' to hosting first Open outside of UK",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/ckg7gj67x73o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+            "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
             "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
@@ -177,14 +182,24 @@
             "source": "TechCrunch"
         },
         {
-            "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-            "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+            "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+            "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
             "source": "TechCrunch"
         },
         {
-            "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-            "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-            "source": "TechCrunch"
+            "title": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
+            "link": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/",
+            "source": "Wired"
+        },
+        {
+            "title": "Intel Officials Predict the Pentagon’s Bill for the Iran War Will Exceed $100 Billion",
+            "link": "https://www.wired.com/story/pentagons-bill-for-iran-war-exceed-100-billion/",
+            "source": "Wired"
+        },
+        {
+            "title": "Here’s the Truth About Whether Meta’s NameTag Face Recognition Tech ‘Exists’",
+            "link": "https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/",
+            "source": "Wired"
         },
         {
             "title": "AI Isn’t Smarter Than a Baby—Yet",
@@ -199,21 +214,6 @@
         {
             "title": "Lionel Messi’s Final World Cup—and the Death of Early Retirement",
             "link": "https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement/",
-            "source": "Wired"
-        },
-        {
-            "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
-            "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Air, Pro, Mini",
-            "link": "https://www.wired.com/gallery/the-best-ipad/",
-            "source": "Wired"
-        },
-        {
-            "title": "MSI Claw 8 EX AI+ Review: Great Power, Shocking Price",
-            "link": "https://www.wired.com/review/msi-claw-8-ex-ai/",
             "source": "Wired"
         }
     ]
