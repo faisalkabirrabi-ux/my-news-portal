@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "সাইবার সুরক্ষা আইনে কী পরিবর্তন এলো?",
+            "link": "https://www.bbc.com/bengali/articles/cql1le56w34o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশের শিক্ষামন্ত্রীর পদত্যাগ চেয়ে বিভিন্ন স্থানে শিক্ষার্থীদের বিক্ষোভ",
             "link": "https://www.bbc.co.uk/bengali/live/cvgdg5gjz3jt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "কে জিতবে বিশ্বকাপ? সেমিফাইনালিস্টদের দৃষ্টিতে",
             "link": "https://www.bbc.com/bengali/articles/cvgegpr9e04o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "জলাবদ্ধতা, বন্যা ও স্যাঁতসেঁতে পরিবেশে কোন রোগের আশঙ্কা সবচেয়ে বেশি?",
-            "link": "https://www.bbc.com/bengali/articles/cx2j0w21130o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
+            "link": "https://www.aljazeera.com/sports/2026/7/15/mbappe-blames-technical-tactical-blunders-for-world-cup-semifinal-loss?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Spain crashes Paris party by beating France in the World Cup semis",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
+            "link": "https://www.aljazeera.com/sports/2026/7/15/us-star-balogun-knew-red-card-reversal-would-cause-a-lot-of-controversy?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Spain fans erupt as team reaches World Cup final",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-fans-erupt-as-team-reaches-world-cup-final?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "LIVE: Trump says ‘strikes on Iran will continue until I say enough’",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca",
             "link": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Colombian father identified in deadly ICE shooting",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/colombian-father-identified-in-deadly-ice-shooting?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Spain deliver masterclass to beat France 2-0 and reach World Cup final",
-            "link": "https://www.aljazeera.com/sports/2026/7/14/spain-deliver-masterclass-to-beat-france-2-0-and-reach-world-cup-final?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Are countries prepared to cope with extreme weather?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "World Cup semifinal: Key players to watch in England vs Argentina clash",
-            "link": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-key-players-to-watch-as-england-and-argentina-clash-in-semifinal?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Why the England shirt feels complicated for some fans this World Cup",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/why-the-england-shirt-feels-complicated-for-some-fans-this-world-cup?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,8 +68,18 @@
             "source": "BBC World"
         },
         {
+            "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+            "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
             "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Seven Britons among those killed in Spain wildfires",
+            "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -80,16 +90,6 @@
         {
             "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
             "link": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-            "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
-            "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -125,37 +125,47 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "'Extremely happy' Deschamps gets the farewell game no-one wants",
+            "link": "https://www.bbc.co.uk/sport/football/articles/czx5x14v5w2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "I still feel pain of '98 but this can be different for England - Shearer",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Spain into World Cup final after victory over France",
             "link": "https://www.bbc.co.uk/sport/football/videos/cq6160n8y71o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Who 'came alive' in the semi-final? France v Spain player ratings",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1dydqedp73o?at_medium=RSS&at_campaign=rss",
+            "title": "Pressure is on world champions Argentina in semi-final - Guehi",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cp8l87vevj2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "World Cup final half-time to last up to 25 minutes",
             "link": "https://www.bbc.co.uk/sport/football/articles/c1wyw9wx19yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Henderson & Quansah only England absentees for Argentina",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c20y0gp3p70o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "England's one-day woes continue with India defeat",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c1kykzjy4lno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Man Utd sign Tielemans for £35m from Aston Villa",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c9929gzdl2go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+            "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Lorde says AI glasses are ‘not sexy’",
+            "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+            "source": "TechCrunch"
+        },
         {
             "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
             "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
@@ -174,16 +184,6 @@
         {
             "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
             "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Anthropic’s newest ad is creeping people out",
-            "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-            "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
             "source": "TechCrunch"
         },
         {
