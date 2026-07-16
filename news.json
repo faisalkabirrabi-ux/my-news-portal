@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ফোনে মেসেজ পাঠালেও কি মৃত্যুদণ্ড, নতুন মাদক আইন নিয়ে বিতর্ক কেন",
+            "link": "https://www.bbc.com/bengali/articles/cx2k22j1nq5o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'বেতনের গেজেট আগস্টে'",
+            "link": "https://www.bbc.com/bengali/articles/c3r0dnv21njo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "স্বর্ণের দাম কমছে কেন এবং আরো কমার সম্ভাবনা কতটুকু?",
             "link": "https://www.bbc.com/bengali/articles/cy7373dxe70o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "বিশ্বকাপ ঘিরে 'বর্ণবিদ্বেষমূলক' মন্তব্যে বিতর্ক ইউরোপে",
             "link": "https://www.bbc.com/bengali/articles/cwy0yzzz2yeo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "সাইবার সুরক্ষা আইনে কী পরিবর্তন এলো?",
-            "link": "https://www.bbc.com/bengali/articles/cql1le56w34o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "আর্জেন্টিনা আর ইংল্যান্ড ম্যাচ ঘিরে যেসব তথ্য জেনে রাখতে পারেন",
-            "link": "https://www.bbc.com/bengali/articles/c93234jzvzyo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "US Justice Department refuses New Mexico’s request for Epstein files",
-            "link": "https://www.aljazeera.com/news/2026/7/15/us-justice-department-refuses-new-mexicos-request-for-epstein-files?traffic_source=rss",
+            "title": "Toronto engulfed by wildfire smoke as US cities threatened",
+            "link": "https://www.aljazeera.com/news/2026/7/16/toronto-engulfed-by-wildfire-smoke-as-us-cities-threatened?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘Really big news’: What to know about Trump’s primetime speech on Thursday",
-            "link": "https://www.aljazeera.com/news/2026/7/15/really-big-news-what-to-know-about-trumps-primetime-speech-on-thursday?traffic_source=rss",
+            "title": "Iran launches strikes on Gulf, even as FM visits Qatar",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
-            "link": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
+            "title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal",
+            "link": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
-            "link": "https://www.aljazeera.com/sports/2026/7/15/argentina-stun-england-in-2-1-comeback-win-to-reach-2026-world-cup-final?traffic_source=rss",
+            "title": "France’s Morocco reset: What French PM Lecornu’s visit to Rabat signals",
+            "link": "https://www.aljazeera.com/news/2026/7/16/frances-morocco-reset-what-french-pm-lecornus-visit-signals?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "xAI sues user for exploiting AI tool to sexualise minors",
-            "link": "https://www.aljazeera.com/economy/2026/7/15/xai-sues-user-for-exploiting-ai-tool-to-sexualise-minors?traffic_source=rss",
+            "title": "Iranian doctor says US strike damaged children’s cancer hospital",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Authors, publishers sue Google over alleged AI copyright infringement",
-            "link": "https://www.aljazeera.com/economy/2026/7/15/authors-publishers-sue-google-over-alleged-ai-copyright-infringement?traffic_source=rss",
+            "title": "Celebrations erupt in Argentina’s capital after World Cup semifinal win",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/celebrations-erupt-in-argentinas-capital-after-world-cup-semifinal-win?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,7 +73,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Argentina face fine for Falklands banner in semi-final win",
+            "title": "Argentina face action after waving Falklands banner",
             "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -88,12 +88,22 @@
             "source": "BBC World"
         },
         {
-            "title": "US military to start testosterone  testing, Hegseth says",
+            "title": "US military to start screening for testosterone deficiency, Hegseth says",
             "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Short's 94* in vain as Powell's 15-ball blitz takes LAKR into final",
+            "link": "https://www.cricinfo.com/ci/content/story/1545771.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Moises Henriques announces retirement from Australian domestic cricket",
+            "link": "https://www.cricinfo.com/ci/content/story/1545770.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Australia internationals unlikely to play much WNCL",
             "link": "https://www.cricinfo.com/ci/content/story/1545695.html?ex_cid=OTC-RSS",
@@ -115,23 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Vince's century, Baker's five takes Hampshire to another Finals Day",
-            "link": "https://www.cricinfo.com/ci/content/story/1545755.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Taylor's second straight ton seals 3-0 sweep for West Indies",
-            "link": "https://www.cricinfo.com/ci/content/story/1545756.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Why England's loss to Argentina felt like most painful in 60 years of hurt",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cj365n05mgdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Argentina shatter England's World Cup dreams in semi-final",
             "link": "https://www.bbc.co.uk/sport/football/videos/cwy059qwdg4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Argentina face fine for displaying Falklands banner after semi-final",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +145,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'The change didn't work' - England player ratings",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2w3rqp6w1o?at_medium=RSS&at_campaign=rss",
+            "title": "Argentina face disciplinary action over Falklands banner after semi-final",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'No regrets' - Tuchel on England's defeat by Argentina",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Prince William tells England to 'hold heads high'",
-            "link": "https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss",
+            "title": "Defeat will haunt England for a long time, says Burn",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1k13mvgyljo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+            "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+            "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
             "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
@@ -177,17 +187,12 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Apple bans home services from its upcoming Maps ads",
-            "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
-            "source": "TechCrunch"
+            "title": "Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?",
+            "link": "https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/",
+            "source": "Wired"
         },
         {
-            "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-            "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "The Northeast Is Being Blanketed in Canadian Wildfire Smoke",
+            "title": "Smoke From Canada's Wildfires Turns Skies Sickly Orange Across the Eastern US",
             "link": "https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/",
             "source": "Wired"
         },
@@ -209,11 +214,6 @@
         {
             "title": "AI Isn’t Smarter Than a Baby—Yet",
             "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
-            "source": "Wired"
-        },
-        {
-            "title": "Thinking Machines Lab Drops Its First Model",
-            "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
             "source": "Wired"
         }
     ]
