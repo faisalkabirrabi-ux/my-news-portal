@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ভারতের বৃহত্তম পারমাণবিক কেন্দ্রের তথ্য ফাঁসের অভিযোগ, কী জানালো সরকার?",
+            "link": "https://www.bbc.com/bengali/articles/c5yv3pz9057o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "হুথিদের লোহিত সাগরের তেল পরিবহন পথ বন্ধের প্রস্তুতি নিতে বলেছে ইরান: রয়টার্স",
             "link": "https://www.bbc.co.uk/bengali/live/crl7rzxwlxpt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "ফোনে মেসেজ পাঠালেও কি মৃত্যুদণ্ড, নতুন মাদক আইন নিয়ে বিতর্ক কেন",
             "link": "https://www.bbc.com/bengali/articles/cx2k22j1nq5o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "আর্জেন্টিনার পিছু ছাড়ছে না 'বিতর্ক', ইংল্যান্ডকে হারানোর পর ফকল্যান্ডস ব্যানার দেখিয়ে শাস্তির শঙ্কায় মেসিরা",
-            "link": "https://www.bbc.com/bengali/articles/c4g3lr79495o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Key moments from JD Vance sit down with Joe Rogan",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/key-moments-from-jd-vance-sit-down-with-joe-rogan?traffic_source=rss",
+            "title": "UK urges FIFA to investigate Argentina over World Cup Falklands banner",
+            "link": "https://www.aljazeera.com/sports/2026/7/16/uk-urges-fifa-to-investigate-argentina-over-world-cup-falklands-banner?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘Falklands are Argentinian’: Celebrations over England win revive old wounds",
-            "link": "https://www.aljazeera.com/news/2026/7/16/falklands-are-argentinian-celebrations-over-england-win-revive-old-wounds?traffic_source=rss",
+            "title": "What happens if Mitch McConnell is unable to finish his US Senate term?",
+            "link": "https://www.aljazeera.com/news/2026/7/16/what-happens-if-mitch-mcconnell-is-unable-to-finish-his-us-senate-term?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Powerful storm floods hundreds of homes in Russia’s urals",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/powerful-storm-floods-hundreds-of-homes-in-russias-urals?traffic_source=rss",
+            "title": "Data breach reportedly targets India’s Kudankulam nuclear power plant",
+            "link": "https://www.aljazeera.com/news/2026/7/16/data-breach-reportedly-targets-indias-kudankulam-nuclear-power-plant?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US hosts global meet on ‘far-left terror’: Who’s attending, why it matters",
-            "link": "https://www.aljazeera.com/news/2026/7/16/us-hosts-global-meet-on-far-left-terror-whos-attending-why-it-matters?traffic_source=rss",
+            "title": "Has Bali’s Melukat ritual turned into a commodified religious ceremony?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/has-balis-melukat-ritual-turned-into-a-commodified-religious-ceremony?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "John Esposito, pioneering scholar of Islam in the US, dies aged 86",
-            "link": "https://www.aljazeera.com/features/2026/7/16/john-esposito-pioneering-scholar-of-islam-in-the-us-dies-aged-86?traffic_source=rss",
+            "title": "World Cup: Why is there a third-place playoff between France and England?",
+            "link": "https://www.aljazeera.com/sports/2026/7/16/world-cup-why-is-there-a-third-place-playoff-between-france-and-england?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
+            "title": "How World Cup football jerseys became political fashion in Latin America",
+            "link": "https://www.aljazeera.com/news/longform/2026/7/16/how-world-cup-football-jerseys-became-political-fashion-in-latin-america?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,13 +95,23 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Hamza Shaikh rejects Warwickshire contract to join Leicestershire",
-            "link": "https://www.cricinfo.com/ci/content/story/1545875.html?ex_cid=OTC-RSS",
+            "title": "Mithali Raj: Mandhana should have been India captain 'two-three years back'",
+            "link": "https://www.cricinfo.com/ci/content/story/1545907.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "'They are 15 short, boys' - Ponting does a Kallis as Freedom pull off record chase",
             "link": "https://www.cricinfo.com/ci/content/story/1545872.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Buoyant Zimbabwe eye series win against depleted Bangladesh",
+            "link": "https://www.cricinfo.com/ci/content/story/1545888.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Hamza Shaikh rejects Warwickshire contract to join Leicestershire",
+            "link": "https://www.cricinfo.com/ci/content/story/1545875.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,16 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Brar warned for breaching level one of ICC Code of Conduct",
-            "link": "https://www.cricinfo.com/ci/content/story/1545859.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Smith and Gous outdo Pooran as Freedom pull off world-record chase",
-            "link": "https://www.cricinfo.com/ci/content/story/1545845.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "How coach-on-pitch Messi undid England's tactics on the fly",
             "link": "https://www.bbc.co.uk/sport/football/articles/cly5lq03l7do?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,7 +135,7 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'A true miracle of destiny' - Messi and Yamal's incredible first meeting",
+            "title": "'A true miracle of destiny' - Messi and Lamine Yamal's incredible first meeting",
             "link": "https://www.bbc.co.uk/sport/football/articles/c9w0j104rvgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -145,45 +145,45 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Why you should care about World Cup third-place play-off",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss",
+            "title": "Female tennis players faced 12,000 abusive posts in 2025",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c4gxd6vjyj1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Norris to have 10-place grid penalty in Belgium",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cj038y0levyo?at_medium=RSS&at_campaign=rss",
+            "title": "'Excellent' Archer takes quick wickets to give England control",
+            "link": "https://www.bbc.co.uk/sport/cricket/videos/cwyjw1384x0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-            "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+            "title": "Yes, you can now order DoorDash from the command line",
+            "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
             "source": "TechCrunch"
         },
         {
-            "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
-            "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+            "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
+            "link": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
             "source": "TechCrunch"
         },
         {
-            "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
-            "link": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+            "title": "Period tracker Stardust shares users’ health data with analytics firm, says Mozilla research",
+            "link": "https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/",
             "source": "TechCrunch"
         },
         {
-            "title": "Phone maker OnePlus says it won’t release new phones in the US and Europe",
-            "link": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+            "title": "Why is OpenAI selling a ChatGPT basketball?",
+            "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
             "source": "TechCrunch"
         },
         {
-            "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
-            "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+            "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+            "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
             "source": "TechCrunch"
         },
         {
-            "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-            "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+            "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
+            "link": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
             "source": "TechCrunch"
         },
         {
