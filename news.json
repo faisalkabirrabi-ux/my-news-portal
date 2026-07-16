@@ -33,34 +33,39 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "The hardest party to manage in the Iran talks isn’t Iran",
-            "link": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss",
+            "title": "Former Italian motorway chief sentenced over bridge collapse",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-italian-motorway-chief-sentenced-over-bridge-collapse?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Palestinians injured in Israeli settler attacks across West Bank",
-            "link": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
+            "title": "Ilhan Omar renews push for US to join ICC amid Trump pressure",
+            "link": "https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Syria says it foiled Hezbollah weapons shipment",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss",
+            "title": "Grand Mosque of Paris celebrates 100-year anniversary",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/grand-mosque-of-paris-celebrates-100-year-anniversary?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Wildfire smoke blankets World Cup final stadium before kickoff",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-blankets-world-cup-final-stadium-before-kickoff?traffic_source=rss",
+            "title": "FIFA to probe Argentina’s Falklands banner display at World Cup semifinal",
+            "link": "https://www.aljazeera.com/sports/2026/7/16/fifa-to-probe-argentinas-falklands-banner-display-at-world-cup-semifinal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How Syria is redefining ties with Russia",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/how-syria-is-redefining-ties-with-russia?traffic_source=rss",
+            "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
+            "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
-            "link": "https://www.aljazeera.com/news/2026/7/16/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah?traffic_source=rss",
+            "title": "Donald Trump live: US president to deliver primetime address on elections",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/donald-trump-live-us-president-to-deliver-primetime-address-on-elections?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Blasts reported in Iran as US launches new wave of strikes",
+            "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
@@ -70,11 +75,6 @@
         {
             "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
             "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Iran targets military bases as US launches wave of strikes",
-            "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -94,6 +94,11 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Joe Root happy to sacrifice ton for victory",
+            "link": "https://www.cricinfo.com/ci/content/story/1545955.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Root's classy 99 not out helps England level the series",
             "link": "https://www.cricinfo.com/ci/content/story/1545912.html?ex_cid=OTC-RSS",
@@ -120,23 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Buoyant Zimbabwe eye series win against depleted Bangladesh",
-            "link": "https://www.cricinfo.com/ci/content/story/1545888.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Some England players disappointed at tactics as Tuchel questions team's DNA",
             "link": "https://www.bbc.co.uk/sport/football/articles/cqjxl90x27ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Root's 99 not out helps England win to level series",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg8ed5zvwjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Watch The Open: First round highlights",
-            "link": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+            "title": "England learning on the job in ODIs - Root",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/ce8l1p2g88yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,7 +140,7 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Brown leads English contingent hoping to 'bring home' The Open",
+            "title": "Brown leads English contingent at The Open as McIlroy struggles",
             "link": "https://www.bbc.co.uk/sport/golf/articles/c4g4xjj052zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -153,9 +148,19 @@
             "title": "From Southgate to Tuchel - has anything changed?",
             "link": "https://www.bbc.co.uk/sport/football/articles/clyxnz36x5go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
+        },
+        {
+            "title": "England move Buenos Aires base to avoid potential World Cup party",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjej2pv4e8zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+            "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
             "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
@@ -182,9 +187,14 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
-            "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
-            "source": "TechCrunch"
+            "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+            "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+            "source": "Wired"
+        },
+        {
+            "title": "Salad Chains Are Seeing Foot Traffic Drop Over Cyclosporiasis Fears",
+            "link": "https://www.wired.com/story/explosive-diarrhea-outbreak-new-victims-salad-chains/",
+            "source": "Wired"
         },
         {
             "title": "Do Face Masks Help With Wildfire Smoke? Yes, But More Is Needed",
@@ -204,16 +214,6 @@
         {
             "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
             "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
-            "source": "Wired"
-        },
-        {
-            "title": "Swatch’s New Gold MoonSwatch Solves the Problem of the Nightmare Royal Pop Launch",
-            "link": "https://www.wired.com/story/swatch-gold-moonswatch-solves-the-problem-of-the-nightmare-royal-pop-launch/",
-            "source": "Wired"
-        },
-        {
-            "title": "XPeng’s New ‘Budget’ EV Looks Like the Ferrari Luce",
-            "link": "https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/",
             "source": "Wired"
         }
     ]
