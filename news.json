@@ -33,34 +33,39 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "ICE agent behind fatal shooting in Maine reportedly had troubled history",
-            "link": "https://www.aljazeera.com/news/2026/7/17/ice-agent-behind-fatal-shooting-in-maine-reportedly-had-troubled-history?traffic_source=rss",
+            "title": "EU urges Israel to halt settlement expansion as settlers attack children",
+            "link": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Food emergency deepens across Uganda’s Karamoja",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/food-emergency-deepens-across-ugandas-karamoja?traffic_source=rss",
+            "title": "Trump threatens Canada with steeper tariff costs over wildfire smoke",
+            "link": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "World Cup winners to receive US-style championship rings, FIFA says",
-            "link": "https://www.aljazeera.com/sports/2026/7/17/world-cup-winners-to-receive-us-style-championship-rings-fifa-says?traffic_source=rss",
+            "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
+            "link": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Houthi supporters rally in Sanaa against ‘Saudi-led blockade’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/houthi-supporters-rally-in-sanaa-against-saudi-led?traffic_source=rss",
+            "title": "US launches seventh straight night of strikes on Iran",
+            "link": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Suspected Somali pirates seize tanker near Yemen amid wave of hijackings",
-            "link": "https://www.aljazeera.com/news/2026/7/17/suspected-somali-pirates-seize-tanker-near-yemen-amid-wave-of-hijackings?traffic_source=rss",
+            "title": "Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino",
+            "link": "https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Top IRS lawyer to resign post amid disagreements with Trump administration",
-            "link": "https://www.aljazeera.com/news/2026/7/17/top-irs-lawyer-to-resign-post-amid-disagreements-with-trump-administration?traffic_source=rss",
+            "title": "Herbert leads British Open golf, equals record lowest score at a major",
+            "link": "https://www.aljazeera.com/sports/2026/7/17/herbert-leads-british-open-golf-equals-record-lowest-score-at-a-major?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+            "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
@@ -73,8 +78,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
-            "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+            "title": "White House defends Argentina team over Falklands banner",
+            "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -85,11 +90,6 @@
         {
             "title": "EU proposes slowing down cuts to carbon emissions for businesses",
             "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-            "link": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -150,12 +150,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Keep calm and carry on - Spain trust team identity to deliver World Cup",
-            "link": "https://www.bbc.co.uk/sport/football/articles/czxedvre7ryo?at_medium=RSS&at_campaign=rss",
+            "title": "White House defends Argentina team over Falklands banner",
+            "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+            "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+            "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+            "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+            "source": "TechCrunch"
+        },
         {
             "title": "The Zoom hack that says, ‘Don’t record me’",
             "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
@@ -169,21 +184,6 @@
         {
             "title": "AI-driven memory crunch jolts India’s smartphone market",
             "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-            "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-            "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
-            "link": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
             "source": "TechCrunch"
         },
         {
