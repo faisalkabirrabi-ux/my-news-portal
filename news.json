@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "আবু সাঈদের মৃত্যুতে গড়ে ওঠা জুলাইয়ের ঐক্য ভাঙলো কীভাবে?",
+            "link": "https://www.bbc.com/bengali/articles/c80nej3jpvvo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বিদেশি শিক্ষার্থীদের জন্য ভিসানীতি আরও কঠোর করলো ট্রাম্প প্রশাসন",
             "link": "https://www.bbc.com/bengali/articles/c9345e40e0po?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,57 +29,47 @@
             "title": "নরসিংদীতে শিশুর পা মুচড়ে দেওয়ার ভিডিও ভাইরাল, পারিবারিক দ্বন্দ্বে শিশুর ওপর নৃশংসতা কেন?",
             "link": "https://www.bbc.com/bengali/articles/cwyq3e92049o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভারতের বৃহত্তম পারমাণবিক কেন্দ্রের তথ্য ফাঁসের অভিযোগ, কী জানালো সরকার?",
-            "link": "https://www.bbc.com/bengali/articles/c5yv3pz9057o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "China rebukes UK over nationalisation of British Steel",
-            "link": "https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss",
+            "title": "John Esposito transformed how the West understood Islam",
+            "link": "https://www.aljazeera.com/opinions/2026/7/17/john-esposito-transformed-how-the-west-understood-islam?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Which players are favourites to be FIFA World Cup 2026 award winners?",
-            "link": "https://www.aljazeera.com/sports/2026/7/17/which-players-are-favourites-to-be-fifa-world-cup-2026-award-winners?traffic_source=rss",
+            "title": "China’s Xi says AI ‘should not be a solo performance by a single country’",
+            "link": "https://www.aljazeera.com/news/2026/7/17/ai-xi?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iranian sources say US strikes hit civilian infrastructure",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss",
+            "title": "Texas floods ravage through southwestern areas of state",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/texas-floods-ravage-through-southwestern-areas-of-state?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
-            "link": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss",
+            "title": "Key takeaways from Donald Trump’s controversial speech on election security",
+            "link": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Goa’s forgotten orchata drink lives on in family kitchens",
-            "link": "https://www.aljazeera.com/features/longform/2026/7/17/goas-forgotten-orchata-drink-lives-on-in-family-kitchens?traffic_source=rss",
+            "title": "US bombards Iran in sixth-straight night of attacks",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How three Ivorian firms are competing with global brands",
-            "link": "https://www.aljazeera.com/economy/2026/7/17/how-three-ivorian-firms-are-competing-with-global-brands?traffic_source=rss",
+            "title": "Israeli settlers attack Sinjil town in occupied West Bank",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US launches fresh wave of strikes as Iran says civilian infrastructure hit",
+            "title": "US launches new strikes as Iran says civilian infrastructure hit",
             "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-            "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-            "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+            "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+            "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,17 +78,27 @@
             "source": "BBC World"
         },
         {
-            "title": "Fifa 'assessing match reports' over Falklands banner",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
+            "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
+            "link": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-            "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+            "title": "Philippines condemns monkey video on Chinese media as racist",
+            "link": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Trump Media to sell early access to key social posts",
+            "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Short's 121* not enough as Washington Freedom make third straight MLC final",
+            "link": "https://www.cricinfo.com/ci/content/story/1545970.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Ronchi to coach Renegades in the BBL, White moves to Stars",
             "link": "https://www.cricinfo.com/ci/content/story/1545962.html?ex_cid=OTC-RSS",
@@ -120,23 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Harmer, Markram and Wolvaardt win top honours at CSA awards",
-            "link": "https://www.cricinfo.com/ci/content/story/1545930.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Effort, spirit and moments - but do England lack all-round quality?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cz64xyn4vz2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Some England players disappointed at tactics as Tuchel questions team's DNA",
+            "title": "Some England players disappointed by tactics as Tuchel questions team's DNA",
             "link": "https://www.bbc.co.uk/sport/football/articles/cqjxl90x27ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Brown leads English contingent at The Open as McIlroy struggles",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/c4g4xjj052zo?at_medium=RSS&at_campaign=rss",
+            "title": "World Cup stars who could move this summer",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c87ng4xq9nwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "What next for England? How does Tuchel fix key problems for Euro 2028?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq56djw19z2o?at_medium=RSS&at_campaign=rss",
+            "title": "How rugby union is 'booming' in football-mad Argentina",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/czx5xp7le4xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "From Southgate to Tuchel - has anything changed?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/clyxnz36x5go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "England move Buenos Aires base to avoid potential World Cup party",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjej2pv4e8zo?at_medium=RSS&at_campaign=rss",
+            "title": "Arsenal to assess Saliba back injury with surgery an option",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cp87np4282po?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Pete Hegseth’s Plan for ‘High T’ Troops Is a Junk-Science Fever Dream",
-            "link": "https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/",
+            "title": "Home Depot Promo Codes: 50% Off in July 2026",
+            "link": "https://www.wired.com/story/home-depot-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-            "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+            "title": "Paramount+ Coupon Codes and Deals for July 2026",
+            "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "Salad Chains Are Seeing Foot Traffic Drop Over Cyclosporiasis Fears",
-            "link": "https://www.wired.com/story/explosive-diarrhea-outbreak-new-victims-salad-chains/",
+            "title": "LG Promo Codes and Coupons for July 2026",
+            "link": "https://www.wired.com/story/lg-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Do Face Masks Help With Wildfire Smoke? Yes, But More Is Needed",
-            "link": "https://www.wired.com/story/wildfire-smoke-safety-guide/",
+            "title": "Walmart Promo Codes: Up to 65% Off for July 2026",
+            "link": "https://www.wired.com/story/top-walmart-promo-codes/",
             "source": "Wired"
         },
         {
-            "title": "Review: Xgimi Titan Noir Max Home Projector (2026)",
-            "link": "https://www.wired.com/story/xgimi-titan-noir-max-projector/",
+            "title": "Booking.com Promo Codes: 20% Off | July 2026",
+            "link": "https://www.wired.com/story/booking-com-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Everyone Thinks They Have the Diarrhea Parasite",
-            "link": "https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite/",
+            "title": "Chewy Promo Codes: $20 Off July 2026",
+            "link": "https://www.wired.com/story/chewy-promo-code/",
             "source": "Wired"
         }
     ]
