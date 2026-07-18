@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "তাজমহল এককালে মন্দির ছিল বলে আবার দাবি; কী বলছে ইতিহাস?",
+            "link": "https://www.bbc.com/bengali/articles/cg7m9ddzrz8o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "হরমুজ প্রণালি: বিকল্প কোনো রুট কি উপসাগরীয় তেল ও গ্যাসের সরবরাহ সচল রাখতে পারবে?",
             "link": "https://www.bbc.com/bengali/articles/cly5wyx8qdxo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "তরবারির জোরে নয়, আরব বণিকদের মাধ্যমে যেভাবে ভারতে এসেছিল ইসলাম",
             "link": "https://www.bbc.com/bengali/articles/c8r26775rdpo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "সাগরে নিখোঁজ ৫০০ জনের বেশি রোহিঙ্গা- কী ঘটেছে?",
-            "link": "https://www.bbc.com/bengali/articles/cj4kx48d2n5o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "EU urges Israel to halt settlement expansion as settlers attack children",
-            "link": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss",
+            "title": "Iranian official says the policy of negotiating during war is over",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump threatens Canada with steeper tariff costs over wildfire smoke",
-            "link": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss",
+            "title": "Israeli army destroys three schools in southern Lebanon, minister says",
+            "link": "https://www.aljazeera.com/news/2026/7/18/israeli-army-destroys-three-schools-in-southern-lebanon-minister-says?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
-            "link": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
+            "title": "Targets of latest US strikes on Iran signal strategic shift",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/targets-of-latest-us-strikes-on-iran-signal-strategic-shift?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US launches seventh straight night of strikes on Iran",
-            "link": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
+            "title": "Analyst questions Trump’s renewed focus on US election integrity",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/analyst-questions-trumps-renewed-focus-on-us-election-integrity?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino",
-            "link": "https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss",
+            "title": "Landslide in southwest China kills eight and leaves 34 missing",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/landslide-in-southwest-china-kills-eight-and-leaves-34-missing?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Herbert leads British Open golf, equals record lowest score at a major",
-            "link": "https://www.aljazeera.com/sports/2026/7/17/herbert-leads-british-open-golf-equals-record-lowest-score-at-a-major?traffic_source=rss",
+            "title": "Trump Media reportedly mulling fee for first access to social media posts",
+            "link": "https://www.aljazeera.com/news/2026/7/18/trump-media-reportedly-mulling-fee-for-first-access-to-social-media-posts?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,8 +68,8 @@
             "source": "BBC World"
         },
         {
-            "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
-            "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+            "title": "US strikes hit Iran for seventh consecutive night",
+            "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -125,8 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "DeChambeau receives two-shot penalty in dramatic Open scenes",
+            "title": "'They made him a defensive player' - Trump questions Kane role in loss",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Two-shot penalty 'fires up' Open contender DeChambeau",
             "link": "https://www.bbc.co.uk/sport/golf/articles/cjd45x7vgz7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "The ultimate all-round sportsman - Sobers could do it all",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,23 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "The 'ultimate all-round sportsman' - Sobers could do it all",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Antonelli tops FP2 as Gasly crashes heavily at Spa",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Stick with Tuchel unless Guardiola is available - Rooney",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c304ldrmmero?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "White House defends Argentina team over Falklands banner",
             "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "How Birkdale crowd helped carry Fleetwood into contention",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/cvg8wv88j22o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
