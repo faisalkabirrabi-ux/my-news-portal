@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "শেখ হাসিনার দেশে ফেরা : 'ঘোষণা' কম, 'জল মাপা'ই বেশি?",
+            "link": "https://www.bbc.com/bengali/articles/ce8k87yryp9o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "'দূষিত' ধোঁয়া ছড়ানোর অভিযোগে কানাডার ওপর নতুন শুল্ক আরোপের হুমকি ট্রাম্পের",
             "link": "https://www.bbc.com/bengali/articles/c79gnvvgg21o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,29 @@
             "title": "আবু সাঈদের মৃত্যুতে গড়ে ওঠা জুলাইয়ের ঐক্য ভাঙলো কীভাবে?",
             "link": "https://www.bbc.com/bengali/articles/c80nej3jpvvo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বিদেশি শিক্ষার্থীদের জন্য ভিসানীতি আরও কঠোর করলো ট্রাম্প প্রশাসন",
-            "link": "https://www.bbc.com/bengali/articles/c9345e40e0po?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Palestine football fans honour Egyptian coach Hossam Hassan",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/palestine-football-fans-honour-egyptian-coach-hossam-hassan?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "World Cup final weekend: France vs England prediction, schedule, news",
+            "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-weekend-france-vs-england-prediction-schedule-news?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Kolkata sings for Messi as World Cup fever takes hold",
+            "link": "https://www.aljazeera.com/features/longform/2026/7/18/kolkata-sings-for-messi-as-world-cup-fever-takes-hold-2?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "France vs England: Deschamps set for final World Cup match as Zidane waits",
+            "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-france-england-third-place-playoff-deschamps-zidane-coach?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
             "link": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
@@ -43,24 +63,9 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "England carry ‘scars’ of World Cup heartbreak into third-place playoff",
-            "link": "https://www.aljazeera.com/news/2026/7/18/england-france-fifa-world-cup-third-place-playoff-tuchel?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Messi reflects on pressure and competition ahead of World Cup final",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/messi-reflects-on-pressure-and-competition-ahead-of-world-cup-final?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump jokes that England turned Harry Kane into a ‘defensive player’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/trump-jokes-that-england-turned-harry-kane-into-a-defensive?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "US strikes hit Iran for seventh consecutive night",
+            "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
@@ -68,13 +73,13 @@
             "source": "BBC World"
         },
         {
-            "title": "US strikes hit Iran for seventh consecutive night",
-            "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+            "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+            "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-            "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+            "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+            "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,14 +91,14 @@
             "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
             "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
-            "link": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Refreshed Knight Riders face usual suspects Freedom in MLC final",
+            "link": "https://www.cricinfo.com/ci/content/story/1546074.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Tammy Beaumont, Sarah Bryce burn through run chase as The Blaze triumph",
             "link": "https://www.cricinfo.com/ci/content/story/1546051.html?ex_cid=OTC-RSS",
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Greaves and King return for final two ODIs against New Zealand",
-            "link": "https://www.cricinfo.com/ci/content/story/1546034.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Defiant Tuchel defends decisions and says loss is 'scar we carry now'",
             "link": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,23 +135,23 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Rooney, Hart and Richards row down Hudson River",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c3w0p810dj9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "'They made him a defensive player' - Trump questions Kane role in semi",
             "link": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "The ultimate all-round sportsman - Sobers could do it all",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&at_campaign=rss",
+            "title": "Best finishers, defensive kings & runners - World Cup finalists in numbers",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c0rd8zrwvwno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "White House defends Argentina team over Falklands banner",
-            "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "How Birkdale crowd helped carry Fleetwood into contention",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/cvg8wv88j22o?at_medium=RSS&at_campaign=rss",
+            "title": "Familiar faces return for men's T20 Blast Finals Day",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cj038edq162o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
