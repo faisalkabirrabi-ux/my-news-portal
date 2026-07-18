@@ -33,6 +33,11 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "World Cup final tickets near $2.3m mark on FIFA’s resale platform",
+            "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -55,11 +60,6 @@
         {
             "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
             "link": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
-            "link": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Refreshed Knight Riders face usual suspects Freedom in MLC final",
+            "link": "https://www.cricinfo.com/ci/content/story/1546074.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Lehmann cool on England job, suggests ECB has identified McCullum successor",
+            "link": "https://www.cricinfo.com/ci/content/story/1546156.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Vasconcelos leads the fight as Northants scrap for thrilling third T20 Blast title",
             "link": "https://www.cricinfo.com/ci/content/story/1546155.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -115,14 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "West Indies, New Zealand meet in Sobers' country to celebrate him",
-            "link": "https://www.cricinfo.com/ci/content/story/1546114.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Captain Willey takes Northants into final with scrappy defence",
-            "link": "https://www.cricinfo.com/ci/content/story/1546107.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Rate England and France players in third-place play-off",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c2lylzk04npo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Chelsea agree record £117m deal for Villa's Rogers",
@@ -135,13 +140,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Britain's Kerr breaks 27-year mile world record in London",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Northants claim third T20 Blast title after beating Hants",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c1m191jkkm3o?at_medium=RSS&at_campaign=rss",
+            "title": "England beat Argentina in thriller after late TMO call",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cn4ny04qnv0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Tandy bitterly disappointed by South Africa drubbing",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckg62xwdwpxo?at_medium=RSS&at_campaign=rss",
+            "title": "Britain's Kerr breaks 27-year mile world record in London",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
