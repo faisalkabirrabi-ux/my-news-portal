@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Latin America unites to cheer against Argentina in FIFA World Cup final",
+            "link": "https://www.aljazeera.com/sports/2026/7/18/latin-america-unites-to-cheer-against-argentina-in-fifa-world-cup-final?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Palestinian teenage footballer dies a week after Israeli settler attack",
             "link": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
             "link": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Thousands rally in London in support of Gaza, demand new PM take action",
-            "link": "https://www.aljazeera.com/news/2026/7/18/thousands-rally-in-london-in-support-of-gaza-demand-new-pm-take-action?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
-            "link": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Vasconcelos leads the fight as Northants scrap for thrilling third T20 Blast title",
+            "link": "https://www.cricinfo.com/ci/content/story/1546155.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Rowles 201 crushes England U19s before Basson wreaks havoc",
             "link": "https://www.cricinfo.com/ci/content/story/1546149.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,28 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Muneeba to lead new-look Pakistan T20I squad against SL in Sana's absence",
-            "link": "https://www.cricinfo.com/ci/content/story/1546109.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Chelsea agree record £117m deal for Villa's Rogers",
             "link": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Watch The Open: Third round highlights",
-            "link": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Britain's Kerr breaks 27-year mile world record in London",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Russell 'infuriated' by straight-line issue that leaves him 'powerless'",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/clyq6q12dkko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +135,23 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'Absolutely fabulous' - best shots from third round of The Open",
-            "link": "https://www.bbc.co.uk/sport/golf/videos/cp3r90lv36zo?at_medium=RSS&at_campaign=rss",
+            "title": "Britain's Kerr breaks 27-year mile world record in London",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Northants claim third T20 Blast title after beating Hants",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c1m191jkkm3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Russell 'infuriated' by straight-line issue that leaves him 'powerless'",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/clyq6q12dkko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Tandy bitterly disappointed by South Africa drubbing",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckg62xwdwpxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -192,13 +192,13 @@
             "source": "Wired"
         },
         {
-            "title": "The Best Motion Sensors and Home Security Gadgets Without Cameras",
-            "link": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
+            "title": "Your Period Tracker Is (Probably) Spying on You",
+            "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
             "source": "Wired"
         },
         {
-            "title": "Your Period Tracker Is (Probably) Spying on You",
-            "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+            "title": "The Best Motion Sensors and Home Security Gadgets Without Cameras",
+            "link": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
             "source": "Wired"
         },
         {
