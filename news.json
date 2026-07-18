@@ -33,12 +33,22 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final",
+            "link": "https://www.aljazeera.com/video/2026/7/18/video-world-cup-2026-highlights?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "World Cup final: Spain vs Argentina – Which team has best chance to win?",
+            "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-spain-and-argentina-whose-form-guide-points-to-victory?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Palestine football fans honour Egyptian coach Hossam Hassan",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/palestine-football-fans-honour-egyptian-coach-hossam-hassan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "World Cup final weekend: France vs England prediction, schedule, news",
+            "title": "From France vs England to Messi vs Yamal: World Cup final weekend",
             "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-weekend-france-vs-england-prediction-schedule-news?traffic_source=rss",
             "source": "আল জাজিরা"
         },
@@ -50,16 +60,6 @@
         {
             "title": "France vs England: Deschamps set for final World Cup match as Zidane waits",
             "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-france-england-third-place-playoff-deschamps-zidane-coach?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-            "link": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Canadian wildfire smoke shrouds US, potential risk for World Cup final",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/canadian-wildfire-smoke-shrouds-us-potential-risk-for-world-cup-final?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -100,6 +100,11 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Washington out of India's third ODI against England",
+            "link": "https://www.cricinfo.com/ci/content/story/1546007.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Tammy Beaumont, Sarah Bryce burn through run chase as The Blaze triumph",
             "link": "https://www.cricinfo.com/ci/content/story/1546051.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -117,11 +122,6 @@
         {
             "title": "Garry Sobers dies, aged 89",
             "link": "https://www.cricinfo.com/ci/content/story/1546030.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Heather Graham shines in tense finish as Durham stun Hampshire",
-            "link": "https://www.cricinfo.com/ci/content/story/1546039.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -145,8 +145,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Best finishers, defensive kings & runners - World Cup finalists in numbers",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c0rd8zrwvwno?at_medium=RSS&at_campaign=rss",
+            "title": "Argentina like to leave mark on opponents - Laporte",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cj63e8l0kjjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -187,6 +187,16 @@
             "source": "TechCrunch"
         },
         {
+            "title": "The Best Tech for Back to School",
+            "link": "https://www.wired.com/story/best-tech-gear-back-to-school/",
+            "source": "Wired"
+        },
+        {
+            "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+            "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+            "source": "Wired"
+        },
+        {
             "title": "SteelSeries Coupon Codes: 15% Off in July 2026",
             "link": "https://www.wired.com/story/steelseries-coupon-code/",
             "source": "Wired"
@@ -204,16 +214,6 @@
         {
             "title": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
             "link": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
-            "source": "Wired"
-        },
-        {
-            "title": "ICE Is Using Data Broker Tools to ‘Identify Unaccompanied Minors’ and ‘Fraud’",
-            "link": "https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/",
-            "source": "Wired"
-        },
-        {
-            "title": "‘The Odyssey’ Backlash Failed Tremendously",
-            "link": "https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/",
             "source": "Wired"
         }
     ]
