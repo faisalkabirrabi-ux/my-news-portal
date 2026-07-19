@@ -1,13 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "জামায়াত জোট থেকে কী কওমি ধারার দলগুলো বেরিয়ে যাচ্ছে",
+            "title": "জামায়াত জোট থেকে কি কওমি ধারার দলগুলো বেরিয়ে যাচ্ছে",
             "link": "https://www.bbc.com/bengali/articles/c4gvp04800yo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "শাপলা চত্বরে হেফাজতের সমাবেশ ঘিরে মানবতাবিরোধী অপরাধ মামলার খসড়া প্রতিবেদন জমা",
+            "title": "সাবেক ভূমিমন্ত্রীর গুলশানের দুই ফ্ল্যাটে তিনশোর বেশি কোট, পাঁচশোর বেশি টাই ও রোলেক্স ঘড়ি",
             "link": "https://www.bbc.co.uk/bengali/live/cg5l725880lt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ইতিহাসের দ্বারপ্রান্তে মেসি, আজই কি হতে পারে তার শেষ বিশ্বকাপ ম্যাচ?",
+            "link": "https://www.bbc.com/bengali/articles/cqlxr6ddl2no?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,42 +29,37 @@
             "title": "পত্রিকা: 'জুলাইয়ের ঘটনায় ভুয়া মামলা ফাঁসছেন বাদীরা'",
             "link": "https://www.bbc.com/bengali/articles/ckg3011xe1zo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভিসানীতিতে পরিবর্তন- জটিলতায় পড়তে পারেন যুক্তরাষ্ট্রে পড়তে যাওয়া বাংলাদেশি শিক্ষার্থীরা?",
-            "link": "https://www.bbc.com/bengali/articles/c98v1182938o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Why have India’s Gen Z protesters called for a march to parliament?",
-            "link": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament?traffic_source=rss",
+            "title": "Why is Argentina’s football team so white?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/why-is-argentinas-football-team-so-white?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Indian court rejects bid to release hunger-striking activist from hospital",
-            "link": "https://www.aljazeera.com/news/2026/7/19/indian-court-rejects-bid-to-release-hunger-striking-activist-from-hospital?traffic_source=rss",
+            "title": "Iran attacks US Gulf allies, causing a fire at Kuwait power plant",
+            "link": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Spain or Argentina, who will win the FIFA World Cup? Ex-player predictions",
-            "link": "https://www.aljazeera.com/sports/2026/7/19/spain-argentina-fifa-world-cup-who-will-win-prediction-ex-players?traffic_source=rss",
+            "title": "Who controls football in Palestine?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/who-controls-football-in-palestine?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "India’s cockroach politics is no joke",
-            "link": "https://www.aljazeera.com/opinions/2026/7/19/indias-cockroach-politics-is-no-joke?traffic_source=rss",
+            "title": "The story behind football stars Messi and Yamal’s viral photo",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-football-stars-messi-and-yamals-viral-photo?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "FIFA World Cup: Tobin Heath on record goals, France and Lamine Yamal",
-            "link": "https://www.aljazeera.com/sports/2026/7/19/tobin-heath-fifa-world-cup-2026-football-analysis-players-teams-tournament?traffic_source=rss",
+            "title": "Why is China protesting about the nationalisation of British Steel?",
+            "link": "https://www.aljazeera.com/news/2026/7/19/why-is-a-chinese-company-protesting-over-uk-nationalising-a-steel-plant?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Guyana ferry with 116 people on board capsizes; more than 50 rescued",
-            "link": "https://www.aljazeera.com/news/2026/7/19/guyana-ferry-with-116-people-aboard-capsizes?traffic_source=rss",
+            "title": "Lebanon convicts influencer of smuggling drugs in biscuits",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/lebanon-convicts-influencer-of-smuggling-drugs-in-biscuits?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,21 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Duckett 141 headlines England rampage to 387",
+            "link": "https://www.cricinfo.com/ci/content/story/1546247.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Bangladesh win dramatic finale to clinch T20I series against Zimbabwe",
+            "link": "https://www.cricinfo.com/ci/content/story/1546248.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "New Zealand bowl with Mitchell injured; West Indies make four changes",
+            "link": "https://www.cricinfo.com/ci/content/story/1546240.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Zimbabwe opt to bat in series decider",
             "link": "https://www.cricinfo.com/ci/content/story/1546207.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -110,21 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Hope wants West Indies to get 'the results we really want' to honour Sobers",
-            "link": "https://www.cricinfo.com/ci/content/story/1546180.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Los Angeles Knight Riders pull off last-ball win for first MLC title",
-            "link": "https://www.cricinfo.com/ci/content/story/1546178.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Lehmann cool on England job, suggests ECB has identified McCullum successor",
-            "link": "https://www.cricinfo.com/ci/content/story/1546156.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Messi on the brink of history - will it be his last World Cup game?",
             "link": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,13 +135,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Argentina coach accuses England of lack of respect",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cn4nvx0zxzqo?at_medium=RSS&at_campaign=rss",
+            "title": "Antonelli wins to extend lead after Russell crashes out",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cevmymn2kd8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "No ODI century but Bethell helps England to stunning start",
-            "link": "https://www.bbc.co.uk/sport/cricket/videos/c79gz38pjx8o?at_medium=RSS&at_campaign=rss",
+            "title": "Patience, power, perfection - Duckett's record-breaking innings",
+            "link": "https://www.bbc.co.uk/sport/cricket/videos/cj9dnek1m2do?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -156,6 +156,16 @@
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+            "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+            "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Waymo says San Francisco service has resumed after one-hour pause",
             "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
@@ -177,23 +187,13 @@
             "source": "TechCrunch"
         },
         {
-            "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-            "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Neil Rimer thinks the AI money is coming back out",
-            "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-            "source": "TechCrunch"
+            "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+            "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+            "source": "Wired"
         },
         {
             "title": "How to Disable Music Videos in Spotify",
             "link": "https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-            "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
             "source": "Wired"
         },
         {
