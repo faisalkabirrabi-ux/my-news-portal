@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Israeli ministers join march to Gaza to demand return of settlements",
+            "link": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "World Cup 2026: What are the extra time and penalty shootout rules?",
+            "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "What happened in the first half of the Spain vs Argentina World Cup final?",
             "link": "https://www.aljazeera.com/sports/2026/7/19/what-happened-in-the-first-half-of-the-spain-vs-argentina-world-cup-final?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "The UK gets its seventh prime minister in 10 years",
             "link": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Five passengers found drifting days after boat sinks in Indonesia",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/five-passengers-found-drifting-days-after-boat-sinks-in-indonesia?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-light-up-nycs-little-argentina-ahead-of-spain-world-cup-final-clash?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -135,8 +135,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Madonna, Justin Bieber, Shakira and BTS perform at World Cup half-time show",
+            "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
             "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Watch The Open: Final round highlights",
+            "link": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -148,14 +153,19 @@
             "title": "England seal series with record Lord's ODI total",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/cglj4n91744o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Russell 'numb to disappointment' after bitter blow to title hopes",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/clyvg82xlpdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+            "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "What to watch for after Jensen Huang’s Japan visit",
+            "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
             "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
@@ -174,16 +184,6 @@
         {
             "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
             "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Waymo says San Francisco service has resumed after one-hour pause",
-            "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Kimi: Threat or menace?",
-            "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
             "source": "TechCrunch"
         },
         {
