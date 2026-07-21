@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "বাংলাদেশে হাম উপসর্গে মৃত্যুর সংখ্যা আটশোর কাছাকাছি",
+            "title": "নরেন্দ্র মোদীর বাসভবনের বাইরে থেকে রাহুল গান্ধী ও প্রিয়াঙ্কা গান্ধী আটক",
             "link": "https://www.bbc.co.uk/bengali/live/c9348yg9kv4t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ভিডিওতে ভাইরাল এমপি গাজী নজরুল, জামায়াত এখন কী করবে",
+            "link": "https://www.bbc.com/bengali/articles/cp9en88xjk4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,42 +29,37 @@
             "title": "পশ্চিমবঙ্গে তৃণমূল কংগ্রেসের রাজনীতিতে ২১শে জুলাইয়ের মালিকানা নিয়ে কাড়াকাড়ি",
             "link": "https://www.bbc.com/bengali/articles/cgq5y5v259qo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'বেনজীরকে ফেরত দিতে সম্মত দুবাই'",
-            "link": "https://www.bbc.com/bengali/articles/crmrn7znzxxo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "India tunnel collapse at a hydropower project kills 10 as 17 remain missing",
-            "link": "https://www.aljazeera.com/news/2026/7/21/india-tunnel-collapse-at-a-hydropower-project-kills-10-as-17-remain-missing?traffic_source=rss",
+            "title": "FIFA ‘destroying football’ for the World Cup, says Spanish football chief",
+            "link": "https://www.aljazeera.com/sports/2026/7/21/fifa-destroying-football-for-the-world-cup-says-spanish-football-chief?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
-            "link": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss",
+            "title": "Israel has ‘no interest’ in joining US war on Iran, says Smotrich",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israel-has-no-interest-in-joining-us-war-on-iran-says-smotrich?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump’s new 50 percent Canada tariffs: What products are affected and why?",
-            "link": "https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why?traffic_source=rss",
+            "title": "Saudi condemns Houthi blockade: How will the rest of the world be impacted?",
+            "link": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Bodycam shows Florida student tased and arrested by campus police",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/bodycam-shows-florida-student-tased-and-arrested-by-campus-police?traffic_source=rss",
+            "title": "Searching for closure: Venezuela families refuse to give up after quakes",
+            "link": "https://www.aljazeera.com/features/2026/7/21/searching-for-closure-venezuela-families-refuse-to-give-up-after-quakes?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Baby trafficking ringleader jailed for 7 years",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/baby-trafficking-ringleader-jailed-for-7-years?traffic_source=rss",
+            "title": "Japan’s AI gamble: Can technology offset the cost of an ageing society?",
+            "link": "https://www.aljazeera.com/features/2026/7/21/japan-ai-gamble-can-technology-offset-the-cost-of-an-ageing-society?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Mexican drug lord ‘El Mayo’ sentenced to life in US prison",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mexican-drug-lord-el-mayo-sentenced-to-life-in-us-prison?traffic_source=rss",
+            "title": "ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis",
+            "link": "https://www.aljazeera.com/news/2026/7/21/asean-diplomats-voice-serious-concern-over-iran-war-and-energy-crisis?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,12 +88,17 @@
             "source": "BBC World"
         },
         {
-            "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
-            "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+            "title": "Israeli air strike in Gaza City kills family of six, medics say",
+            "link": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Jacob Bethell ruled out of Hundred with knee injury",
+            "link": "https://www.cricinfo.com/ci/content/story/1546471.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Cummins, Hazlewood, Lyon return to face Bangladesh",
             "link": "https://www.cricinfo.com/ci/content/story/1546407.html?ex_cid=OTC-RSS",
@@ -115,14 +120,24 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Jacob Bethell ruled out of Hundred with knee injury",
-            "link": "https://www.cricinfo.com/ci/content/story/1546471.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Matt Walker to take over from Paul Farbrace as Sussex head coach",
             "link": "https://www.cricinfo.com/ci/content/story/1546466.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Fernandez defends Argentina as Messi questions remain",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c8jn91e9mdyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "'They want us gone' - Man Utd fans' fury over ticket ultimatum",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c2elxzrpw4eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "'Pressure is intense and scrutiny constant' - referee Taylor retires",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c87n8ydlegqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Infantino's 'time is up' with Fifa - La Liga boss",
@@ -135,56 +150,51 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Ferguson says Keegan built Newcastle's greatest team",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cpd7nzxzdjqo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "What could Burnham as PM mean for sport?",
-            "link": "https://www.bbc.co.uk/sport/olympics/articles/c80nvp5d1mno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Bournemouth midfielder Scott rejects new contract",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why was Hamilton penalised but not Leclerc? - F1 Q&A",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss",
+            "title": "Progress or standing still - where are England under Borthwick?",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/crr8r25yv7vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-            "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+            "title": "US threatens sanctions against Chinese AI models over IP theft",
+            "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
             "source": "TechCrunch"
         },
         {
-            "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
-            "link": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
+            "title": "Light made a flip phone. It’s colorful and it’s cheap.",
+            "link": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
             "source": "TechCrunch"
         },
         {
-            "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-            "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+            "title": "After TikTok, Snap settles social media addiction case",
+            "link": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
             "source": "TechCrunch"
         },
         {
-            "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-            "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+            "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
+            "link": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
             "source": "TechCrunch"
         },
         {
-            "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
-            "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+            "title": "What to know about the landmark Warner Bros. Discovery sale",
+            "link": "https://techcrunch.com/2026/07/21/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
             "source": "TechCrunch"
         },
         {
-            "title": "Trump’s latest AI czar has already resigned",
-            "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+            "title": "UK government scraps plans for digital ID cards after millions of Brits opposed",
+            "link": "https://techcrunch.com/2026/07/21/uk-government-scraps-plans-for-digital-id-cards-after-millions-of-brits-opposed/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+            "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+            "source": "Wired"
+        },
+        {
+            "title": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
+            "link": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/",
+            "source": "Wired"
         },
         {
             "title": "The Great Peptide Cash Grab Has Begun",
@@ -204,16 +214,6 @@
         {
             "title": "The Best Smart Home Accessories to Boost Your Curb Appeal (2026)",
             "link": "https://www.wired.com/story/smart-home-curb-appeal-looks/",
-            "source": "Wired"
-        },
-        {
-            "title": "Abdul El-Sayed Is an Epidemiologist Running for Senate. His State Is a Public Health Disaster",
-            "link": "https://www.wired.com/story/abdul-el-sayed-michigan-is-public-health-disaster/",
-            "source": "Wired"
-        },
-        {
-            "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
-            "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
             "source": "Wired"
         }
     ]
