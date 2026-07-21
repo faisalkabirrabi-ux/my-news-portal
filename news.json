@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Daytime Russian strike kills three in Zaporizhzhia",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss",
+            "title": "Zelenskyy replaces Ukraine military chief after protests",
+            "link": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "French parliament passes social media ban for under-15s",
-            "link": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss",
+            "title": "Drone shows scorched landscape after Spain wildfire",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US funding cuts deal blow to global HIV treatment: Report",
-            "link": "https://www.aljazeera.com/news/2026/7/21/us-funding-cuts-deal-blow-to-global-hiv-treatment-report?traffic_source=rss",
+            "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
+            "link": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Deposed Turkish opposition leader plans new party",
-            "link": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss",
+            "title": "Iran holds funerals for children killed in Minab school strike",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
-            "link": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss",
+            "title": "How will Khalil al-Hayya’s leadership shape Hamas?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Spain battles latest in series of major wildfires near Madrid",
-            "link": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
+            "title": "Guyana reports ferry disaster death toll rises to 41",
+            "link": "https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -130,28 +130,28 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Bournemouth reject £64m bid from Chelsea for Scott",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Littler throws nine-darter in superb Matchplay win",
+            "link": "https://www.bbc.co.uk/sport/darts/articles/cn9nge10504o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "What can Hearts pick from debris of ongoing summer of hurt?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cz05re7pe7ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Iraola wants Mac Allister & Alisson to stay with Liverpool",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cpd7n21n2qno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Fernandez defends Argentina as Messi questions remain",
             "link": "https://www.bbc.co.uk/sport/football/articles/c8jn91e9mdyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'They want us gone' - Man Utd fans' fury over ticket ultimatum",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c2elxzrpw4eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Consortium in talks to buy Liverpool minority stake",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1j1081dyn1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Tours form new alliance in latest blow to LIV Golf",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/c1l1nq0y025o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Chelsea interested in former Man City defender Stones",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cg4dze3ellko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+            "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+            "source": "Wired"
+        },
+        {
             "title": "Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos",
             "link": "https://www.wired.com/story/best-buy-black-friday-in-july-2026/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
             "link": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/",
-            "source": "Wired"
-        },
-        {
-            "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-            "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
             "source": "Wired"
         }
     ]
