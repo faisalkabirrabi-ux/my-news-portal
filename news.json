@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Explosions in Iran as US launches new strikes",
+            "link": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
+            "link": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
+            "link": "https://www.aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Moldova chooses new prime minister as it pushes for EU membership",
+            "link": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Zelenskyy replaces Ukraine military chief after protests",
             "link": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Drone shows scorched landscape after Spain wildfire",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
-            "link": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran holds funerals for children killed in Minab school strike",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "How will Khalil al-Hayya’s leadership shape Hamas?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Guyana reports ferry disaster death toll rises to 41",
-            "link": "https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Meta is testing an AI bedtime story app for people with no imagination",
+            "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "These are the countries moving to ban social media for children",
             "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
             "source": "TechCrunch"
@@ -182,12 +187,12 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Einride bets $38M on EV charging as it scales electric trucking",
-            "link": "https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/",
-            "source": "TechCrunch"
+            "title": "Is the All-New Range Rover GT Stepping on Jaguar’s Tail?",
+            "link": "https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/",
+            "source": "Wired"
         },
         {
-            "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+            "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
             "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
             "source": "Wired"
         },
@@ -209,11 +214,6 @@
         {
             "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
             "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
-            "link": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/",
             "source": "Wired"
         }
     ]
