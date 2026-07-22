@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "মানহীন আট পণ্য প্রত্যাহারের নির্দেশ, বাজারের বাকি পণ্য কি নিরাপদ?",
+            "link": "https://www.bbc.com/bengali/articles/c5yw8p9ep99o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ইরান যুদ্ধে বিলিয়ন ডলার খরচের তথ্য দিলেন মার্কিন প্রতিরক্ষামন্ত্রী, আরো অর্থ চাইছে পেন্টাগন",
+            "link": "https://www.bbc.com/bengali/articles/c98v32l66m9o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "লামিন ইয়ামাল ও নিকো উইলিয়ামসের অভিবাসী পরিবার ও সাফল্যের গল্প",
             "link": "https://www.bbc.com/bengali/articles/ckgenlyx808o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,52 +29,47 @@
             "title": "মোদীর বাসভবনের বাইরে বিক্ষোভরত রাহুল ও প্রিয়াঙ্কা গান্ধীকে জোর করে সরিয়ে দিয়েছে পুলিশ",
             "link": "https://www.bbc.co.uk/bengali/live/c9348yg9kv4t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভিডিওতে ভাইরাল এমপি গাজী নজরুল, জামায়াত এখন কী করবে",
-            "link": "https://www.bbc.com/bengali/articles/cp9en88xjk4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ককরোচ পার্টির আন্দোলন কি মোদী সরকারের জন্য 'বিপদঘণ্টা'?",
-            "link": "https://www.bbc.com/bengali/articles/c5yw8pe5wv5o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
-            "link": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss",
+            "title": "Iran toll in Hormuz would set ‘dangerous precedent’ says Rubio",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/iran-toll-in-hormuz-would-set-dangerous-precedent-says-rubio?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "More than 140 dead, missing on refugee boat stranded off Mauritania",
-            "link": "https://www.aljazeera.com/news/2026/7/22/more-than-140-dead-missing-on-refugee-boat-stranded-off-mauritania?traffic_source=rss",
+            "title": "Can Pakistan-administered Kashmir’s election overcome a violent summer?",
+            "link": "https://www.aljazeera.com/features/2026/7/22/can-pakistan-administered-kashmirs-election-overcome-a-violent-summer?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "France becomes first EU country to officially ban social media for children",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/france-becomes-first-eu-country-to-officially-ban-social-media-for-children?traffic_source=rss",
+            "title": "Goats of football: Indian village holds tournament with an indigenous twist",
+            "link": "https://www.aljazeera.com/news/2026/7/22/goats-of-football-indian-village-holds-tournament-with-an-indigenous-twist?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How armed group alliances are reshaping Mali’s conflict and the wider Sahel",
-            "link": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss",
+            "title": "US expands strikes on 11th straight night of attacks",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company",
-            "link": "https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company?traffic_source=rss",
+            "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US targets China in move to ban military-grade drone imports",
-            "link": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss",
+            "title": "Guyana ferry capsize death toll rises to 53 as survivors describe terror",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/guyana-ferry-capsize-death-toll-rises-to-53-as-survivors-describe-terror?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
             "title": "Zelensky sacks Ukraine's top army commander after days of protests",
             "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say",
+            "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,14 +91,29 @@
             "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
             "link": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-            "link": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Sammy: 'We didn't pick Lawes just out of our heart'",
+            "link": "https://www.cricinfo.com/ci/content/story/1547016.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Madhevere and Nyamhuri return for Zimbabwe's T20I series against India",
+            "link": "https://www.cricinfo.com/ci/content/story/1547008.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Babar, Awais hit centuries and Mohammad Ali bags five-for in Pakistan's tour game",
+            "link": "https://www.cricinfo.com/ci/content/story/1546986.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "'Invigorated' Smith remains vital for uncertain batting order",
+            "link": "https://www.cricinfo.com/ci/content/story/1546969.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Warner pleads guilty to drink driving",
             "link": "https://www.cricinfo.com/ci/content/story/1546988.html?ex_cid=OTC-RSS",
@@ -105,33 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Babar, Awais hit centuries and Mohammad Ali bags five-for in Pakistan's tour game",
-            "link": "https://www.cricinfo.com/ci/content/story/1546986.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Mott named Sydney Sixers BBL coach, leaves WBBL role",
-            "link": "https://www.cricinfo.com/ci/content/story/1546972.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Pooran, Curran power MI London to opening-night romp",
-            "link": "https://www.cricinfo.com/ci/content/story/1546966.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "West Indies bowl first and pick Hetmyer in the bid for consolation win",
-            "link": "https://www.cricinfo.com/ci/content/story/1546951.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Chelsea sign £117m Rogers - what will he bring?",
             "link": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Bournemouth reject £64m bid from Chelsea for Scott",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
+            "title": "Why Chelsea have signed so many Man City academy graduates",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cpd7nqnq2w6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Iraola wants Mac Allister & Alisson to stay with Liverpool",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cpd7n21n2qno?at_medium=RSS&at_campaign=rss",
+            "title": "Bournemouth reject £64m bid from Chelsea for Scott",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Fernandez defends Argentina as Messi questions remain",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c8jn91e9mdyo?at_medium=RSS&at_campaign=rss",
+            "title": "Iraola wants Mac Allister & Alisson to stay with Liverpool",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cpd7n21n2qno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
