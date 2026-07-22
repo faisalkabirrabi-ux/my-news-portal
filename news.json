@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বাংলাদেশের কিছু এলাকায় অতিভারী বৃষ্টি ও পার্বত্য অঞ্চলে পাহাড় ধসের সতর্কবার্তা",
+            "link": "https://www.bbc.co.uk/bengali/live/c3v0rgnwlw2t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "রাজনৈতিক কার্টুন: জুলাইয়ের হাতিয়ারই আঘাত করছে 'চেতনায়'?",
+            "link": "https://www.bbc.com/bengali/articles/cz7dwd2j2yjo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "মানহীন আট পণ্য প্রত্যাহারের নির্দেশ, বাজারের বাকি পণ্য কি নিরাপদ?",
             "link": "https://www.bbc.com/bengali/articles/c5yw8p9ep99o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "পত্রিকা: 'রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র: তিন টাকায় ১ টাকা অনিয়ম'",
             "link": "https://www.bbc.com/bengali/articles/cz05rj87mmlo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'ঘুমের মধ্যে স্বপ্নে দেখি- কেউ মনে হয় আমাকে আগুনে ফেলে দিচ্ছে'",
-            "link": "https://www.bbc.com/bengali/articles/cr7kvm3kk5po?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মোদীর বাসভবনের বাইরে বিক্ষোভরত রাহুল ও প্রিয়াঙ্কা গান্ধীকে জোর করে সরিয়ে দিয়েছে পুলিশ",
-            "link": "https://www.bbc.co.uk/bengali/live/c9348yg9kv4t?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Iran toll in Hormuz would set ‘dangerous precedent’ says Rubio",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/iran-toll-in-hormuz-would-set-dangerous-precedent-says-rubio?traffic_source=rss",
+            "title": "America’s decades-old bipartisan consensus on Israel has been shattered",
+            "link": "https://www.aljazeera.com/opinions/2026/7/22/americas-decades-old-bipartisan-consensus-on-israel-has-been-shattered?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Can Pakistan-administered Kashmir’s election overcome a violent summer?",
-            "link": "https://www.aljazeera.com/features/2026/7/22/can-pakistan-administered-kashmirs-election-overcome-a-violent-summer?traffic_source=rss",
+            "title": "Russia reports injuries after top online retailer Wildberries hit again",
+            "link": "https://www.aljazeera.com/news/2026/7/22/russia-reports-injuries-after-top-online-retailer-wildberries-hit-again?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Goats of football: Indian village holds tournament with an indigenous twist",
-            "link": "https://www.aljazeera.com/news/2026/7/22/goats-of-football-indian-village-holds-tournament-with-an-indigenous-twist?traffic_source=rss",
+            "title": "Ossoff challenges Hegseth on cost and duration of Iran war",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ossoff-challenges-hegseth-on-cost-and-duration-of-iran-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US expands strikes on 11th straight night of attacks",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss",
+            "title": "Al Jazeera reports from anti-US protest outside ASEAN summit",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/al-jazeera-reports-from-anti-us-protest-outside-asean-summit?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss",
+            "title": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
+            "link": "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Guyana ferry capsize death toll rises to 53 as survivors describe terror",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/guyana-ferry-capsize-death-toll-rises-to-53-as-survivors-describe-terror?traffic_source=rss",
+            "title": "Mexico goalkeeper Guillermo Ochoa retires after 22-year career",
+            "link": "https://www.aljazeera.com/sports/2026/7/22/mexico-goalkeeper-guillermo-ochoa-retires-after-22-year-career?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,13 +68,18 @@
             "source": "BBC World"
         },
         {
-            "title": "More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say",
+            "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
             "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-            "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+            "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+            "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+            "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,37 +91,17 @@
             "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
             "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
-            "link": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Sammy: 'We didn't pick Lawes just out of our heart'",
-            "link": "https://www.cricinfo.com/ci/content/story/1547016.html?ex_cid=OTC-RSS",
+            "title": "Root back in top ten of ODI batting rankings; Rohit closes in on top three",
+            "link": "https://www.cricinfo.com/ci/content/story/1547030.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Madhevere and Nyamhuri return for Zimbabwe's T20I series against India",
-            "link": "https://www.cricinfo.com/ci/content/story/1547008.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Babar, Awais hit centuries and Mohammad Ali bags five-for in Pakistan's tour game",
-            "link": "https://www.cricinfo.com/ci/content/story/1546986.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'Invigorated' Smith remains vital for uncertain batting order",
-            "link": "https://www.cricinfo.com/ci/content/story/1546969.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Warner pleads guilty to drink driving",
-            "link": "https://www.cricinfo.com/ci/content/story/1546988.html?ex_cid=OTC-RSS",
+            "title": "Kusal Mendis out of LPL 2026 with hamstring injury",
+            "link": "https://www.cricinfo.com/ci/content/story/1547031.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -125,8 +110,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Chelsea sign £117m Rogers - what will he bring?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
+            "title": "Kuldeep signs up with Yorkshire for County Championship and One-Day Cup",
+            "link": "https://www.cricinfo.com/ci/content/story/1546483.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Sooryavanshi stays confident amid 'several ups and downs'",
+            "link": "https://www.cricinfo.com/ci/content/story/1547028.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Australia could put India A four-day series ahead of ODIs",
+            "link": "https://www.cricinfo.com/ci/content/story/1547015.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Financial exceptions could be made for Guardiola - Italian FA",
+            "link": "https://www.bbc.co.uk/sport/football/articles/czxqdv4818yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +135,37 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Littler throws nine-darter in superb Matchplay win",
-            "link": "https://www.bbc.co.uk/sport/darts/articles/cn9nge10504o?at_medium=RSS&at_campaign=rss",
+            "title": "Five big names to look out for at Commonwealth Games",
+            "link": "https://www.bbc.co.uk/sport/articles/c9w0r0k1n5qo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "What can Hearts pick from debris of ongoing summer of hurt?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cz05re7pe7ko?at_medium=RSS&at_campaign=rss",
+            "title": "Where are Newcastle in bid to be the best by 2030?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckg30v0llpxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Bournemouth reject £64m bid from Chelsea for Scott",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
+            "title": "Chelsea sign £117m Rogers - what will he bring?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Iraola wants Mac Allister & Alisson to stay with Liverpool",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cpd7n21n2qno?at_medium=RSS&at_campaign=rss",
+            "title": "Arsenal sign Spain goalkeeper Rodriguez on free",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cz7dq8wrzwjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+            "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+            "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+            "source": "TechCrunch"
+        },
         {
             "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
             "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
@@ -177,14 +187,14 @@
             "source": "TechCrunch"
         },
         {
-            "title": "OpenAI says Hugging Face was breached by its pre-release models",
-            "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-            "source": "TechCrunch"
+            "title": "A Teen Reporter Searched for His Community in the Epstein Files. Adults Freaked Out",
+            "link": "https://www.wired.com/story/epstein-files-redwood-bark-school-newspaper/",
+            "source": "Wired"
         },
         {
-            "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-            "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-            "source": "TechCrunch"
+            "title": "Flipper Busy Bar Review: An Expensive Focus Tool",
+            "link": "https://www.wired.com/review/flipper-busy-bar/",
+            "source": "Wired"
         },
         {
             "title": "Is the All-New Range Rover GT Stepping on Jaguar’s Tail?",
@@ -204,16 +214,6 @@
         {
             "title": "Taylor Farms Spent Big on MAGA and Anti-Regulatory Lobbying Before Diarrhea Outbreak",
             "link": "https://www.wired.com/story/diarrhea-outbreak-taylor-farms-maga-donations-lobbying/",
-            "source": "Wired"
-        },
-        {
-            "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-            "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
-            "source": "Wired"
-        },
-        {
-            "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
-            "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
             "source": "Wired"
         }
     ]
