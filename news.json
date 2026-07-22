@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "লামিন ইয়ামাল ও নিকো উইলিয়ামসের অভিবাসী পরিবার ও সাফল্যের গল্প",
+            "link": "https://www.bbc.com/bengali/articles/ckgenlyx808o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র: তিন টাকায় ১ টাকা অনিয়ম'",
+            "link": "https://www.bbc.com/bengali/articles/cz05rj87mmlo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "'ঘুমের মধ্যে স্বপ্নে দেখি- কেউ মনে হয় আমাকে আগুনে ফেলে দিচ্ছে'",
             "link": "https://www.bbc.com/bengali/articles/cr7kvm3kk5po?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "ককরোচ পার্টির আন্দোলন কি মোদী সরকারের জন্য 'বিপদঘণ্টা'?",
             "link": "https://www.bbc.com/bengali/articles/c5yw8pe5wv5o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ফাইনাল শেষে মারপিট: আর্জেন্টিনার বিরুদ্ধে ফিফা'র তদন্ত শুরু, কী সাজা হতে পারে?",
-            "link": "https://www.bbc.com/bengali/articles/c20jnzdy85ko?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বৈষম্যের অভিযোগে কানাডার পণ্যে ৫০ শতাংশ শুল্ক বসালেন ট্রাম্প",
-            "link": "https://www.bbc.com/bengali/articles/crk50e0435no?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Explosions in Iran as US launches new strikes",
-            "link": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
+            "title": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
+            "link": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
-            "link": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss",
+            "title": "More than 140 dead, missing on refugee boat stranded off Mauritania",
+            "link": "https://www.aljazeera.com/news/2026/7/22/more-than-140-dead-missing-on-refugee-boat-stranded-off-mauritania?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
-            "link": "https://www.aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss",
+            "title": "France becomes first EU country to officially ban social media for children",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/france-becomes-first-eu-country-to-officially-ban-social-media-for-children?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Moldova chooses new prime minister as it pushes for EU membership",
-            "link": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss",
+            "title": "How armed group alliances are reshaping Mali’s conflict and the wider Sahel",
+            "link": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Zelenskyy replaces Ukraine military chief after protests",
-            "link": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
+            "title": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company",
+            "link": "https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Drone shows scorched landscape after Spain wildfire",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss",
+            "title": "US targets China in move to ban military-grade drone imports",
+            "link": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,32 +68,52 @@
             "source": "BBC World"
         },
         {
-            "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-            "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+            "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+            "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-            "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+            "title": "France passes law banning under-15s from social media",
+            "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-            "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+            "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+            "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-            "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+            "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
+            "link": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
-            "link": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+            "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
+            "link": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Warner pleads guilty to drink driving",
+            "link": "https://www.cricinfo.com/ci/content/story/1546988.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Hetmyer, Rutherford haul West Indies home in tense chase",
+            "link": "https://www.cricinfo.com/ci/content/story/1546987.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Babar, Awais hit centuries and Mohammad Ali bags five-for in Pakistan's tour game",
+            "link": "https://www.cricinfo.com/ci/content/story/1546986.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Mott named Sydney Sixers BBL coach, leaves WBBL role",
+            "link": "https://www.cricinfo.com/ci/content/story/1546972.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Pooran, Curran power MI London to opening-night romp",
             "link": "https://www.cricinfo.com/ci/content/story/1546966.html?ex_cid=OTC-RSS",
@@ -102,26 +122,6 @@
         {
             "title": "West Indies bowl first and pick Hetmyer in the bid for consolation win",
             "link": "https://www.cricinfo.com/ci/content/story/1546951.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Stokes' matchwinning hundred steals the thunder on Hundred's opening night",
-            "link": "https://www.cricinfo.com/ci/content/story/1546490.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Fernandes makes the difference as Middlesex see off Essex",
-            "link": "https://www.cricinfo.com/ci/content/story/1546493.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "McSweeney trumps Hain as Northants maintain that winning feeling",
-            "link": "https://www.cricinfo.com/ci/content/story/1546494.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "CPL: Ayub, Sadaqat headline strong Pakistani contingent at Jamaica Kingsmen",
-            "link": "https://www.cricinfo.com/ci/content/story/1546451.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -157,6 +157,16 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+            "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+            "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Meta is testing an AI bedtime story app for people with no imagination",
             "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
             "source": "TechCrunch"
@@ -167,23 +177,13 @@
             "source": "TechCrunch"
         },
         {
-            "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-            "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+            "title": "OpenAI says Hugging Face was breached by its pre-release models",
+            "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
             "source": "TechCrunch"
         },
         {
             "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
             "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "AI and the rise of the universal entertainment app",
-            "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
-            "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
             "source": "TechCrunch"
         },
         {
