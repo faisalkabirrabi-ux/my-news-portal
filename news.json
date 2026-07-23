@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "রাষ্ট্রপতি পদত্যাগ করলে সাংবিধানিক প্রক্রিয়া কী হবে?",
+            "link": "https://www.bbc.com/bengali/articles/cedjnv6l32xo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "সরকার রাষ্ট্রপতিকে পদত্যাগ করতে বলেনি: স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ",
+            "link": "https://www.bbc.co.uk/bengali/live/cn9n37pw42lt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "দিল্লিতে রাতে বিক্ষোভকারীদের ওপর আবারও লাঠিচার্জ-টিয়ার শেল",
             "link": "https://www.bbc.com/bengali/articles/c3w08nl9q37o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "বিরোধী দলের আপত্তি সত্ত্বেও 'তড়িঘড়ি' করে পাস করা ইনভেস্ট বাংলাদেশ আইনে কী আছে?",
             "link": "https://www.bbc.com/bengali/articles/c4g6jnp4n56o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'সরে যাচ্ছেন রাষ্ট্রপতি'",
-            "link": "https://www.bbc.com/bengali/articles/c4g4z75pvvzo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "জামায়াত থেকে বহিষ্কারের পর  গাজী নজরুল ইসলামের এমপি পদ কি থাকবে?",
-            "link": "https://www.bbc.com/bengali/articles/c70g8djl4edo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Travellers panic as US attacks Iran-Iraq border crossing",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss",
+            "title": "Norway to make formal complaint to FIFA over Balogun red card saga",
+            "link": "https://www.aljazeera.com/sports/2026/7/23/norway-to-make-formal-complaint-to-fifa-over-balogun-red-card-saga?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "India’s Modi promises fast-track courts for exam fraud fuelling protests",
-            "link": "https://www.aljazeera.com/news/2026/7/23/indias-modi-promises-fast-track-courts-for-exam-fraud-fuelling-protests?traffic_source=rss",
+            "title": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
+            "link": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Top US and Russian diplomats discuss Ukraine war in Manila",
-            "link": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss",
+            "title": "Thai sailors sue owners of cargo ship hit in Hormuz",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Arsenal defender Saliba sidelined for ‘extended period’ due to back injury",
-            "link": "https://www.aljazeera.com/sports/2026/7/23/william-saliba-back-injury-arsenal-france-world-cup?traffic_source=rss",
+            "title": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
+            "link": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
-            "link": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss",
+            "title": "‘Televising our revolution’: India’s Gen Z flips Modi’s social media game",
+            "link": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Will the war on Iran affect ASEAN’s efforts to tackle regional issues?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss",
+            "title": "More than 3,200 Israelis storm Al-Aqsa Mosque in Jerusalem",
+            "link": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -70,6 +70,11 @@
         {
             "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
             "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Thousands evacuated in France fires",
+            "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,47 +91,47 @@
             "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
             "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-            "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Peter Clarke named Sydney Sixers WBBL coach",
+            "link": "https://www.cricinfo.com/ci/content/story/1547210.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Trent Bridge, Headingley to host Men's and Women's Ashes openers in 2027",
+            "link": "https://www.cricinfo.com/ci/content/story/1547159.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "WTC final returns to The Oval for 2027",
+            "link": "https://www.cricinfo.com/ci/content/story/1547160.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "SA20 2027 starts January 17, final in Cape Town on February 21",
+            "link": "https://www.cricinfo.com/ci/content/story/1547158.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Rohit Yadav four-for spins India to victory",
+            "link": "https://www.cricinfo.com/ci/content/story/1547157.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Lalit Modi 'looking forward to coming back to India' after getting legal relief",
             "link": "https://www.cricinfo.com/ci/content/story/1547145.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Konstas, Kellaway, Patterson named in CA XI to face Bangladesh",
-            "link": "https://www.cricinfo.com/ci/content/story/1547129.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "No men's Ashes Test in north of England - full 2027 schedule",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c1e1zl2qgpxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Zimbabwe look to expose vulnerable India searching for winning formula",
-            "link": "https://www.cricinfo.com/ci/content/story/1547061.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Gritty Salt digs deep as Welsh Fire edge low-scoring tussle",
-            "link": "https://www.cricinfo.com/ci/content/story/1547128.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Glamorgan's Welsh youngsters hit statement tons to down Sussex",
-            "link": "https://www.cricinfo.com/ci/content/story/1547062.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Welsh Fire's late collapse hands points to Southern Brave",
-            "link": "https://www.cricinfo.com/ci/content/story/1547120.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "One month, two record transfers - why English midfielders are in demand",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr596gzy8j3o?at_medium=RSS&at_campaign=rss",
+            "title": "Newcastle agree £34m deal for Monaco's Bamba",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +140,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Two waste paper bins, one Olympic dream",
+            "title": "'High priestesses of a new cult' - the Swede who pioneered netball",
             "link": "https://www.bbc.co.uk/sport/netball/articles/cze9zwlwy42o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Inter Miami under investigation after signing Casemiro",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c3304ex7n7xo?at_medium=RSS&at_campaign=rss",
+            "title": "St Helens boss Rowley leaves club day before derby",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cj0321e00v0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Menzies taken ill on stage at World Matchplay",
-            "link": "https://www.bbc.co.uk/sport/darts/articles/cqjxv0v1dlpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Ex-UFC champion Andrade working as delivery driver",
-            "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/crmr7e7r328o?at_medium=RSS&at_campaign=rss",
+            "title": "'Even the CEO doesn't know' - Kaymer on LIV's future",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/c8dn9rpev80o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+            "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+            "source": "TechCrunch"
+        },
         {
             "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
             "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Social media addiction lawsuit against Meta is dropped",
-            "link": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Why Lettuce Is Always Making People Sick",
-            "link": "https://www.wired.com/story/why-lettuce-always-making-people-sick/",
+            "title": "The Best MagSafe Wallets for Your Everyday Carry (2026)",
+            "link": "https://www.wired.com/gallery/best-magsafe-wallets/",
             "source": "Wired"
         },
         {
-            "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
-            "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+            "title": "The Trump Administration Wants to Change Public Engagement Rules for Polluters",
+            "link": "https://www.wired.com/story/trump-administration-change-polluter-public-engagement-rules/",
             "source": "Wired"
         },
         {
-            "title": "Top Red-Light Therapy Deals at Nordstrom’s Anniversary Sale (2026)",
-            "link": "https://www.wired.com/story/red-light-device-deals-from-nordstroms-anniversary-sale-2026/",
+            "title": "America’s Hot Hybrid Summer",
+            "link": "https://www.wired.com/story/america-hot-hybrid-summer/",
             "source": "Wired"
         },
         {
-            "title": "‘The Odyssey’ Is Inspiring Unprecedented Levels of Cope",
-            "link": "https://www.wired.com/story/the-odysseys-success-is-inspiring-unprecedented-levels-of-cope/",
+            "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
+            "link": "https://www.wired.com/gallery/best-meal-kit-services-1/",
             "source": "Wired"
         },
         {
-            "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-            "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+            "title": "People Are Getting Off to Porn About ICE Raids",
+            "link": "https://www.wired.com/story/people-are-getting-off-to-content-about-ice-raids/",
             "source": "Wired"
         },
         {
-            "title": "Dyson V10 Konical Review (2026): Affordable and Solid",
-            "link": "https://www.wired.com/review/dyson-v10-konical-2026/",
+            "title": "Google Turns a Selfie Video Into Your Account’s Spare Key",
+            "link": "https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/",
             "source": "Wired"
         }
     ]
