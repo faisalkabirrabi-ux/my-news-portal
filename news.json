@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "সৌদি আরবের সঙ্গে পারমাণবিক চুক্তি  সই করেছে যুক্তরাষ্ট্র, বিতর্ক কেন?",
+            "link": "https://www.bbc.com/bengali/articles/ce85jzp526lo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বিরোধী দলের আপত্তি সত্ত্বেও 'তড়িঘড়ি' করে পাস করা ইনভেস্ট বাংলাদেশ আইনে কী আছে?",
             "link": "https://www.bbc.com/bengali/articles/c4g6jnp4n56o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'সরে যাচ্ছেন রাষ্ট্রপতি'",
+            "link": "https://www.bbc.com/bengali/articles/c4g4z75pvvzo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,47 +29,37 @@
             "title": "অনশন ভাঙবেন না সোনাম ওয়াংচুক, আন্দোলন চালিয়ে যাবে ককরোচ জনতা পার্টি",
             "link": "https://www.bbc.com/bengali/articles/cvg9n28lw17o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "রাজনৈতিক কার্টুন: জুলাইয়ের হাতিয়ারই আঘাত করছে 'চেতনায়'?",
-            "link": "https://www.bbc.com/bengali/articles/cz7dwd2j2yjo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মানহীন আট পণ্য প্রত্যাহারের নির্দেশ, বাজারের বাকি পণ্য কি নিরাপদ?",
-            "link": "https://www.bbc.com/bengali/articles/c5yw8p9ep99o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Why Abderrahim Fakir’s death reignited Italy’s police accountability debate",
-            "link": "https://www.aljazeera.com/news/2026/7/23/why-abderrahim-fakirs-death-reignited-italys-police-accountability-debate?traffic_source=rss",
+            "title": "Will the war on Iran affect ASEAN’s efforts to tackle regional issues?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Spain and France battle raging wildfires, face high risk of more",
-            "link": "https://www.aljazeera.com/news/2026/7/23/spain-and-france-battle-raging-wildfires-face-high-risk-of-more?traffic_source=rss",
+            "title": "Thousands forced to evacuate as wildfires sweep across southern France",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/aje-onl-nf_france-battles-massive-wildfires-amid-extreme-heat-230726?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
-            "link": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss",
+            "title": "US attacks Iran for 12th night as the House approves defence spending",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
-            "link": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss",
+            "title": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "AI, China, ‘dark factories’ and the future of the US auto industry",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/ai-china-dark-factories-and-the-future-of-the-us-auto-industry?traffic_source=rss",
+            "title": "Indian police accused of using pellet guns in crackdown on India’s protests",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-police-accused-of-using-pellet-guns-in-crackdown-on-indias-protests?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
+            "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
+            "link": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,8 +68,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-            "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+            "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+            "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -125,8 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Garnacho, Rogers and two clubs trying to balance the books",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvg0723e0jko?at_medium=RSS&at_campaign=rss",
+            "title": "One month, two record transfers - why English midfielders are in demand",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr596gzy8j3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Arokodare forces Wolves training to be cancelled",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr5934j1jmdo?at_medium=RSS&at_campaign=rss",
+            "title": "Miami mistakenly post James 'introductory' video",
+            "link": "https://www.bbc.co.uk/sport/basketball/articles/c4gjwwny0zgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
