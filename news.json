@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "How the Houthi Red Sea blockade will impact the world",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque",
+            "link": "https://www.aljazeera.com/news/2026/7/23/arab-and-muslim-countries-condemn-israeli-escalation-at-al-aqsa-mosque?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Is this Italy’s ‘George Floyd moment’?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/is-this-italys-george-floyd?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US war on Iran: The $110 billion price tag",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
             "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "US-Saudi nuclear deal hinges on normalisation with Israel",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Rally attendee steals the show by mimicking Trump’s gestures",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rally-attendee-steals-the-show-by-mimicking-trumps-gestures?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "France wildfires force evacuation of over 20,000 people from tourist town",
-            "link": "https://www.aljazeera.com/news/2026/7/23/france-wildfires-force-evacuation-of-over-20000-people-from-tourist-town?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Videos show the moment police officer shoots man on street in Wisconsin",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/videos-show-the-moment-police-officer-shoots-man-on-street-in-wisconsin?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "White House says will not block Tate brothers’ extradition to UK",
-            "link": "https://www.aljazeera.com/news/2026/7/23/white-house-says-will-not-block-tate-brothers-extradition-to-uk?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -135,6 +135,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Littler cruises into Matchplay semis with win over Rock",
+            "link": "https://www.bbc.co.uk/sport/darts/articles/cg5lylz22gmo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Italy confirm Ancelotti approach before Guardiola",
             "link": "https://www.bbc.co.uk/sport/football/articles/c36d0291z6no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -148,14 +153,14 @@
             "title": "Anderson's journey to England star and  Man City record signing",
             "link": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Can Emery work his magic again at Villa?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/czxevl7vgz6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+            "link": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+            "source": "TechCrunch"
+        },
         {
             "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
             "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
@@ -182,9 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Anthropic updates Claude voice mode with more capable models",
-            "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-            "source": "TechCrunch"
+            "title": "An FDA Panel Just Endorsed These Unproven Peptides",
+            "link": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
+            "source": "Wired"
         },
         {
             "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
@@ -209,11 +214,6 @@
         {
             "title": "The Best Vacuum for Pet Hair—We Tested Many to Find Which Ones Work Best (2026)",
             "link": "https://www.wired.com/gallery/best-pet-hair-vacuums/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Best MagSafe Wallets for Your Everyday Carry (2026)",
-            "link": "https://www.wired.com/gallery/best-magsafe-wallets/",
             "source": "Wired"
         }
     ]
