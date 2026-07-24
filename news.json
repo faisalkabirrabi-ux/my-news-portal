@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Romanian jet fighter shoots down suspected Russian drone",
+            "link": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US records 2,318 measles cases, already surpassing 2025 total",
+            "link": "https://www.aljazeera.com/news/2026/7/24/us-records-2318-measles-cases-thus-far-in-2026-passing-2025-total?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Life without refrigerators: Gaza residents fight heat and food spoilage",
             "link": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers",
             "link": "https://www.aljazeera.com/sports/2026/7/24/lebron-james-is-heading-to-the-philadelphia-76ers-saying-it-will-be-his-last-decision?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Congress Party holds ‘funeral’ for India PM Modi and cabinet ministers",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/congress-party-holds-funeral-for-india-pm-modi-and-cabinet-ministers?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,8 +95,18 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Injured Abdullah Fazal ruled out of West Indies and England Tests",
-            "link": "https://www.cricinfo.com/ci/content/story/1547398.html?ex_cid=OTC-RSS",
+            "title": "Patel vs Patel: Rishi upstages Ryan as Leicestershire see off Surrey",
+            "link": "https://www.cricinfo.com/ci/content/story/1547378.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Finch, Benjamin clinch Kent win over Northants",
+            "link": "https://www.cricinfo.com/ci/content/story/1547377.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Trent Rockets ease to win after downing Birmingham Phoenix for 64",
+            "link": "https://www.cricinfo.com/ci/content/story/1547482.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -105,24 +115,19 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Singh on song as six-for leads Worcestershire win",
-            "link": "https://www.cricinfo.com/ci/content/story/1547379.html?ex_cid=OTC-RSS",
+            "title": "Bean's counter secures tight Yorkshire win in Neath",
+            "link": "https://www.cricinfo.com/ci/content/story/1547375.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "India find winning ways again but Zimbabwe still pose a threat",
-            "link": "https://www.cricinfo.com/ci/content/story/1547357.html?ex_cid=OTC-RSS",
+            "title": "Injured Abdullah Fazal ruled out of West Indies and England Tests",
+            "link": "https://www.cricinfo.com/ci/content/story/1547398.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "West Indies slight favourites as Pakistan hope for Test turnaround",
-            "link": "https://www.cricinfo.com/ci/content/story/1547358.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Root and Trescothick could sub in as England Test captain and coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1547386.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Fury wins low-key warm-up to keep Joshua fight on track",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/cy5dnnq1l0po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Klopp starts Germany reign by threatening to quit",
@@ -130,12 +135,12 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Rodri to have back surgery but Maresca brushes off transfer speculation",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c36dw0nwexxo?at_medium=RSS&at_campaign=rss",
+            "title": "Pogacar on verge of fifth Tour after Alpe d'Huez win",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/c2elrwxe941o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Hamilton leads Ferrari one-two in Hungary practice",
+            "title": "Hamilton fastest as new Aston Martin makes encouraging debut",
             "link": "https://www.bbc.co.uk/sport/formula1/articles/c3v0wp9yvdgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -145,46 +150,46 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Guardiola turns down Italy manager job",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cd7len4lvy9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Phoenix all out for 64 as Hundred batting slump continues",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cgje55vj965o?at_medium=RSS&at_campaign=rss",
+            "title": "Rodri to have back surgery but Maresca brushes off transfer speculation",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c36dw0nwexxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
-            "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+            "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+            "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
             "source": "TechCrunch"
         },
         {
-            "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-            "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+            "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
+            "link": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
             "source": "TechCrunch"
         },
         {
-            "title": "Rivian sues the US government for ‘full refund’ of Trump tariffs",
-            "link": "https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/",
+            "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
+            "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
             "source": "TechCrunch"
         },
         {
-            "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-            "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+            "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
+            "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
             "source": "TechCrunch"
         },
         {
-            "title": "Midjourney acquired the astrology app Co-Star",
-            "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+            "title": "Anthropic launches Opus 5",
+            "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
             "source": "TechCrunch"
         },
         {
-            "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-            "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+            "title": "India’s move against Jack Dorsey’s Bitchat sparks legal debate",
+            "link": "https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast/",
+            "source": "Wired"
         },
         {
             "title": "Silicon Valley Is Completely Divided Over Chinese AI",
@@ -209,11 +214,6 @@
         {
             "title": "Some of Our Favorite Brain-Boosting Toys for Kids of All Ages",
             "link": "https://www.wired.com/story/these-are-some-of-our-favorite-brain-boosting-toys-for-kids-of-all-ages/",
-            "source": "Wired"
-        },
-        {
-            "title": "Some Kids Will Never Think AI Is Cool",
-            "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
             "source": "Wired"
         }
     ]
