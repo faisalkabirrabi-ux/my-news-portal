@@ -6,8 +6,13 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "রাষ্ট্রপতির পদত্যাগপত্র গ্রহণ করেছেন স্পিকার",
+            "title": "রাষ্ট্রপতির দায়িত্ব পালন করবেন স্পিকার",
             "link": "https://www.bbc.co.uk/bengali/live/cdx7q6603lpt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "বাংলাদেশে কোন কোন রাষ্ট্রপতি তাদের মেয়াদ পূর্ণ করতে পারেননি?",
+            "link": "https://www.bbc.com/bengali/articles/c8jn8wpg9e4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,42 +29,37 @@
             "title": "জোরপূর্বক শ্রম - বাংলাদেশসহ ৬০ দেশের ওপর যুক্তরাষ্ট্রের নতুন শুল্ক",
             "link": "https://www.bbc.com/bengali/articles/czrjl5dn37eo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'কে হচ্ছেন পরবর্তী রাষ্ট্রপতি'",
-            "link": "https://www.bbc.com/bengali/articles/cn8nywwe0wxo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
-            "link": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+            "title": "Senegal gets CAS date for appeal to regain AFCON from Morocco",
+            "link": "https://www.aljazeera.com/sports/2026/7/24/senegal-gets-cas-date-for-appeal-to-regain-afcon-from-morocco?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Australia World Cup star Volpato faces speeding, cocaine charges",
-            "link": "https://www.aljazeera.com/sports/2026/7/24/australia-world-cup-star-volpato-in-speeding-and-cocaine-charge-police-say?traffic_source=rss",
+            "title": "World Cup hero Rodri to undergo back surgery before Man City’s new season",
+            "link": "https://www.aljazeera.com/sports/2026/7/24/world-cup-hero-rodri-to-undergo-back-surgery-before-man-citys-new-season?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "South African court pauses impeachment process against president",
-            "link": "https://www.aljazeera.com/news/2026/7/24/south-african-court-pauses-impeachment-process-against-president?traffic_source=rss",
+            "title": "What to know about the White House Correspondents’ Dinner, take two",
+            "link": "https://www.aljazeera.com/news/2026/7/24/what-to-know-about-the-white-house-correspondents-dinner-take-two?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Andy Burnham’s Number 10 North changes the postcode, but not the politics",
-            "link": "https://www.aljazeera.com/economy/2026/7/24/andy-burnhams-number-10-north-changes-the-postcode-but-not-the-politics?traffic_source=rss",
+            "title": "Indian student protests: What’s next after Modi’s promise on exam leaks?",
+            "link": "https://www.aljazeera.com/news/2026/7/24/indian-student-protests-whats-next-after-modis-promise-on-exam-leaks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Does this disappearing organ hold the secret of longevity?",
-            "link": "https://www.aljazeera.com/news/2026/7/24/does-this-disappearing-organ-hold-the-secret-of-longevity?traffic_source=rss",
+            "title": "Five killed in occupied West Bank after Israeli settlers attack",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel’s illegal settlements are Europe’s credibility test",
-            "link": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test?traffic_source=rss",
+            "title": "US summons Malaysia envoy over Israel policy",
+            "link": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,15 +88,30 @@
             "source": "BBC World"
         },
         {
-            "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
-            "link": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
+            "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+            "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
+            "title": "Root and Trescothick could sub in as England Test captain and coach",
+            "link": "https://www.cricinfo.com/ci/content/story/1547386.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "India find winning ways again but Zimbabwe still pose a threat",
             "link": "https://www.cricinfo.com/ci/content/story/1547357.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Rahmat Shah leads Afghanistan in five-match ODI series against Ireland",
+            "link": "https://www.cricinfo.com/ci/content/story/1547364.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Middlesex sack chief executive Andrew Cornish after Cricket Regulator investigation",
+            "link": "https://www.cricinfo.com/ci/content/story/1547362.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -105,23 +120,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Fast-learning Sonny Baker shows another side to his game",
-            "link": "https://www.cricinfo.com/ci/content/story/1547355.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Em Arlott to leave Warwickshire after signing three-year deal with Yorkshire",
             "link": "https://www.cricinfo.com/ci/content/story/1547359.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Sammy sees 'some light coming through' for West Indies in Tests",
-            "link": "https://www.cricinfo.com/ci/content/story/1547330.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "India, Pakistan, Bangladesh, Sri Lanka get direct entry into Asian Games knockouts",
-            "link": "https://www.cricinfo.com/ci/content/story/1547333.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -130,32 +130,42 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Rodri to have back surgery but Maresca brushes off transfer speculation",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c36dw0nwexxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Guardiola turns down Italy manager job",
             "link": "https://www.bbc.co.uk/sport/football/articles/cd7len4lvy9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Newcastle seal £34m move for Monaco's Bamba",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "The two days which could make or break Fury-AJ",
+            "title": "The two days which could make or break Fury-Joshua",
             "link": "https://www.bbc.co.uk/sport/boxing/articles/c2k758w1xdzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "GB Paralympian Schrager given two-year ban after failed drug test",
-            "link": "https://www.bbc.co.uk/sport/cycling/articles/cp30y17l074o?at_medium=RSS&at_campaign=rss",
+            "title": "Van Bommel appointed Belgium head coach",
+            "link": "https://www.bbc.co.uk/sport/football/articles/czjle30y29xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Socceroos star allegedly tests positive for cocaine after speeding",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm2gdnz5x50o?at_medium=RSS&at_campaign=rss",
+            "title": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cn8k8llpz2mo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+            "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
+            "link": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
+            "source": "TechCrunch"
+        },
         {
             "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
             "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
@@ -174,16 +184,6 @@
         {
             "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
             "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Patreon lays off 20% of its workforce",
-            "link": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
-            "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
             "source": "TechCrunch"
         },
         {
