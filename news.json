@@ -1,7 +1,12 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "রাষ্ট্রপতি ইস্যুতে সংসদ ভবনে বিকালে সংবাদ সম্মেলন",
+            "title": "পদত্যাগ করেছেন বাংলাদেশের রাষ্ট্রপতি সাহাবুদ্দিন, যা লিখেছেন পদত্যাগপত্রে",
+            "link": "https://www.bbc.com/bengali/articles/c5ye97972eeo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "রাষ্ট্রপতির পদত্যাগপত্র গ্রহণ করেছেন স্পিকার",
             "link": "https://www.bbc.co.uk/bengali/live/cdx7q6603lpt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -24,14 +29,24 @@
             "title": "পত্রিকা: 'কে হচ্ছেন পরবর্তী রাষ্ট্রপতি'",
             "link": "https://www.bbc.com/bengali/articles/cn8nywwe0wxo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'রাষ্ট্রপতি মো. সাহাবুদ্দিন পদত্যাগ করতে যাচ্ছেন', সফর সংক্ষিপ্ত করে দেশে ফিরছেন স্পিকার",
-            "link": "https://www.bbc.com/bengali/articles/c3d35z34938o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
+            "link": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Australia World Cup star Volpato faces speeding, cocaine charges",
+            "link": "https://www.aljazeera.com/sports/2026/7/24/australia-world-cup-star-volpato-in-speeding-and-cocaine-charge-police-say?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "South African court pauses impeachment process against president",
+            "link": "https://www.aljazeera.com/news/2026/7/24/south-african-court-pauses-impeachment-process-against-president?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Andy Burnham’s Number 10 North changes the postcode, but not the politics",
             "link": "https://www.aljazeera.com/economy/2026/7/24/andy-burnhams-number-10-north-changes-the-postcode-but-not-the-politics?traffic_source=rss",
@@ -48,22 +63,7 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
-            "link": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Germany appoint Klopp as ex-Liverpool coach sought to lift World Cup blues",
-            "link": "https://www.aljazeera.com/sports/2026/7/24/germany-appoint-klopp-as-ex-liverpool-coach-sought-to-lift-world-cup-blues?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Philippines accuses China of using water cannon on vessels for second day",
-            "link": "https://www.aljazeera.com/news/2026/7/24/philippines-accuses-china-of-using-water-cannon-on-vessels-for-second-day?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+            "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
             "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -78,13 +78,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Oil prices hit $100 for the first time since May",
-            "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+            "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+            "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-            "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+            "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+            "link": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -94,6 +94,26 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "India find winning ways again but Zimbabwe still pose a threat",
+            "link": "https://www.cricinfo.com/ci/content/story/1547357.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "West Indies slight favourites as Pakistan hope for Test turnaround",
+            "link": "https://www.cricinfo.com/ci/content/story/1547358.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Fast-learning Sonny Baker shows another side to his game",
+            "link": "https://www.cricinfo.com/ci/content/story/1547355.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Em Arlott to leave Warwickshire after signing three-year deal with Yorkshire",
+            "link": "https://www.cricinfo.com/ci/content/story/1547359.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Sammy sees 'some light coming through' for West Indies in Tests",
             "link": "https://www.cricinfo.com/ci/content/story/1547330.html?ex_cid=OTC-RSS",
@@ -105,28 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Alzarri Joseph 'declined selection,' confirms Sammy",
-            "link": "https://www.cricinfo.com/ci/content/story/1547332.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Livingstone's all-round efforts in vain as Super Giants triumph at Lord's",
-            "link": "https://www.cricinfo.com/ci/content/story/1547327.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Bishop earns maiden call-up, McKenzie returns for West Indies' Tests against Pakistan",
-            "link": "https://www.cricinfo.com/ci/content/story/1547309.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Peter Clarke named Sydney Sixers WBBL coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1547210.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cn8k8llpz2mo?at_medium=RSS&at_campaign=rss",
+            "title": "Klopp starts Germany reign by threatening to quit",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqjxd0n4gd2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,13 +140,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Chelsea agree deal to sign Palace defender Lacroix",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cp9eyz14y7jo?at_medium=RSS&at_campaign=rss",
+            "title": "The two days which could make or break Fury-AJ",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c2k758w1xdzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "The two days which could make or break Fury-AJ",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/c2k758w1xdzo?at_medium=RSS&at_campaign=rss",
+            "title": "GB Paralympian Schrager given two-year ban after failed drug test",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/cp30y17l074o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -187,6 +187,26 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Best Window Air Conditioners of 2026: Midea, Zafro, GE",
+            "link": "https://www.wired.com/gallery/best-window-air-conditioners/",
+            "source": "Wired"
+        },
+        {
+            "title": "BenQ TK705STi 4K Projector Review: A Midrange Pick for Gamers",
+            "link": "https://www.wired.com/review/benq-tk705sti-4k-projector/",
+            "source": "Wired"
+        },
+        {
+            "title": "What Is Entropy, Really?",
+            "link": "https://www.wired.com/story/what-is-entropy-really/",
+            "source": "Wired"
+        },
+        {
+            "title": "Some of Our Favorite Brain-Boosting Toys for Kids of All Ages",
+            "link": "https://www.wired.com/story/these-are-some-of-our-favorite-brain-boosting-toys-for-kids-of-all-ages/",
+            "source": "Wired"
+        },
+        {
             "title": "Some Kids Will Never Think AI Is Cool",
             "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
             "source": "Wired"
@@ -194,26 +214,6 @@
         {
             "title": "Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere",
             "link": "https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/",
-            "source": "Wired"
-        },
-        {
-            "title": "Kagi Brings Back Old-School Search, One Human-Made Website at a Time",
-            "link": "https://www.wired.com/story/kagi-brings-back-old-school-search-one-human-made-website-at-a-time/",
-            "source": "Wired"
-        },
-        {
-            "title": "Trump Endorsed the MyPillow Guy as Minnesota Governor. The State GOP Isn’t Buying It",
-            "link": "https://www.wired.com/story/trump-endorsed-the-mypillow-guy-as-minnesota-governor-the-state-gop-isnt-buying-it/",
-            "source": "Wired"
-        },
-        {
-            "title": "European researchers want to study social media’s harms but can’t get the data",
-            "link": "https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data/",
-            "source": "Wired"
-        },
-        {
-            "title": "An FDA Panel Just Endorsed These Unproven Peptides",
-            "link": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
             "source": "Wired"
         }
     ]
