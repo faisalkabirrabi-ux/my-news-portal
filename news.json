@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
+            "link": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "At least 35 killed after two buses collide in eastern Syria",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’",
             "link": "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "Iran’s government spars with state TV as mediators push talks with US",
             "link": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
-            "link": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "India win second T20 in Zimbabwe to take series as Kishan and Varma shine",
-            "link": "https://www.aljazeera.com/sports/2026/7/25/india-win-second-t20-clash-in-zimbabwe-to-take-series-as-kishan-tilak-varma-shine?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,21 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Ravindra, Ferguson inspire Welsh Fire with Kiwi verve",
+            "link": "https://www.cricinfo.com/ci/content/story/1547629.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Hodge gets fifty amid Abbas, Jamal strikes",
+            "link": "https://www.cricinfo.com/ci/content/story/1547604.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Kishan and Tilak's blazing knocks help India seal the series",
+            "link": "https://www.cricinfo.com/ci/content/story/1547590.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "'I don't focus on what's happening outside' - Kishan on his role at No. 3",
             "link": "https://www.cricinfo.com/ci/content/story/1547625.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -110,23 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Devine, Wareham inspire Welsh Fire thrashing of MI London",
-            "link": "https://www.cricinfo.com/ci/content/story/1547595.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Sikandar Raza: I'm letting the team down with my bat",
-            "link": "https://www.cricinfo.com/ci/content/story/1547606.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Rain forces early lunch in Trinidad after Abbas gets King",
-            "link": "https://www.cricinfo.com/ci/content/story/1547604.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Norris on pole as Hamilton and Antonelli penalised",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c4gv02vyzv4o?at_medium=RSS&at_campaign=rss",
+            "title": "Norris cautious despite pole as it 'falls apart' for Hamilton",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,13 +135,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Howe unsure over Guimaraes future amid Arsenal interest",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cdrvxm682yko?at_medium=RSS&at_campaign=rss",
+            "title": "Vozinha to join Chilean club after World Cup heroics",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckgdz5mrxd1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Vozinha to join Chilean club after World Cup heroics",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ckgdz5mrxd1o?at_medium=RSS&at_campaign=rss",
+            "title": "Gymnast Langton cleared of serious injury after shocking fall",
+            "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c0jlgx7n40eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,12 +150,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Bodo/Glimt's Hogh to have Celtic medical within 24 hours",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&at_campaign=rss",
+            "title": "Ravindra stars with 98 as Fire beat MI London",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cnvnzne8yy6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "The hacker who humiliated spyware makers and was never caught",
+            "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+            "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
             "link": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
@@ -174,16 +184,6 @@
         {
             "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
             "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-            "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-            "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
             "source": "TechCrunch"
         },
         {
