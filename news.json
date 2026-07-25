@@ -33,6 +33,11 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+            "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
             "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -58,13 +63,13 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
-            "link": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+            "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
-            "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-            "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+            "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+            "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,17 +88,17 @@
             "source": "BBC World"
         },
         {
-            "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-            "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-            "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+            "title": "ICC top prosecutor removed over sexual misconduct allegations",
+            "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Unchanged Zimbabwe field; Yash Thakur debuts for India",
+            "link": "https://www.cricinfo.com/ci/content/story/1547540.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "CPL: Tariq returns to TKR; Phillips signs with Amazon Warriors",
             "link": "https://www.cricinfo.com/ci/content/story/1547506.html?ex_cid=OTC-RSS",
@@ -102,6 +107,11 @@
         {
             "title": "Team-mates 'believe in you even more' if you lead by example, says Chase",
             "link": "https://www.cricinfo.com/ci/content/story/1547507.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Trent Rockets ease to win after downing Birmingham Phoenix for 64",
+            "link": "https://www.cricinfo.com/ci/content/story/1547482.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,14 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Thomas drives Somerset as van Buuren fights in vain",
-            "link": "https://www.cricinfo.com/ci/content/story/1547382.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Lees leads the way as Durham power to second straight win",
-            "link": "https://www.cricinfo.com/ci/content/story/1547381.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Unhappy Tottenham players should leave - De Zerbi",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cdewlp710l0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Horror injury overshadows gymnastics silver at Commonwealths",
@@ -135,6 +140,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "How do Manchester City manage the Rodri dilemma?",
             "link": "https://www.bbc.co.uk/sport/football/articles/cd9w2qp8pwxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -142,16 +152,6 @@
         {
             "title": "Lyles wins 100m in world-leading 9.79 seconds",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/c3d38zkx59jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "On the move - football's youngest journeymen",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c39e1789j8po?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "GoPro Mission 1 Pro Review: The Best Action Camera You Can Buy",
-            "link": "https://www.wired.com/review/gopro-mission-1-pro/",
+            "title": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
+            "link": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
             "source": "Wired"
         },
         {
-            "title": "Contagious Cancer Found in North American Catfish",
-            "link": "https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/",
+            "title": "3 Clever Things You Can Do With an Old Amazon Kindle",
+            "link": "https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/",
             "source": "Wired"
         },
         {
-            "title": "How Many Electrolytes Should You Be Taking, and Can You Have Too Many?",
-            "link": "https://www.wired.com/story/how-many-electrolytes-should-you-be-taking-and-can-you-have-too-many/",
+            "title": "Why Leatherology Makes Some of the Best Totes for Work (2026)",
+            "link": "https://www.wired.com/story/leatherology-totes-for-carrying-tech/",
             "source": "Wired"
         },
         {
-            "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
-            "link": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
+            "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+            "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
             "source": "Wired"
         },
         {
-            "title": "Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine",
-            "link": "https://www.wired.com/story/made-in-china-chinas-vape-makers-have-a-new-way-around-flavor-bans/",
+            "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+            "link": "https://www.wired.com/story/best-laptops/",
             "source": "Wired"
         },
         {
-            "title": "The 2026 El Niño Is on Track to Be the Strongest on Record",
-            "link": "https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/",
+            "title": "‘The Odyssey’ Was Made for Imax 70mm. Good Luck Watching It That Way",
+            "link": "https://www.wired.com/story/the-odyssey-was-made-for-imax-70mm-good-luck-watching-it-that-way/",
             "source": "Wired"
         }
     ]
