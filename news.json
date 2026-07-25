@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "One dead, 14 injured as car reportedly strikes crowd at Berlin LGBTQ event",
+            "link": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "What’s next for Venezuela’s path to recovery from devastating earthquakes?",
+            "link": "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Israeli forces tear gas journalists reporting Nablus shootout",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -48,28 +63,8 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "At least 35 killed after two buses collide in eastern Syria",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’",
-            "link": "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
-            "link": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "More than 250,000 flee wildfires in France and Spain",
             "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
-            "link": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -91,17 +86,22 @@
             "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
             "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
+        },
+        {
+            "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+            "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Ravindra, Ferguson inspire Welsh Fire with Kiwi verve",
-            "link": "https://www.cricinfo.com/ci/content/story/1547629.html?ex_cid=OTC-RSS",
+            "title": "Hodge leads WI's progress on truncated first day",
+            "link": "https://www.cricinfo.com/ci/content/story/1547604.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Hodge gets fifty amid Abbas, Jamal strikes",
-            "link": "https://www.cricinfo.com/ci/content/story/1547604.html?ex_cid=OTC-RSS",
+            "title": "Ravindra, Ferguson inspire Welsh Fire with Kiwi verve",
+            "link": "https://www.cricinfo.com/ci/content/story/1547629.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -135,13 +135,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'He'll go right through this guy' - Joshua v Prenga predictions",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/ce3q23ke22qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Pogacar poised to join Tour greats with fifth title in Paris finale",
-            "link": "https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss",
+            "title": "Ramsay-Peaty in tears after missing out on gold again",
+            "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Vozinha to join Chilean club after World Cup heroics",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ckgdz5mrxd1o?at_medium=RSS&at_campaign=rss",
+            "title": "Pogacar poised to join Tour greats with fifth title in Paris finale",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Could Mount be final piece in Man Utd midfield jigsaw?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cpd7e8jw9qqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
