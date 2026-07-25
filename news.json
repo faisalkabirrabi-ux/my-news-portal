@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "যুক্তরাষ্ট্রের নতুন শুল্ক বাংলাদেশি পণ্য রপ্তানিতে কী প্রভাব ফেলবে?",
+            "link": "https://www.bbc.com/bengali/articles/cqx707278d4o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "আন্দোলনের মুখে ভারতের শিক্ষামন্ত্রী ধর্মেন্দ্র প্রধানের পদত্যাগ",
             "link": "https://www.bbc.com/bengali/articles/ce85vl7nnn9o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,24 @@
             "title": "ফ্রান্স ও স্পেনে ভয়াবহ দাবানল, হিমশিম খাচ্ছেন অগ্নিনির্বাপক কর্মীরা",
             "link": "https://www.bbc.com/bengali/articles/c629xn7r2y0o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'সাহাবুদ্দিনের পদত্যাগ সমঝোতায় স্বস্তিতে বিএনপি'",
-            "link": "https://www.bbc.com/bengali/articles/cx2l805q3ejo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "The Global South is being forced to choose creditors over children",
+            "link": "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG",
+            "link": "https://www.aljazeera.com/sports/2026/7/25/atletico-madrid-sign-south-korea-world-cup-star-lee-kang-in-from-psg?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "War on Iran: Phase II: Day 14",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "F1 needs better balance between business and sport, says Norris",
             "link": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
@@ -45,21 +60,6 @@
         {
             "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
             "link": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Baby rescued after Israeli settlers set home on fire amid raids",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
-            "link": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump faces backlash for using ‘Palestinian’ as an insult",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-faces-backlash-for-using-palestinian-as-an-insult?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,7 +95,17 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Nahid Rana ruled out of two-Test series against Australia",
+            "title": "West Indies opt to bat; Pakistan hand a debut to Ali Usman",
+            "link": "https://www.cricinfo.com/ci/content/story/1547563.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Issy Wong, Jemimah Rodrigues carry Brave to second win",
+            "link": "https://www.cricinfo.com/ci/content/story/1547554.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Nahid Rana ruled out of Test series against Australia",
             "link": "https://www.cricinfo.com/ci/content/story/1547560.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
@@ -115,23 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Team-mates 'believe in you even more' if you lead by example, says Chase",
-            "link": "https://www.cricinfo.com/ci/content/story/1547507.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Trent Rockets ease to win after downing Birmingham Phoenix for 64",
-            "link": "https://www.cricinfo.com/ci/content/story/1547482.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Unhappy Tottenham players should leave - De Zerbi",
             "link": "https://www.bbc.co.uk/sport/football/articles/cdewlp710l0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Malaysia set to host F1 race in October",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c3w01yvp218o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,18 +135,23 @@
             "source": "BBC Sports"
         },
         {
-            "title": "McColgan to miss Glasgow Games defence after foot fracture",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cewrk7ee4n1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "'Maybe he's a racist' - Trump critical of James",
             "link": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Could Mount be final piece in Man Utd midfield jigsaw?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cpd7e8jw9qqo?at_medium=RSS&at_campaign=rss",
+            "title": "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Malaysia set to host F1 race in October",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c3w01yvp218o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Ipswich sign Japan forward Maeda from Celtic",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx2dgkg5rq0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
