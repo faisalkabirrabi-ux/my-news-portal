@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "গ্যাস সংকট কাটবে কবে?",
+            "link": "https://www.bbc.com/bengali/articles/c4gd0dz7dp0o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "'জেন-জি'-র আন্দোলন শেষ, তারা  কত বড় ধাক্কা দিতে পারলো নরেন্দ্র মোদীর সরকারকে?",
             "link": "https://www.bbc.com/bengali/articles/cvg81qz2nk7o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,46 +29,41 @@
             "title": "জুলাই আন্দোলনে ৭.৬২ গুলি, স্নাইপারের ব্যবহার নিয়ে প্রশ্ন, তদন্ত হবে কবে?",
             "link": "https://www.bbc.com/bengali/articles/cy4km2gz3mwo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "রাষ্ট্রপতি পদে নিয়োগ থেকে পদত্যাগ পর্যন্ত যত আলোচনা ছিল সাহাবুদ্দিনকে ঘিরে",
-            "link": "https://www.bbc.com/bengali/articles/cy075g4wk81o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "One dead, 14 injured as car reportedly strikes crowd at Berlin LGBTQ event",
-            "link": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
+            "title": "Flavio Bolsonaro launches Brazil presidential bid with Milei support",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/flavio-bolsonaro-launches-brazil-presidential-bid-with-milei-support?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
+            "title": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
+            "link": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "What’s next for Venezuela’s path to recovery from devastating earthquakes?",
-            "link": "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
+            "title": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli forces tear gas journalists reporting Nablus shootout",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
+            "title": "Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos",
+            "link": "https://www.aljazeera.com/news/2026/7/26/bolsonaros-son-begins-brazil-presidential-bid-with-netanyahu-milei-kudos?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How India’s ‘Cockroach’ protesters shook the Modi government",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+            "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
-            "link": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+            "title": "What’s behind the Israeli crackdown in the occupied West Bank?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "More than 250,000 flee wildfires in France and Spain",
+            "title": "More than 300,000 flee wildfires in France and Spain",
             "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -125,13 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Littler sets up Price final at World Matchplay",
-            "link": "https://www.bbc.co.uk/sport/darts/articles/cx2dgz20n2ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Norris cautious despite pole as it 'falls apart' for Hamilton",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go?at_medium=RSS&at_campaign=rss",
+            "title": "Joshua knocked down twice as dramatic win sets up Fury fight",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +135,32 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Gymnast Langton cleared of serious injury after shocking fall",
-            "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c0jlgx7n40eo?at_medium=RSS&at_campaign=rss",
+            "title": "Norris cautious despite pole as it 'falls apart' for Hamilton",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Pogacar poised to join Tour greats with fifth title in Paris finale",
+            "title": "Paris awaits as Pogacar poised to join Tour greats with fifth title",
             "link": "https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Could Mount be final piece in Man Utd midfield jigsaw?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cpd7e8jw9qqo?at_medium=RSS&at_campaign=rss",
+            "title": "Joshua's emotional win over Prenga in pictures",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c141x88p30ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Littler sets up Price final at World Matchplay",
+            "link": "https://www.bbc.co.uk/sport/darts/articles/cx2dgz20n2ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+            "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
             "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
@@ -179,11 +184,6 @@
         {
             "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
             "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-            "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
             "source": "TechCrunch"
         },
         {
