@@ -1,7 +1,12 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "শাপলা চত্বর হত্যাকাণ্ড মামলায় শেখ হাসিনাসহ ৪১ জনের বিরুদ্ধে অভিযোগপত্র দাখিল",
+            "title": "শাপলা চত্বর হত্যাকাণ্ডের মামলায় অভিযোগপত্রের শুনানিতে কী হলো, অভিযুক্ত কারা",
+            "link": "https://www.bbc.com/bengali/articles/crrvz4jrgdgo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "রাষ্ট্রপতি নির্বাচন নিয়ে ভারপ্রাপ্ত স্পিকারের সঙ্গে সিইসির বৈঠক মঙ্গলবার",
             "link": "https://www.bbc.co.uk/bengali/live/cp8xjrw61jyt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -24,43 +29,53 @@
             "title": "রাষ্ট্রপতি নির্বাচনের তফসিল ঘোষণা চূড়ান্ত করতে স্পিকারের সঙ্গে দেখা করবেন সিইসি",
             "link": "https://www.bbc.co.uk/bengali/live/c74gnn5k7ept?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'বদির মেটিকুলাস ডিজাইনেই একরাম হত্যা', বললেন চিফ প্রসিকিউটর",
-            "link": "https://www.bbc.com/bengali/articles/cy45v81jzx0o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "The AI military complex: Which are the main companies in it?",
-            "link": "https://www.aljazeera.com/news/2026/7/27/the-ai-military-complex-which-are-the-main-companies-in-it?traffic_source=rss",
+            "title": "Wildfires in southwest Europe: What we know so far",
+            "link": "https://www.aljazeera.com/news/2026/7/27/wildfires-in-southwest-europe-what-we-know-so-far?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Tadej Pogacar wins Tour de France for a record-equalling fifth time",
-            "link": "https://www.aljazeera.com/sports/2026/7/27/tadej-pogacar-tour-de-france-2026-cycling-record-fifth-title?traffic_source=rss",
+            "title": "Sooryavanshi praised by Laxman after teen stars against Zimbabwe in T20",
+            "link": "https://www.aljazeera.com/sports/2026/7/27/india-zimbabwe-t20-cricket-match-vaibhav-sooryavanshi-vvs-laxman?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "German arms export licences for Israel surge with focus on sub project",
-            "link": "https://www.aljazeera.com/news/2026/7/27/german-arms-export-licences-for-israel-surge-with-focus-on-sub-project?traffic_source=rss",
+            "title": "Photos: France, Spain battle ‘monster’ wildfires as more heat looms",
+            "link": "https://www.aljazeera.com/gallery/2026/7/27/photos-france-spain-battle-monster-wildfires-as-more-heat-looms?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
-            "link": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss",
+            "title": "Moment Ukrainian drones strike Russia’s Belgorod",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Climate change presents new threat to Philippines’ UNESCO rice terraces",
-            "link": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss",
+            "title": "Why has the US halted its bombing of Iran?",
+            "link": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Pakistan’s Kashmir votes: Why the election hinges on 12 disputed seats",
-            "link": "https://www.aljazeera.com/news/2026/7/27/pakistans-kashmir-votes-why-the-election-hinges-on-12-disputed-seats?traffic_source=rss",
+            "title": "Israeli forces storm multiple West Bank towns, settler violence worsens",
+            "link": "https://www.aljazeera.com/news/2026/7/27/israeli-forces-storm-multiple-west-bank-towns-settler-violence-worsens?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Oil price dives as US and Iran pause attacks",
+            "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+            "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
+            "link": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
@@ -68,35 +83,30 @@
             "source": "BBC World"
         },
         {
-            "title": "Berlin Pride attack suspect shot and killed during police operation",
-            "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+            "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+            "link": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
-            "link": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
-            "link": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
-            "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-            "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+            "title": "Millions see leaked copy of The Odyssey movie on X",
+            "link": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
+            "title": "Injured Hain out of Metro Bank Cup in Warwickshire blow",
+            "link": "https://www.cricinfo.com/ci/content/story/1547748.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Jennings hopes match-winning 135 'kickstarts' quiet season",
             "link": "https://www.cricinfo.com/ci/content/story/1547734.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "De Klerk, Kelly seal London Spirit's first win after Kapp stars with ball",
+            "link": "https://www.cricinfo.com/ci/content/story/1547699.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,47 +125,42 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Goldsworthy century, Theedom's four tames Bears",
-            "link": "https://www.cricinfo.com/ci/content/story/1547714.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Adam Thomas, Ryan Patel see Surrey home with ease",
-            "link": "https://www.cricinfo.com/ci/content/story/1547674.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Infantino tells Fifa critics to 'meditate, pray or watch football'",
+            "title": "Meditate, pray or watch football instead of spreading hate - Infantino",
             "link": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Diomande agrees Real Madrid terms as PSG step away",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o?at_medium=RSS&at_campaign=rss",
+            "title": "Record Spurs spend shows new ambition - Van de Ven",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gw34l26xzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Littler wins Matchplay and smashes Taylor record",
-            "link": "https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo?at_medium=RSS&at_campaign=rss",
+            "title": "Ferrari must 'do better' after errors in Hungary",
+            "link": "https://www.bbc.co.uk/sport/formula1/videos/c4gkrd4e8kno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Rogers and Palmer can play together - Alonso",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cre4qpq5j4wo?at_medium=RSS&at_campaign=rss",
+            "title": "England's Langton feared for gymnastics future after fall",
+            "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c20exv1q74vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Norris and McLaren almost perfect as Ferrari flounder in Hungary",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Pogacar wins fifth Tour title amid Paris finish drama",
-            "link": "https://www.bbc.co.uk/sport/cycling/articles/c07r8d4d2z5o?at_medium=RSS&at_campaign=rss",
+            "title": "Fury v Joshua closer but hurdles still to clear",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/ckg3xj2j27mo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+            "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Are brain waves the next unlock for physical AI?",
             "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "TechCrunch Mobility: Uber bets on its former CEO",
-            "link": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-            "link": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+            "title": "The 10 Best WIRED-Tested Handheld Vacuums of 2026",
+            "link": "https://www.wired.com/gallery/the-best-handheld-vacuum/",
             "source": "Wired"
         },
         {
-            "title": "All the Ways You Can Make Reading on Your Phone Easier",
-            "link": "https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/",
+            "title": "Wellness Influencers Are Pushing ‘Natural’ and Unproven Alternatives to Adderall",
+            "link": "https://www.wired.com/story/wellness-influencers-are-pushing-natural-and-unproven-alternatives-to-adderall/",
             "source": "Wired"
         },
         {
-            "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
-            "link": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/",
+            "title": "3 Best Smart Ring Models: Oura, RingConn, and Samsung (2026)",
+            "link": "https://www.wired.com/gallery/best-smart-rings/",
             "source": "Wired"
         },
         {
-            "title": "The Best Motorola Phones, From Razr to Moto G (2026)",
-            "link": "https://www.wired.com/story/best-motorola-phones/",
+            "title": "This Is Donald Trump’s AI Brain Trust",
+            "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
             "source": "Wired"
         },
         {
-            "title": "The Best Subscription-Free Home Security Cameras I’ve Tried",
-            "link": "https://www.wired.com/story/best-subscription-free-security-cameras/",
+            "title": "Best Laptops for College Students (2026): MacBooks and Beyond",
+            "link": "https://www.wired.com/story/best-college-laptops/",
             "source": "Wired"
         },
         {
-            "title": "Best GoPro Camera (2026): Compact, Budget, Accessories",
-            "link": "https://www.wired.com/gallery/best-gopro-hero-camera/",
+            "title": "Measles Is Becoming So Common That Treatments May Soon Be Needed",
+            "link": "https://www.wired.com/story/measles-treatments-soon-needed/",
             "source": "Wired"
         }
     ]
