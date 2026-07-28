@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
+            "link": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
+            "link": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "Rome’s viral graffiti cleaner is taking on an ancient problem",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-            "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -130,8 +130,18 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Soggy socks & a slathering of deep heat - rain causes chaos in Glasgow",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/c80nk2v5gmmo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Alonso's first Chelsea match a tale of four strikers",
             "link": "https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Are there already worrying signs for Vrancken's Hearts?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/clyxgpkkp0mo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -142,16 +152,6 @@
         {
             "title": "Despair to delight for Wales' golden girl Evans",
             "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c3r088n0wlwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Savinho open to leaving Man City amid Spurs interest",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2kqvkwz17o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Celtic 'a really good match' for record signing Hogh",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -177,7 +177,7 @@
             "source": "TechCrunch"
         },
         {
-            "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+            "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
             "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
             "source": "TechCrunch"
         },
@@ -185,6 +185,11 @@
             "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
             "link": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "A Typo Landed an Innocent Gamer in Prison for 18 Months",
+            "link": "https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/",
+            "source": "Wired"
         },
         {
             "title": "Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign",
@@ -209,11 +214,6 @@
         {
             "title": "Best Apple Watch (2026): Series 11, SE 3, and Ultra 3",
             "link": "https://www.wired.com/gallery/best-apple-watch/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
-            "link": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
             "source": "Wired"
         }
     ]
