@@ -33,38 +33,38 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-criminal-protesters-confront-netanyahu-motorcade-in-washington-dc?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Conor McGregor calls for third UFC fight against Max Holloway in 2027",
+            "link": "https://www.aljazeera.com/sports/2026/7/28/conor-mcgregor-calls-for-third-ufc-fight-against-max-holloway-in-2027?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Ukraine’s ‘volunteer army’ helps rebuild what Russia destroys",
+            "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-volunteer-army-helps-rebuild-what-russia-destroys?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Refugee Convention at 75: The world must keep the promise that saved me",
+            "link": "https://www.aljazeera.com/opinions/2026/7/28/refugee-convention-at-75-the-world-must-keep-the-promise-that-saved-me?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Palestine weekly: West Bank in flames after Tal killings",
+            "link": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Mamdani tackles cost of living crisis in New York with 30% discounts",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/mamdani-tackles-cost-of-living-crisis-in-new-york-with-30-discounts?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Malaysia detains more than 100 Rohingya seeking help from the UN",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/malaysia-detains-more-than-100-rohingya-seeking-help-from-the-un?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump calls protester ‘communist’ after Michigan speech interruption",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_trump-calls-heckler-communist-speech-interruption-280726?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’",
-            "link": "https://www.aljazeera.com/news/2026/7/28/israeli-ex-generals-urge-trump-to-push-netanyahu-on-settler-terror?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
-            "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US warns hundreds of Boeing jets may require seat safety inspections",
-            "link": "https://www.aljazeera.com/news/2026/7/28/us-warns-hundreds-of-boeing-jets-may-require-seat-safety-inspections?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
-            "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+            "title": "The cocaine superhighway from Ecuador to Europe - BBC reports on the gangs and police fightback",
+            "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,7 +73,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
+            "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
             "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -94,6 +94,11 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Meet Saransh Jain, India's 33-year-old Test recruit",
+            "link": "https://www.cricinfo.com/ci/content/story/1547824.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Saransh Jain gets maiden India call-up for Test series in Sri Lanka",
             "link": "https://www.cricinfo.com/ci/content/story/1547813.html?ex_cid=OTC-RSS",
@@ -120,18 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Bell holds nerve at death as Brave sneak one-run win",
-            "link": "https://www.cricinfo.com/ci/content/story/1547786.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Is struggling Ramsay-Peaty nearing the end?",
+            "link": "https://www.bbc.co.uk/sport/swimming/articles/cddj2ynlmpro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Why Chelsea want to sign older players",
             "link": "https://www.bbc.co.uk/sport/football/articles/cn0nw0lyrkdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'Nothing makes sense' - Ramsay-Peaty beaten again",
-            "link": "https://www.bbc.co.uk/sport/swimming/articles/cqlx2r3l6z3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +140,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Inter in advanced talks with England defender Stones",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss",
+            "title": "'I needed this summer' - what next for Arsenal's Kelly?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cgk4gk5xd2xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "English football agrees trial to end goalkeeper tactical timeouts",
-            "link": "https://www.bbc.co.uk/sport/football/articles/clyjxd53zkpo?at_medium=RSS&at_campaign=rss",
+            "title": "Why is Hamilton getting so many penalties? - F1 Q&A",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cp9e188m751o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Liverpool's centre-back situation and why Iraola must act",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cpw9zw972l2o?at_medium=RSS&at_campaign=rss",
+            "title": "Champions Northampton to open Prem season against Newcastle",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c2k7xkpqpexo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+            "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
             "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
@@ -179,11 +184,6 @@
         {
             "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
             "link": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-            "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
             "source": "TechCrunch"
         },
         {
