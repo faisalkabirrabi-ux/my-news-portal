@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Is Fifa selling parts of the World Cup to private investors?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Myanmar court sentences activists to 37 years over election protest",
+            "link": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "FIFA charges Argentina after World Cup final brawl with Spain",
+            "link": "https://www.aljazeera.com/sports/2026/7/29/fifa-charges-argentina-after-world-cup-final-brawl-with-spain?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump threatens Iran strikes after attack on US base in Jordan",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Trump’s attorney general pick faces possible Republican roadblock",
             "link": "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Algeria elects first-ever woman speaker of parliament",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/7/29/how-is-islamabad-handling-crisis-in-pakistan-administered-kashmir?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "James Comey’s lawyers say US government distorted details in seashell case",
-            "link": "https://www.aljazeera.com/news/2026/7/29/james-comeys-lawyers-say-us-government-distorted-details-in-seashell-case?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "New investigation shows how an Israeli settler escaped justice",
-            "link": "https://www.aljazeera.com/news/2026/7/29/new-investigation-shows-how-an-israeli-settler-escaped-justice?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Ice cream for education: Gaza cafe raises funds for studies",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/ice-cream-for-education-gaza-cafe-raises-funds-for-studies?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,7 +78,7 @@
             "source": "BBC World"
         },
         {
-            "title": "France fire crews battle heat as locals tell BBC of fight to save homes",
+            "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
             "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -94,6 +94,11 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Spirit's Proteas secure London Derby for first win of the campaign",
+            "link": "https://www.cricinfo.com/ci/content/story/1548053.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Barnard stars for Bears as Surrey are undone",
             "link": "https://www.cricinfo.com/ci/content/story/1548026.html?ex_cid=OTC-RSS",
@@ -120,28 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Shane McDermott appointed Afghanistan assistant and fielding coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1548046.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Fleming expected to be named England Test coach",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c5yvp474rpro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Heptathlete O'Connor wins Northern Ireland's first gold of Games",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/c78g7lwwxq8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Fifa opens disciplinary proceedings against Argentina",
+            "title": "Alleged assaults and Falklands banner - Argentina face Fifa charges",
             "link": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Saltburn suspend Devine after 'finger-clicking' claim",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cg7m5grrp7ko?at_medium=RSS&at_campaign=rss",
+            "title": "Fleming expected to be named England Test coach",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c5yvp474rpro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -153,9 +143,34 @@
             "title": "'Change is inevitable' - Liverpool CEO on FSG, Iraola and consortium talks",
             "link": "https://www.bbc.co.uk/sport/football/articles/c8xnvqrxv8ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
+        },
+        {
+            "title": "Heptathlete O'Connor wins Northern Ireland's first gold of Games",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/c78g7lwwxq8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Saltburn suspend Devine after 'finger-clicking' claim",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cg7m5grrp7ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+            "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+            "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+            "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+            "source": "TechCrunch"
+        },
         {
             "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
             "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
@@ -172,19 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Waymo robotaxis are starting to return to freeways",
-            "link": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
-            "link": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Google brings its age-assurance technology to Android developers worldwide",
-            "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
-            "source": "TechCrunch"
+            "title": "It Looks Like Nothing Can Dent MAGA’s Support for ICE",
+            "link": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/",
+            "source": "Wired"
         },
         {
             "title": "Save Up to $100 on Apple’s Newest AirPods (2026)",
@@ -209,11 +214,6 @@
         {
             "title": "X Says Australia’s Under-16 Social Media Ban Risks Interfering With Foreign Law",
             "link": "https://www.wired.com/story/x-says-australias-under-16s-social-media-bans-risk-interfering-with-foreign-law/",
-            "source": "Wired"
-        },
-        {
-            "title": "Festival Must-Haves, Field-Tested at Lost Lands and Electric Forest",
-            "link": "https://www.wired.com/story/best-festival-gear/",
             "source": "Wired"
         }
     ]
