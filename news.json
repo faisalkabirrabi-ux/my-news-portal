@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "জাপানে ভূমিকম্পে নিহতের সংখ্যা বাড়ছে, উদ্ধার অভিযান অব্যাহত",
+            "link": "https://www.bbc.com/bengali/articles/cm2gy68kv0xo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'ব্যবহার একই, তবু জুনে অস্বাভাবিক বিদ্যুৎ বিল'",
             "link": "https://www.bbc.com/bengali/articles/c4g6kmpxpp8o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "সাগরে ৩৬ দিন ধরে ভেসে থাকা শ্রীলঙ্কান বাবা-ছেলেকে উদ্ধার করল বাংলাদেশি জেলেরা",
             "link": "https://www.bbc.com/bengali/articles/cgk4dyrj78yo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'শ্রাবণের মেঘগুলো' গানে শিক্ষকের ভিডিও ঘিরে থানায় অভিযোগ, প্রতিমন্ত্রীর মন্তব্যের পর শিক্ষাবিভাগের 'ইউটার্ন'সহ যা হলো",
-            "link": "https://www.bbc.com/bengali/articles/c2lqk9wlpzzo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+            "link": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
+            "link": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Latest images of damage as death toll from Japan’s Kyushu quake rises",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/latest-images-of-damage-as-death-toll-from-japans-kyushu-quake-rises?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump meets Netanyahu for a record seventh White House visit",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Haitians living in fear as Temporary Protected Status ends in the US",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israel kills Palestinian, destroys mosque in Gaza",
-            "link": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "OpenAI’s rogue agent hacked an account at a second technology firm: Report",
-            "link": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
-            "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
-            "link": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,12 +88,22 @@
             "source": "BBC World"
         },
         {
-            "title": "US walks out of UN Security Council meeting during France's remarks",
-            "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+            "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+            "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Ten Doeschate appointed Knight Riders' head of cricket strategy",
+            "link": "https://www.cricinfo.com/ci/content/story/1547954.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "'We've been putting in some extra hard work' - Chase on West Indies' recent success",
+            "link": "https://www.cricinfo.com/ci/content/story/1547942.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Australia call for larger squad sizes for expanded 2027 ODI World Cup",
             "link": "https://www.cricinfo.com/ci/content/story/1547822.html?ex_cid=OTC-RSS",
@@ -115,18 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Smriti Mandhana stars with 88* as Super Giants down Sunrisers",
-            "link": "https://www.cricinfo.com/ci/content/story/1547905.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Shan Masood bats in Pakistan's chase despite finger fracture",
-            "link": "https://www.cricinfo.com/ci/content/story/1547916.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Uefa and PM criticise Infantino World Cup plan",
             "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Brighton's Welbeck set for Chelsea medical",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c935lvyeykwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,8 +140,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Alonso's first Chelsea match a tale of four strikers",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss",
+            "title": "Villa offer glimpse into future despite friendly loss",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cg4dv0qyvzvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Zidane waited for France - now can he harness their star power?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Despair to delight for Wales' golden girl Evans",
-            "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c3r088n0wlwo?at_medium=RSS&at_campaign=rss",
+            "title": "The athlete who has never held her Olympic medal",
+            "link": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-            "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+            "title": "LG Promo Codes and Coupons for July 2026",
+            "link": "https://www.wired.com/story/lg-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "A Typo Landed an Innocent Gamer in Prison for 18 Months",
-            "link": "https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/",
+            "title": "Therabody Promo Codes: 15% Off July 2026",
+            "link": "https://www.wired.com/story/therabody-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign",
-            "link": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/",
+            "title": "Zoro Coupon Codes: 55% Off July",
+            "link": "https://www.wired.com/story/zoro-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Laura Loomer’s Reversal on Ukraine Stirs Up the MAGA Civil War",
-            "link": "https://www.wired.com/story/laura-loomer-ukraine/",
+            "title": "B&H Photo Promo Codes and Deals This July 2026",
+            "link": "https://www.wired.com/story/bh-photo-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Is the Electric Trike the Next Big Thing in Shared Micromobility?",
-            "link": "https://www.wired.com/story/is-the-electric-trike-the-next-big-thing-in-shared-micromobility-veo-rover/",
+            "title": "Surfshark Promo Codes: 87% Off | July 2026",
+            "link": "https://www.wired.com/story/surfshark-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders",
-            "link": "https://www.wired.com/story/best-gifts-for-mom-2026/",
+            "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+            "link": "https://www.wired.com/story/legalzoom-promo-code/",
             "source": "Wired"
         }
     ]
