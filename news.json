@@ -33,34 +33,39 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Congo’s Ebola death toll passes 1,500 as it struggles to halt spread",
-            "link": "https://www.aljazeera.com/news/2026/7/30/congos-ebola-death-toll-passes-1500-as-it-struggles-to-halt-spread?traffic_source=rss",
+            "title": "Will Saudi Arabia be dragged further into the war in Iran?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "UN demands end of Ugandan clampdown on dissent",
-            "link": "https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss",
+            "title": "Prague Zoo keeps polar bears cool with ice amid heatwave",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "ABC News says FCC is carrying out intimidation campaign to shape coverage",
-            "link": "https://www.aljazeera.com/news/2026/7/30/abc-news-says-fcc-is-carrying-out-intimidation-campaign-to-shape-coverage?traffic_source=rss",
+            "title": "UN launches hunt for next chief amid rising challenges",
+            "link": "https://www.aljazeera.com/news/2026/7/30/un-launches-hunt-for-next-chief-amid-rising-challenges?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Spain’s Ceuta declares emergency over surge in migrant arrivals",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss",
+            "title": "Security camera shows ‘Russian missile’ exploding in Poland",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Turtle rescued from rubble a month after Venezuela earthquake",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss",
+            "title": "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
+            "link": "https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Viral cricket scandal sees ‘Clicky Ponting’ suspended from UK team",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/amateur-cricketer-accused-of-faking-an-edge-with-a-finger-snap?traffic_source=rss",
+            "title": "US authorities probe cyberattack on water systems in Minnesota",
+            "link": "https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Uefa to boycott World Cups if Fifa plans approved",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
@@ -86,14 +91,14 @@
             "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
             "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-            "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Stoinis the spark as Brave claim first win at fourth attempt",
+            "link": "https://www.cricinfo.com/ci/content/story/1548138.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Arav Shetty stars as Lancashire maintain 100% record",
             "link": "https://www.cricinfo.com/ci/content/story/1548140.html?ex_cid=OTC-RSS",
@@ -117,11 +122,6 @@
         {
             "title": "Captaincy question looms for KKR after Rahane retirement",
             "link": "https://www.cricinfo.com/ci/content/story/1548128.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "UAE qualify for 2027 Under-19 Women's T20 World Cup by winning Asia Qualifier",
-            "link": "https://www.cricinfo.com/ci/content/story/1548110.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -150,12 +150,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Thitikul leads Open as Ryu and Kuwaki chase",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/c5ywgvy808no?at_medium=RSS&at_campaign=rss",
+            "title": "Vomit in the morning, gold in the afternoon for England's gamblers",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/c1w1px5989xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+            "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+            "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+            "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
             "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
@@ -172,19 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-            "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Spotify launches ‘User notes’ to let users add memories to songs",
-            "link": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Okta buys AI security startup Permiso; source says for about $200M",
-            "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-            "source": "TechCrunch"
+            "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+            "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+            "source": "Wired"
         },
         {
             "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
@@ -209,11 +214,6 @@
         {
             "title": "The New Friend AI Pendant Can Now Talk Back to You",
             "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
-            "source": "Wired"
-        },
-        {
-            "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-            "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
             "source": "Wired"
         }
     ]
