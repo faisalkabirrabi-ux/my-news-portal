@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "এবার সিলেটের গোলাপগঞ্জে এনসিপি নেতা সারজিসের গাড়িতে হামলার অভিযোগ",
+            "link": "https://www.bbc.co.uk/bengali/live/c6298w7r2y2t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "'গুমের' অভিযোগ, ঠিক কী ঘটেছিল মোংলার মিরাজ শেখের সাথে?",
+            "link": "https://www.bbc.com/bengali/articles/c8jn9jmwjego?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "তেল, দুধ, চিনি থেকে কতটা মাইক্রোপ্লাস্টিক আপনার শরীরে ঢুকছে?",
             "link": "https://www.bbc.com/bengali/articles/cedjg0qyl07o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "পত্রিকা: 'দ্বিপক্ষীয় বৈঠকের ওপর নির্ভর করছে প্রধানমন্ত্রীর দিল্লি সফর'",
             "link": "https://www.bbc.com/bengali/articles/cd9w7yj5q1wo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পুলিশের কাছে অভিযোগ দিয়ে হবিগঞ্জ ছাড়লেন নাহিদ-হাসনাতসহ এনসিপি নেতারা",
-            "link": "https://www.bbc.co.uk/bengali/live/cdx8kx15yw7t?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ট্রাইব্যুনালে সুষ্ঠু বিচার নিয়ে উদ্বেগ হিউম্যান রাইটস ওয়াচের, অভিযোগ প্রত্যাখ্যান প্রসিকিউশনের",
-            "link": "https://www.bbc.com/bengali/articles/cx2vldj81g4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
-            "link": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss",
+            "title": "US hits multiple targets in Iran as IRGC pledges retaliation: What we know",
+            "link": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Messi returns to MLS training 10 days after World Cup final heartbreak",
-            "link": "https://www.aljazeera.com/sports/2026/7/30/messi-returns-to-mls-training-10-days-after-world-cup-final-heartbreak?traffic_source=rss",
+            "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
+            "link": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Storm apologize after co-owner berates teen girls for support of Cunningham",
-            "link": "https://www.aljazeera.com/sports/2026/7/30/storm-apologize-after-co-owner-berates-teen-girls-for-support-of-cunningham?traffic_source=rss",
+            "title": "Apartheid wealth cannot buy silence on Gaza",
+            "link": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Viral finger-clicker suspended as cricket storm remains in global spotlight",
-            "link": "https://www.aljazeera.com/sports/2026/7/30/viral-finger-clicker-suspended-as-cricket-storm-remains-in-global-spotlight?traffic_source=rss",
+            "title": "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
+            "link": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "War and shortages push Gaza hospitals to breaking point",
-            "link": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
+            "title": "South Africa’s le Clos breaks Commonwealth Games medal record",
+            "link": "https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US launches ‘powerful’ strikes on Iran after Jordan attack",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss",
+            "title": "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
+            "link": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,27 +73,42 @@
             "source": "BBC World"
         },
         {
+            "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+            "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
             "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-            "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+            "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
+            "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-            "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Salman Rushdie attacker convicted of terror offences",
-            "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+            "title": "Trump considering AI controls after OpenAI hacking incidents",
+            "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Fleming named new England men's Test head coach, Root back as captain",
+            "link": "https://www.cricinfo.com/ci/content/story/1548095.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Duckett 'surprised' by dip in Hundred crowds",
+            "link": "https://www.cricinfo.com/ci/content/story/1548062.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Fleming favourite to take over as England Test head coach",
+            "link": "https://www.cricinfo.com/ci/content/story/1548059.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Hazlewood: I'd love to play more with Scotty Boland",
             "link": "https://www.cricinfo.com/ci/content/story/1548089.html?ex_cid=OTC-RSS",
@@ -110,19 +125,14 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Duckett 'surprised' by dip in Hundred crowds",
-            "link": "https://www.cricinfo.com/ci/content/story/1548062.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Howe to leave Newcastle with Jaissle expected to replace him",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5yd23l95vgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Fleming favourite to take over as England Test head coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1548059.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Spirit's Proteas secure London Derby for first win of the campaign",
-            "link": "https://www.cricinfo.com/ci/content/story/1548053.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Fleming new England Test coach with Root captain",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Four pointers to most open Premier League title race in years",
@@ -130,13 +140,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Boxer Abdul - grandson of dictator - disqualified for headbutt",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/czxewy7zl46o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o?at_medium=RSS&at_campaign=rss",
+            "title": "Chelsea sign Palace defender Lacroix for £52m",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cg4d11g46lpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Phillips' struggles are a cautionary tale for Anderson",
-            "link": "https://www.bbc.co.uk/sport/football/articles/clyl1354z3yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why finger-clicking 'scandal' has gripped sporting world - Agnew",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c980w3wd370o?at_medium=RSS&at_campaign=rss",
+            "title": "De Zerbi wants to convince Spence to stay at Spurs",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c0jl4e40vwdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
+            "title": "LinkedIn Won’t Be Expanding Its Data Centers in the Next Year",
+            "link": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
+            "source": "Wired"
+        },
+        {
+            "title": "A Civilian Plane Crashed in New Mexico. Was the Military’s Tech to Blame?",
+            "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+            "source": "Wired"
+        },
+        {
+            "title": "TCL Tab A1 Plus Review (2026): Cheap Tablet That Doesn’t Feel It",
+            "link": "https://www.wired.com/review/tcl-tab-a1-plus-tablet/",
+            "source": "Wired"
+        },
+        {
+            "title": "AI Scammers Are Better at Building Trust Than Humans",
+            "link": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+            "source": "Wired"
+        },
+        {
+            "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
+            "link": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
+            "source": "Wired"
+        },
+        {
             "title": "Nike Promo Codes and Discounts: 30% for August 2026",
             "link": "https://www.wired.com/story/nike-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "50% Off DoorDash Promo Code | August 2026",
-            "link": "https://www.wired.com/story/doordash-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Hotels.com Coupon Codes for August 2026",
-            "link": "https://www.wired.com/story/hotels-com-coupon/",
-            "source": "Wired"
-        },
-        {
-            "title": "Office Depot Coupons: Save With Promo Codes in August 2026",
-            "link": "https://www.wired.com/story/office-depot-promo-codes/",
-            "source": "Wired"
-        },
-        {
-            "title": "Bose Promo Code: 40% Off for August 2026",
-            "link": "https://www.wired.com/story/bose-coupon-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Columbia Promo Codes: 15% Off | August 2026",
-            "link": "https://www.wired.com/story/columbia-promo-code/",
             "source": "Wired"
         }
     ]
