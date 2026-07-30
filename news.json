@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "তেল, দুধ, চিনি থেকে কতটা মাইক্রোপ্লাস্টিক আপনার শরীরে ঢুকছে?",
+            "link": "https://www.bbc.com/bengali/articles/cedjg0qyl07o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ইরানের ওপর আবারও 'শক্তিশালী' হামলা চালিয়েছে যুক্তরাষ্ট্র",
             "link": "https://www.bbc.com/bengali/articles/cqlx0z7qn5no?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "ট্রাইব্যুনালে সুষ্ঠু বিচার নিয়ে উদ্বেগ হিউম্যান রাইটস ওয়াচের, অভিযোগ প্রত্যাখ্যান প্রসিকিউশনের",
             "link": "https://www.bbc.com/bengali/articles/cx2vldj81g4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "আবার কেন আন্দোলনের হুমকি দিচ্ছে ভারতের ককরোচ জনতা পার্টি?",
-            "link": "https://www.bbc.com/bengali/articles/cj63r6jzygyo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake",
-            "link": "https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss",
+            "title": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
+            "link": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US launches another round of attacks on Iran",
-            "link": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss",
+            "title": "Messi returns to MLS training 10 days after World Cup final heartbreak",
+            "link": "https://www.aljazeera.com/sports/2026/7/30/messi-returns-to-mls-training-10-days-after-world-cup-final-heartbreak?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli strikes leave buildings burning in Gaza City",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss",
+            "title": "Storm apologize after co-owner berates teen girls for support of Cunningham",
+            "link": "https://www.aljazeera.com/sports/2026/7/30/storm-apologize-after-co-owner-berates-teen-girls-for-support-of-cunningham?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Dramatic sea rescue as firefighters die on the Greek island of Crete",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/aje-onl-nf_dramatic-sea-rescue-as-firefighters-die-in-greece-290726?traffic_source=rss",
+            "title": "Viral finger-clicker suspended as cricket storm remains in global spotlight",
+            "link": "https://www.aljazeera.com/sports/2026/7/30/viral-finger-clicker-suspended-as-cricket-storm-remains-in-global-spotlight?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
-            "link": "https://www.aljazeera.com/news/2026/7/30/why-did-anthony-fauci-invoke-the-fifth-amendment-senate-hearing-explained?traffic_source=rss",
+            "title": "War and shortages push Gaza hospitals to breaking point",
+            "link": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Living with fear: Inside a southern Lebanon village divided by Israel",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/living-with-fear-inside-a-southern-lebanon-village-divided-by-israel?traffic_source=rss",
+            "title": "US launches ‘powerful’ strikes on Iran after Jordan attack",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,13 +95,23 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Duckett 'surprised' by dip in Hundred crowds",
-            "link": "https://www.cricinfo.com/ci/content/story/1548062.html?ex_cid=OTC-RSS",
+            "title": "Hazlewood: I'd love to play more with Scotty Boland",
+            "link": "https://www.cricinfo.com/ci/content/story/1548089.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Rahane announces retirement from international cricket and all formats",
+            "link": "https://www.cricinfo.com/ci/content/story/1548072.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "Adam Zampa joins Queensland, BBL club remains unknown",
             "link": "https://www.cricinfo.com/ci/content/story/1548060.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Duckett 'surprised' by dip in Hundred crowds",
+            "link": "https://www.cricinfo.com/ci/content/story/1548062.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,28 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Barnard stars for Bears as Surrey are undone",
-            "link": "https://www.cricinfo.com/ci/content/story/1548026.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Sharks off the mark as Tear leads stiff run-chase",
-            "link": "https://www.cricinfo.com/ci/content/story/1548024.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Alleged assaults and Falklands banner - Argentina face Fifa charges",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Fleming expected to be named England Test coach",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c5yvp474rpro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why finger-clicking 'scandal' has gripped sporting world - Agnew",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c980w3wd370o?at_medium=RSS&at_campaign=rss",
+            "title": "Four pointers to most open Premier League title race in years",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1e163xpzz2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +135,23 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'Change is inevitable' - Liverpool CEO on FSG, Iraola and consortium talks",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c8xnvqrxv8ro?at_medium=RSS&at_campaign=rss",
+            "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Milestone moment for O'Connor with Glasgow gold",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/c98vje167g7o?at_medium=RSS&at_campaign=rss",
+            "title": "The phone call that made Briton an NFL trailblazer",
+            "link": "https://www.bbc.co.uk/sport/american-football/articles/c4gd01l443wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Phillips' struggles are a cautionary tale for Anderson",
+            "link": "https://www.bbc.co.uk/sport/football/articles/clyl1354z3yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Why finger-clicking 'scandal' has gripped sporting world - Agnew",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c980w3wd370o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "It Looks Like Nothing Can Dent MAGA’s Support for ICE",
-            "link": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/",
+            "title": "Nike Promo Codes and Discounts: 30% for August 2026",
+            "link": "https://www.wired.com/story/nike-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Save Up to $100 on Apple’s Newest AirPods (2026)",
-            "link": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
+            "title": "50% Off DoorDash Promo Code | August 2026",
+            "link": "https://www.wired.com/story/doordash-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Which of Dyson’s 2026 Vacuum Models Is the Best?",
-            "link": "https://www.wired.com/story/dyson-vacuum-comparison-2026/",
+            "title": "Hotels.com Coupon Codes for August 2026",
+            "link": "https://www.wired.com/story/hotels-com-coupon/",
             "source": "Wired"
         },
         {
-            "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
-            "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+            "title": "Office Depot Coupons: Save With Promo Codes in August 2026",
+            "link": "https://www.wired.com/story/office-depot-promo-codes/",
             "source": "Wired"
         },
         {
-            "title": "Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in Europe",
-            "link": "https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-the-rise-in-europe/",
+            "title": "Bose Promo Code: 40% Off for August 2026",
+            "link": "https://www.wired.com/story/bose-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "X Says Australia’s Under-16 Social Media Ban Risks Interfering With Foreign Law",
-            "link": "https://www.wired.com/story/x-says-australias-under-16s-social-media-bans-risk-interfering-with-foreign-law/",
+            "title": "Columbia Promo Codes: 15% Off | August 2026",
+            "link": "https://www.wired.com/story/columbia-promo-code/",
             "source": "Wired"
         }
     ]
