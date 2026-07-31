@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "'ভাই, মায়ের নাম্বারটা লেখেন তো' মৃত্যু নিশ্চিত ভেবে গুলিবিদ্ধ তরুণের আকুতি, পরে কী হয়েছিলো তার?",
+            "link": "https://www.bbc.com/bengali/articles/ce8lzp8r0d2o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশে কোন পে স্কেলে কত শতাংশ বেতন বেড়েছিল",
             "link": "https://www.bbc.com/bengali/articles/crk56vlpz0do?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "আইভিএফ পদ্ধতিতে সবসময় যমজ বা ট্রিপলেটের জন্ম হয়? কোন ক্ষেত্রে এটাই গর্ভধারণের একমাত্র পথ?",
+            "link": "https://www.bbc.com/bengali/articles/cpw9qjr07rvo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -16,51 +26,46 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "পত্রিকা: 'গ্যাসের দাম বাড়ানোর প্রস্তাব পেট্রোবাংলার'",
-            "link": "https://www.bbc.com/bengali/articles/cqlxe3prywgo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
             "title": "ঢাকা বিশ্ববিদ্যালয়ের সাত শিক্ষককে অব্যাহতি, অন্যতম অভিযোগ ‘জুলাইবিরোধী’ অবস্থান",
             "link": "https://www.bbc.co.uk/bengali/live/c6298w7r2y2t?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "তেরো বছরের মায়ের কোলে সাত মাসের শিশু, ভাইরাল ঘটনার নেপথ্যে কী?",
-            "link": "https://www.bbc.com/bengali/articles/cy8mkvdvr3jo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Her mother said no to a phone. Then came the Gaza genocide",
-            "link": "https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss",
+            "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+            "link": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
-            "link": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss",
+            "title": "Palestinians in Gaza are sceptical about the latest peace plan",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Hamas agrees to phased disarmament in Gaza",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/hamas-agrees-to-phased-disarmament-in-gaza?traffic_source=rss",
+            "title": "Spain PM to visit Ceuta after 19 migrants die breaching border from Morocco",
+            "link": "https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
-            "link": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss",
+            "title": "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
+            "link": "https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Liberia burns 4.2 metric tonnes of cocaine after record drug seizure",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-liberia-cocaine-burning-lr?traffic_source=rss",
+            "title": "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals",
+            "link": "https://www.aljazeera.com/sports/2026/7/31/afc-joins-uefa-and-concacaf-in-threat-to-boycott-fifa-over-world-cup-plans?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott",
-            "link": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott?traffic_source=rss",
+            "title": "FIFA World Cup plan fallout: Infantino’s senior adviser Cordeiro resigns",
+            "link": "https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "About 60,000 migrants Ceuta in 24 hours, Spanish territory's leader says",
+            "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
@@ -73,18 +78,13 @@
             "source": "BBC World"
         },
         {
-            "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
-            "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "AC Milan and Italy great Baresi dies aged 66",
             "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-            "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+            "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+            "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -94,6 +94,16 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Key on Stokes Ashes return: 'Anything is possible'",
+            "link": "https://www.cricinfo.com/ci/content/story/1548244.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Dulani's landmark century helps Sri Lanka go 1-0 up",
+            "link": "https://www.cricinfo.com/ci/content/story/1548242.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Sammy's comments 'controversial, without context', says Alzarri Joseph",
             "link": "https://www.cricinfo.com/ci/content/story/1548177.html?ex_cid=OTC-RSS",
@@ -115,17 +125,7 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Arav Shetty stars as Lancashire maintain 100% record",
-            "link": "https://www.cricinfo.com/ci/content/story/1548140.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Lee, Bouchier make it four in four for Brave",
-            "link": "https://www.cricinfo.com/ci/content/story/1548139.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Infantino plans in jeopardy after Asian federation joins opposition",
+            "title": "Senior Infantino adviser quits as Asian federation opposes plans",
             "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -150,12 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Bournemouth agree £26m fee for Benfica defender Silva",
-            "link": "https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss",
+            "title": "Liverpool's Jones argues with Szoboszlai after game",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gx07351y8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+            "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Anthropic says its own AI models breached three companies during security tests",
             "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
@@ -182,9 +187,24 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-            "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
-            "source": "TechCrunch"
+            "title": "6 Best Phones With Headphone Jacks (2026), Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-headphone-jack-phones/",
+            "source": "Wired"
+        },
+        {
+            "title": "Daisy One Review: Comfy and Tactile Headphones",
+            "link": "https://www.wired.com/review/daisy-one/",
+            "source": "Wired"
+        },
+        {
+            "title": "SJY Zeph Open-Back Headphones Review: Music Through Magnets",
+            "link": "https://www.wired.com/review/sjy-zeph-open-back-planar-magnetic-headphones/",
+            "source": "Wired"
+        },
+        {
+            "title": "The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key",
+            "link": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+            "source": "Wired"
         },
         {
             "title": "The World Is Too Hot. El Niño Is Partly to Blame",
@@ -194,26 +214,6 @@
         {
             "title": "Mattress Firm Coupons: Save up to $700 |",
             "link": "https://www.wired.com/story/mattress-firm-coupon/",
-            "source": "Wired"
-        },
-        {
-            "title": "SelectBlinds Promo Codes & Coupons: Save on Custom Window Treatments",
-            "link": "https://www.wired.com/story/select-blinds-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Alo Discount Code: Save on Activewear August 2026",
-            "link": "https://www.wired.com/story/alo-yoga-discount-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
-            "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-            "source": "Wired"
-        },
-        {
-            "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
-            "link": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/",
             "source": "Wired"
         }
     ]
