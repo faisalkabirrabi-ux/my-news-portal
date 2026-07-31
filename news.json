@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বেনজীর আহমেদকে দেশে ফেরাতে কতদিন লাগবে?",
+            "link": "https://www.bbc.com/bengali/articles/c5yek0y3ke8o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ঢাকা বিশ্ববিদ্যালয়ের সাত শিক্ষককে অব্যাহতি, অন্যতম অভিযোগ ‘জুলাইবিরোধী’ অবস্থান",
             "link": "https://www.bbc.co.uk/bengali/live/c6298w7r2y2t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,43 +29,53 @@
             "title": "'গুমের' অভিযোগ, ঠিক কী ঘটেছিল মোংলার মিরাজ শেখের সাথে?",
             "link": "https://www.bbc.com/bengali/articles/c8jn9jmwjego?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইরানের ওপর আবারও 'শক্তিশালী' হামলা চালিয়েছে যুক্তরাষ্ট্র",
-            "link": "https://www.bbc.com/bengali/articles/cqlx0z7qn5no?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza",
-            "link": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
+            "title": "Trump says Morocco named Tiznit-Dakhla highway after him: Why it matters",
+            "link": "https://www.aljazeera.com/news/2026/7/31/morocco-names-tiznit-dakhla-highway-after-trump-why-it-matters?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis",
-            "link": "https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss",
+            "title": "Clashes near Morocco’s border with Spain over beefed up migrant security",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/clashes-near-moroccos-border-with-spain-over-beefed-up-migrant-security?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why is US GDP growth slowing, and how can it be reversed?",
-            "link": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
+            "title": "Pacific island nation Nauru officially changes name to ‘Naoero’",
+            "link": "https://www.aljazeera.com/news/2026/7/31/pacific-island-nation-nauru-officially-changes-name-to-naoero?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "French teen fined in Singapore over ‘straw licking’ stunt",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss",
+            "title": "‘They got trapped:’ Race to save miners after deadly blast in Pakistan",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/they-got-trapped-race-to-save-miners-after-deadly-blast-in-pakistan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Argentina’s Milei seeks to deport foreigners that spread ‘hate’ of country",
-            "link": "https://www.aljazeera.com/news/2026/7/30/argentinas-milei-seeks-to-deport-foreigners-that-spread-hate-of-country?traffic_source=rss",
+            "title": "Israeli soldiers mutiny at notorious Sde Teiman base",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-soldiers-mutiny-at-notorious-sde-teiman-base?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Will Saudi Arabia be dragged further into the war in Iran?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
+            "title": "Spain deploys military to Ceuta after deadly migrant surge",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-deploys-military-to-ceuta-after-deadly-migrant-surge?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+            "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+            "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+            "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Uefa to boycott World Cups if Fifa plans approved",
@@ -68,28 +83,13 @@
             "source": "BBC World"
         },
         {
-            "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-            "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+            "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+            "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "Why limited war with the US may suit Iran better than peace",
             "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-            "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-            "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-            "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -157,6 +157,26 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Anthropic says its own AI models breached three companies during security tests",
+            "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+            "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+            "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+            "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Investors love AI, as long as you’re a cloud host",
             "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
             "source": "TechCrunch"
@@ -167,24 +187,14 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-            "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-            "source": "TechCrunch"
+            "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+            "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+            "source": "Wired"
         },
         {
-            "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-            "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-            "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-            "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-            "source": "TechCrunch"
+            "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
+            "link": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/",
+            "source": "Wired"
         },
         {
             "title": "A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran",
@@ -204,16 +214,6 @@
         {
             "title": "Back to School Office Chair Deals 2026: $200 and Less",
             "link": "https://www.wired.com/story/back-to-school-office-chair-deals-2026/",
-            "source": "Wired"
-        },
-        {
-            "title": "For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis",
-            "link": "https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/",
-            "source": "Wired"
-        },
-        {
-            "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
-            "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
             "source": "Wired"
         }
     ]
