@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "India cracks down on protesters accused of ‘abusing’ Modi",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli strike destroys Gaza hospital warehouse",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
+            "link": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Is Spain being punished?",
+            "link": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Children run marathon to spotlight Gaza’s growing orphan crises",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Most Australian teens still online three months after under-16 ban",
             "link": "https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Spain says migrants leaving Ceuta after mass influx in which 67 died",
-            "link": "https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
-            "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Sde Teiman walkout lays bare an Israeli military running out of trust",
-            "link": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "FIFA World Cup crisis: Who could replace Infantino as president?",
-            "link": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Vanishing forests: Why is the Philippines failing at reforestation?",
-            "link": "https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Ellyse Perry seals dramatic chase for Birmingham Phoenix's first win",
+            "link": "https://www.cricinfo.com/ci/content/story/1548368.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Confident West Indies look to sweep nervy Pakistan 2-0",
+            "link": "https://www.cricinfo.com/ci/content/story/1548347.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Root: Fleming a 'big reason' I wanted captaincy again",
             "link": "https://www.cricinfo.com/ci/content/story/1548349.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -105,11 +115,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Confident West Indies look to sweep nervy Pakistan 2-0",
-            "link": "https://www.cricinfo.com/ci/content/story/1548347.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Litton Das added to Bangladesh Test squad for series against Australia",
             "link": "https://www.cricinfo.com/ci/content/story/1548341.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -117,11 +122,6 @@
         {
             "title": "'I want to make home our fortress' - Chase thinks big ahead of second Test",
             "link": "https://www.cricinfo.com/ci/content/story/1548316.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Edwards steps down, de Leede takes over as Netherlands captain",
-            "link": "https://www.cricinfo.com/ci/content/story/1548297.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -140,22 +140,32 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Intensity, smiles & Lewandowski - inside Liverpool training under Iraola",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6290e063yno?at_medium=RSS&at_campaign=rss",
+            "title": "Mudryk Chelsea return will take time - Alonso",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c62eney6347o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Kerr v Wightman for mile gold? Or will Australians spoil home party?",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/c4gw6z2w5xdo?at_medium=RSS&at_campaign=rss",
+            "title": "Bournemouth sign Portugal defender Silva",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cgljn7l17eno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Phoenix end winless run with victory over Fire",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c62vw1vvl86o?at_medium=RSS&at_campaign=rss",
+            "title": "Infantino on the brink? Who might replace him if he goes?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Apps that help you break free from doomscrolling and get active",
+            "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "What’s the best handheld mini fan?",
+            "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+            "source": "TechCrunch"
+        },
         {
             "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
             "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
@@ -174,16 +184,6 @@
         {
             "title": "India is starting to pay for apps, not just download them",
             "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-            "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-            "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
             "source": "TechCrunch"
         },
         {
