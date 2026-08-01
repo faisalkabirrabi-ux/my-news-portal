@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
+            "link": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Moroccan rapper Mehdi El Youbi temporarily released from prison",
+            "link": "https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
+            "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "At least 11 wounded by Colombia car bomb days before presidential election",
+            "link": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
+            "link": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "India cracks down on protesters accused of ‘abusing’ Modi",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israeli strike destroys Gaza hospital warehouse",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
-            "link": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Is Spain being punished?",
-            "link": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Children run marathon to spotlight Gaza’s growing orphan crises",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Most Australian teens still online three months after under-16 ban",
-            "link": "https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,7 +68,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+            "title": "Call for 'full review' as pressure grows on Infantino",
             "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -88,12 +88,17 @@
             "source": "BBC World"
         },
         {
-            "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-            "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+            "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
+            "link": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Molineux's spin strangle maintains Brave's perfect start",
+            "link": "https://www.cricinfo.com/ci/content/story/1548381.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Ellyse Perry seals dramatic chase for Birmingham Phoenix's first win",
             "link": "https://www.cricinfo.com/ci/content/story/1548368.html?ex_cid=OTC-RSS",
@@ -120,42 +125,47 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'I want to make home our fortress' - Chase thinks big ahead of second Test",
-            "link": "https://www.cricinfo.com/ci/content/story/1548316.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "The five dramatic days that shook Infantino and world football",
             "link": "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+            "title": "Gold family agree to sell West Ham stake to Staveley",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwyle0nl810o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Chelsea confirm Welbeck signing from Brighton",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cly5g1vy3p3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Call for 'full review' as pressure grows on Infantino",
             "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Sometimes he wants to leave' - De Zerbi on Richarlison's Spurs future",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c36djl924y4o?at_medium=RSS&at_campaign=rss",
+            "title": "Brentford sign Sangare for club record fee",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cn8n43nzyvmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Mudryk Chelsea return will take time - Alonso",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c62eney6347o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Bournemouth sign Portugal defender Silva",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cgljn7l17eno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Infantino on the brink? Who might replace him if he goes?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+            "title": "McAidoo 'the kind of winger I love' -  Maresca",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c75g4gg02dko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "This $9 key physically locks your most addictive apps",
+            "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+            "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Apps that help you break free from doomscrolling and get active",
             "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
@@ -174,16 +184,6 @@
         {
             "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
             "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Silicon Valley loves young founders. Until it doesn’t.",
-            "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "India is starting to pay for apps, not just download them",
-            "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
             "source": "TechCrunch"
         },
         {
