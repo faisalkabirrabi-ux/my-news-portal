@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Al Jazeera reports from Ceuta as migrants leave the enclave",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes",
+            "link": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
             "link": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "Trump denounces Justice Department decision to drop Reflecting Pool charges",
             "link": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Palestinian children among those detained in Israeli West Bank raids",
-            "link": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "At least three killed in explosion near cafe in Russia’s Moscow",
-            "link": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -135,6 +135,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Shittu 'robbed' - are AI boxing judges the answer?",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c4g42xk1l7vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Gold family agrees to sell West Ham stake to Staveley",
             "link": "https://www.bbc.co.uk/sport/football/articles/cwyle0nl810o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -148,14 +153,14 @@
             "title": "Woad & Hull in contention going into Open final round",
             "link": "https://www.bbc.co.uk/sport/golf/articles/c3v03v02xgwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Awesome Archer's four-wicket spell sinks Spirit",
-            "link": "https://www.bbc.co.uk/sport/cricket/videos/c3w056pl15qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Inside the London hacker house taking a stand against founder burnout",
+            "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
             "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
@@ -179,11 +184,6 @@
         {
             "title": "This $9 key physically locks your most addictive apps",
             "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-            "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
             "source": "TechCrunch"
         },
         {
