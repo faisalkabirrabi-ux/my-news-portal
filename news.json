@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পত্রিকা: 'ইন্টারনেটে অন্যতম ধীরগতির দেশ বাংলাদেশ, মোবাইলে ৯১ ও ব্রডব্যান্ডে ৯৩তম'",
+            "link": "https://www.bbc.com/bengali/articles/cy9wnqwwlvzo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ডোনাল্ড ট্রাম্পের বিশেষ দূত সার্জিও গর ঢাকা সফরে কী বার্তা দিয়ে গেলেন?",
             "link": "https://www.bbc.com/bengali/articles/cj9dwxrke1go?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,43 +29,48 @@
             "title": "সিঁড়ি বেয়ে ওঠা বা হাঁটার সময় শ্বাসকষ্ট কোনো রোগের লক্ষণ?",
             "link": "https://www.bbc.com/bengali/articles/c3w0dgzd8jjo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভারতের হকি টিমের জার্সির রং বদলে কেন গেরুয়া হল?",
-            "link": "https://www.bbc.com/bengali/articles/cevm2xzl9mpo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
-            "link": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
+            "title": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
-            "link": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss",
+            "title": "Gunman kills several at Idaho fast-food restaurant",
+            "link": "https://www.aljazeera.com/news/2026/8/2/gunman-kills-several-at-idaho-fast-food-restaurant?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Al Jazeera reports from Ceuta as migrants leave the enclave",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
+            "title": "Hungary plans to shut down only nuclear power plant amid drought",
+            "link": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes",
-            "link": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
+            "title": "Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
-            "link": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
+            "title": "Singapore bans UK band Massive Attack over Palestinian flag",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Greece battles raging wildfires as flames appear to ease in France",
-            "link": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
+            "title": "New York Times reveals Trump administration subpoena over North Korea story",
+            "link": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+            "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+            "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
@@ -78,18 +88,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-            "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Italy putting nearly all major cities on highest heat alert",
-            "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-            "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+            "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
