@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "বেনজীর আহমেদের জামিন বাতিলে দুবাইয়ে ল ফার্ম নিয়োগ করেছে সরকার",
+            "title": "বেনজীর আহমেদের জামিন বাতিলে দুবাই'য়ে ল ফার্ম নিয়োগ করেছে সরকার",
             "link": "https://www.bbc.co.uk/bengali/live/cp87jdeg6yyt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পরপর দু'টি বোমা উদ্ধারের মধ্যেই পুলিশের সতর্কতা জারি, পরিস্থিতি কতটা উদ্বেগজনক?",
+            "link": "https://www.bbc.com/bengali/articles/c5y4eeqwgvlo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,47 +29,47 @@
             "title": "পত্রিকা: 'ইন্টারনেটে অন্যতম ধীরগতির দেশ বাংলাদেশ, মোবাইলে ৯১ ও ব্রডব্যান্ডে ৯৩তম'",
             "link": "https://www.bbc.com/bengali/articles/cy9wnqwwlvzo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ডোনাল্ড ট্রাম্পের বিশেষ দূত সার্জিও গর ঢাকা সফরে কী বার্তা দিয়ে গেলেন?",
-            "link": "https://www.bbc.com/bengali/articles/cj9dwxrke1go?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Yemen’s crumbling roads mean an arduous quest for water for Taiz villagers",
-            "link": "https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss",
+            "title": "Heatwave forces nuclear shutdown in Hungary",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "South Korea has hottest day on record amid extreme weather globally",
-            "link": "https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss",
+            "title": "Tanks, troops and space",
+            "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "At least five dead, 41 missing after ferry catches fire off Indonesia",
-            "link": "https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss",
+            "title": "CIA whistleblower John Kiriakou on accountability and CIA’s history",
+            "link": "https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why has EU called an emergency meeting on Spain migrant surge?",
-            "link": "https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss",
+            "title": "Greek firefighting helicopters in mid-air collision, four crew missing",
+            "link": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Spanish Ceuta witnesses a deadly ‘game’ for Moroccan migrants",
-            "link": "https://www.aljazeera.com/features/2026/8/2/spanish-ceuta-witnesses-a-deadly-game-for-moroccan-migrants?traffic_source=rss",
+            "title": "Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "The Board of Peace is a failed body and should be abandoned",
-            "link": "https://www.aljazeera.com/opinions/2026/8/2/the-board-of-peace-is-a-failed-body-and-should-be-abandoned?traffic_source=rss",
+            "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
+            "link": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
             "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
             "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+            "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,14 +91,19 @@
             "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
             "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Tourist plane crashes in Peru, killing 13",
-            "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Unchanged West Indies bat first seeking series sweep, Pakistan drop Mohammad Abbas",
+            "link": "https://www.cricinfo.com/ci/content/story/1548480.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Dunkley, Sciver-Brunt fly as Rockets eclipse Sunrisers",
+            "link": "https://www.cricinfo.com/ci/content/story/1548458.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Kavindi, Athapaththu star as all-round SL canter to series win",
             "link": "https://www.cricinfo.com/ci/content/story/1548449.html?ex_cid=OTC-RSS",
@@ -115,23 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Bellingham watches ice-cool Root lead Fire chase",
-            "link": "https://www.cricinfo.com/ci/content/story/1548382.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Molineux's spin strangle maintains Brave's perfect start",
-            "link": "https://www.cricinfo.com/ci/content/story/1548381.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
             "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Selfies, signatures & social media - how Kerr embraced Glasgow Games",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cly976620j6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,13 +135,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Rockets survive late fightback to beat Sunrisers",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cp8xw292rk0o?at_medium=RSS&at_campaign=rss",
+            "title": "Selfies, signatures & social media - how Kerr embraced Glasgow Games",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/cly976620j6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Coach to 'reassess' future after England miss out on netball medal",
             "link": "https://www.bbc.co.uk/sport/netball/articles/cm2gzyxv6vyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Rockets survive late fightback to beat Sunrisers",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cp8xw292rk0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
