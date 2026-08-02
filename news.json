@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty",
+            "link": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Sudan army drone attack on Darfur kills 35, rights group says",
+            "link": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Wildfires force mass evacuations across the Pacific Northwest",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -45,21 +60,6 @@
         {
             "title": "Venezuela and the Dominican Republic say they will work to restore ties",
             "link": "https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Is Washington dictating the agenda for talks in Venezuela?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?",
-            "link": "https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,13 +95,13 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Greaves half-century props up West Indies on rain-affected day",
-            "link": "https://www.cricinfo.com/ci/content/story/1548493.html?ex_cid=OTC-RSS",
+            "title": "Subhadeep Ghosh replaces T Dilip as India men's fielding coach",
+            "link": "https://www.cricinfo.com/ci/content/story/1548497.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Subhadeep Ghosh replaces T Dilip as India men's fielding coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1548497.html?ex_cid=OTC-RSS",
+            "title": "Greaves half-century props up West Indies on rain-affected day",
+            "link": "https://www.cricinfo.com/ci/content/story/1548493.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -123,6 +123,11 @@
             "title": "Ecclestone, Lanning, Mandhana keep MI London winless",
             "link": "https://www.cricinfo.com/ci/content/story/1548484.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Tale of two halves leaves Iraola with plenty to ponder",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth doubts",
@@ -147,11 +152,6 @@
         {
             "title": "Chelsea sign Strasbourg midfielder Barco",
             "link": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Day to remember for record-breaking Finucane",
-            "link": "https://www.bbc.co.uk/sport/cycling/articles/cp30v9l3n81o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
