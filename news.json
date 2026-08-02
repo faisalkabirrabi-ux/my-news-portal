@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "দ্রুত চুক্তি হওয়ার শর্তে ইরানের বিরুদ্ধে হামলা বাতিল করছেন ডোনাল্ড ট্রাম্প",
+            "link": "https://www.bbc.com/bengali/articles/cy07vynkw45o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বিদ্যুৎ বিতরণের দায়িত্ব বেসরকারি খাতে গেলে সমাধান নাকি নতুন দুর্ভোগ?",
             "link": "https://www.bbc.com/bengali/articles/cpd7x82zvqdo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,46 +29,41 @@
             "title": "চব্বিশের ৪ঠা অগাস্ট এক থানায় ১৫জন পুলিশ হত্যার পর কী হয়েছে?",
             "link": "https://www.bbc.com/bengali/articles/cly8x88dzyjo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বিশ্বকাপে বিতর্কিত বিনিয়োগ পরিকল্পনা থেকে সরে এলো ফিফা",
-            "link": "https://www.bbc.com/bengali/articles/cy07qdplq9do?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Petro urges global support to stop possible US invasion of Cuba",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/petro-urges-global-support-to-stop-possible-us-invasion-of-cuba?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
+            "link": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
+            "link": "https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Arsenal’s Arteta expects more signings as Tzolis scores against Girona",
+            "link": "https://www.aljazeera.com/sports/2026/8/2/arsenals-arteta-expects-more-signings-as-tzolis-scores-against-girona?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "At least three dead in Idaho shopping mall mass shooting",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Gaza students overcome Israel’s genocide to celebrate Tawjihi results",
+            "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
             "link": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Three dead including female bomber in Moscow restaurant attack",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Why isn’t anyone challenging Infantino for FIFA’s top job?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "How Virunga Park protects people and gorillas from Ebola in eastern DRC",
-            "link": "https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
-            "link": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+            "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
             "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -88,8 +88,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Call for 'full review' as pressure grows on Infantino",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+            "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -135,6 +135,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "What happened to star signings your club never made?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5y32lgr67no?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Root in 'very different place' over Test captaincy",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -145,13 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Sawyers puts heartbreak behind her to claim gold",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/c1d1q5y5llxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "What happened to star signings your club never made?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5y32lgr67no?at_medium=RSS&at_campaign=rss",
+            "title": "New boss Maresca is perfect for Man City - Gvardiol",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c8rny130kzpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline",
+            "link": "https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/",
+            "source": "Wired"
+        },
+        {
             "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
             "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
             "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-            "source": "Wired"
-        },
-        {
-            "title": "Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head",
-            "link": "https://www.wired.com/story/steel-water-filters-head-to-head/",
             "source": "Wired"
         }
     ]
