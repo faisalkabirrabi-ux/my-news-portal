@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বিদ্যুৎ বিতরণের দায়িত্ব বেসরকারি খাতে গেলে সমাধান নাকি নতুন দুর্ভোগ?",
+            "link": "https://www.bbc.com/bengali/articles/cpd7x82zvqdo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'ইন্টারনেটে অন্যতম ধীরগতির দেশ বাংলাদেশ, মোবাইলে ৯১ ও ব্রডব্যান্ডে ৯৩তম'",
             "link": "https://www.bbc.com/bengali/articles/cy9wnqwwlvzo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,52 +29,47 @@
             "title": "বিশ্বকাপে বিতর্কিত বিনিয়োগ পরিকল্পনা থেকে সরে এলো ফিফা",
             "link": "https://www.bbc.com/bengali/articles/cy07qdplq9do?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "সিঁড়ি বেয়ে ওঠা বা হাঁটার সময় শ্বাসকষ্ট কোনো রোগের লক্ষণ?",
-            "link": "https://www.bbc.com/bengali/articles/c3w0dgzd8jjo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss",
+            "title": "At least three dead in Idaho shopping mall mass shooting",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Gunman kills several at Idaho fast-food restaurant",
-            "link": "https://www.aljazeera.com/news/2026/8/2/gunman-kills-several-at-idaho-fast-food-restaurant?traffic_source=rss",
+            "title": "Gaza students overcome Israel’s genocide to celebrate Tawjihi results",
+            "link": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Hungary plans to shut down only nuclear power plant amid drought",
-            "link": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss",
+            "title": "Three dead including female bomber in Moscow restaurant attack",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+            "title": "Why isn’t anyone challenging Infantino for FIFA’s top job?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Singapore bans UK band Massive Attack over Palestinian flag",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss",
+            "title": "How Virunga Park protects people and gorillas from Ebola in eastern DRC",
+            "link": "https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "New York Times reveals Trump administration subpoena over North Korea story",
-            "link": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
+            "title": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
+            "link": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss",
             "source": "আল জাজিরা"
-        },
-        {
-            "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-            "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         },
         {
             "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
             "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+            "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -78,22 +78,27 @@
             "source": "BBC World"
         },
         {
-            "title": "Call for 'full review' as pressure grows on Infantino",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Tourist plane crashes in Peru, killing 13",
-            "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
             "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "The Sopranos star Vincent Pastore dies aged 80",
+            "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Call for 'full review' as pressure grows on Infantino",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Pretorius the all-round star as Amazon Warriors defend 85 for back-to-back GSL titles",
+            "link": "https://www.cricinfo.com/ci/content/story/1548416.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Jofra Archer hits mark in vital Southern Brave win",
             "link": "https://www.cricinfo.com/ci/content/story/1548403.html?ex_cid=OTC-RSS",
@@ -117,11 +122,6 @@
         {
             "title": "Confident West Indies look to sweep nervy Pakistan 2-0",
             "link": "https://www.cricinfo.com/ci/content/story/1548347.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Root: Fleming a 'big reason' I wanted captaincy again",
-            "link": "https://www.cricinfo.com/ci/content/story/1548349.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Awesome Archer's four-wicket spell sinks Spirit",
-            "link": "https://www.bbc.co.uk/sport/cricket/videos/c3w056pl15qo?at_medium=RSS&at_campaign=rss",
+            "title": "What happened to star signings your club never made?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5y32lgr67no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+            "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+            "source": "Wired"
+        },
+        {
             "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
             "link": "https://www.wired.com/gallery/best-office-chairs/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head",
             "link": "https://www.wired.com/story/steel-water-filters-head-to-head/",
-            "source": "Wired"
-        },
-        {
-            "title": "Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan",
-            "link": "https://www.wired.com/story/dreo-chefmaker-turbocool-fan-flash-deal-2026/",
             "source": "Wired"
         }
     ]
