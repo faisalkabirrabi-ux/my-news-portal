@@ -6,6 +6,11 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "পিঁপড়েরা কীভাবে মিষ্টির খোঁজ পায়?",
+            "link": "https://www.bbc.com/bengali/articles/cvgegyzkz75o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'প্রধানমন্ত্রীর ভারত সফরের সম্ভাবনা কম'",
             "link": "https://www.bbc.com/bengali/articles/cpd793nvqdqo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,19 @@
             "title": "পরপর দু'টি বোমা উদ্ধারের মধ্যেই পুলিশের সতর্কতা জারি, পরিস্থিতি কতটা উদ্বেগজনক?",
             "link": "https://www.bbc.com/bengali/articles/c5y4eeqwgvlo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "চুল পড়া ঠেকাতে পেঁয়াজ, মেথি বা কালো জিরার তেল কি সত্যি কার্যকরী?",
-            "link": "https://www.bbc.com/bengali/articles/cjrv72pj03po?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
+            "link": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Grid failure plunges Cuba into nationwide blackout",
+            "link": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
             "link": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
@@ -53,14 +63,14 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Japan and US confirm rare joint intervention to prop up yen",
-            "link": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Trump suggests new talks with Iran to begin on Monday",
+            "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
-            "title": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+            "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
@@ -68,35 +78,40 @@
             "source": "BBC World"
         },
         {
-            "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-            "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+            "title": "Massive Attack respond after Singapore ban over Palestine display",
+            "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+            "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
             "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-            "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-            "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Five dead and 41 missing after Indonesia ferry catches fire",
-            "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
+            "title": "Auqib Nabi replaces injured Jasprit Bumrah for Test series in Sri Lanka",
+            "link": "https://www.cricinfo.com/ci/content/story/1548538.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "'We're right on our way' - Jangoo gung-ho about West Indies' chances on tricky pitch",
+            "link": "https://www.cricinfo.com/ci/content/story/1548534.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Markram plays down LSG captaincy buzz",
             "link": "https://www.cricinfo.com/ci/content/story/1548531.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Rashid five-for underlines dominant display by MI London",
+            "link": "https://www.cricinfo.com/ci/content/story/1548514.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -110,23 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Rashid five-for underlines dominant display by MI London",
-            "link": "https://www.cricinfo.com/ci/content/story/1548514.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Miller hundred, Chahal four-for as Northants seal points",
-            "link": "https://www.cricinfo.com/ci/content/story/1548471.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Kent sneak home in another tight run chase",
-            "link": "https://www.cricinfo.com/ci/content/story/1548464.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Tale of two halves leaves Iraola with plenty to ponder",
+            "title": "Liverpool ship four second-half goals to leave Iraola with much to ponder",
             "link": "https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Wales first nation to withdraw support for Infantino",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckg9z094v8go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,23 +140,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Alonso heals Real Madrid scars to lead Chelsea's senior revolution",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cz7d138ew59o?at_medium=RSS&at_campaign=rss",
+            "title": "'Nothing is strange' - how clubs prepare for the transfer window",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c87nxvyq4yqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Irish boxer Reeves 'critical but stable' in hospital",
+            "title": "Semenyo hails Maresca style of play as 'music to my ears'",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cglj1zz5g92o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Irish boxer Reeves critical but stable in hospital",
             "link": "https://www.bbc.co.uk/sport/boxing/articles/czxqwp57pvvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Kuwaki wins Women's Open after Henseleit's ball strikes marshal",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/cgmkz4yxpx3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Chelsea sign Strasbourg midfielder Barco",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -212,8 +212,8 @@
             "source": "Wired"
         },
         {
-            "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
-            "link": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
+            "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+            "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
             "source": "Wired"
         }
     ]
