@@ -33,34 +33,39 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
-            "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
+            "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Inside the Palestine Action protests",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss",
+            "title": "US announces first two deaths from cyclospora outbreak",
+            "link": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
-            "link": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
+            "title": "Can Netanyahu survive Israel’s most consequential election?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Romanian navy blasts riverbed to protect nuclear plant",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
+            "title": "Israel top court hears challenge to UNRWA ban",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Indian court acquits ex-wrestling chief in sexual harassment case",
-            "link": "https://www.aljazeera.com/news/2026/8/3/indian-court-acquits-ex-wrestling-chief-in-sexual-harassment-case?traffic_source=rss",
+            "title": "Drone slams into Russian beach, killing at least 7 people",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How Israel and the European far right tried to exploit Ceuta",
-            "link": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss",
+            "title": "Republicans say they will back Blanche after US Justice Department order",
+            "link": "https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+            "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Rhine falls to record low levels as drought strains Europe's rivers",
@@ -86,17 +91,17 @@
             "title": "Russian anti-war politician says he has fled the country",
             "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-            "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Chase, defiant lower order take West Indies to 344",
+            "title": "Awais, Shafique and Babar take the attack to West Indies",
             "link": "https://www.cricinfo.com/ci/content/story/1548596.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Welsh Fire ruin Southern Brave's perfect start",
+            "link": "https://www.cricinfo.com/ci/content/story/1548607.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,17 +125,12 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "USA player Akhilesh Reddy banned for eight years",
-            "link": "https://www.cricinfo.com/ci/content/story/1548564.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "England midfielder Henderson joins Chelsea",
             "link": "https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "English FA set to join Welsh in withdrawing support for Infantino",
+            "title": "Infantino opponents threaten 'non co-operation' with Fifa",
             "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -140,8 +140,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "How Mumbai Indians takeover has affected MI London & Surrey",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cyvl6n9d2y9o?at_medium=RSS&at_campaign=rss",
+            "title": "Raducanu to miss US Open to continue recovery",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cn4njxg33l7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,40 +150,40 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Celtic drawn against LASK as other Scottish sides discover opponents",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cddjm88m4vno?at_medium=RSS&at_campaign=rss",
+            "title": "How Mumbai Indians takeover has affected MI London & Surrey",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cyvl6n9d2y9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Base Power raises another $1B to save the grid using backyard batteries",
-            "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+            "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+            "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
             "source": "TechCrunch"
         },
         {
-            "title": "Congress’s favorite AI tool? ChatGPT",
-            "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+            "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+            "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
             "source": "TechCrunch"
         },
         {
-            "title": "Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest",
-            "link": "https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+            "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+            "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
             "source": "TechCrunch"
         },
         {
-            "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-            "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+            "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+            "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
             "source": "TechCrunch"
         },
         {
-            "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
-            "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+            "title": "Outernet turns your saved posts into real-world adventures",
+            "link": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
             "source": "TechCrunch"
         },
         {
-            "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-            "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+            "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
+            "link": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
             "source": "TechCrunch"
         },
         {
@@ -212,8 +212,8 @@
             "source": "Wired"
         },
         {
-            "title": "AI Conquered Coding. Fast Food Is Next",
-            "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+            "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
+            "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
             "source": "Wired"
         }
     ]
