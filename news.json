@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
+            "link": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Tennis: Philippines’ Eala wins first WTA title, Fritz claims DC crown",
+            "link": "https://www.aljazeera.com/sports/2026/8/3/tennis-philippines-eala-wins-first-wta-title-fritz-claims-dc-crown?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Migrants await asylum in Ceuta amid hunger and thirst",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Will Israel withdraw from Gaza if Hamas disarms?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Hundreds of migrant minors stranded in Ceuta after border crisis",
             "link": "https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Survivors reach port after deadly Indonesia ferry fire",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Clergy members arrested while protesting at Senate office",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,20 +88,20 @@
             "source": "BBC World"
         },
         {
-            "title": "Infantino opponents threaten 'non co-operation' with Fifa",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+            "title": "EU calls for stronger borders after Ceuta migrant crossings",
+            "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Short trumps Stoinis as Fire keep pace with Rockets",
-            "link": "https://www.cricinfo.com/ci/content/story/1548615.html?ex_cid=OTC-RSS",
+            "title": "Abdullah Shafique century, Babar Azam 86* leads strong Pakistan response",
+            "link": "https://www.cricinfo.com/ci/content/story/1548596.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Awais, Shafique and Babar take the attack to West Indies",
-            "link": "https://www.cricinfo.com/ci/content/story/1548596.html?ex_cid=OTC-RSS",
+            "title": "Short trumps Stoinis as Fire keep pace with Rockets",
+            "link": "https://www.cricinfo.com/ci/content/story/1548615.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -123,6 +123,11 @@
             "title": "'I deserve clarity, not ridicule' - Shashank Singh leaves Chhattisgarh for Puducherry",
             "link": "https://www.cricinfo.com/ci/content/story/1548576.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Tierney shows value as Celtic title defence begins",
+            "link": "https://www.bbc.co.uk/sport/articles/cpd72xwyjw9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Infantino opponents threaten 'non co-operation' with Fifa",
@@ -148,14 +153,14 @@
             "title": "Pollock to demand £1m a year at Northampton - Hearn",
             "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c05q1g9v2evo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "How Mumbai Indians takeover has affected MI London & Surrey",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cyvl6n9d2y9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+            "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+            "source": "TechCrunch"
+        },
         {
             "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
             "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
@@ -167,7 +172,7 @@
             "source": "TechCrunch"
         },
         {
-            "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+            "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
             "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
             "source": "TechCrunch"
         },
@@ -182,9 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-            "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-            "source": "TechCrunch"
+            "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
+            "link": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+            "source": "Wired"
         },
         {
             "title": "The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases",
@@ -209,11 +214,6 @@
         {
             "title": "The Best Audio Players for Kids: Yoto, Toniebox, and More",
             "link": "https://www.wired.com/story/the-best-kids-audio-players-for-screen-free-story-time/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Delicate Art of Making a 1907 House Smarter",
-            "link": "https://www.wired.com/story/smart-tech-for-a-vintage-home/",
             "source": "Wired"
         }
     ]
