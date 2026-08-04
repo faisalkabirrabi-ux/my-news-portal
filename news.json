@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "জুলাই স্মৃতি জাদুঘর খুলে দেওয়া হবে ছয়ই অগাস্ট",
+            "title": "শেখ হাসিনার বক্তব্য নিয়ে কেউ খবর প্রচার করলে সরকার ব্যবস্থা নেবে: জাহেদ উর রহমান",
             "link": "https://www.bbc.co.uk/bengali/live/crk5lzrd2jgt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "সরকারি চাকরিতে এখন কোন কোটা কত শতাংশ  আছে?",
+            "link": "https://www.bbc.com/bengali/articles/c0lyj2666kjo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -21,11 +26,6 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "ভারতের ভূখণ্ড ব্যবহার করে যেন শেখ হাসিনা বক্তব্য দিতে না পারেন, সহযোগিতার প্রত্যাশা বাংলাদেশের",
-            "link": "https://www.bbc.co.uk/bengali/live/cq6d5e0yd84t?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
             "title": "টাঙ্গুয়ার হাওরের একাংশে নৌযান চলাচলে নিষেধাজ্ঞা, কোন পর্যন্ত যেতে পারবেন পর্যটকরা?",
             "link": "https://www.bbc.com/bengali/articles/c99830gy10lo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -33,38 +33,43 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
-            "link": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
+            "title": "The Gulf can no longer outsource its security",
+            "link": "https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
-            "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+            "title": "Who is behind settler violence in the occupied West Bank?",
+            "link": "https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why are the Washington wildfires so severe? Spokane fires explained",
-            "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
+            "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+            "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Bodycam video shows firefighters battling blaze in Spokane, US",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
+            "title": "Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?",
+            "link": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
-            "link": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+            "title": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
+            "link": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Pochettino agrees to coach men’s US Soccer through 2030 World Cup",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss",
+            "title": "Palestinian patients return to Gaza as thousands still await evacuation",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/palestinian-patients-return-to-gaza-as-thousands-still-await-evacuation?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "EU calls for stronger borders after Ceuta migrant crossings",
-            "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+            "title": "More than 150 migrants rescued after boat catches fire in Channel",
+            "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Ukraine strikes more Wildberries sites as five killed in Moscow region",
+            "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,23 +78,18 @@
             "source": "BBC World"
         },
         {
-            "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-            "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+            "title": "What will happen when a SpaceX rocket collides with the Moon?",
+            "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-            "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+            "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+            "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-            "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
-            "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+            "title": "Guatemala volcano eruption sends lava spewing into the air",
+            "link": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -100,12 +100,22 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Ireland, Afghanistan kick off new eras with five-match ODI series",
+            "link": "https://www.cricinfo.com/ci/content/story/1548643.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Rampaul: 'Our faster bowlers need to be a little more consistent'",
             "link": "https://www.cricinfo.com/ci/content/story/1548620.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Pakistan set to bring in Michael Smith as batting coach",
+            "title": "Welsh Fire ruin Southern Brave's perfect start",
+            "link": "https://www.cricinfo.com/ci/content/story/1548607.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Pakistan bring in Michael Smith as batting coach",
             "link": "https://www.cricinfo.com/ci/content/story/1548592.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
@@ -115,14 +125,14 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Short trumps Stoinis as Fire keep pace with Rockets",
-            "link": "https://www.cricinfo.com/ci/content/story/1548615.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Fifa private money plan had to be scrapped - Wenger",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Welsh Fire ruin Southern Brave's perfect start",
-            "link": "https://www.cricinfo.com/ci/content/story/1548607.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Arsenal in talks to sign Newcastle's Guimaraes",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckg9k2yvywxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Ex-captain Stokes would love to coach England in future",
@@ -130,28 +140,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Record number of new managers for season like no other",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cddjmd6189yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Itauma v Hrgovic upgraded to IBF world-title bout",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/clyxvg8j36go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why we are still waiting for the 'Newey effect' - F1 Q&A",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cpd79ln1p93o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "UFC's Nascimento, 34, dies after apparent heart attack",
-            "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cvgwvnje09po?at_medium=RSS&at_campaign=rss",
+            "title": "Mourners line streets of Milan for legend Baresi's funeral",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "A youngster to watch at each Premier League club this season",
             "link": "https://www.bbc.co.uk/sport/football/articles/cre4np3pnxqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "UFC loses $30m on Freedom 250 event at White House",
+            "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgdky8d94eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-            "link": "https://www.wired.com/story/lowes-promo-code/",
+            "title": "The Best Cordless Vacuums (2026): My Brand-New Top Pick",
+            "link": "https://www.wired.com/gallery/the-best-cordless-vacuum/",
             "source": "Wired"
         },
         {
-            "title": "Loop Earplugs Discount Codes: 40% Off",
-            "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
+            "title": "Is This Poker Player Bluffing? The AI Thinks So",
+            "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
             "source": "Wired"
         },
         {
-            "title": "Instacart Promo Code: $15 Off | August 2026",
-            "link": "https://www.wired.com/story/instacart-promo/code/",
+            "title": "How One Startup Built a (Mostly) China-Free Robot",
+            "link": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
             "source": "Wired"
         },
         {
-            "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
-            "link": "https://www.wired.com/story/lovehoney-discount-code/",
+            "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
+            "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
             "source": "Wired"
         },
         {
-            "title": "Wayfair Coupons: Up to 80% Off August 2026",
-            "link": "https://www.wired.com/story/wayfair-promo-code/",
+            "title": "How Data Centers Broke American Politics",
+            "link": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
             "source": "Wired"
         },
         {
-            "title": "Expedia Coupons: 40% Off",
-            "link": "https://www.wired.com/story/expedia-coupon/",
+            "title": "The Real Story Behind the 2018 Google Walkout",
+            "link": "https://www.wired.com/story/2018-google-walkout-dont-be-evil-claire-stapleton/",
             "source": "Wired"
         }
     ]
