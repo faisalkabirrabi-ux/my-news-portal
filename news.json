@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "শেখ হাসিনার বক্তব্য নিয়ে কেউ খবর প্রচার করলে সরকার ব্যবস্থা নেবে: জাহেদ উর রহমান",
+            "title": "দিল্লিতে যে অনুষ্ঠানে শেখ হাসিনা বক্তব্য দেবেন, তার সাথে ভারত সরকারের কোনো সমর্থন নেই: জয়সওয়াল",
             "link": "https://www.bbc.co.uk/bengali/live/crk5lzrd2jgt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "দান করলেও জীবদ্দশায় সম্পত্তি ভোগ করতে পারবেন বাবা-মা,  নতুন সংশোধনীর ফলে কী হবে?",
+            "link": "https://www.bbc.com/bengali/articles/c4g3wjk8y0eo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,42 +29,37 @@
             "title": "পত্রিকা: 'সংবিধানে ফিরছেন জিয়াউর রহমান'",
             "link": "https://www.bbc.com/bengali/articles/cgr74xy7vlro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "টাঙ্গুয়ার হাওরের একাংশে নৌযান চলাচলে নিষেধাজ্ঞা, কোন পর্যন্ত যেতে পারবেন পর্যটকরা?",
-            "link": "https://www.bbc.com/bengali/articles/c99830gy10lo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "The Gulf can no longer outsource its security",
-            "link": "https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss",
+            "title": "Spanish PM Sanchez faces criticism as EU meets over Ceuta crossings",
+            "link": "https://www.aljazeera.com/news/2026/8/4/spanish-pm-sanchez-faces-criticism-as-eu-meets-over-ceuta-crossings?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Who is behind settler violence in the occupied West Bank?",
-            "link": "https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
+            "title": "Top Africa football leaders back Infantino after FIFA selloff scandal",
+            "link": "https://www.aljazeera.com/sports/2026/8/4/top-africa-football-leaders-back-infantino-after-fifa-selloff-scandal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
-            "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
+            "title": "Hamas negotiator says deal to disarm was necessary to ‘save Gaza’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/hamas-negotiator-says-deal-to-disarm-was-necessary-to-save?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?",
-            "link": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss",
+            "title": "Typhoon Dolphin hurtles towards Japan: Tracker, updates and what to expect",
+            "link": "https://www.aljazeera.com/news/2026/8/4/typhoon-dolphin-hurtles-towards-japan-tracker-updates-and-what-to-expect?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
-            "link": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss",
+            "title": "Twelve years after ISIL’s massacres, thousands of Yazidis seek justice",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/twelve-years-after-isils-massacres-thousands-of-yazidis-seek-justice?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Palestinian patients return to Gaza as thousands still await evacuation",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/palestinian-patients-return-to-gaza-as-thousands-still-await-evacuation?traffic_source=rss",
+            "title": "More than 150 people rescued in English Channel after boat catches fire",
+            "link": "https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,7 +68,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Ukraine strikes more Wildberries sites as five killed in Moscow region",
+            "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
             "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -83,25 +83,30 @@
             "source": "BBC World"
         },
         {
-            "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
-            "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+            "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+            "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Guatemala volcano eruption sends lava spewing into the air",
-            "link": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
+            "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+            "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Spinners, Zafar hand Pakistan a consolation win",
-            "link": "https://www.cricinfo.com/ci/content/story/1548638.html?ex_cid=OTC-RSS",
+            "title": "Stokes on Root resuming England captaincy: 'My only worry is Joe'",
+            "link": "https://www.cricinfo.com/ci/content/story/1548669.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "Ireland, Afghanistan kick off new eras with five-match ODI series",
             "link": "https://www.cricinfo.com/ci/content/story/1548643.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Spinners, Zafar hand Pakistan a consolation win",
+            "link": "https://www.cricinfo.com/ci/content/story/1548638.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,9 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Abdullah Shafique century, Babar Azam 86* lead strong Pakistan response",
-            "link": "https://www.cricinfo.com/ci/content/story/1548596.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Drinking culture embedded in cricket - Stokes",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Fifa private money plan had to be scrapped - Wenger",
@@ -135,56 +140,61 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Ex-captain Stokes would love to coach England in future",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Mourners line streets of Milan for legend Baresi's funeral",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "A youngster to watch at each Premier League club this season",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cre4np3pnxqo?at_medium=RSS&at_campaign=rss",
+            "title": "Mudryk could return on Wednesday after drugs suspension",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c330r3l3lgmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "UFC loses $30m on Freedom 250 event at White House",
             "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgdky8d94eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
+        },
+        {
+            "title": "A youngster to watch at each Premier League club this season",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cre4np3pnxqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-            "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+            "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+            "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
             "source": "TechCrunch"
         },
         {
-            "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
-            "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+            "title": "Spotify now has over 300M subscribers",
+            "link": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
             "source": "TechCrunch"
         },
         {
-            "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-            "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+            "title": "India moves to give its instant payments network a business model",
+            "link": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
             "source": "TechCrunch"
         },
         {
-            "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
-            "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+            "title": "Is the future of data centers portable? Runware builds a pod to find out",
+            "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
             "source": "TechCrunch"
         },
         {
-            "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-            "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+            "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+            "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
             "source": "TechCrunch"
         },
         {
-            "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-            "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+            "title": "Bending Spoons to buy Airtable for $1.28B",
+            "link": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "The Best Gaming Mouse You Can Buy After Testing Dozens of Models",
+            "link": "https://www.wired.com/gallery/best-gaming-mouse/",
+            "source": "Wired"
+        },
+        {
+            "title": "Purple Carrot Meal Kit Review: Tastier Than Meal Kits With Meat",
+            "link": "https://www.wired.com/review/purple-carrot-meal-kit-2026/",
+            "source": "Wired"
         },
         {
             "title": "The Best Cordless Vacuums (2026): My Brand-New Top Pick",
@@ -204,16 +214,6 @@
         {
             "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
             "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
-            "source": "Wired"
-        },
-        {
-            "title": "How Data Centers Broke American Politics",
-            "link": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Real Story Behind the 2018 Google Walkout",
-            "link": "https://www.wired.com/story/2018-google-walkout-dont-be-evil-claire-stapleton/",
             "source": "Wired"
         }
     ]
