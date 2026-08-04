@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "'এখনো তদন্তই শেষ হয়নি'- আদালতে ঝুলছে জুলাই আন্দোলন ঘিরে সহস্রাধিক মামলা",
+            "link": "https://www.bbc.com/bengali/articles/cq6d9ezq0v3o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ভারতের ভূখণ্ড ব্যবহার করে যেন শেখ হাসিনা বক্তব্য দিতে না পারেন, সহযোগিতার প্রত্যাশা বাংলাদেশের",
             "link": "https://www.bbc.co.uk/bengali/live/cq6d5e0yd84t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "আজ থেকে ইরানের সঙ্গে নতুন করে আলোচনা শুরুর আভাস ডোনাল্ড ট্রাম্পের",
             "link": "https://www.bbc.com/bengali/articles/cx25r5wxe37o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পিঁপড়েরা কীভাবে মিষ্টির খোঁজ পায়?",
-            "link": "https://www.bbc.com/bengali/articles/cvgegyzkz75o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
-            "link": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
+            "title": "Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test",
+            "link": "https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Tennis: Philippines’ Eala wins first WTA title, Fritz claims DC crown",
-            "link": "https://www.aljazeera.com/sports/2026/8/3/tennis-philippines-eala-wins-first-wta-title-fritz-claims-dc-crown?traffic_source=rss",
+            "title": "Does the US blockade on Cuba make America safer?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Migrants await asylum in Ceuta amid hunger and thirst",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss",
+            "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+            "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
+            "title": "Trump administration sued by 25 states over new tariffs on trading partners",
+            "link": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
+            "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Hundreds of migrant minors stranded in Ceuta after border crisis",
-            "link": "https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss",
+            "title": "Two workers who died in quake-hit Japan mall were sent in to get cash",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+            "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
             "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
             "source": "TechCrunch"
@@ -179,11 +184,6 @@
         {
             "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
             "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
-            "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
             "source": "TechCrunch"
         },
         {
