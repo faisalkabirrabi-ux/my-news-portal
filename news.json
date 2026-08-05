@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
+            "link": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
+            "link": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
+            "link": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Elon Musk’s SpaceX reports losses but less than expected",
+            "link": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "How the far right weaponised the Ceuta crisis",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Death toll rises to 87 in India’s flood-stricken Assam",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Six years on, Beirut blast families still await justice",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
-            "link": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
-            "link": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,6 +78,11 @@
             "source": "BBC World"
         },
         {
+            "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+            "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
             "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -85,11 +90,6 @@
         {
             "title": "Arrests in Egypt after people allegedly impersonate judges",
             "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "More than 170 migrants rescued after boat catches fire in Channel",
-            "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -157,6 +157,21 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+            "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+            "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+            "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
             "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
             "source": "TechCrunch"
@@ -172,19 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-            "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-            "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-            "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-            "source": "TechCrunch"
+            "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+            "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+            "source": "Wired"
         },
         {
             "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
@@ -209,11 +214,6 @@
         {
             "title": "The Best Cordless Vacuums (2026): My Brand-New Top Pick",
             "link": "https://www.wired.com/gallery/the-best-cordless-vacuum/",
-            "source": "Wired"
-        },
-        {
-            "title": "Is This Poker Player Bluffing? The AI Thinks So",
-            "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
             "source": "Wired"
         }
     ]
