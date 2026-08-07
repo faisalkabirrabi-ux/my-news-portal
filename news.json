@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বন্দুক নিয়ে দাদা-দাদীকে হত্যার পর স্কুলে হামলা চালায় সন্দেহভাজন কিশোর",
+            "link": "https://www.bbc.com/bengali/articles/ckg4n5p9gz4o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "আওয়ামী লীগের বিচার ও নিষিদ্ধ করার প্রশ্নে চ্যালেঞ্জ কোথায়",
+            "link": "https://www.bbc.com/bengali/articles/cwyjlq3j6zlo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "যুক্তরাষ্ট্রে জন্ম নিলেই নাগরিক- এই সুযোগ সীমিত করছেন ট্রাম্প",
             "link": "https://www.bbc.com/bengali/articles/cn5n629e2x4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,19 +29,29 @@
             "title": "পত্রিকা: 'একযোগে ৭৫ হাজার শিক্ষক-কর্মচারীকে পাওনা দেবে সরকার'",
             "link": "https://www.bbc.com/bengali/articles/cwylwgz71n6o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পিত্তথলিতে কীভাবে পাথর হয়,  শনাক্তকরণ ও চিকিৎসা প্রক্রিয়া কী?",
-            "link": "https://www.bbc.com/bengali/articles/c62qvry7k9ro?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বাংলাদেশের সঙ্গে সম্পর্ক কোনদিকে যাবে 'সিদ্ধান্তটা ভারতকে নিতে হবে': শামা ওবায়েদ",
-            "link": "https://www.bbc.co.uk/bengali/live/cwd0xk325r4nt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Central Europe sees record temperatures as heatwave continues",
+            "link": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Saudi Pro League’s England international Toney charged with assault",
+            "link": "https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
+            "link": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Several killed after student opens fire inside Thailand school",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "The other classroom: Returning to sacred knowledge",
             "link": "https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss",
@@ -40,26 +60,6 @@
         {
             "title": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
             "link": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Earthquake strikes as doctors perform surgery",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
-            "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Mexico deploys troops to secure avocado region after US halts imports",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,12 +88,22 @@
             "source": "BBC World"
         },
         {
-            "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-            "link": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+            "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+            "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Athapaththu and Nissanka win top honours at Sri Lanka Cricket awards",
+            "link": "https://www.cricinfo.com/ci/content/story/1548978.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Namibia to host SA, Zimbabwe as Africa T20 Cup grows closer",
+            "link": "https://www.cricinfo.com/ci/content/story/1548977.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Wyllie hundred and late wickets put Bangladesh under pressure",
             "link": "https://www.cricinfo.com/ci/content/story/1548962.html?ex_cid=OTC-RSS",
@@ -115,38 +125,28 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Kerr rescues MI London from 64 for 8 to seal long-awaited first win",
-            "link": "https://www.cricinfo.com/ci/content/story/1548913.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "England recall Lawrence to Test team with Cox to bat at No. 3 vs Pakistan",
-            "link": "https://www.cricinfo.com/ci/content/story/1548851.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Mexico break ranks to join Argentina in backing Infantino",
+            "title": "Norway call on Infantino to resign but Mexico & Argentina back Fifa president",
             "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "England forward Toney charged with assault",
+            "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Sullivan expected to ignore safety advice and attend West Ham game",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c36d8w5g080o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Lewis-Skelly's chance to threaten Arsenal's big-name midfielders",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c15171py593o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Who will leave Chelsea? How Blues could cut 41-man squad",
             "link": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "39 moves across five countries - football's ultimate journeyman",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cdx7wq2r21yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Norrie saves match point in superb Montreal fightback",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cr7kl7jxv59o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Guimaraes future decided before I arrived - Jaissle",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c62el1507p1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Google Workspace Promo Codes: 14% Off for August 2026",
-            "link": "https://www.wired.com/story/google-workspace-promo-code/",
+            "title": "Ranking the Best Smart Glasses: Meta, Viture, & More (2026)",
+            "link": "https://www.wired.com/gallery/best-smart-glasses/",
             "source": "Wired"
         },
         {
-            "title": "Hotels.com Coupon Codes for August 2026",
-            "link": "https://www.wired.com/story/hotels-com-coupon/",
+            "title": "The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry",
+            "link": "https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/",
             "source": "Wired"
         },
         {
-            "title": "Uber Eats Promo Codes: $15 Off│August 2026",
-            "link": "https://www.wired.com/story/uber-eats-promo-code/",
+            "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+            "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
             "source": "Wired"
         },
         {
-            "title": "LG Promo Codes and Coupons for August 2026",
-            "link": "https://www.wired.com/story/lg-promo-code/",
+            "title": "Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?",
+            "link": "https://www.wired.com/story/plastic-free-coffee-makers/",
             "source": "Wired"
         },
         {
-            "title": "Nike Promo Codes and Discounts: 30% for August 2026",
-            "link": "https://www.wired.com/story/nike-promo-code/",
+            "title": "Ray-Ban Promo Codes: Save 50% in August 2026",
+            "link": "https://www.wired.com/story/ray-ban-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "50% Off DoorDash Promo Code | August 2026",
-            "link": "https://www.wired.com/story/doordash-promo-code/",
+            "title": "Ulta Promo Codes: Up to 20% Off in August 2026",
+            "link": "https://www.wired.com/story/ulta-coupon/",
             "source": "Wired"
         }
     ]
