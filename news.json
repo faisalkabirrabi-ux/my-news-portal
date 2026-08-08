@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "শেখ হাসিনা চাইলেই কী দেশে ফিরতে পারবেন?",
+            "link": "https://www.bbc.com/bengali/articles/cr597827zqeo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "আওয়ামী লীগের নেতারা ভারতে দুই বছর কীভাবে কাটালেন?",
             "link": "https://www.bbc.com/bengali/articles/cn9n8e0nwqxo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,19 @@
             "title": "শাহবাজ শরিফের পর সৌদি আরবে তুরস্কের প্রেসিডেন্ট, নতুন কৌশলগত জোটের ইঙ্গিত?",
             "link": "https://www.bbc.com/bengali/articles/cx2kxqe063wo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বন্দুক নিয়ে দাদা-দাদীকে হত্যার পর স্কুলে হামলা চালায় সন্দেহভাজন কিশোর",
-            "link": "https://www.bbc.com/bengali/articles/ckg4n5p9gz4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
+            "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
+            "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
             "link": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss",
@@ -50,16 +60,6 @@
         {
             "title": "Norway Football Federation calls for FIFA president to resign",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Armenia puts Church leader on trial for allegedly being a Russian spy",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
-            "link": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -130,23 +130,23 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Liverpool close to signing Barcelona's Araujo on loan",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4gxvvxldewo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Life as a Wag in the transfer window",
             "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Politicians, private jets and power - the life of a Fifa president",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&at_campaign=rss",
+            "title": "Inside Newcastle 2.0 - how the project is changing",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "England's Hull closes in on Huang after historic 62",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/cn9nz8n7yrno?at_medium=RSS&at_campaign=rss",
+            "title": "Liverpool close to signing Barcelona's Araujo on loan",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gxvvxldewo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Goals galore - the wildest scores in EFL Cup history",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5y02m99evro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
