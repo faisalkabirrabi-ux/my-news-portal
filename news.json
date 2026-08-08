@@ -33,34 +33,39 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+            "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+            "link": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
+            "link": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+            "link": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "The influencers taking on far-right leader Nigel Farage",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
-            "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
-            "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
-            "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
-            "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
-            "link": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+            "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
@@ -85,11 +90,6 @@
         {
             "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
             "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Child among three killed in Russian missile attacks near Kyiv",
-            "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -125,6 +125,11 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Tielemans cameo against PSG hints at Man Utd future",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Athletes from bankrupt track league have now been paid - Johnson",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/c9q9p9n2xqgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -145,13 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Arsenal sign Guimaraes from Newcastle in £75m deal",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1719r079rjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Sciver-Brunt guides Rockets to Hundred knockouts, Super Giants beat Brave",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c79gr0yr07po?at_medium=RSS&at_campaign=rss",
+            "title": "Eight-try Wigan thump Toulouse to move into second",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/ce3qz1p47p2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
