@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+            "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+            "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Lionel Messi’s father dies aged 68 after a long illness",
+            "link": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "War on Iran: Phase II: Day 28",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -48,21 +63,6 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
-            "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
-            "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Child among three killed in Russian missile attacks near Kyiv",
             "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -70,6 +70,11 @@
         {
             "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
             "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+            "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,25 +88,20 @@
             "source": "BBC World"
         },
         {
-            "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
-            "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "NBA forward Clarke's death due to effects of drugs",
-            "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+            "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+            "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Sciver-Brunt leads Rockets home after Bates applies stranglehold",
-            "link": "https://www.cricinfo.com/ci/content/story/1549169.html?ex_cid=OTC-RSS",
+            "title": "Padikkal 142* headlines India's reply",
+            "link": "https://www.cricinfo.com/ci/content/story/1549219.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Padikkal 142 headlines India's reply",
-            "link": "https://www.cricinfo.com/ci/content/story/1549219.html?ex_cid=OTC-RSS",
+            "title": "Sciver-Brunt leads Rockets home after Bates applies stranglehold",
+            "link": "https://www.cricinfo.com/ci/content/story/1549169.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -150,12 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Infantino denies claims Uefa paid off alleged 'lover'",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+            "title": "Sullivan attends West Ham game despite advice not to",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c07rx4r40ngo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+            "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+            "source": "TechCrunch"
+        },
         {
             "title": "OpenAI says it slowed Astra model development over security concerns",
             "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -179,11 +184,6 @@
         {
             "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
             "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
-            "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
             "source": "TechCrunch"
         },
         {
