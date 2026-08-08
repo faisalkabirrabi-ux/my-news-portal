@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "US announces $400m investment in Australian rare earth mine",
+            "link": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Messi will decide when he retires, says Argentina FA chief",
+            "link": "https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Typhoon Dolphin hits Japan, heads towards China",
+            "link": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
             "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -45,21 +60,6 @@
         {
             "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
             "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
-            "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
-            "link": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Violence is driving Palestinian Christians out of their Holy Land",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,7 +95,7 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "'It wasn't nice' - worries increase for Simmons after tour-game collapse",
+            "title": "'We let ourselves down' - worries increase for Simmons after tour-game collapse",
             "link": "https://www.cricinfo.com/ci/content/story/1549146.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
@@ -125,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Infantino denies claims Uefa paid off alleged 'lover'",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Life as a Wag in the transfer window",
             "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -137,6 +132,11 @@
         {
             "title": "Inside Newcastle 2.0 - how the project is changing",
             "link": "https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Flintoff leaves England Lions head coach role",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cpw9nvzkxexo?at_medium=RSS&at_campaign=rss",
+            "title": "Chapman could return to UK next week after brain bleed",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/cx2jyzgzv7jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,26 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
+            "link": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
+            "source": "Wired"
+        },
+        {
+            "title": "Spokane Shows What the New Era of Wildfires Looks Like",
+            "link": "https://www.wired.com/story/spokane-shows-new-era-of-wildfires/",
+            "source": "Wired"
+        },
+        {
+            "title": "WhatsApp Gets a Handy @all Feature for Group Chats",
+            "link": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
+            "source": "Wired"
+        },
+        {
+            "title": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
+            "link": "https://www.wired.com/story/best-solar-generators/",
+            "source": "Wired"
+        },
+        {
             "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
             "link": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
             "source": "Wired"
@@ -194,26 +214,6 @@
         {
             "title": "The 7 Best TV Shows to Stream This Month",
             "link": "https://www.wired.com/story/the-7-best-shows-to-stream-right-now/",
-            "source": "Wired"
-        },
-        {
-            "title": "Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been",
-            "link": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
-            "source": "Wired"
-        },
-        {
-            "title": "Scientists Used AI to Create 16 New Viruses",
-            "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-            "source": "Wired"
-        },
-        {
-            "title": "Our Favorite Fans Are on Sale to Help With Summer Heat Waves (2026)",
-            "link": "https://www.wired.com/story/fan-deals-august-2026/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Webcams (2026): My Honest Take After Testing the Best",
-            "link": "https://www.wired.com/story/best-webcams/",
             "source": "Wired"
         }
     ]
