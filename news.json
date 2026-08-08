@@ -16,6 +16,11 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "অনুমতি ছাড়া কারো ছবি তুললেই কি অপরাধ?",
+            "link": "https://www.bbc.com/bengali/articles/cr7kj9rvp49o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: '২৪ ঘণ্টায় নাটকীয় মোড়, নেপথ্যে কূটনৈতিক বিবৃতি'",
             "link": "https://www.bbc.com/bengali/articles/ce3qep17kvjo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,19 @@
             "title": "আওয়ামী লীগের বিচার ও নিষিদ্ধ করার প্রশ্নে চ্যালেঞ্জ কোথায়",
             "link": "https://www.bbc.com/bengali/articles/cwyjlq3j6zlo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শাহবাজ শরিফের পর সৌদি আরবে তুরস্কের প্রেসিডেন্ট, নতুন কৌশলগত জোটের ইঙ্গিত?",
-            "link": "https://www.bbc.com/bengali/articles/cx2kxqe063wo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
+            "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "South Korea FA apologises over ‘sexual services’ allegations",
+            "link": "https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
             "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
@@ -53,18 +63,13 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "FIFA’s Infantino backed in Colombia where he attends president inauguration",
-            "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-infantino-backed-in-colombia-where-he-attends-inauguration?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Norway Football Federation calls for FIFA president to resign",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Child among three killed in Russian missile attacks near Kyiv",
             "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "The phone book that led us to Assad's spy chief in hiding",
+            "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -85,11 +90,6 @@
         {
             "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
             "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-            "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -120,8 +120,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Litchfield, Deepti keep Sunrisers in hunt for knockouts",
-            "link": "https://www.cricinfo.com/ci/content/story/1549086.html?ex_cid=OTC-RSS",
+            "title": "Rickelton maintains form as Sunrisers extinguish Phoenix hopes",
+            "link": "https://www.cricinfo.com/ci/content/story/1549118.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
