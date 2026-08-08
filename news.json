@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Trump’s Former Lawyer Is Now Attorney General",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "What are the challenges facing the Mecca agreement?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
             "link": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-            "link": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "The influencers taking on far-right leader Nigel Farage",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -140,22 +140,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "St Mirren start strongly using relegation scare as 'fuel'",
+            "title": "Tipped for drop but sitting top - St Mirren defying expectations",
             "link": "https://www.bbc.co.uk/sport/football/articles/c1k1g7ylyrko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Wissa & Toure star as Jaissle wins first Newcastle friendly - ratings",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gk75keg1lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Eight-try Wigan thump Toulouse to move into second",
             "link": "https://www.bbc.co.uk/sport/rugby-league/articles/ce3qz1p47p2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Rockets beat MI London to reach knockouts as Super Giants eliminate Brave",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c1j1e46j59xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+            "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+            "source": "TechCrunch"
+        },
         {
             "title": "OpenAI acquires presentation startup NextSlide",
             "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
@@ -179,11 +184,6 @@
         {
             "title": "OpenAI says it slowed Astra model development over security concerns",
             "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-            "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
             "source": "TechCrunch"
         },
         {
