@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "আওয়ামী লীগের নেতারা ভারতে দুই বছর কীভাবে কাটালেন?",
+            "link": "https://www.bbc.com/bengali/articles/cn9n8e0nwqxo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'প্রধানমন্ত্রী ১২ সেপ্টেম্বর ভারত যেতে পারেন'",
+            "link": "https://www.bbc.com/bengali/articles/ce3qep17kvjo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "আওয়ামী লীগের বিচার ও নিষিদ্ধ করার প্রশ্নে চ্যালেঞ্জ কোথায়",
             "link": "https://www.bbc.com/bengali/articles/cwyjlq3j6zlo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,19 +29,19 @@
             "title": "মির্জা ফখরুলই কি বঙ্গভবনের নতুন বাসিন্দা হচ্ছেন?",
             "link": "https://www.bbc.com/bengali/articles/cz05njy0ndxo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "যুক্তরাষ্ট্রে জন্ম নিলেই নাগরিক- এই সুযোগ সীমিত করছেন ট্রাম্প",
-            "link": "https://www.bbc.com/bengali/articles/cn5n629e2x4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ফেসবুকের মূল প্রতিষ্ঠান মেটাকে এবার ৫৭ কোটি ডলার জরিমানা",
-            "link": "https://www.bbc.com/bengali/articles/c5y42ryqz9jo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
+            "link": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
             "link": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
@@ -50,16 +60,6 @@
         {
             "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
             "link": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-            "link": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Puerto Rico rations water as severe drought leaves reservoirs depleted",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Bangladesh fold for 54 in Test warm-up as Thompson takes 8 for 25",
+            "link": "https://www.cricinfo.com/ci/content/story/1549132.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "McDonald braced for IPL call amid Australia's relentless schedule",
+            "link": "https://www.cricinfo.com/ci/content/story/1548954.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Balderson fifty wrenches victory for Lancashire to keep play-off hopes alive",
             "link": "https://www.cricinfo.com/ci/content/story/1549074.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -112,16 +122,6 @@
         {
             "title": "Rickelton maintains form as Sunrisers extinguish Phoenix hopes",
             "link": "https://www.cricinfo.com/ci/content/story/1549118.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Joe Cracknell, Naavya Sharma guide Middlesex win as Durham lose Emilio Gay to injury",
-            "link": "https://www.cricinfo.com/ci/content/story/1549083.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Tom Lammonby ton crushes Surrey",
-            "link": "https://www.cricinfo.com/ci/content/story/1549090.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
