@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "War on Iran: Phase II: Day 28",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
+            "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
+            "link": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
+            "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
             "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
-            "link": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Arsenal complete signing of Newcastle midfielder Bruno Guimaraes",
-            "link": "https://www.aljazeera.com/sports/2026/8/8/arsenal-complete-signing-of-newcastle-midfielder-bruno-guimaraes?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Hi friends’: Modi’s curious campaign to win over Gen Z",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/hi-friends-modis-curious-campaign-to-win-over-gen-z?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,7 +83,7 @@
             "source": "BBC World"
         },
         {
-            "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
+            "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
             "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Sciver-Brunt guides Rockets to Hundred knockouts",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c79gr0yr07po?at_medium=RSS&at_campaign=rss",
+            "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
+            "link": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
+            "source": "Wired"
+        },
+        {
             "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
             "link": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited",
             "link": "https://www.wired.com/review/xteink-x4-pro-e-reader/",
-            "source": "Wired"
-        },
-        {
-            "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
-            "link": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
             "source": "Wired"
         }
     ]
