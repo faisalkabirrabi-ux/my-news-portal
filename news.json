@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "র‍্যাব বিলুপ্ত করে কোন পরিবর্তন এনে এসআরবি গঠনের কথা বলা হচ্ছে?",
+            "link": "https://www.bbc.com/bengali/articles/cn8njdn4pr3o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "শেখ হাসিনা চাইলেই কি দেশে ফিরতে পারবেন?",
             "link": "https://www.bbc.com/bengali/articles/cr597827zqeo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,14 @@
             "title": "এভারেস্টে ৩০ বছর ধরে হিমশীতল হয়ে থাকা 'গ্রিন বুটস' সম্ভবত বাড়ি ফিরছে",
             "link": "https://www.bbc.com/bengali/articles/cy0792w1j2vo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "অনুমতি ছাড়া কারো ছবি তুললেই কি অপরাধ?",
-            "link": "https://www.bbc.com/bengali/articles/cr7kj9rvp49o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
             "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
@@ -58,17 +63,12 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "The post-American Middle East is beginning to take shape",
-            "link": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Child among three killed in Russian missile attacks near Kyiv",
             "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "US Senate narrowly confirms Todd Blanche as attorney general",
+            "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
             "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Sciver-Brunt leads Rockets home after Bates applies stranglehold",
+            "link": "https://www.cricinfo.com/ci/content/story/1549169.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Padikkal 142 headlines India's reply",
+            "link": "https://www.cricinfo.com/ci/content/story/1549219.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Injured Sai Sudharsan ruled out of Sri Lanka Test series",
             "link": "https://www.cricinfo.com/ci/content/story/1549159.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -115,14 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Bowlers and Tajinder give Falcons last-ball win on CPL 2026 opening night",
-            "link": "https://www.cricinfo.com/ci/content/story/1549138.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Head 'not a true opening batter' but happy to ride the wave",
-            "link": "https://www.cricinfo.com/ci/content/story/1549121.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Athletes from bankrupt track league have now been paid - Johnson",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/c9q9p9n2xqgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Arsenal sign Guimaraes from Newcastle in £75m deal",
@@ -135,8 +140,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Goals galore - the wildest scores in EFL Cup history",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5y02m99evro?at_medium=RSS&at_campaign=rss",
+            "title": "Wolves legend Parkes dies aged 79",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5y3d1l0236o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Infantino denies claims Uefa paid off alleged 'lover'",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Life as a Wag in the transfer window",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+            "title": "Sciver-Brunt guides Rockets to Hundred knockouts",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c79gr0yr07po?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
+            "link": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
+            "source": "Wired"
+        },
+        {
             "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
             "link": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
             "link": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
-            "source": "Wired"
-        },
-        {
-            "title": "How to Disable Gemini in Gmail and Google Docs",
-            "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
             "source": "Wired"
         }
     ]
