@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
+            "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Can the Doha Framework end the conflict in eastern DRC?",
             "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -53,16 +63,6 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Former Iraqi provincial governor arrested as graft crackdown continues",
-            "link": "https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Wildfires in Albania and Spain cause hundreds to evacuate",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
             "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -70,11 +70,6 @@
         {
             "title": "Ancient Roman shipwreck discovered off Sicily coast",
             "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-            "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -91,9 +86,19 @@
             "title": "Drones spotted over German base days after Leipzig bomb incident",
             "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
+        },
+        {
+            "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+            "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Livingstone haunts old side Phoenix with matchwinning 66 off 30",
+            "link": "https://www.cricinfo.com/ci/content/story/1549344.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Andy Gorvin clinches thriller for Glamorgan",
             "link": "https://www.cricinfo.com/ci/content/story/1549308.html?ex_cid=OTC-RSS",
@@ -120,13 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Gay sits out as precaution as Durham boost knockout hopes",
-            "link": "https://www.cricinfo.com/ci/content/story/1549324.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "We cannot sustain the level we want - Iraola",
             "link": "https://www.bbc.co.uk/sport/football/articles/c3r0zzpw5gjo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Bonding & building - what we learned about Alonso's Chelsea in pre-season",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,18 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Vollering wins final stage to clinch second Tour title",
-            "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqevv9vjpdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Sunrisers thump Fire to close in on qualification",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c70gn1634z7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Digne completes move to PSG from Aston Villa",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo?at_medium=RSS&at_campaign=rss",
+            "title": "'Celtic fans are going to fall in love with him' - Hogh makes his mark",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
