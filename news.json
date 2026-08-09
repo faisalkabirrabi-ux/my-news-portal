@@ -1,13 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "হরমুজ প্রণালি নিয়ে আলোচনা ইতিবাচক বলছে ওমান, তবে চুক্তি হলেও এখনই খুলবে না হরমুজ - সতর্কতা ইরানের",
-            "link": "https://www.bbc.com/bengali/articles/cvg8jvw2q78o?at_medium=RSS&at_campaign=rss",
+            "title": "ওষুধের দাম নিয়ে ৩২ বছরের পুরোনো নীতিতে ফেরার যৌক্তিকতা নিয়ে প্রশ্ন",
+            "link": "https://www.bbc.com/bengali/articles/crl74rnwl02o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
             "title": "শেখ হাসিনা ইস্যুতে বাংলাদেশ-ভারত সম্পর্কে টানাপোড়েন কি বাড়ছে?",
             "link": "https://www.bbc.com/bengali/articles/cvgxrj5l2z7o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "হরমুজ প্রণালি নিয়ে আলোচনা ইতিবাচক বলছে ওমান, তবে চুক্তি হলেও এখনই খুলবে না হরমুজ - সতর্কতা ইরানের",
+            "link": "https://www.bbc.com/bengali/articles/cvg8jvw2q78o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,14 +29,29 @@
             "title": "শেখ হাসিনা চাইলেই কি দেশে ফিরতে পারবেন?",
             "link": "https://www.bbc.com/bengali/articles/cr597827zqeo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ফিফা সভাপতি ইনফান্তিনোর কথিত 'প্রেমিকা'কে টাকা দেওয়া নিয়ে কী অভিযোগ উঠেছে?",
-            "link": "https://www.bbc.com/bengali/articles/ckg6l5r3896o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Wildfire forces thousands of evacuations in Western Canada",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Lionel Messi returns to Argentina after father Jorge’s death",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran issues new demands as Pezeshkian seeks deal",
+            "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Car bomb hits Colombia highway day after new president sworn in",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
@@ -40,26 +60,6 @@
         {
             "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Ghana’s cashew apples get a second life",
-            "link": "https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
-            "link": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israeli settler attacks rise as West Bank residents lose land",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
-            "link": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,7 +78,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Perez Hilton faces long recovery after self-harm livestream",
+            "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
             "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,6 +95,21 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Narine's 4-1-7-3 downs Patriots in rain-hit match",
+            "link": "https://www.cricinfo.com/ci/content/story/1549264.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "How Australia are measuring Test runs in challenging era",
+            "link": "https://www.cricinfo.com/ci/content/story/1548929.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Ghosh, Villiers keep MSG alive with victory over Southern Brave",
+            "link": "https://www.cricinfo.com/ci/content/story/1549243.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Walter, Seifert, Atkinson lift Manchester Super Giants into top three",
             "link": "https://www.cricinfo.com/ci/content/story/1549232.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -110,21 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Ghosh, Villiers keep MSG alive with victory over Southern Brave",
-            "link": "https://www.cricinfo.com/ci/content/story/1549243.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Kusal Mendis named inaugural president of Sri Lanka players' association",
-            "link": "https://www.cricinfo.com/ci/content/story/1549233.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Padikkal 142* headlines India's reply",
-            "link": "https://www.cricinfo.com/ci/content/story/1549219.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Fifa criticises campaign to oust president Infantino",
             "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,8 +135,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Athletes from bankrupt track league have now been paid - Johnson",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/c9q9p9n2xqgo?at_medium=RSS&at_campaign=rss",
+            "title": "New season, new boss - will Alexander-Arnold be key figure at Real Madrid?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Simpson avenges only loss in Williamson rematch",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/c7vgjdry18jo?at_medium=RSS&at_campaign=rss",
+            "title": "Money problems and broken dreams - why is it so hard to run a cycling team?",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/c20d8redpyxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Garcia hopes long-term friend Alonso's Chelsea finish second to Liverpool",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4gj9j7yv9do?at_medium=RSS&at_campaign=rss",
+            "title": "Simpson avenges only loss in Williamson rematch",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c7vgjdry18jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
