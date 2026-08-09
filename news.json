@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "রাষ্ট্রপতি নির্বাচনে জামায়াত-এনসিপি জোটের প্রার্থী অলি আহমদ",
+            "link": "https://www.bbc.co.uk/bengali/live/cm4gk7z5qgw4t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ওষুধের দাম নিয়ে ৩২ বছরের পুরোনো নীতিতে ফেরার যৌক্তিকতা নিয়ে প্রশ্ন",
             "link": "https://www.bbc.com/bengali/articles/crl74rnwl02o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,19 @@
             "title": "র‍্যাব বিলুপ্ত করে কোন পরিবর্তন এনে এসআরবি গঠনের কথা বলা হচ্ছে?",
             "link": "https://www.bbc.com/bengali/articles/cn8njdn4pr3o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শেখ হাসিনা চাইলেই কি দেশে ফিরতে পারবেন?",
-            "link": "https://www.bbc.com/bengali/articles/cr597827zqeo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "World number one Sabalenka upset by Alexandrova at Canadian Open",
+            "link": "https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israel announces tender for 627 settler units in occupied West Bank",
+            "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Wildfire forces thousands of evacuations in Western Canada",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
@@ -50,16 +60,6 @@
         {
             "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Car bomb hits Colombia highway day after new president sworn in",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Money problems and broken dreams - why is it so hard to run a cycling team?",
-            "link": "https://www.bbc.co.uk/sport/cycling/articles/c20d8redpyxo?at_medium=RSS&at_campaign=rss",
+            "title": "Sabalenka and Norrie exit Canadian Open in last 16",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c98vqj4zl9vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Simpson avenges only loss in Williamson rematch",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/c7vgjdry18jo?at_medium=RSS&at_campaign=rss",
+            "title": "What are your favourite new kits for the coming season?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4g630klknjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
