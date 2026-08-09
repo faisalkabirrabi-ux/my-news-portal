@@ -33,6 +33,11 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+            "link": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -58,13 +63,13 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Jannik Sinner withdraws from Cincinnati Open with knee injury",
-            "link": "https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
             "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+            "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -85,11 +90,6 @@
         {
             "title": "Drones spotted over German base days after Leipzig bomb incident",
             "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-            "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -135,6 +135,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "McInnes left frustrated amid Rangers' poor start to season",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5y36vr1j2zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Guimaraes can ignite something different in us - Arteta",
             "link": "https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -148,14 +153,14 @@
             "title": "Sunrisers thump Fire to close in on qualification",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c70gn1634z7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "'Celtic fans are going to fall in love with him' - Hogh makes his mark",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+            "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Anthropic is turning Claude Code’s auto mode on by default",
             "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
@@ -179,11 +184,6 @@
         {
             "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
             "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-            "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
             "source": "TechCrunch"
         },
         {
