@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বাংলাদেশের রাষ্ট্রপতি কী করতে পারেন আর কী পারেন না?",
+            "link": "https://www.bbc.com/bengali/articles/cp9e4de3lymo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশের পররাষ্ট্রমন্ত্রীর সাথে ভারতীয় হাইকমিশনারের রুদ্ধদার বৈঠক, সোমবার বৈঠক প্রধানমন্ত্রীর সাথে",
             "link": "https://www.bbc.co.uk/bengali/live/cm4gk7z5qgw4t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,22 +29,32 @@
             "title": "আসাদের লুকিয়ে থাকা গোয়েন্দাপ্রধানের খোঁজ জানালো একটি ফোনবুক",
             "link": "https://www.bbc.com/bengali/articles/cd9wewqn9x7o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শেখ হাসিনা ইস্যুতে বাংলাদেশ-ভারত সম্পর্কে টানাপোড়েন কি বাড়ছে?",
-            "link": "https://www.bbc.com/bengali/articles/cvgxrj5l2z7o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Union reports 108 attacks on Palestinian journalists in July",
-            "link": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+            "title": "Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?",
+            "link": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "What’s driving unrest in Pakistan-administered Kashmir?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
+            "title": "Houthis renew missile and drone attacks on Yemen’s port of al-Makha",
+            "link": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "F-16s intercept two aircraft near Trump’s New Jersey golf club",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Union reports 108 attacks on Palestinian journalists in July",
+            "link": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -48,19 +63,9 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
-            "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Can the Doha Framework end the conflict in eastern DRC?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+            "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -68,8 +73,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-            "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "title": "Evidence that South African special forces murdered top detective shared with BBC",
+            "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Drones spotted over German base days after Leipzig bomb incident",
+            "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -80,16 +90,6 @@
         {
             "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
             "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Ecuador charges ex-minister over presidential candidate assassination case",
-            "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Drones spotted over German base days after Leipzig bomb incident",
-            "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
