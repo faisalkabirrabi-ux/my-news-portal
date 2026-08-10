@@ -33,6 +33,11 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Oman trying to contain extensive oil spill from stricken tanker",
+            "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Zuckerberg’s yacht crew did not hear call for help, says spokesperson",
             "link": "https://www.aljazeera.com/news/2026/8/10/zuckerbergs-yacht-crew-did-not-hear-call-for-help-says-spokesperson?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -58,11 +63,6 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "DRC’s Ebola outbreak began months before it was officially declared, says WHO",
-            "link": "https://www.aljazeera.com/news/2026/8/10/drcs-ebola-outbreak-began-months-before-officially-declared-says-who?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
             "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -83,13 +83,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Evidence that South African special forces murdered top detective shared with BBC",
-            "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+            "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+            "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-            "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+            "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+            "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -125,8 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Bezos consortium advances talks for stake in Liverpool",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+            "title": "Should Liverpool fans be worried about Iraola's fitness comments?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cy071ngvnzzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,8 +135,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Should Liverpool fans be worried about Iraola's fitness comments?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cy071ngvnzzo?at_medium=RSS&at_campaign=rss",
+            "title": "Forest owner Marinakis sues Palace over gun banner",
+            "link": "https://www.bbc.co.uk/sport/football/articles/czjlwe90py7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Liverpool sign Araujo on loan from Barcelona",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c70gk0ry07ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +150,32 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Villa in talks to sign Bayern's Palhinha",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1m1krdjk4no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "The team behind Hodgkinson's golden rise and the hunt for a world record",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss",
+            "title": "England opener Gay set to be fit for Pakistan Test",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cpd75xqj99go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+            "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+            "link": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
+            "link": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises",
+            "link": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
             "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
@@ -164,26 +184,6 @@
         {
             "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
             "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Archer buys former rival Wisk Aero",
-            "link": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
-            "link": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Signed up for Klaviyo? Dozens of advertisers may have seen your password",
-            "link": "https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-            "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
             "source": "TechCrunch"
         },
         {
