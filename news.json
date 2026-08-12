@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "আওয়ামী লীগ কেন বারবার পাকিস্তান ও  'আইএসআই'য়ের কথা বলছে?",
+            "link": "https://www.bbc.com/bengali/articles/cjej4w528j7o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "কলম্বিয়ায় ভূমিকম্পে অন্তত ১৮০ জন নিহত, জীবিতদের উদ্ধারে চলছে মরিয়া চেষ্টা",
             "link": "https://www.bbc.com/bengali/articles/cx2d184pzyno?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "বেসরকারি শিক্ষা প্রতিষ্ঠানে শিক্ষক নিয়োগ নিয়ে ঠিক কী হচ্ছে?",
             "link": "https://www.bbc.com/bengali/articles/c79gjxlz91ro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "১৯৯১ সালের রাষ্ট্রপতি নির্বাচন যেভাবে হয়েছিল",
-            "link": "https://www.bbc.com/bengali/articles/cd7ljpl7y7do?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Why have several nations raised red flags over Indian farm exports?",
+            "link": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+            "link": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Can Trump keep his ‘irritation’ with Netanyahu in check?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli raids, demolitions continue as UN warns West Bank at breaking point",
+            "link": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Did Trump flee an Iranian assassination plot on a catering truck?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Trump says secret plane switch ‘up to the Secret Service’",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Drone strikes power station near Libya’s largest oil refinery",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Russia frees ex-US marine Gilman jailed since 2022",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
-            "link": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
-            "link": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Dozens dead and missing after ferry capsizes in Zimbabwe",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_overloaded-ferry-capsizes-in-zimbabwe-110826?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,13 +68,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-            "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+            "title": "Trump confirms he switched planes after Nato summit because of possible threat",
+            "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Trump says he switched planes after Nato summit because of possible threat",
-            "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+            "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+            "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -95,6 +95,21 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "'Bounce is the key' as Bangladesh look to rebound from 54 all out, says Shanto",
+            "link": "https://www.cricinfo.com/ci/content/story/1549582.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Long wait over for Bangladesh and Darwin as Australia start their long run",
+            "link": "https://www.cricinfo.com/ci/content/story/1549559.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Tridents survive Russell scare to begin CPL 2026 with narrow win",
+            "link": "https://www.cricinfo.com/ci/content/story/1549580.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Hazlewood keeps Boland out of Australia XI for first Test",
             "link": "https://www.cricinfo.com/ci/content/story/1549579.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -110,23 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Seifert fireworks lift MSG into second to leave Sunrisers sweating",
-            "link": "https://www.cricinfo.com/ci/content/story/1549555.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Devine targets WBBL for injury comeback",
-            "link": "https://www.cricinfo.com/ci/content/story/1549546.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Andersson kills off Hampshire's hopes",
-            "link": "https://www.cricinfo.com/ci/content/story/1549510.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "GB's Glave and Azu claim European 100m one-two",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Emery chases first Super Cup - but does it matter?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq6dj2jn277o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,18 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Criticism of empty seats and ticket prices at Europeans",
-            "link": "https://www.bbc.co.uk/news/articles/c0jl66j9yjpo?at_medium=RSS&at_campaign=rss",
+            "title": "Can PSG do a three-peat and win six trophies this season?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwylxdngg8yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Unhappy PSG given extra Super Cup dressing room",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cre41pqy0r7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Super Giants deny Sunrisers and boost knockout bid",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/clyj0je7vm4o?at_medium=RSS&at_campaign=rss",
+            "title": "Ramsay-Peaty fifth in European Championships 100m final",
+            "link": "https://www.bbc.co.uk/sport/swimming/articles/c4g4vyrdpddo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Is It Safe to Eat Lettuce Yet?",
-            "link": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/",
+            "title": "Walmart Promo Codes: Up to 65% Off for August 2026",
+            "link": "https://www.wired.com/story/top-walmart-promo-codes/",
             "source": "Wired"
         },
         {
-            "title": "How and When to View the Perseid Meteor Shower (August 2026)",
-            "link": "https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/",
+            "title": "20% Off Brooks Promo Code | August 2026",
+            "link": "https://www.wired.com/story/brooks-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Razer Naga V3 Pro Review: Buttons Galore",
-            "link": "https://www.wired.com/review/razer-naga-v3-pro/",
+            "title": "Sam's Club Promo Codes and Membership Deals for August 2026",
+            "link": "https://www.wired.com/story/sams-club-coupon/",
             "source": "Wired"
         },
         {
-            "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
-            "link": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
+            "title": "Chegg Coupon Codes August 2026: Save on Study, Textbooks, & More",
+            "link": "https://www.wired.com/story/chegg-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-            "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+            "title": "Zoro Coupon Codes: 55% Off August",
+            "link": "https://www.wired.com/story/zoro-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Ranking the Best Red-Light Therapy Masks and LED Devices of 2026",
-            "link": "https://www.wired.com/story/led-face-masks-and-red-light-therapy/",
+            "title": "Rover Promo Codes and Referral Deals for 2026",
+            "link": "https://www.wired.com/story/rover-promo-code/",
             "source": "Wired"
         }
     ]
