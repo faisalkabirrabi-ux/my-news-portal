@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "জুলাই চেতনাবিরোধী কর্মকাণ্ডের অভিযোগ এনে ঢাবি  শিক্ষকদের তালিকা করলো কারা?",
+            "link": "https://www.bbc.com/bengali/articles/cy07dqenpk8o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "রাষ্ট্রপতি নির্বাচনের জন্য সংসদের বৈঠক ডেকেছেন বাংলাদেশের সিইসি",
             "link": "https://www.bbc.co.uk/bengali/live/cq5ydx32470et?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "ঝাড়খণ্ডের ছাত্র আন্দোলনকারীরা নিজেদের দাবিতে অনড়, বিজেপির বনধ্ ঘিরে আবার উত্তপ্ত রাঁচি",
             "link": "https://www.bbc.com/bengali/articles/c204dj0nev2o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বিএসএফের হাতে বাংলাদেশি আটক হওয়ার পর এক ভারতীয়কে ধরে আনে স্থানীয়রা, যা জানা যাচ্ছে",
-            "link": "https://www.bbc.com/bengali/articles/cy0j1pg6jkro?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Zambia to vote as economic hardship tests government reforms",
+            "link": "https://www.aljazeera.com/news/2026/8/12/zambia-to-vote-as-economic-hardship-tests-government-reforms?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
+            "link": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Colombia scrambles to find survivors after deadly earthquake",
+            "link": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Father and sons forced to manually clear rubble in Gaza",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Relatives mourn victims of Pakistan avalanche",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "In Gaza’s tents, widows face war’s harshest realities alone",
-            "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
-            "link": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israel demolishes home of Palestinian killed during settler attack",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,28 +68,28 @@
             "source": "BBC World"
         },
         {
+            "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+            "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Trump says he switched planes after Nato summit because of possible threat",
+            "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
             "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
-            "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+            "title": "These seaside apartments were a ghost city - then police say scammers moved in",
+            "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
             "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Russia releases former US Marine reported in poor health",
-            "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Lebanon parliament votes to abolish death penalty",
-            "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
