@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Are We in the Singularity?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Sudan army says RSF advance on key town bordering Ethiopia",
+            "link": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Passenger train derails, injuring several in southern England",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli forces order families to evacuate homes in Qusra",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Colombia earthquake: Hospitals adapt to save lives amid widespread damage",
+            "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Europe swelters in latest wave of extreme heat",
             "link": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Carrick urges Manchester United to sign more transfers to boost title bid",
-            "link": "https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
-            "link": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
-            "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump administration ‘gutted’ federal civil rights enforcement, HRW says",
-            "link": "https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -140,8 +140,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Hodgkinson leads home Broeders-Bol to qualify for 800m final",
-            "link": "https://www.bbc.co.uk/sport/athletics/videos/c07r2lz4ne0o?at_medium=RSS&at_campaign=rss",
+            "title": "Can Werro recover from heavy fall to challenge for 800m gold?",
+            "link": "https://www.bbc.co.uk/sport/athletics/videos/c5y3z5r4lpyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -157,6 +157,21 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+            "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+            "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "IBM partners with OpenAI to bolster enterprise AI push",
+            "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
             "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
             "source": "TechCrunch"
@@ -169,21 +184,6 @@
         {
             "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
             "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-            "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Instagram introduces a redesigned wordmark",
-            "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-            "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
             "source": "TechCrunch"
         },
         {
