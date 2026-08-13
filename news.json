@@ -78,6 +78,11 @@
             "source": "BBC World"
         },
         {
+            "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+            "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
             "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -85,11 +90,6 @@
         {
             "title": "Person fined after using foghorn to wake sleeping polar bear",
             "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-            "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -125,7 +125,7 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Hunt surges to 200m glory to win second European gold",
+            "title": "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -135,8 +135,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Rashford, Mainoo & transfers - Carrick calls for more signings",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo?at_medium=RSS&at_campaign=rss",
+            "title": "Man City's Reijnders set for £52m Saudi move",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +145,32 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Heroic Leigh defence denies table-toppers Leeds",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c20e24knlx0o?at_medium=RSS&at_campaign=rss",
+            "title": "Rashford, Mainoo & transfers - Carrick calls for more signings",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Dad rang and I was like: What's happening?' - England U20s boss on Uefa threat",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5ydz50jnz3o?at_medium=RSS&at_campaign=rss",
+            "title": "Heroic Leigh defence denies table-toppers Leeds",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c20e24knlx0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+            "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+            "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+            "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Writer introduces new AI model and upgraded harness to contain token costs",
             "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -172,22 +187,12 @@
             "source": "TechCrunch"
         },
         {
-            "title": "IBM partners with OpenAI to bolster enterprise AI push",
-            "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-            "source": "TechCrunch"
+            "title": "The Safety Reckoning Inside OpenAI",
+            "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+            "source": "Wired"
         },
         {
-            "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-            "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "OpenAI hires new CRO as executive shake-up continues",
-            "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+            "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
             "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
             "source": "Wired"
         },
@@ -209,11 +214,6 @@
         {
             "title": "The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now",
             "link": "https://www.wired.com/story/google-pixelsnap-charger-and-stand-50-percent-off/",
-            "source": "Wired"
-        },
-        {
-            "title": "In a Heat Wave, Schizophrenia Is So Much Deadlier Than Any Other Medical Condition",
-            "link": "https://www.wired.com/story/heat-wave-schizophrenia/",
             "source": "Wired"
         }
     ]
