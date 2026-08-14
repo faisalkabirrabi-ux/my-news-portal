@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ইরানে হামলার জন্য নিয়ে আসা মার্কিন যুদ্ধজাহাজে হাজারো সেনা 'খাদ্য সংকটে'",
+            "link": "https://www.bbc.com/bengali/articles/cpvw3m9l7rro?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'বেশির ভাগ ভারী শিল্পে উৎপাদন বন্ধ'",
             "link": "https://www.bbc.com/bengali/articles/ckgv5yp5kwro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,43 +29,43 @@
             "title": "ভারত ও পাকিস্তানের স্বাধীনতার তারিখ যেভাবে ঠিক হয়েছিল",
             "link": "https://www.bbc.com/bengali/articles/cqee89ypp35o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বাংলাদেশে ১৮ জন রাষ্ট্রপতি কে, কতদিন দায়িত্বে ছিলেন?",
-            "link": "https://www.bbc.com/bengali/articles/cdewppg69p7o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Brazil begins exploring retaliatory options to new US tariffs",
-            "link": "https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss",
+            "title": "North Korea fumes over upcoming US-South Korea military drills",
+            "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Mali says 82 soldiers captured by armed groups have been freed",
-            "link": "https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss",
+            "title": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
+            "link": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss",
+            "title": "Record rainfall leaves four dead, thousands stranded in Japan",
+            "link": "https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why Osun’s election matters for Nigeria’s 2027 vote",
-            "link": "https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss",
+            "title": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
+            "link": "https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
-            "link": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
+            "title": "How much power does the US hold in Venezuela?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_venezuela_-how-much-power-does-the-us-really-hold-140826?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Could Trump actually run for a third term as president?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
+            "title": "Al Jazeera speaks to Count Binface as Farage claims Clacton victory",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "'Unprecedented' rains in Japan kill four people",
+            "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
@@ -83,11 +88,6 @@
             "source": "BBC World"
         },
         {
-            "title": "Person fined after using foghorn to wake sleeping polar bear",
-            "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
             "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -95,13 +95,18 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Nabi four-for and Hope 56* give Amazon Warriors winning start",
-            "link": "https://www.cricinfo.com/ci/content/story/1549811.html?ex_cid=OTC-RSS",
+            "title": "Tanzid's maiden century, Shanto's unbeaten fifty extend Bangladesh's dominance",
+            "link": "https://www.cricinfo.com/ci/content/story/1549797.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Tanzid continues the good work as Bangladesh sight innings lead",
-            "link": "https://www.cricinfo.com/ci/content/story/1549797.html?ex_cid=OTC-RSS",
+            "title": "Melbourne Renegades name Twining their WBBL coach",
+            "link": "https://www.cricinfo.com/ci/content/story/1549801.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Nabi four-for and Hope 56* give Amazon Warriors winning start",
+            "link": "https://www.cricinfo.com/ci/content/story/1549811.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Morkel: Quicks must 'stack up overs together with intensity' to succeed in Galle",
-            "link": "https://www.cricinfo.com/ci/content/story/1549741.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,13 +135,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'This is her stage!' - Hunt takes 200m gold",
-            "link": "https://www.bbc.co.uk/sport/athletics/videos/c5yvz902xv5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Man City's Reijnders set for £52m Saudi move",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o?at_medium=RSS&at_campaign=rss",
+            "title": "How Maresca's Man City are shaping up compared with Guardiola side",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c70g7dx63geo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -152,6 +147,11 @@
         {
             "title": "Rashford, Mainoo & transfers - Carrick calls for more signings",
             "link": "https://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "'This is her stage!' - Hunt takes 200m gold",
+            "link": "https://www.bbc.co.uk/sport/athletics/videos/c5yvz902xv5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "The Safety Reckoning Inside OpenAI",
-            "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+            "title": "Layla Sleep Coupon: Save Up to $600 in August 2026",
+            "link": "https://www.wired.com/story/layla-sleep-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
-            "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+            "title": "Office Depot Coupons: Save With Promo Codes in August 2026",
+            "link": "https://www.wired.com/story/office-depot-promo-codes/",
             "source": "Wired"
         },
         {
-            "title": "The Painful Truth of Exactly How ICE’s New Shock Gloves Work",
-            "link": "https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/",
+            "title": "HelloFresh Promo Codes: 55% Off for August 2026",
+            "link": "https://www.wired.com/story/hellofresh-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Why This Prediction Market Banned Teens",
-            "link": "https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/",
+            "title": "Columbia Promo Codes: 15% Off | August 2026",
+            "link": "https://www.wired.com/story/columbia-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra",
-            "link": "https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/",
+            "title": "Pura Promo Codes: $20 Off August 2026",
+            "link": "https://www.wired.com/story/pura-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now",
-            "link": "https://www.wired.com/story/google-pixelsnap-charger-and-stand-50-percent-off/",
+            "title": "Babbel Promo Code: Up to 65% Off in August 2026",
+            "link": "https://www.wired.com/story/babbel-promo-code/",
             "source": "Wired"
         }
     ]
