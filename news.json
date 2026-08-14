@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "আওয়ামী লীগের অগাস্ট ফ্যাক্টর: হত্যা, হামলা, ক্ষমতাচ্যুতি",
+            "link": "https://www.bbc.com/bengali/articles/c1718krllp4o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "চট্টগ্রামে জাহাজ ভাঙার সময় বিষাক্ত গ্যাসে অন্তত আট জনের মৃত্যু",
             "link": "https://www.bbc.com/bengali/articles/cwyldjydj0jo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "রাষ্ট্রপতি নির্বাচনে মির্জা ফখরুল ইসলাম আলমগীরকে মনোনয়ন বিএনপির",
             "link": "https://www.bbc.co.uk/bengali/live/ckqx7pp791qqt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পরাজয় জেনেও কেন রাষ্ট্রপতি নির্বাচনে প্রার্থী দিলো জামায়াত জোট?",
-            "link": "https://www.bbc.com/bengali/articles/cm2gpq4g30zo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
-            "link": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
+            "title": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
+            "link": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
-            "link": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss",
+            "title": "Israeli soldiers prevent aid delivery to besieged Palestinians",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
-            "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
+            "title": "Israeli forces block activists from reaching besieged Qusra families",
+            "link": "https://www.aljazeera.com/news/2026/8/14/israeli-forces-block-activists-from-reaching-besieged-qusra-families?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Record-breaking rain in Japan leaves several dead, thousands stranded",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss",
+            "title": "Rising Australian golfer Bang dies of brain haemorrhage in Thailand aged 18",
+            "link": "https://www.aljazeera.com/sports/2026/8/14/rising-australian-golfer-bang-dies-of-brain-haemorrhage-in-thailand-aged-18?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/scrutiny-over-farages-finances-has-hurt-reform-uk?traffic_source=rss",
+            "title": "Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’",
+            "link": "https://www.aljazeera.com/news/2026/8/14/israeli-pm-netanyahu-calls-uk-the-islamic-republic-of?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Seven killed in tunnel accident at Indian hydropower project",
-            "link": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
+            "title": "Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?",
+            "link": "https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "India and Sri Lanka meet in a vastly different Test landscape",
+            "link": "https://www.cricinfo.com/ci/content/story/1549895.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Gill: 'Extra time in preparation definitely helps'",
             "link": "https://www.cricinfo.com/ci/content/story/1549891.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,13 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'We've got to get moving' - Urgency to BBL contracting call with CA and ACA not aligned",
-            "link": "https://www.cricinfo.com/ci/content/story/1549803.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Arsenal express interest in signing  Quansah",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c9q92xr0854o?at_medium=RSS&at_campaign=rss",
+            "title": "A pivotal day for Chelsea, Man City and Fernandez - what's going on?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Can Chelsea go from 10th to title again?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwyr2zez9q2o?at_medium=RSS&at_campaign=rss",
+            "title": "Rising golf star, 18, dies after brain haemorrhage",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/cp8elkd2353o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Boxer Colon dies 11 years after brain injury in fight",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/cg7m45ze27mo?at_medium=RSS&at_campaign=rss",
+            "title": "Decade after Conte's team did it, can Chelsea go 10th to title again?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwyr2zez9q2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
+            "link": "https://www.wired.com/gallery/best-wireless-chargers/",
+            "source": "Wired"
+        },
+        {
             "title": "The 4 Best Planners of 2026: Roterunner, Hobonichi, Cloth & Paper",
             "link": "https://www.wired.com/story/best-paper-planners/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "I Wore an Electrical Muscle Stimulation Body Suit to Zap Myself Into Fitness",
             "link": "https://www.wired.com/story/i-wore-a-pepper-electrical-muscle-stimulation-body-suit-to-zap-myself-into-fitness/",
-            "source": "Wired"
-        },
-        {
-            "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-            "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
             "source": "Wired"
         }
     ]
