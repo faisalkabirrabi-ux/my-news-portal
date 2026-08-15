@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+            "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+            "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "How blind football is helping women overcome barriers in Mexico",
+            "link": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "The next Yemen war might be different",
             "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Afghans mark five years of Taliban rule",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Black professor at centre of Cambridge plagiarism row found dead",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Vienna woman sues city for discrimination over toilet fees",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Five wounded in shooting at Virginia State University, multiple suspects",
-            "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Five years on, how will Taliban deal with armed opposition?",
-            "link": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -125,8 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Belgian Pocognoli frontrunner to be Scotland boss",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&at_campaign=rss",
+            "title": "Fernandez booed by Chelsea fans as Alonso offers glimpse of blueprint",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c36dd10jj09o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +135,32 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Soaring heat, falling crowds - The Hundred's peculiar summer",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cp8xpgxy5p5o?at_medium=RSS&at_campaign=rss",
+            "title": "Tarling family heartbroken as riders pay tribute to British cyclist",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/cjd4g7vy5jzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Newcastle change shirts during first half of friendly",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cd9wwny25z4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Belgian Pocognoli frontrunner to be Scotland boss",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Bangladesh move closer to historic win in Australia",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c39eygmrlnjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Bournemouth to 'do better' after 'disgusting' email",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cy8ee0gzqx2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Fertility medication caused drug ban, says NFL player",
-            "link": "https://www.bbc.co.uk/sport/american-football/articles/cx2rrnvr404o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "How to tell if your AI platforms’ accounts have been hacked",
+            "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Every fusion startup that has raised over $100M",
             "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
@@ -182,11 +187,6 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-            "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
-            "source": "TechCrunch"
-        },
-        {
             "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
             "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
             "source": "Wired"
@@ -197,13 +197,13 @@
             "source": "Wired"
         },
         {
-            "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
-            "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+            "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+            "link": "https://www.wired.com/story/best-apple-watch-accessories/",
             "source": "Wired"
         },
         {
-            "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
-            "link": "https://www.wired.com/story/best-apple-watch-accessories/",
+            "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+            "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
             "source": "Wired"
         },
         {
