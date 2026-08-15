@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Qatar denies it is detaining three Iranian bomber pilots",
+            "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "California tackles multiple wildfires as firefighter workforce faces strain",
+            "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+            "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
             "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -43,32 +63,12 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
-            "link": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
-            "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
-            "link": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
             "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
+            "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
             "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -83,13 +83,13 @@
             "source": "BBC World"
         },
         {
-            "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-            "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+            "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+            "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-            "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+            "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+            "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -140,18 +140,18 @@
             "source": "BBC Sports"
         },
         {
+            "title": "O'Connor secures European gold in heptathlon",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgjjpe85z1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "West Ham break EFL record to sign Engels for £22m",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Inter sign England full-back Spence from Tottenham",
             "link": "https://www.bbc.co.uk/sport/football/articles/cz64vg6znz1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Sunderland agree £25.6m fee for defender Methalie",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c934488gjyzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Liebmann and Douglass set world records on same day",
-            "link": "https://www.bbc.co.uk/sport/swimming/articles/crk55emx3yjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -197,13 +197,13 @@
             "source": "Wired"
         },
         {
-            "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
-            "link": "https://www.wired.com/story/best-apple-watch-accessories/",
+            "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+            "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
             "source": "Wired"
         },
         {
-            "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
-            "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+            "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+            "link": "https://www.wired.com/story/best-apple-watch-accessories/",
             "source": "Wired"
         },
         {
