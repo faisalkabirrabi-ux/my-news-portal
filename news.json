@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "অনাগত সন্তানকে আর দেখা হলো না সীতাকুণ্ডে প্রাণ হারানো পলাশ জলদাসের",
+            "link": "https://www.bbc.com/bengali/articles/cj63g68wn73o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশে জঙ্গি তৎপরতা ও আল কায়েদা ইস্যু আবার কেন আলোচনায়?",
             "link": "https://www.bbc.com/bengali/articles/cqjx1y91jd1o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,24 @@
             "title": "প্লেজারিজম বিতর্কে থাকা কেমব্রিজের সাবেক অধ্যাপক জেসন আরডে মৃত উদ্ধার",
             "link": "https://www.bbc.com/bengali/articles/c5ydzd593dlo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'অভাবনীয়' উপহারের বার্তা দিয়ে তারেক রহমানের ভারত সফর নিশ্চিত করতে চাইছে দিল্লি'",
-            "link": "https://www.bbc.com/bengali/articles/cn9n4ndx5eqo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
+            "link": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
+            "link": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "At scene of deadly Israeli strike on Lebanon home",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Bangladesh rock Australia as historic Test win in sight",
             "link": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
@@ -45,21 +60,6 @@
         {
             "title": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
             "link": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "The women India’s biggest river project forgot",
-            "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Arteta assures Arsenal fans over contract before Man City clash",
-            "link": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "FIFA’s Infantino gets backing of White House chief Giuliani over World Cup",
-            "link": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,12 +88,22 @@
             "source": "BBC World"
         },
         {
-            "title": "France's top court blocks social media ban for under-15s",
-            "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+            "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+            "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Australia still thinking of victory despite three days on the back foot",
+            "link": "https://www.cricinfo.com/ci/content/story/1550062.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Hazlewood becomes ninth Australian to take 300 Test wickets",
+            "link": "https://www.cricinfo.com/ci/content/story/1550016.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Bangladesh chip away to keep famous victory in sight",
             "link": "https://www.cricinfo.com/ci/content/story/1550002.html?ex_cid=OTC-RSS",
@@ -110,18 +120,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Hazlewood becomes ninth Australian to take 300 Test wickets",
-            "link": "https://www.cricinfo.com/ci/content/story/1550016.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Cricket Australia chief highlights bilateral ODI revenue conundrum",
             "link": "https://www.cricinfo.com/ci/content/story/1549998.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "India and Sri Lanka meet in a vastly different Test landscape",
-            "link": "https://www.cricinfo.com/ci/content/story/1549895.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -130,13 +130,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Tarling's team withdraws from Volta a Portugal after Briton's death",
-            "link": "https://www.bbc.co.uk/sport/cycling/articles/cjd4g7vy5jzo?at_medium=RSS&at_campaign=rss",
+            "title": "Bangladesh move closer to historic win in Australia",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c39eygmrlnjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "No player bigger than a club - is that changing for some fans?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&at_campaign=rss",
+            "title": "Tarling's team withdraws from Volta a Portugal after Briton's death",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/cjd4g7vy5jzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Premier League clubs looking to EFL for next Semenyo & Eze",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo?at_medium=RSS&at_campaign=rss",
+            "title": "No player bigger than a club - is that changing for some fans?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Bangladesh retain upper hand v Australia - first Test scorecard",
-            "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237020?at_medium=RSS&at_campaign=rss",
+            "title": "Premier League clubs looking to EFL for next Semenyo & Eze",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,26 @@
             "source": "TechCrunch"
         },
         {
+            "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
+            "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
+            "source": "Wired"
+        },
+        {
+            "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
+            "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
+            "source": "Wired"
+        },
+        {
+            "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+            "link": "https://www.wired.com/story/best-apple-watch-accessories/",
+            "source": "Wired"
+        },
+        {
+            "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+            "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+            "source": "Wired"
+        },
+        {
             "title": "Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts",
             "link": "https://www.wired.com/review/auk-mini-2-indoor-smart-garden/",
             "source": "Wired"
@@ -194,26 +214,6 @@
         {
             "title": "Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever",
             "link": "https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/",
-            "source": "Wired"
-        },
-        {
-            "title": "5 Best Apple Watch Bands: Nike, Nomad, and Hermés (2026)",
-            "link": "https://www.wired.com/story/best-apple-watch-bands/",
-            "source": "Wired"
-        },
-        {
-            "title": "Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater",
-            "link": "https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/",
-            "source": "Wired"
-        },
-        {
-            "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-            "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-            "source": "Wired"
-        },
-        {
-            "title": "Google Workspace Promo Codes: 14% Off for August 2026",
-            "link": "https://www.wired.com/story/google-workspace-promo-code/",
             "source": "Wired"
         }
     ]
