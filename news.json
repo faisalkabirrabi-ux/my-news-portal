@@ -33,6 +33,11 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Why is the latest Ebola outbreak worsening?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Qatar denies it is detaining three Iranian bomber pilots",
             "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -48,7 +53,7 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+            "title": "Moroccan police intercept migrants heading for Ceuta enclave",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
             "source": "আল জাজিরা"
         },
@@ -58,13 +63,8 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Death toll from Zimbabwe ferry disaster rises to 72",
-            "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-            "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+            "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+            "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -125,6 +125,11 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Hunt wins third gold as Asher-Smith makes history",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Rashford returns as AC Milan highlight issues facing Carrick",
             "link": "https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -148,14 +153,14 @@
             "title": "West Ham break EFL record to sign Engels for £22m",
             "link": "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Inter sign England full-back Spence from Tottenham",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cz64vg6znz1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+            "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Anthropic shares more details about how Claude’s new watermarks will work",
             "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
@@ -182,11 +187,6 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Self-driving trucks are officially testing on California highways",
-            "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-            "source": "TechCrunch"
-        },
-        {
             "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
             "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
             "source": "Wired"
@@ -197,13 +197,13 @@
             "source": "Wired"
         },
         {
-            "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
-            "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+            "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+            "link": "https://www.wired.com/story/best-apple-watch-accessories/",
             "source": "Wired"
         },
         {
-            "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
-            "link": "https://www.wired.com/story/best-apple-watch-accessories/",
+            "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+            "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
             "source": "Wired"
         },
         {
