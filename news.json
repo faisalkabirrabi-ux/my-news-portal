@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "শেখ মুজিবকে হত্যার আগের কয়েক সপ্তাহে বাংলাদেশে যা যা ঘটেছিল",
+            "link": "https://www.bbc.com/bengali/articles/c77gyd2vk6yo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "তারেক রহমানের ভারতে যাওয়ার প্রস্তুতি প্রায় নিশ্চিত",
             "link": "https://www.bbc.com/bengali/articles/cr497q0zxn7o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "ইরানে হামলার জন্য নিয়ে আসা মার্কিন যুদ্ধজাহাজে হাজারো সেনা 'খাদ্য সংকটে'",
             "link": "https://www.bbc.com/bengali/articles/cpvw3m9l7rro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মুর্শিদাবাদে চার শিশুর উপর হাঁসুয়া নিয়ে হামলার ঘটনায় কী জানা যাচ্ছে",
-            "link": "https://www.bbc.com/bengali/articles/c151ynjd4l0o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
-            "link": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss",
+            "title": "US President Trump says he will declare Strait of Hormuz US territory",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "UN urges support for Afghan women’s aid five years into Taliban rule",
-            "link": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
+            "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
+            "link": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Families angered by slow search for loved ones after Colombia quake",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss",
+            "title": "7.7-magnitude earthquake strikes eastern Indonesia",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+            "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
+            "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
-            "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
+            "title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+            "title": "Buenaventura residents criticise state neglect after Colombia’s earthquake",
+            "link": "https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Cricket Australia chief highlights bilateral ODI revenue conundrum",
+            "link": "https://www.cricinfo.com/ci/content/story/1549998.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Walter, Tongue make the difference as Super Giants surge into Men's Hundred final",
             "link": "https://www.cricinfo.com/ci/content/story/1549995.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -117,11 +122,6 @@
         {
             "title": "ETPL: Vijay Shankar to team up with Ashwin at Dublin Guardians",
             "link": "https://www.cricinfo.com/ci/content/story/1545121.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Babar to miss remainder of practice match after blow to right hand",
-            "link": "https://www.cricinfo.com/ci/content/story/1549976.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
