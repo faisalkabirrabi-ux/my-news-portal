@@ -6,6 +6,11 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "ব্রিটিশদের ১০৯ বছর আগে ধার দেওয়া টাকা এখন সুদসহ ফেরত চায় ভারতের এক পরিবার",
+            "link": "https://www.bbc.com/bengali/articles/c80n9nezdv5o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "প্লেজারিজম বিতর্কে থাকা কেমব্রিজের সাবেক অধ্যাপক জেসন আরডে মৃত উদ্ধার",
             "link": "https://www.bbc.com/bengali/articles/c5ydzd593dlo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,29 @@
             "title": "আওয়ামী লীগের অগাস্ট ফ্যাক্টর: হত্যা, হামলা, ক্ষমতাচ্যুতি",
             "link": "https://www.bbc.com/bengali/articles/c1718krllp4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "চট্টগ্রামে জাহাজ ভাঙার সময় বিষাক্ত গ্যাসে অন্তত আট জনের মৃত্যু",
-            "link": "https://www.bbc.com/bengali/articles/cwyldjydj0jo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Taiwan passes defence budget after record delay, retains drone funding",
+            "link": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran says no decision yet on a return to talks with the US",
+            "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "What we know about the crisis aboard the USS Lincoln",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
@@ -43,28 +63,18 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "India marks 80th Independence Day with military display",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
-            "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US President Trump says he will declare Strait of Hormuz US territory",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
-            "link": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
             "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+            "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+            "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,7 +83,7 @@
             "source": "BBC World"
         },
         {
-            "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+            "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
             "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -81,27 +91,22 @@
             "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
             "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-            "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "'Unprecedented' rain in Japan kills eight people",
-            "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Hazlewood becomes ninth Australian to take 300 Test wickets",
-            "link": "https://www.cricinfo.com/ci/content/story/1550016.html?ex_cid=OTC-RSS",
+            "title": "Forde's all-round starrer takes Kings past Falcons in rain-reduced thriller",
+            "link": "https://www.cricinfo.com/ci/content/story/1550025.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "Padikkal comes in as India opt to bat in Galle; Nuwantha debuts for Sri Lanka",
             "link": "https://www.cricinfo.com/ci/content/story/1550020.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Hazlewood becomes ninth Australian to take 300 Test wickets",
+            "link": "https://www.cricinfo.com/ci/content/story/1550016.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -117,11 +122,6 @@
         {
             "title": "Walter, Tongue make the difference as Super Giants surge into Men's Hundred final",
             "link": "https://www.cricinfo.com/ci/content/story/1549995.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Baker and Winfield-Hill take in-form Sunrisers into final",
-            "link": "https://www.cricinfo.com/ci/content/story/1549981.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Google Workspace Promo Codes: 14% Off for August 2026",
+            "link": "https://www.wired.com/story/google-workspace-promo-code/",
+            "source": "Wired"
+        },
+        {
             "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
             "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
             "link": "https://www.wired.com/gallery/best-wireless-chargers/",
-            "source": "Wired"
-        },
-        {
-            "title": "The 4 Best Planners of 2026: Roterunner, Hobonichi, Cloth & Paper",
-            "link": "https://www.wired.com/story/best-paper-planners/",
             "source": "Wired"
         }
     ]
