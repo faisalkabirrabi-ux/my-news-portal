@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Bangladesh rock Australia as historic Test win in sight",
+            "link": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
+            "link": "https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
+            "link": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "The women India’s biggest river project forgot",
+            "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Arteta assures Arsenal fans over contract before Man City clash",
             "link": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -43,27 +63,7 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
-            "link": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
-            "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "South Korea’s president wants talks with North to end Korean War",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
+            "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
             "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,13 +95,13 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Padikkal comes in as India opt to bat in Galle; Nuwantha debuts for Sri Lanka",
-            "link": "https://www.cricinfo.com/ci/content/story/1550020.html?ex_cid=OTC-RSS",
+            "title": "Bangladesh chip away to keep famous victory in sight",
+            "link": "https://www.cricinfo.com/ci/content/story/1550002.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Mahmud removes Australia openers after Bangladesh take 228-run lead",
-            "link": "https://www.cricinfo.com/ci/content/story/1550002.html?ex_cid=OTC-RSS",
+            "title": "Padikkal comes in as India opt to bat in Galle; Nuwantha debuts for Sri Lanka",
+            "link": "https://www.cricinfo.com/ci/content/story/1550020.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -125,8 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "'Pressure will follow him' - Rocky Flintoff faces up to tests ahead",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c9342w19n81o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Fresh rivals & forced to settle for silver - but Hodgkinson up for fight",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/cjejknkjendo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "No player bigger than a club - is that changing for some fans?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,23 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Are fans now more invested in star names than clubs?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
             "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Romero reflects on Spurs stay as Atletico move confirmed",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c20dyz4vrero?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Scheffler equals course record to lead first play-off event",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/clyxer2kyl7o?at_medium=RSS&at_campaign=rss",
+            "title": "Bangladesh retain upper hand v Australia - first Test scorecard",
+            "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237020?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+            "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+            "source": "Wired"
+        },
+        {
             "title": "Google Workspace Promo Codes: 14% Off for August 2026",
             "link": "https://www.wired.com/story/google-workspace-promo-code/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
             "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
-            "link": "https://www.wired.com/gallery/best-wireless-chargers/",
             "source": "Wired"
         }
     ]
