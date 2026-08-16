@@ -11,8 +11,8 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "যেসব রেকর্ড করে অস্ট্রেলিয়ার মাটিতে প্রথমবারের মত টেস্ট জিতলো বাংলাদেশ",
-            "link": "https://www.bbc.com/bengali/articles/cn8nn2regljo?at_medium=RSS&at_campaign=rss",
+            "title": "ডারউইনে কোন পাঁচ মুহূর্তকে কাজে লাগিয়ে অস্ট্রেলিয়াকে হারালো বাংলাদেশ",
+            "link": "https://www.bbc.com/bengali/articles/c8xnn17w8x8o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -21,17 +21,27 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "পত্রিকা: 'প্রধানমন্ত্রীর ভারত সফর জানা যাবে আজ'",
-            "link": "https://www.bbc.com/bengali/articles/ce3447w9gwyo?at_medium=RSS&at_campaign=rss",
+            "title": "যেসব রেকর্ড করে অস্ট্রেলিয়ার মাটিতে প্রথমবারের মত টেস্ট জিতলো বাংলাদেশ",
+            "link": "https://www.bbc.com/bengali/articles/cn8nn2regljo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "ইন্দোনেশিয়ায় শক্তিশালী ভূমিকম্পের পর জীবিতদের সন্ধানে তল্লাশি অভিযান চলছে",
-            "link": "https://www.bbc.com/bengali/articles/c8xnnvrpy8yo?at_medium=RSS&at_campaign=rss",
+            "title": "পত্রিকা: 'প্রধানমন্ত্রীর ভারত সফর জানা যাবে আজ'",
+            "link": "https://www.bbc.com/bengali/articles/ce3447w9gwyo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
+            "link": "https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Live video captures panic as gunman opens fire at park in Kentucky",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
             "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
@@ -50,16 +60,6 @@
         {
             "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
             "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
-            "link": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Pakistan drop Diana Baig for Asia Cup and Asian Games",
+            "link": "https://www.cricinfo.com/ci/content/story/1550166.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Shanto: Whole team deserves Player-of-the-Match award",
             "link": "https://www.cricinfo.com/ci/content/story/1550156.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,13 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Rahmat Shah century seals Afghanistan's highest ODI chase",
-            "link": "https://www.cricinfo.com/ci/content/story/1550091.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Hunt wins third gold as Asher-Smith makes history",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+            "title": "How important is Community Shield to a team's season?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,8 +135,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "How important is Community Shield to a team's season?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o?at_medium=RSS&at_campaign=rss",
+            "title": "Hunt wins third gold as Asher-Smith makes history",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -187,6 +187,16 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Inside the Experimental Traps Scientists Set for Ghostly Neutrinos",
+            "link": "https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/",
+            "source": "Wired"
+        },
+        {
+            "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+            "link": "https://www.wired.com/gallery/best-cat-water-fountains/",
+            "source": "Wired"
+        },
+        {
             "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
             "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
             "source": "Wired"
@@ -204,16 +214,6 @@
         {
             "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
             "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
-            "source": "Wired"
-        },
-        {
-            "title": "Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts",
-            "link": "https://www.wired.com/review/auk-mini-2-indoor-smart-garden/",
-            "source": "Wired"
-        },
-        {
-            "title": "Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever",
-            "link": "https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/",
             "source": "Wired"
         }
     ]
