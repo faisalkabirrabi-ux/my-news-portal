@@ -1,13 +1,23 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "রোহিঙ্গাদের 'রাখাইনের বাঙালি' দাবি করে মিয়ানমারের বিবৃতি কী বার্তা দিচ্ছে",
-            "link": "https://www.bbc.com/bengali/articles/c9q99lw7q83o?at_medium=RSS&at_campaign=rss",
+            "title": "ইন্দোনেশিয়ায় শক্তিশালী ভূমিকম্পের পর জীবিতদের সন্ধানে তল্লাশি অভিযান চলছে",
+            "link": "https://www.bbc.com/bengali/articles/c8xnnvrpy8yo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'প্রধানমন্ত্রীর ভারত সফর জানা যাবে আজ'",
+            "link": "https://www.bbc.com/bengali/articles/ce3447w9gwyo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
             "title": "একটি সামাজিক মাধ্যম পোস্ট যেভাবে লিবিয়ায় অভিবাসীদের বিরুদ্ধে ভুল তথ্যের ঢেউ ছড়িয়ে দিল",
             "link": "https://www.bbc.com/bengali/articles/ckgv5gne13eo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "রোহিঙ্গাদের 'রাখাইনের বাঙালি' দাবি করে মিয়ানমারের বিবৃতি কী বার্তা দিচ্ছে",
+            "link": "https://www.bbc.com/bengali/articles/c9q99lw7q83o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,19 +29,24 @@
             "title": "অনাগত সন্তানকে আর দেখা হলো না সীতাকুণ্ডে প্রাণ হারানো পলাশ জলদাসের",
             "link": "https://www.bbc.com/bengali/articles/cj63g68wn73o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শেখ মুজিবকে হত্যার আগের কয়েক সপ্তাহে বাংলাদেশে যা যা ঘটেছিল",
-            "link": "https://www.bbc.com/bengali/articles/c77gyd2vk6yo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শেখ হাসিনার দেশে ফেরার কী কী পথ খোলা আছে?",
-            "link": "https://www.bbc.com/bengali/articles/c75g95ndke0o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Yemeni government forces hit back after new Houthi offensive",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
+            "link": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Observers say Zambia’s election marred by reports of intimidation, violence",
+            "link": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
@@ -45,21 +60,6 @@
         {
             "title": "Army drops roses on Syrian crowds in a far cry from war",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-            "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
-            "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,7 +95,7 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Mehidy's masterclass brings famous victory within reach for Bangladesh",
+            "title": "Mehidy grabs five, Bangladesh need 57 for historic win",
             "link": "https://www.cricinfo.com/ci/content/story/1550102.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
@@ -197,13 +197,13 @@
             "source": "Wired"
         },
         {
-            "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
-            "link": "https://www.wired.com/story/best-apple-watch-accessories/",
+            "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+            "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
             "source": "Wired"
         },
         {
-            "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
-            "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+            "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+            "link": "https://www.wired.com/story/best-apple-watch-accessories/",
             "source": "Wired"
         },
         {
