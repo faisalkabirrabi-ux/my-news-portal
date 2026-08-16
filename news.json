@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Cristiano Ronaldo hints at retirement at end of season",
+            "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Arsenal cruise to 3-0 win over Manchester City in Community Shield",
+            "link": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "‘The Mediterranean is a bridge, not a border’",
             "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
-            "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,7 +83,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Two dead and evacuation under way as fires break out on Greek island",
+            "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
             "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -94,6 +94,11 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Bangladesh trump Australia for historic win in Darwin after Mehidy five-for",
+            "link": "https://www.cricinfo.com/ci/content/story/1550102.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Adams excels as Rockets surge to maiden Women's Hundred title",
             "link": "https://www.cricinfo.com/ci/content/story/1550213.html?ex_cid=OTC-RSS",
@@ -120,13 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Shakeel ton leads Pakistan to tour match win",
-            "link": "https://www.cricinfo.com/ci/content/story/1550174.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "'Probably my last year' - Ronaldo hints at retirement",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Rockets crush Sunrisers for first women's Hundred title",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/cdj00mw7l20o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Odegaard's importance, Anderson and Foden struggle - how the players rated",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c8jnnknwnd1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Elvedi set for Leeds move as £8.5m fee agreed",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c2lqqr15p2yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Selby defeats Saengkham to win fourth China Open",
             "link": "https://www.bbc.co.uk/sport/snooker/articles/cpd77pl86wqo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "GB women narrowly defeated in Olympic qualifier",
-            "link": "https://www.bbc.co.uk/sport/american-football/articles/cn8nnzpnyj4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+            "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+            "source": "TechCrunch"
+        },
         {
             "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
             "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
@@ -179,11 +184,6 @@
         {
             "title": "How to tell if your AI platforms’ accounts have been hacked",
             "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Every fusion startup that has raised over $100M",
-            "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
             "source": "TechCrunch"
         },
         {
