@@ -1,13 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "তারেক রহমানের দিল্লি সফরের সম্ভাবনা আপাতত বাতিল করলো ঢাকা",
-            "link": "https://www.bbc.com/bengali/articles/c9v441gv1y3o?at_medium=RSS&at_campaign=rss",
+            "title": "জ্বালানি সংকট সমাধানে কমপক্ষে দুই বছর সময় লাগতে পারে: অর্থমন্ত্রী",
+            "link": "https://www.bbc.co.uk/bengali/live/cm0rddp0n98xt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "জ্বালানি সংকট সমাধানে কমপক্ষে দুই বছর সময় লাগতে পারে: অর্থমন্ত্রী",
-            "link": "https://www.bbc.co.uk/bengali/live/cm0rddp0n98xt?at_medium=RSS&at_campaign=rss",
+            "title": "তারেক রহমানের দিল্লি সফরের সম্ভাবনা আপাতত বাতিল করলো ঢাকা",
+            "link": "https://www.bbc.com/bengali/articles/c9v441gv1y3o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+            "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "‘The Mediterranean is a bridge, not a border’",
             "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -45,21 +60,6 @@
         {
             "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
             "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Patients treated in tents after earthquake damages Indonesia hospital",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
-            "link": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,25 +83,30 @@
             "source": "BBC World"
         },
         {
-            "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-            "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+            "title": "Two dead and evacuation under way as fires break out on Greek island",
+            "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-            "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+            "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+            "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Padikkal: 'Hunger to score more runs' drives big hundred",
-            "link": "https://www.cricinfo.com/ci/content/story/1550198.html?ex_cid=OTC-RSS",
+            "title": "Adams excels as Rockets surge to maiden Women's Hundred title",
+            "link": "https://www.cricinfo.com/ci/content/story/1550213.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "Nuwantha, Jayasuriya make an impact but India well ahead",
             "link": "https://www.cricinfo.com/ci/content/story/1550185.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Padikkal: 'Hunger to score more runs' drives big hundred",
+            "link": "https://www.cricinfo.com/ci/content/story/1550198.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -120,9 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Shanto: Whole team deserves Player-of-the-Match award",
-            "link": "https://www.cricinfo.com/ci/content/story/1550156.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Rockets crush Sunrisers for first women's Hundred title",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cdj00mw7l20o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Villa close in on Suzuki with Martinez future in doubt",
@@ -140,22 +145,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Fery wins on return as Djokovic reveals health condition after loss",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&at_campaign=rss",
+            "title": "Selby defeats Saengkham to win fourth China Open",
+            "link": "https://www.bbc.co.uk/sport/snooker/articles/cpd77pl86wqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Medal ceremonies postponed at Europeans after fraud arrest",
-            "link": "https://www.bbc.co.uk/news/articles/cy8ee5e8w9do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "What has been the impact of new owners on The Hundred?",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cy4kknnpyvvo?at_medium=RSS&at_campaign=rss",
+            "title": "GB women narrowly defeated in Olympic qualifier",
+            "link": "https://www.bbc.co.uk/sport/american-football/articles/cn8nnzpnyj4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+            "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
             "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
@@ -179,11 +184,6 @@
         {
             "title": "Every fusion startup that has raised over $100M",
             "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-            "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
             "source": "TechCrunch"
         },
         {
