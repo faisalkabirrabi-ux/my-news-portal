@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Patients treated in tents after earthquake damages Indonesia hospital",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+            "link": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+            "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Belgium’s largest wildfire on record spreads towards German border",
+            "link": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
             "link": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "‘Limited options’ for many Iranians as war with US chokes economy",
             "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-            "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
-            "link": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-            "link": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Premier League: Key talking points heading into the new 2026-27 season",
-            "link": "https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,7 +73,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+            "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
             "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -94,6 +94,11 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Nuwantha, Jayasuriya make an impact but India well ahead",
+            "link": "https://www.cricinfo.com/ci/content/story/1550185.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Time for change? Who are Australia's batting options?",
             "link": "https://www.cricinfo.com/ci/content/story/1550173.html?ex_cid=OTC-RSS",
@@ -120,18 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Bangladesh trump Australia for historic win in Darwin after Mehidy five-for",
-            "link": "https://www.cricinfo.com/ci/content/story/1550102.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "How important is Community Shield to a team's season?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o?at_medium=RSS&at_campaign=rss",
+            "title": "Donnelly wins GB's first women's marathon medal at Europeans",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Donnelly wins GB's first women's marathon medal at Europeans",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo?at_medium=RSS&at_campaign=rss",
+            "title": "Elvedi set for Leeds move as £8.5m fee agreed",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c2lqqr15p2yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,18 +140,18 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Fery wins on return as Djokovic reveals health condition after loss",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Bangladesh thrash Australia in one of Test cricket's greatest upsets",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/cn8nn37v22lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Maguire wants 'huge threat' Rashford to stay at Man Utd",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4g442me1k8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Makhachev beats Machado Garry to break UFC win record",
-            "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c8dnn7d01p5o?at_medium=RSS&at_campaign=rss",
+            "title": "What has been the impact of new owners on The Hundred?",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cy4kknnpyvvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
