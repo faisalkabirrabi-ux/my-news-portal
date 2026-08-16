@@ -1,13 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "ইন্দোনেশিয়ায় শক্তিশালী ভূমিকম্পের পর জীবিতদের সন্ধানে তল্লাশি অভিযান চলছে",
-            "link": "https://www.bbc.com/bengali/articles/c8xnnvrpy8yo?at_medium=RSS&at_campaign=rss",
+            "title": "যেসব রেকর্ড করে অস্ট্রেলিয়ার মাটিতে প্রথমবারের মত টেস্ট জিতলো বাংলাদেশ",
+            "link": "https://www.bbc.com/bengali/articles/cn8nn2regljo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
             "title": "ঝুঁকি থাকার পর কেন পুরুষেরা লিঙ্গের আকার বাড়াতে ফিলার নিচ্ছেন?",
             "link": "https://www.bbc.com/bengali/articles/czxqqg51jx5o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ইন্দোনেশিয়ায় শক্তিশালী ভূমিকম্পের পর জীবিতদের সন্ধানে তল্লাশি অভিযান চলছে",
+            "link": "https://www.bbc.com/bengali/articles/c8xnnvrpy8yo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,14 +29,19 @@
             "title": "রোহিঙ্গাদের 'রাখাইনের বাঙালি' দাবি করে মিয়ানমারের বিবৃতি কী বার্তা দিচ্ছে",
             "link": "https://www.bbc.com/bengali/articles/c9q99lw7q83o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শেখ মুজিবকে হত্যার আগের কয়েক সপ্তাহে বাংলাদেশে যা যা ঘটেছিল",
-            "link": "https://www.bbc.com/bengali/articles/c77gyd2vk6yo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "How a simple lighter has become the backbone of life in Gaza",
+            "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "A nation divided: What do Israelis want in October’s elections?",
+            "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
             "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
@@ -50,16 +60,6 @@
         {
             "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
             "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Yemeni government forces hit back after new Houthi offensive",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
-            "link": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,8 +95,23 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Shanto: 'Biggest win for Bangladesh in any format'",
+            "link": "https://www.cricinfo.com/ci/content/story/1550128.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Cummins turns focus on batters, and keeps door open for changes",
+            "link": "https://www.cricinfo.com/ci/content/story/1550126.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Bangladesh trump Australia for historic win in Darwin after Mehidy five-for",
             "link": "https://www.cricinfo.com/ci/content/story/1550102.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "McKenzie, Russell give Kingsmen first victory of the season",
+            "link": "https://www.cricinfo.com/ci/content/story/1550121.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -110,23 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Azhar Ali attributes Pakistan's Test slide to department cricket shut down",
-            "link": "https://www.cricinfo.com/ci/content/story/1550066.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Australia still thinking of victory despite three days on the back foot",
-            "link": "https://www.cricinfo.com/ci/content/story/1550062.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Hazlewood becomes ninth Australian to take 300 Test wickets",
-            "link": "https://www.cricinfo.com/ci/content/story/1550016.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Strong favourites or tougher task - will Arsenal defend their title?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Hunt wins third gold as Asher-Smith makes history",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "How important is Community Shield to a team's season?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -137,16 +147,6 @@
         {
             "title": "'Fury' at Tarling death as cycling union calls for better helmets",
             "link": "https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Fernandez booed by Chelsea fans as Alonso offers glimpse of blueprint",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c36dd10jj09o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "O'Connor secures European gold in heptathlon",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgjjpe85z1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -187,23 +187,23 @@
             "source": "TechCrunch"
         },
         {
-            "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
-            "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
-            "source": "Wired"
-        },
-        {
             "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
             "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
             "source": "Wired"
         },
         {
-            "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
-            "link": "https://www.wired.com/story/best-apple-watch-accessories/",
+            "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
+            "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
             "source": "Wired"
         },
         {
             "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
             "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+            "source": "Wired"
+        },
+        {
+            "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+            "link": "https://www.wired.com/story/best-apple-watch-accessories/",
             "source": "Wired"
         },
         {
