@@ -33,6 +33,11 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins",
+            "link": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Palestinian American reunites with family under siege in West Bank",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -55,11 +60,6 @@
         {
             "title": "Torrential rains flood homes and roads across Lima, Peru",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump’s approval rating sinks to new low",
-            "link": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy",
+            "link": "https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/",
+            "source": "Wired"
+        },
+        {
             "title": "This R-Rated Film Studio Wants to Be the HBO of AI",
             "link": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "El Niño and Saharan Dust Silence Atlantic Hurricane Season",
             "link": "https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/",
-            "source": "Wired"
-        },
-        {
-            "title": "Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms",
-            "link": "https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/",
             "source": "Wired"
         }
     ]
