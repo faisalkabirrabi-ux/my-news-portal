@@ -6,6 +6,11 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "গ্যাস সংকটের কারণে অনেক পোশাক কারখানা বন্ধ, পরিস্থিতি কতদিন চলবে?",
+            "link": "https://www.bbc.com/bengali/articles/ckgv7w262eeo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "তারেক রহমানের বিএনপি সরকারের প্রথম ছয়মাস কেমন কাটল?",
             "link": "https://www.bbc.com/bengali/articles/c8rn2z3ev4eo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,24 @@
             "title": "ইরান যুদ্ধে অংশ না নেওয়ায় দক্ষিণ কোরিয়ার সঙ্গে যৌথ সামরিক মহড়া কমানোর ঘোষণা ট্রাম্পের",
             "link": "https://www.bbc.com/bengali/articles/cn0nndpy566o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "উরু মোটা বা চিকন হওয়ার সঙ্গে আয়ুর কী সম্পর্ক?",
-            "link": "https://www.bbc.com/bengali/articles/clyeenm6pypo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
+            "link": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Cameroon celebrates after winning first ever WAFCON title",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/cameroon-celebrates-after-winning-first-ever-wafcon-title?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
+            "link": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Trump scales down war games with South Korea: Why it matters",
             "link": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
@@ -48,21 +63,6 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Jason Arday’s death is institutional murder",
-            "link": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
-            "link": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Arsenal preview: Key questions heading into 2026-27 Premier League season",
-            "link": "https://www.aljazeera.com/sports/2026/8/17/arsenal-preview-key-questions-heading-into-2026-27-premier-league-season?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
             "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -73,7 +73,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Ukrainian strikes kill six in Russia, acting governor says",
+            "title": "Russia and Ukraine trade more deadly strikes",
             "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -130,6 +130,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Scottish FA withdraws support for Fifa president Infantino",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crrv4092pvlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -145,17 +150,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Spurs' Vicario set to join Juventus on loan",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cgk451r4z76o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Brook on Test captaincy, batting and Wellington",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cwyee152xeqo?at_medium=RSS&at_campaign=rss",
+            "title": "Is All Blacks' tour of South Africa a new chapter for rugby union?",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c2dkz3k94dlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Uber adds Zipline drones to its Eats delivery network",
+            "link": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+            "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
+            "link": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
             "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
@@ -169,21 +184,6 @@
         {
             "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
             "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-            "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-            "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-            "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
             "source": "TechCrunch"
         },
         {
