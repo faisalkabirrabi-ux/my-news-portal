@@ -1,7 +1,7 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "'সৌর বিদ্যুৎ ছাড়া ব্যাটারি রিকশা রিচার্জ করলে জরিমানা হবে, নিতে হবে ফিটনেস সনদ'",
+            "title": "তারেক রহমানকে সৌদি আরব সফরের আমন্ত্রণ সৌদি প্রধানমন্ত্রীর",
             "link": "https://www.bbc.co.uk/bengali/live/cq07rlnrmd1rt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Is the world experiencing more earthquakes now than before?",
-            "link": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss",
+            "title": "Trump scales down war games with South Korea: Why it matters",
+            "link": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
-            "link": "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss",
+            "title": "Will Europe hear a landmark Russian climate change case?",
+            "link": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
-            "link": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
+            "title": "Israel’s religious right is changing the state from within",
+            "link": "https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Indian temple stampede kills seven people and injures dozens",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss",
+            "title": "Jason Arday’s death is institutional murder",
+            "link": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
-            "link": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss",
+            "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+            "link": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
-            "link": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss",
+            "title": "Arsenal preview: Key questions heading into 2026-27 Premier League season",
+            "link": "https://www.aljazeera.com/sports/2026/8/17/arsenal-preview-key-questions-heading-into-2026-27-premier-league-season?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Babar Azam remains in doubt for first Test against England",
+            "link": "https://www.cricinfo.com/ci/content/story/1550350.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Suthar, Jadeja share seven to hand India 178-run lead despite Dinusha 100",
+            "link": "https://www.cricinfo.com/ci/content/story/1550347.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Sciver-Brunt to sit out Ireland ODIs as Dean takes charge again",
             "link": "https://www.cricinfo.com/ci/content/story/1550344.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -115,16 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "De Kock, Rutherford, spinners script Tridents' second straight win",
-            "link": "https://www.cricinfo.com/ci/content/story/1550247.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "New Zealand domestic season to kick off on October 28 with Ford Trophy opener",
-            "link": "https://www.cricinfo.com/ci/content/story/1550240.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Man City in advanced talks for £85m Bouaddi, 18",
             "link": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,8 +135,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Brook on Test captaincy, batting and Wellington",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cwyee152xeqo?at_medium=RSS&at_campaign=rss",
+            "title": "Pocognoli 'feels connection' with 'passionate' Scotland",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cdx75z0ngylo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Signings impress but squad issues remain - learnings from Man Utd's summer",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5ywwv3j1v1o?at_medium=RSS&at_campaign=rss",
+            "title": "Brook on Test captaincy, batting and Wellington",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cwyee152xeqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)",
+            "link": "https://www.wired.com/gallery/best-cheap-laptops/",
+            "source": "Wired"
+        },
+        {
             "title": "CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals",
             "link": "https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "There’s a New Link Between Gut Health and Alzheimer’s Disease",
             "link": "https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/",
-            "source": "Wired"
-        },
-        {
-            "title": "Astronomers Discover the Existence of a Black Hole Star",
-            "link": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
             "source": "Wired"
         }
     ]
