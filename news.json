@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
+            "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+            "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Rodri headed to Barcelona after Man City accepts transfer bid",
             "link": "https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "At least seven dead in ‘stampede-like’ incident at India temple",
             "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran’s top negotiator declares victory in war against the US and Israel",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,12 +88,17 @@
             "source": "BBC World"
         },
         {
-            "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-            "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+            "title": "Top Zambian opposition figures arrested days after presidential vote",
+            "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "USA qualify for third straight Under-19 women's T20 World Cup",
+            "link": "https://www.cricinfo.com/ci/content/story/1550325.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "'Ultimately, it's 31' - Labuschagne's Test career back on the edge",
             "link": "https://www.cricinfo.com/ci/content/story/1550245.html?ex_cid=OTC-RSS",
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Hollman drags Middlesex past Stokes's Durham and into final",
-            "link": "https://www.cricinfo.com/ci/content/story/1550225.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,18 +135,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "What awaits new Scotland head coach Pocognoli?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cly995z1j8go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Barcelona agree £65m Rodri deal - who could replace him at Man City?",
             "link": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Five in Five: Football quiz No 1",
-            "link": "https://www.bbc.co.uk/sport/football/articles/clyq749qwl5o?at_medium=RSS&at_campaign=rss",
+            "title": "Bronze explains out-of-character contract extension",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cy4kge80l1eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Signings impress but squad issues remain - learnings from Man Utd's summer",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5ywwv3j1v1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
