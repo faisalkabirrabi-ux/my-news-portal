@@ -1,7 +1,7 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "তারেক রহমানকে সৌদি আরব সফরের আমন্ত্রণ সৌদি প্রধানমন্ত্রীর",
+            "title": "র‍্যাব বিলুপ্তি করে এসআরবি গঠনের চূড়ান্ত অনুমোদন বাংলাদেশের মন্ত্রিসভার",
             "link": "https://www.bbc.co.uk/bengali/live/cq07rlnrmd1rt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Police execute controlled World War II–era Mine explosion",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
+            "link": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
             "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -53,23 +63,13 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
-            "link": "https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
-            "link": "https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+            "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
             "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-            "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,13 +83,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
-            "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+            "title": "US hiker dies after being struck by lightning on Mount Etna",
+            "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Top Zambian opposition figures arrested days after presidential vote",
-            "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+            "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+            "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -135,27 +135,42 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Pocognoli 'feels connection' with 'passionate' Scotland",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cdx75z0ngylo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Man Utd will reject any bid for Fernandes",
             "link": "https://www.bbc.co.uk/sport/football/articles/clyj7rn31dpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Bronze explains out-of-character contract extension",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cy4kge80l1eo?at_medium=RSS&at_campaign=rss",
+            "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "What England can expect from captain Root",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c934w4828vyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Is All Blacks' tour of South Africa a new chapter for rugby union?",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c2dkz3k94dlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+            "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
+            "link": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "WordPress.com targets the next generation of web creators with a free student plan",
+            "link": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Uber adds Zipline drones to its Eats delivery network",
             "link": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
@@ -169,21 +184,6 @@
         {
             "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
             "link": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-            "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-            "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-            "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
             "source": "TechCrunch"
         },
         {
