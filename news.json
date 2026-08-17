@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
+            "link": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "How Russian dissidents are being punished by both Russia and Europe",
+            "link": "https://www.aljazeera.com/opinions/2026/8/17/how-russian-dissidents-are-being-punished-by-both-russia-and-europe?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Rights group urges FIFA to block Infantino re-election bid over term limits",
+            "link": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Police execute controlled World War II–era Mine explosion",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -48,22 +63,7 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
-            "link": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Global condemnation of Israeli settler violence against Palestinians",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+            "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
             "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -145,17 +145,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "What England can expect from captain Root",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c934w4828vyo?at_medium=RSS&at_campaign=rss",
+            "title": "Youthful Pocognoli the brave choice for Scotland job",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c8dn39n6np2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Is All Blacks' tour of South Africa a new chapter for rugby union?",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c2dkz3k94dlo?at_medium=RSS&at_campaign=rss",
+            "title": "What England can expect from captain Root",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c934w4828vyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+            "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
             "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
@@ -179,11 +184,6 @@
         {
             "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
             "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
-            "link": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
             "source": "TechCrunch"
         },
         {
