@@ -33,6 +33,11 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
+            "link": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Bolivia arrests political adviser to Latin American right-wingers",
             "link": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -53,14 +58,14 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Congo Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
+            "title": "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
             "link": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
-            "link": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Meta hooked children on Facebook and Instagram, court hears",
+            "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
@@ -85,11 +90,6 @@
         {
             "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
             "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-            "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -157,7 +157,7 @@
     ],
     "প্রযুক্তি": [
         {
-            "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+            "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
             "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
             "source": "TechCrunch"
         },
