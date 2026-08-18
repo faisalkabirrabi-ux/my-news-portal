@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পত্রিকা: 'পে-স্কেল চূড়ান্ত: দুই ধাপে বাস্তবায়ন'",
+            "link": "https://www.bbc.com/bengali/articles/c4gvjwgwpp5o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "র‍্যাব বিলুপ্তি করে এসআরবি গঠনের চূড়ান্ত অনুমোদন বাংলাদেশের মন্ত্রিসভার",
             "link": "https://www.bbc.co.uk/bengali/live/cq07rlnrmd1rt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "কিছু নারী কেন এমন কোনও রং দেখতে পান, যা অন্য অনেকে দেখতে পায় না?",
+            "link": "https://www.bbc.com/bengali/articles/c1w17wyyw9ro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,19 +29,29 @@
             "title": "তারেক রহমানের বিএনপি সরকারের প্রথম ছয়মাস কেমন কাটল?",
             "link": "https://www.bbc.com/bengali/articles/c8rn2z3ev4eo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভারতে 'প্রেমিক ভাড়া'-র বিজ্ঞাপন, সামাজিক মাধ্যমে সতর্কবার্তা পুলিশের",
-            "link": "https://www.bbc.com/bengali/articles/c3r02zr9r2po?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ডারউইনে বাংলাদেশের জয় নিয়ে আন্তর্জাতিক গণমাধ্যম ও সেলিব্রিটিরা যা বলছেন",
-            "link": "https://www.bbc.com/bengali/articles/ckg44d4ex4ro?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Trump says talking to North Korea’s Kim makes the south safer",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
+            "link": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Vigil held in central London for late Cambridge professor Jason Arday",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Zambia’s Hichilema wins second term as president",
+            "link": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
             "link": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
@@ -43,53 +63,33 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
-            "link": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins",
-            "link": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Palestinian American reunites with family under siege in West Bank",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-            "link": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
             "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Russia and Ukraine trade more deadly strikes",
-            "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+            "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+            "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Russia warns UK over supplying drones to Ukraine",
+            "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "BBC breaks down Trump's latest shift on North and South Korea",
+            "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Norway's king admitted to hospital and put on sick leave",
+            "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "Russia's prominent anti-war politician jailed for 11 years",
             "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "French PM heckled over wildfire response as blazes continue across Europe",
-            "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-            "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-            "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
