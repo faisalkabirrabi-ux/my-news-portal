@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "জাতীয় দলের ফুটবলার আল আমিনকে ১৫ ম্যাচের জন্য নিষিদ্ধ করেছে ফিফা",
+            "link": "https://www.bbc.co.uk/bengali/live/c962xjk64jgzt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "তালেবান শাসন ও শরিয়া আইন পাঁচ বছরে আফগানিস্তানে কী পরিবর্তন এনেছে?",
             "link": "https://www.bbc.com/bengali/articles/c9w04jvk8y8o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,24 @@
             "title": "র‍্যাব বিলুপ্তি করে এসআরবি গঠনের চূড়ান্ত অনুমোদন বাংলাদেশের মন্ত্রিসভার",
             "link": "https://www.bbc.co.uk/bengali/live/cq07rlnrmd1rt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শিশুদের গোপনীয়তার মামলায় মেটা হেরে গেলে চিরতরে বদলে যেতে পারে ইনস্টাগ্রাম ও ফেসবুক",
-            "link": "https://www.bbc.com/bengali/articles/c0qvx04xg53o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+            "link": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Cincinnati Open: Williams sisters fall in doubles while Zverev advances",
+            "link": "https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump lashes out at CNN reporter over South Korea question",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Syrian court sentences Wassim al-Assad to death",
             "link": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
@@ -48,27 +63,12 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Top Russian economist ousted after warning of growing costs of Ukraine war",
-            "link": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Lakers’ Jeanie Buss ‘contesting’ family’s vote to sell to Kushner, Iger",
-            "link": "https://www.aljazeera.com/sports/2026/8/18/los-angeles-lakers-jeanie-buss-contesting-familys-vote-to-sell-to-kushner-iger?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Palestine weekly: Global outcry fails to break West Bank siege",
-            "link": "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
             "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+            "title": "Russia warns UK will pay for supplying drones to Ukraine",
             "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Chandimal gets injured while fielding, replaced by Sooriyabandara as concussion sub",
+            "link": "https://www.cricinfo.com/ci/content/story/1550496.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Warner fined for drink driving, tried to switch seats",
             "link": "https://www.cricinfo.com/ci/content/story/1550497.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -102,11 +107,6 @@
         {
             "title": "Weatherald dropped, Renshaw called up for second Test against Bangladesh",
             "link": "https://www.cricinfo.com/ci/content/story/1550487.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Chandimal taken to hospital for precautionary scan after getting injured while fielding",
-            "link": "https://www.cricinfo.com/ci/content/story/1550496.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -187,6 +187,16 @@
             "source": "TechCrunch"
         },
         {
+            "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
+            "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+            "source": "Wired"
+        },
+        {
+            "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets",
+            "link": "https://www.wired.com/story/best-merino-wool-clothes/",
+            "source": "Wired"
+        },
+        {
             "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for August 2026",
             "link": "https://www.wired.com/story/noom-promo-code/",
             "source": "Wired"
@@ -204,16 +214,6 @@
         {
             "title": "SteelSeries Coupon Codes: 15% Off in August 2026",
             "link": "https://www.wired.com/story/steelseries-coupon-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
-            "link": "https://www.wired.com/story/vivid-seats-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Western Digital Promo Code: 15% Off",
-            "link": "https://www.wired.com/story/western-digital-promo-code/",
             "source": "Wired"
         }
     ]
