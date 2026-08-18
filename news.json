@@ -1,13 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "পত্রিকা: 'পে-স্কেল চূড়ান্ত: দুই ধাপে বাস্তবায়ন'",
-            "link": "https://www.bbc.com/bengali/articles/c4gvjwgwpp5o?at_medium=RSS&at_campaign=rss",
+            "title": "তালেবান শাসন ও শরিয়া আইন পাঁচ বছরে আফগানিস্তানে কী পরিবর্তন এনেছে?",
+            "link": "https://www.bbc.com/bengali/articles/c9w04jvk8y8o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
             "title": "ইউক্রেন ব্রিটেনে নির্মিত ড্রোন ব্যবহার করে রাশিয়ায় হামলার পর মস্কোর তীব্র প্রতিক্রিয়া",
             "link": "https://www.bbc.com/bengali/articles/cvg8ykv22kko?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'পে-স্কেল চূড়ান্ত: দুই ধাপে বাস্তবায়ন'",
+            "link": "https://www.bbc.com/bengali/articles/c4gvjwgwpp5o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,14 +29,29 @@
             "title": "শিশুদের গোপনীয়তার মামলায় মেটা হেরে গেলে চিরতরে বদলে যেতে পারে ইনস্টাগ্রাম ও ফেসবুক",
             "link": "https://www.bbc.com/bengali/articles/c0qvx04xg53o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "গ্যাস সংকটের কারণে অনেক পোশাক কারখানা বন্ধ, পরিস্থিতি কতদিন চলবে?",
-            "link": "https://www.bbc.com/bengali/articles/ckgv7w262eeo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says",
+            "link": "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?",
+            "link": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump says N Korea’s Kim has responded to his request for a conversation",
+            "link": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Can Trump limit birthright citizenship? Legal experts are doubtful",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "A hero’s welcome as Cameroon parades its first Women’s AFCON title",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss",
@@ -43,28 +63,13 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
-            "link": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Two students killed in Philippines school shooting",
-            "link": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump says talking to North Korea’s Kim makes the south safer",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
-            "link": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
             "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+            "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -78,12 +83,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Russia warns UK over supplying drones to Ukraine",
-            "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "BBC breaks down Trump's latest shift on North and South Korea",
+            "title": "Watch: Why has Trump shifted on North Korea?",
             "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -94,6 +94,11 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Chandimal taken to hospital for precautionary scan after getting injured while fielding",
+            "link": "https://www.cricinfo.com/ci/content/story/1550496.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Weatherald dropped, Renshaw called up for second Test against Bangladesh",
             "link": "https://www.cricinfo.com/ci/content/story/1550487.html?ex_cid=OTC-RSS",
@@ -120,9 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Rasooli to lead new-look Afghanistan at Asian Games 2026",
-            "link": "https://www.cricinfo.com/ci/content/story/1550330.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Breakouts & wildcards - 13 surprise stars for new season",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1l197j4gvro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Top Fifa official sacked after Infantino plan criticism",
@@ -135,23 +140,18 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Williams sisters lose on doubles return",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "LIV cancels final event to focus on 'next chapter'",
             "link": "https://www.bbc.co.uk/sport/golf/articles/c7vg4rn7v6ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Man City move for £85m Bouaddi and still want Fernandez",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Rodri lands in Barcelona to complete 'dream' move",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cevmw02j4nyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
+            "title": "Five in Five: Football quiz No 2",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gw6k476elo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -207,13 +207,13 @@
             "source": "Wired"
         },
         {
-            "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
-            "link": "https://www.wired.com/story/vivid-seats-promo-code/",
+            "title": "Womanizer Coupons: Save 15% in August",
+            "link": "https://www.wired.com/story/womanizer-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Womanizer Coupons: Save 15% in August",
-            "link": "https://www.wired.com/story/womanizer-coupon/",
+            "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
+            "link": "https://www.wired.com/story/vivid-seats-promo-code/",
             "source": "Wired"
         }
     ]
