@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "জাতীয় দলের ফুটবলার আল আমিনকে ১৫ ম্যাচের জন্য নিষিদ্ধ করেছে ফিফা",
+            "title": "রোহিঙ্গা ইস্যুতে মিয়ানমারের বিবৃতির সাথে একমত নয়, রাষ্ট্রদূতকে তলব করে জানাল ঢাকা",
             "link": "https://www.bbc.co.uk/bengali/live/c962xjk64jgzt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "অর্থবছরের সময় কেন বদলাচ্ছে বাংলাদেশের সরকার, লাভ-ক্ষতি কী হবে?",
+            "link": "https://www.bbc.com/bengali/articles/c934e2kgew4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,42 +29,37 @@
             "title": "পত্রিকা: 'পে-স্কেল চূড়ান্ত: দুই ধাপে বাস্তবায়ন'",
             "link": "https://www.bbc.com/bengali/articles/c4gvjwgwpp5o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "কিছু নারী কেন এমন কোনও রং দেখতে পান, যা অন্য অনেকে দেখতে পায় না?",
-            "link": "https://www.bbc.com/bengali/articles/c1w17wyyw9ro?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Palestinian-American confronts Israeli settler at his besieged home",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
+            "link": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Bashar al-Assad’s cousin Wassim sentenced to death in Syria",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
             "link": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Myanmar: The Architecture of Statelessness",
-            "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/18/myanmar-the-architecture-of-statelessness?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Russia protests Japan PM’s comments after Putin’s Kuril visit",
-            "link": "https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Why has Trump threatened to bomb Oman – for a second time?",
-            "link": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Premier League what to know: Schedule, prediction, transfers and more",
-            "link": "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "What to know about California’s special election to replace Eric Swalwell",
-            "link": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Pant, bowlers put India on victory path",
+            "link": "https://www.cricinfo.com/ci/content/story/1550522.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Babar ruled out of first Test against England; Salman Agha to lead",
             "link": "https://www.cricinfo.com/ci/content/story/1550521.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,9 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Babar Azam remains in doubt for first Test against England",
-            "link": "https://www.cricinfo.com/ci/content/story/1550350.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Root calls on England to be 'good human beings'",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c80n49j85dxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Why Fernandez uncertainty has echoes of Isak saga",
@@ -148,14 +153,19 @@
             "title": "Premier League to publish verdicts on referee and VAR decisions",
             "link": "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Williams sisters lose on doubles return",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
+            "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
+            "link": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
             "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
@@ -177,14 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Anthropic’s annualized revenue surges to $65B",
-            "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-            "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-            "source": "TechCrunch"
+            "title": "Can the Upcoming ‘Expanse’ Game Avoid ‘Mass Effect’s’ Biggest Mistake?",
+            "link": "https://www.wired.com/story/the-upcoming-expanse-game-has-to-make-some-hard-choices/",
+            "source": "Wired"
         },
         {
             "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
@@ -192,13 +197,13 @@
             "source": "Wired"
         },
         {
-            "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
-            "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
+            "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
+            "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
             "source": "Wired"
         },
         {
-            "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
-            "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
+            "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
+            "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
             "source": "Wired"
         },
         {
@@ -209,11 +214,6 @@
         {
             "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets",
             "link": "https://www.wired.com/story/best-merino-wool-clothes/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
-            "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
             "source": "Wired"
         }
     ]
