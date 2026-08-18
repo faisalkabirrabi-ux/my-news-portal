@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Hichilema re-elected as Zambia president amid opposition concerns over vote",
+            "link": "https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "What to know about Gaza working groups and their mandate?",
+            "link": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Yemeni government escalates attacks against Houthis: What’s next?",
+            "link": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -45,21 +60,6 @@
         {
             "title": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
             "link": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Bashar al-Assad’s cousin Wassim sentenced to death in Syria",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
-            "link": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "England enter post-Bazball era against forever-in-turmoil Pakistan",
+            "link": "https://www.cricinfo.com/ci/content/story/1550525.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Mahipal Lomror signs six-match deal with Surrey",
+            "link": "https://www.cricinfo.com/ci/content/story/1550524.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Pant, bowlers put India on victory path",
             "link": "https://www.cricinfo.com/ci/content/story/1550522.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -115,18 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Weatherald dropped, Renshaw called up for second Test against Bangladesh",
-            "link": "https://www.cricinfo.com/ci/content/story/1550487.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'Ultimately, it's 31' - Labuschagne's Test career back on the edge",
-            "link": "https://www.cricinfo.com/ci/content/story/1550245.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Root calls on England to be 'good human beings'",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c80n49j85dxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Bezos consortium bought almost 40% of Liverpool",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cly9l92kj6po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Buss trying to block her siblings' sale of family stake in Lakers",
+            "link": "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +150,32 @@
             "source": "BBC Sports"
         },
         {
-            "title": "What's going on at Cadillac and Haas? F1 Q&A",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Guardiola-Walker fallout revealed in new documentary",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Premier League to publish verdicts on referee and VAR decisions",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
+            "title": "Albon to stay with Williams for 2027 season",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cr5909rr1v7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+            "link": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+            "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+            "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Perplexity’s free AI offer left it with millions more users in India",
+            "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
             "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
@@ -167,27 +187,7 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
-            "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Fairphone is launching its latest repairable phone in the US too",
-            "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
-            "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
-            "link": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Can the Upcoming ‘Expanse’ Game Avoid ‘Mass Effect’s’ Biggest Mistake?",
+            "title": "Can the Upcoming ‘Expanse’ Game Avoid ‘Mass Effect’’s Biggest Mistake?",
             "link": "https://www.wired.com/story/the-upcoming-expanse-game-has-to-make-some-hard-choices/",
             "source": "Wired"
         },
