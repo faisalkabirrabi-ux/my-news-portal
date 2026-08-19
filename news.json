@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "কলকাতায় হোটেলে আগুন লেগে নারী ও শিশুসহ ৯ বাংলাদেশির মৃত্যু",
+            "link": "https://www.bbc.com/bengali/articles/c935zg0rd3ko?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "টেস্টে ফেল করলে কি এসএসসি পরীক্ষায় বাধা দিতে পারে স্কুল?",
             "link": "https://www.bbc.com/bengali/articles/clyj717pm5vo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,24 @@
             "title": "মুখ্যমন্ত্রী শুভেন্দু অধিকারীর প্রথম ১০০ দিনের আলোচিত-সমালোচিত পাঁচ সিদ্ধান্ত",
             "link": "https://www.bbc.com/bengali/articles/clyvj7q8l74o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "আমেরিকার প্রথম মুসলিম সেনেটর হওয়ার দৌড়ে থাকা তরুণ রাজনীতিবিদ আবদুল এল সাইদ কে?",
-            "link": "https://www.bbc.com/bengali/articles/c2049yqvpq0o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Bali gym owner kicks out three Israeli tourists for links to ‘IDF’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US unions sue over new visa rule for foreign students, journalists",
+            "link": "https://www.aljazeera.com/news/2026/8/19/us-unions-sue-over-new-visa-rule-for-foreign-students-journalists?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+            "link": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "US sanctions International Criminal Court’s president and top lawyer",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
@@ -43,23 +58,8 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+            "title": "US, Canada reach deal to pause steep tariffs",
             "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US refineries taking in half of Venezuela’s oil output, official says",
-            "link": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
-            "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US ambassador to Israel calls settler violence ‘terror’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,8 +78,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
-            "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+            "title": "South Korea shortens war games with US, citing Washington request",
+            "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
