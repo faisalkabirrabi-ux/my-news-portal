@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "কলকাতায় হোটেলে আগুন লেগে নারী ও শিশুসহ ৯ বাংলাদেশির মৃত্যু",
+            "title": "কলকাতায় হোটেলে আগুন লেগে বাংলাদেশিসহ ৯ জনের মৃত্যু",
             "link": "https://www.bbc.com/bengali/articles/c935zg0rd3ko?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "আন্তর্জাতিক অপরাধ আদালতের প্রেসিডেন্ট এবং আইনজীবীর ওপর মার্কিন নিষেধাজ্ঞা",
+            "link": "https://www.bbc.com/bengali/articles/czek4n1dde7o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,14 +29,24 @@
             "title": "অর্থবছরের সময় কেন বদলাচ্ছে বাংলাদেশের সরকার, লাভ-ক্ষতি কী হবে?",
             "link": "https://www.bbc.com/bengali/articles/c934e2kgew4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মুখ্যমন্ত্রী শুভেন্দু অধিকারীর প্রথম ১০০ দিনের আলোচিত-সমালোচিত পাঁচ সিদ্ধান্ত",
-            "link": "https://www.bbc.com/bengali/articles/clyvj7q8l74o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Former US official calls shift in relations with Syria ‘surreal’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "South Korea, US scale back annual military drills after Trump’s order",
+            "link": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Bali gym owner kicks out three Israeli tourists for links to ‘IDF’",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss",
@@ -45,21 +60,6 @@
         {
             "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
             "link": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US sanctions International Criminal Court’s president and top lawyer",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trial begins that could force Meta to change Facebook and Instagram",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/trial-begins-that-could-force-meta-to-change-facebook-and-instagram?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US, Canada reach deal to pause steep tariffs",
-            "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Keemo Paul's all-round starrer lifts Kingsmen to second place",
+            "link": "https://www.cricinfo.com/ci/content/story/1550566.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "England enter post-Bazball era against forever-in-turmoil Pakistan",
             "link": "https://www.cricinfo.com/ci/content/story/1550525.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,13 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Babar ruled out of first Test against England; Salman Agha to lead",
-            "link": "https://www.cricinfo.com/ci/content/story/1550521.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
+            "title": "How will your club fare? Phil McNulty's Premier League predictions",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,11 +140,6 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Aston Villa agree deal for West Ham's Wan-Bissaka",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Musiala collapses during match for second time in four-day period",
             "link": "https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -152,6 +147,11 @@
         {
             "title": "Buss trying to block her siblings' sale of family stake in Lakers",
             "link": "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Squeeze More Juice Out of Your Dead Batteries—Using Physics",
-            "link": "https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/",
+            "title": "Uber Eats Promo Codes: $15 Off│August 2026",
+            "link": "https://www.wired.com/story/uber-eats-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Garmin Watches Are Up to $250 Off Right Now On Amazon (2026)",
-            "link": "https://www.wired.com/story/garmin-deals-august-2026/",
+            "title": "Hotels.com Coupon Codes for August 2026",
+            "link": "https://www.wired.com/story/hotels-com-coupon/",
             "source": "Wired"
         },
         {
-            "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-            "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+            "title": "Wayfair Coupons: Up to 80% Off August 2026",
+            "link": "https://www.wired.com/story/wayfair-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan",
-            "link": "https://www.wired.com/story/viral-disneyland-content-creator-defends-her-special-friendship-with-peter-pan/",
+            "title": "50% Off DoorDash Promo Code | August 2026",
+            "link": "https://www.wired.com/story/doordash-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
-            "link": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+            "title": "LG Promo Codes and Coupons for August 2026",
+            "link": "https://www.wired.com/story/lg-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Can the Upcoming ‘Expanse’ Game Avoid the Biggest Mistake of ‘Mass Effect’?",
-            "link": "https://www.wired.com/story/the-upcoming-expanse-game-has-to-make-some-hard-choices/",
+            "title": "Loop Earplugs Discount Codes: 40% Off",
+            "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
             "source": "Wired"
         }
     ]
