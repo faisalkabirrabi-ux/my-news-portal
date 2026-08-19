@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "কলকাতায় হোটেলে আগুনে নিহতদের মধ্যে পাঁচজন বাংলাদেশির পরিচয় প্রকাশ",
+            "title": "কলকাতায় হোটেলে আগুনে নিহত আরো দুইজনের পরিচয় প্রকাশ",
             "link": "https://www.bbc.co.uk/bengali/live/c69w0z8k44yyt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "মিয়ানমারের বিবৃতি কি রোহিঙ্গা সংকট আরও জটিল করে তুলছে?",
+            "link": "https://www.bbc.com/bengali/articles/cwyqd7nnv11o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,43 +29,43 @@
             "title": "আন্তর্জাতিক অপরাধ আদালতের প্রেসিডেন্ট এবং আইনজীবীর ওপর মার্কিন নিষেধাজ্ঞা",
             "link": "https://www.bbc.com/bengali/articles/czek4n1dde7o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "টেস্টে ফেল করলে কি এসএসসি পরীক্ষায় বাধা দিতে পারে স্কুল?",
-            "link": "https://www.bbc.com/bengali/articles/clyj717pm5vo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Top India court allows passive euthanasia, but few aware of ‘living wills’",
-            "link": "https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss",
+            "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
+            "link": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why White House envoys cannot sway Israel’s war leader",
-            "link": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss",
+            "title": "Pakistan challenges top court order to move Imran Khan to private hospital",
+            "link": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test",
-            "link": "https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss",
+            "title": "Palestinians condemn Israeli step to advance illegal E1 settlement plan",
+            "link": "https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "At least five killed in Russian air attacks on Ukraine",
-            "link": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
+            "title": "China’s Unitree soars in market debut as investors bet on humanoid robots",
+            "link": "https://www.aljazeera.com/economy/2026/8/19/chinas-unitree-soars-in-market-debut-as-investors-bet-on-humanoid-robots?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Nick Kyrgios provisionally suspended after positive test for cocaine",
-            "link": "https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss",
+            "title": "Angelique Kidjo makes history with Hollywood walk of fame star",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/angelique-kidjo-makes-history-with-hollywood-walk-of-fame-star?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss",
+            "title": "Humanitarianism is not collapsing. It is being traded and compromised",
+            "link": "https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+            "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Sacked Ukrainian defence minister calls for presidential election",
@@ -78,22 +83,37 @@
             "source": "BBC World"
         },
         {
+            "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+            "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "South Korea shortens war games with US, citing Washington request",
             "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Apparent human remains found in US reservoir as water levels hit record low",
-            "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Meta hooked children on Facebook and Instagram, US court hears",
-            "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Rahul impressed by Padikkal's tone-setting ton, Suthar's subtle variations",
+            "link": "https://www.cricinfo.com/ci/content/story/1550643.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Kusal Mendis, Dinesh Chandimal out of second Test; Pathum Nissanka unlikely",
+            "link": "https://www.cricinfo.com/ci/content/story/1550646.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Kirsten: 'We are starting to build some shape into Sri Lanka's Test team'",
+            "link": "https://www.cricinfo.com/ci/content/story/1550645.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "MCC: Litchfield dismissal in Hundred final should have been 'dead ball'",
+            "link": "https://www.cricinfo.com/ci/content/story/1550644.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Renshaw 'has got the game for all conditions' as he returns to Test cricket",
             "link": "https://www.cricinfo.com/ci/content/story/1550591.html?ex_cid=OTC-RSS",
@@ -105,24 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "England bowl first with all-seam attack at Headingley",
-            "link": "https://www.cricinfo.com/ci/content/story/1550625.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "PCB postpones President's Cup to December",
-            "link": "https://www.cricinfo.com/ci/content/story/1550618.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'Take me to the IPL' - Dickwella banters with Jaiswal before losing his wicket",
-            "link": "https://www.cricinfo.com/ci/content/story/1550589.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Suthar ten-for seals big victory for India in Galle",
-            "link": "https://www.cricinfo.com/ci/content/story/1550593.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "'Everyone wants clarity' over Man City charges, says Arsenal chief",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1416keng1po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "How will your club fare? Phil McNulty's Premier League predictions",
@@ -140,13 +145,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Even the Queen could not watch - 10 years since Olympic hockey gold",
-            "link": "https://www.bbc.co.uk/sport/hockey/articles/czek237r51po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Arsenal pushing on with deal to sign Villa's Konsa",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
+            "title": "New Zealand great Tui joins Trailfinders",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cd69dj304wxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -156,6 +156,16 @@
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+            "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "You can Venmo your college tuition, for some reason",
+            "link": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
             "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
@@ -177,14 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "OpenAI institutes new safeguards after Hugging Face breach",
-            "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-            "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-            "source": "TechCrunch"
+            "title": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Apolosign",
+            "link": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
+            "source": "Wired"
         },
         {
             "title": "I Tried a Window-Cleaning Robot: Do Not Recommend",
@@ -209,11 +214,6 @@
         {
             "title": "There’s a Very Simple Reason Why You Love the Slate Truck",
             "link": "https://www.wired.com/story/theres-a-very-simple-reason-why-you-love-the-slate-truck/",
-            "source": "Wired"
-        },
-        {
-            "title": "Reverse-Lookup Service Exposed Millions of Photos of People’s Faces",
-            "link": "https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
             "source": "Wired"
         }
     ]
