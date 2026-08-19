@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
+            "link": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "582 skeletons, including children discovered in Sri Lanka mass grave",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -48,18 +58,8 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Zambian opposition leader to challenge election result in ⁠court",
+            "title": "Zambia opposition leader to challenge Hichilema election victory in court",
             "link": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
-            "link": "https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
-            "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Robinson happy to split the spoils after stellar Test return",
+            "link": "https://www.cricinfo.com/ci/content/story/1550722.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Robinson, Tongue share ten as England dominate opening day",
             "link": "https://www.cricinfo.com/ci/content/story/1550720.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,13 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Kirsten: 'We are starting to build some shape into Sri Lanka's Test team'",
-            "link": "https://www.cricinfo.com/ci/content/story/1550645.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Robinson & Tongue give Root an ideal start to England's new era",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c62vyw663gvo?at_medium=RSS&at_campaign=rss",
+            "title": "How Root brought welcome calm on return as England captain",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c36d944wlweo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -157,6 +157,21 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+            "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
+            "link": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
+            "link": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "AI was supposed to win people over by now — it hasn’t",
             "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
             "source": "TechCrunch"
@@ -172,19 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Meet the startup helping Wall Street put a price on AI compute",
-            "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
-            "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
-            "link": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-            "source": "TechCrunch"
+            "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+            "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+            "source": "Wired"
         },
         {
             "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
@@ -209,11 +214,6 @@
         {
             "title": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Apolosign",
             "link": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
-            "source": "Wired"
-        },
-        {
-            "title": "I Tried a Window-Cleaning Robot: Do Not Recommend",
-            "link": "https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/",
             "source": "Wired"
         }
     ]
