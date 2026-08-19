@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Top India court allows passive euthanasia, but few aware of ‘living wills’",
+            "link": "https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Why White House envoys cannot sway Israel’s war leader",
+            "link": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test",
             "link": "https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
-            "link": "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Cars swept downhill as flash floods hit northern Chile",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/cars-swept-downhill-as-flash-floods-hit-northern-chile?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,8 +83,8 @@
             "source": "BBC World"
         },
         {
-            "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-            "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+            "title": "Apparent human remains found in US reservoir as water levels hit record low",
+            "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -94,6 +94,16 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Renshaw 'has got the game for all conditions' as he returns to Test cricket",
+            "link": "https://www.cricinfo.com/ci/content/story/1550591.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Wolvaardt to lead new-look South Africa on first tour of Zimbabwe",
+            "link": "https://www.cricinfo.com/ci/content/story/1550632.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "England bowl first with all-seam attack at Headingley",
             "link": "https://www.cricinfo.com/ci/content/story/1550625.html?ex_cid=OTC-RSS",
@@ -115,16 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Renshaw 'has got the game for all conditions' as he returns to Test cricket",
-            "link": "https://www.cricinfo.com/ci/content/story/1550591.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Keemo Paul puts in big all-round show to lift Kingsmen to second place",
-            "link": "https://www.cricinfo.com/ci/content/story/1550566.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "How will your club fare? Phil McNulty's Premier League predictions",
             "link": "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -140,13 +140,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Musiala collapses in match for second time in four days",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss",
+            "title": "Even the Queen could not watch - 10 years since Olympic hockey gold",
+            "link": "https://www.bbc.co.uk/sport/hockey/articles/czek237r51po?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Even the Queen could not watch - 10 years since Olympic hockey gold",
-            "link": "https://www.bbc.co.uk/sport/hockey/articles/czek237r51po?at_medium=RSS&at_campaign=rss",
+            "title": "Arsenal pushing on with deal to sign Villa's Konsa",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
+            "title": "I Tried a Window-Cleaning Robot: Do Not Recommend",
+            "link": "https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/",
+            "source": "Wired"
+        },
+        {
+            "title": "‘Your Excel Skills Suck’: The Power Users Turning Spreadsheets Into a Spectator Sport",
+            "link": "https://www.wired.com/story/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/",
+            "source": "Wired"
+        },
+        {
+            "title": "We Bought a $500 Counterfeit Rolex So Good, Even Rolex Didn’t Spot It",
+            "link": "https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/",
+            "source": "Wired"
+        },
+        {
+            "title": "Dell XPS 13 vs. MacBook Neo: A Surprising Upset",
+            "link": "https://www.wired.com/story/macbook-neo-vs-dell-xps-13/",
+            "source": "Wired"
+        },
+        {
+            "title": "There’s a Very Simple Reason Why You Love the Slate Truck",
+            "link": "https://www.wired.com/story/theres-a-very-simple-reason-why-you-love-the-slate-truck/",
+            "source": "Wired"
+        },
+        {
             "title": "Reverse-Lookup Service Exposed Millions of Photos of People’s Faces",
             "link": "https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
-            "source": "Wired"
-        },
-        {
-            "title": "Hot or Not Built the Internet We’re Still Swiping Through",
-            "link": "https://www.wired.com/story/hot-or-not-built-the-internet-were-still-swiping-through/",
-            "source": "Wired"
-        },
-        {
-            "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-            "link": "https://www.wired.com/story/flock-safety-os-investigate/",
-            "source": "Wired"
-        },
-        {
-            "title": "Uber Eats Promo Codes: $15 Off│August 2026",
-            "link": "https://www.wired.com/story/uber-eats-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Hotels.com Coupon Codes for August 2026",
-            "link": "https://www.wired.com/story/hotels-com-coupon/",
-            "source": "Wired"
-        },
-        {
-            "title": "Wayfair Coupons: Up to 80% Off August 2026",
-            "link": "https://www.wired.com/story/wayfair-promo-code/",
             "source": "Wired"
         }
     ]
