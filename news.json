@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "টেস্টে ফেল করলে কি এসএসসি পরীক্ষায় বাধা দিতে পারে স্কুল?",
+            "link": "https://www.bbc.com/bengali/articles/clyj717pm5vo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা:'কেন পিএসসি চেয়ারম্যানের পদত্যাগ, নানা কৌতূহল'",
+            "link": "https://www.bbc.com/bengali/articles/cvg0jxmx0e8o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "রোহিঙ্গা ইস্যুতে মিয়ানমারের বিবৃতির সাথে একমত নয়, রাষ্ট্রদূতকে জানাল ঢাকা",
             "link": "https://www.bbc.co.uk/bengali/live/c962xjk64jgzt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,19 +29,19 @@
             "title": "আমেরিকার প্রথম মুসলিম সেনেটর হওয়ার দৌড়ে থাকা তরুণ রাজনীতিবিদ আবদুল এল সাইদ কে?",
             "link": "https://www.bbc.com/bengali/articles/c2049yqvpq0o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "তালেবান শাসন ও শরিয়া আইন পাঁচ বছরে আফগানিস্তানে কী পরিবর্তন এনেছে?",
-            "link": "https://www.bbc.com/bengali/articles/c9w04jvk8y8o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইউক্রেন ব্রিটেনে নির্মিত ড্রোন ব্যবহার করে রাশিয়ায় হামলার পর মস্কোর তীব্র প্রতিক্রিয়া",
-            "link": "https://www.bbc.com/bengali/articles/cvg8ykv22kko?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+            "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US refineries taking in half of Venezuela’s oil output, official says",
+            "link": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
             "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
@@ -53,38 +63,28 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Sacked Ukrainian defence minister calls for presidential election",
+            "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
-            "title": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
-            "link": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+            "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
-            "title": "Meta hooked children on Facebook and Instagram, court hears",
+            "title": "Meta hooked children on Facebook and Instagram, US court hears",
             "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-            "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Earthquake rocks Spain's historic Granada, injuring three",
-            "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+            "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+            "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "Brazil's President Lula hails oil discovery near Amazon river",
             "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-            "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
