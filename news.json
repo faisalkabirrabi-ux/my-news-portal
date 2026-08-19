@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "What the social media addiction lawsuit could cost Meta",
+            "link": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "“I get along with him very well.”",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -53,18 +63,13 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
-            "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
-            "link": "https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
             "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+            "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,19 +91,9 @@
             "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
             "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-            "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
-        {
-            "title": "Robinson moves from luxury to necessity, as England regroup around him",
-            "link": "https://www.cricinfo.com/ci/content/story/1550723.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
         {
             "title": "Robinson happy to split the spoils after stellar Test return",
             "link": "https://www.cricinfo.com/ci/content/story/1550722.html?ex_cid=OTC-RSS",
@@ -125,6 +120,11 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Somerset overpower Essex through Odgers, Luff tons",
+            "link": "https://www.cricinfo.com/ci/content/story/1550658.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "How Root brought welcome calm on return as England captain",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c36d944wlweo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,13 +135,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Arsenal agree £50m-plus deal to sign Villa's Konsa",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
+            "title": "Rashford wants to play football 'without name mentioned every day'",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1j1397zg1xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Duran's incredible double edges Celtic closer to Champions League",
-            "link": "https://www.bbc.co.uk/sport/football/videos/crmrydv4ww0o?at_medium=RSS&at_campaign=rss",
+            "title": "Arsenal agree £50m-plus deal to sign Villa's Konsa",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,12 +150,32 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Rashford wants to play football 'without name mentioned every day'",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1j1397zg1xo?at_medium=RSS&at_campaign=rss",
+            "title": "Duran stars as Celtic ease to comfortable win over LASK",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c0m73y34nglo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+            "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+            "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+            "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+            "link": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
             "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
@@ -164,26 +184,6 @@
         {
             "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
             "link": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
-            "link": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "AI was supposed to win people over by now — it hasn’t",
-            "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Google packs Search and Gemini with new AI study tools",
-            "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Researchers say OpenAI revoked their access to limited cyber program",
-            "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
             "source": "TechCrunch"
         },
         {
