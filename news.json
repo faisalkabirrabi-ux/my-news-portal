@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Violence in the New Syria?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump nominates Heidi Overton to lead US Food and Drug Administration",
+            "link": "https://www.aljazeera.com/news/2026/8/19/trump-nominates-heidi-overton-to-lead-us-food-and-drug-administration?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Zambian opposition leader to challenge election result in ⁠court",
+            "link": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
+            "link": "https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
             "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Kennedy Center board says it won’t try to immediately restore Trump’s name",
-            "link": "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Brazil bus crash kills at least 23 and injures five in Parana state",
-            "link": "https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
-            "link": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US Department of Justice defends prosecution of Comey over seashell post",
-            "link": "https://www.aljazeera.com/news/2026/8/19/us-department-of-justice-defends-prosecution-of-comey-over-seashell-post?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "North Korea leader’s sister denies talks with ‘hostile’ US",
-            "link": "https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister-denies-talks-with-hostile-us?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,12 +88,17 @@
             "source": "BBC World"
         },
         {
-            "title": "Six tourists and pilot killed in Kenya helicopter crash",
+            "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
             "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Robinson, Tongue share ten as England dominate opening day",
+            "link": "https://www.cricinfo.com/ci/content/story/1550720.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Meg Austin, Em Arlott star in comfortable Warwickshire win",
             "link": "https://www.cricinfo.com/ci/content/story/1550657.html?ex_cid=OTC-RSS",
@@ -120,9 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Adams back to Hampshire with a bang after contract extension",
-            "link": "https://www.cricinfo.com/ci/content/story/1550656.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Robinson & Tongue give Root an ideal start to England's new era",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c62vyw663gvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Athletics coach believed missing is in jail for sexual assault",
@@ -135,8 +140,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'Parents shouldn’t fear their children not coming home from a race'",
-            "link": "https://www.bbc.co.uk/sport/cycling/articles/c5y3n8e1e6eo?at_medium=RSS&at_campaign=rss",
+            "title": "Why positive cocaine test could mean end of Kyrgios' career",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c87nzeepv70o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +150,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Cricket: Today at the Test",
-            "link": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Man Utd's decision to make Baleba their 'third midfielder'",
-            "link": "https://www.bbc.co.uk/sport/football/articles/clylk1wexgno?at_medium=RSS&at_campaign=rss",
+            "title": "Robinson and Tongue guide England to strong start against Pakistan",
+            "link": "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "AI was supposed to win people over by now — it hasn’t",
+            "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Google packs Search and Gemini with new AI study tools",
+            "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Researchers say OpenAI revoked their access to limited cyber program",
+            "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Meet the startup helping Wall Street put a price on AI compute",
             "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
@@ -169,21 +184,6 @@
         {
             "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
             "link": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-            "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Rivian spinout Also raises another $150M",
-            "link": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
-            "link": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
             "source": "TechCrunch"
         },
         {
