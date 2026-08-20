@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "৩৫ বছর পর আজ বাংলাদেশে রাষ্ট্রপতি নির্বাচন",
+            "link": "https://www.bbc.com/bengali/articles/cddj8p99l8go?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'এস আলমের বিদ্যুৎকেন্দ্রে ছাড়ে ৩২ লাখ ডলার ঋণ'",
             "link": "https://www.bbc.com/bengali/articles/c151jdep54ko?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,14 @@
             "title": "কলকাতার হোটেলে অগ্নিকাণ্ডের যে ভয়াবহ অভিজ্ঞতার কথা শুনল বিবিসি",
             "link": "https://www.bbc.com/bengali/articles/crmryvvw10yo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মিয়ানমারের বিবৃতি কি রোহিঙ্গা সংকট আরও জটিল করে তুলছে?",
-            "link": "https://www.bbc.com/bengali/articles/cwyqd7nnv11o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+            "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
@@ -58,11 +63,6 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
             "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -83,8 +83,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-            "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+            "title": "Former Liberian vice president charged in drug-trafficking probe",
+            "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -94,6 +94,16 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "St Lucia Kings lose Noor Ahmad for CPL 2026 after ACB revokes his NOC",
+            "link": "https://www.cricinfo.com/ci/content/story/1550729.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Kirsten: 'We are starting to build some shape into Sri Lanka's Test team'",
+            "link": "https://www.cricinfo.com/ci/content/story/1550645.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Robinson happy to split the spoils after stellar Test return",
             "link": "https://www.cricinfo.com/ci/content/story/1550722.html?ex_cid=OTC-RSS",
@@ -112,16 +122,6 @@
         {
             "title": "Kathryn Bryce, Georgia Elwiss hundreds keep Blaze firing",
             "link": "https://www.cricinfo.com/ci/content/story/1550655.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Glamorgan's Chris Cooke set to retire, Mir Hamza, Raymond Toole signed up",
-            "link": "https://www.cricinfo.com/ci/content/story/1550660.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Somerset overpower Essex through Odgers, Luff tons",
-            "link": "https://www.cricinfo.com/ci/content/story/1550658.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
