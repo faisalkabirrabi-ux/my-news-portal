@@ -1,7 +1,12 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "বাংলাদেশে রাষ্ট্রপতি নির্বাচিত হলেন মির্জা ফখরুল ইসলাম আলমগীর, পেলেন ২৫৫ ভোট",
+            "title": "পৌর চেয়ারম্যান থেকে রাষ্ট্রপতি - মির্জা ফখরুল ইসলাম আলমগীরের রাজনৈতিক জীবন",
+            "link": "https://www.bbc.com/bengali/articles/c935z00rqd2o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "বাংলাদেশের রাষ্ট্রপতি নির্বাচিত হলেন মির্জা ফখরুল ইসলাম আলমগীর, পেলেন ২৫৫ ভোট",
             "link": "https://www.bbc.co.uk/bengali/live/cwy8mlmex4v1t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -24,14 +29,29 @@
             "title": "পত্রিকা: 'এস আলমের বিদ্যুৎকেন্দ্রে ছাড়ে ৩২ লাখ ডলার ঋণ'",
             "link": "https://www.bbc.com/bengali/articles/c151jdep54ko?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "নারীদের চলাচলের গোলাপি রঙের বাস নিয়ে সামাজিক মাধ্যমে বিতর্ক কেন?",
-            "link": "https://www.bbc.com/bengali/articles/c05q4l87995o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Bangladesh’s government under pressure as youth demand jobs",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Who was Hind Rajab and why is Israel investigating her killing?",
+            "link": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israel is betting on Islamophobia to save its standing in the West",
+            "link": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "PSG forced to move opening league match as heatwave in France damages pitch",
+            "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "How Myanmar’s war drives the Rohingya crisis",
             "link": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
@@ -40,26 +60,6 @@
         {
             "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
             "link": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Taliban secures pragmatic global alliances without formal recognition",
-            "link": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "How conflict is making life more expensive for Iranians",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "State-backed Israeli settler violence forces West Bank displacement: HRW",
-            "link": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
-            "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,6 +78,11 @@
             "source": "BBC World"
         },
         {
+            "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+            "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
             "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -86,14 +91,14 @@
             "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
             "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-            "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "ICC reverses demerit point on Gaddafi Stadium pitch for Pakistan vs Australia ODI",
+            "link": "https://www.cricinfo.com/ci/content/story/1550759.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Injured Curran out of contention for English summer, Jacks undergoes appendix operation",
             "link": "https://www.cricinfo.com/ci/content/story/1550754.html?ex_cid=OTC-RSS",
@@ -117,11 +122,6 @@
         {
             "title": "Pretorius, Shamar, batters give Guyana Amazon Warriors second straight win",
             "link": "https://www.cricinfo.com/ci/content/story/1550733.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Pakistan to host SL for Tests and T20Is, and ODI tri-series with England",
-            "link": "https://www.cricinfo.com/ci/content/story/1550668.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -150,12 +150,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Minority investment or takeover - what does Bezos' Liverpool deal mean?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4g31egre74o?at_medium=RSS&at_campaign=rss",
+            "title": "Jaissle on pain which set him on path to Newcastle and speaking with Howe",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c171k9kd94zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+            "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Meta AI’s new Mac app wants you to talk to your apps",
+            "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
             "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
@@ -174,16 +184,6 @@
         {
             "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
             "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-            "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
-            "link": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
             "source": "TechCrunch"
         },
         {
