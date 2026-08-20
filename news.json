@@ -1,13 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "পৌর চেয়ারম্যান থেকে রাষ্ট্রপতি - মির্জা ফখরুল ইসলাম আলমগীরের রাজনৈতিক জীবন",
-            "link": "https://www.bbc.com/bengali/articles/c935z00rqd2o?at_medium=RSS&at_campaign=rss",
+            "title": "তিনটি ব্যালট বাক্স, দুই জন প্রার্থী ও একটি লাল গোলাপ- যেমন ছিল রাষ্ট্রপতি নির্বাচনে ভোটের চিত্র",
+            "link": "https://www.bbc.com/bengali/articles/c0qvje91ww9o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
             "title": "বিএনপির ভারপ্রাপ্ত মহাসচিব হলেন রুহুল কবির রিজভী",
             "link": "https://www.bbc.co.uk/bengali/live/cwy8mlmex4v1t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পৌর চেয়ারম্যান থেকে রাষ্ট্রপতি - মির্জা ফখরুল ইসলাম আলমগীরের রাজনৈতিক জীবন",
+            "link": "https://www.bbc.com/bengali/articles/c935z00rqd2o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -21,17 +26,32 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "পত্রিকা: 'এস আলমের বিদ্যুৎকেন্দ্রে ছাড়ে ৩২ লাখ ডলার ঋণ'",
-            "link": "https://www.bbc.com/bengali/articles/c151jdep54ko?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
             "title": "নারীদের চলাচলের গোলাপি রঙের বাস নিয়ে সামাজিক মাধ্যমে বিতর্ক কেন?",
             "link": "https://www.bbc.com/bengali/articles/c05q4l87995o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
+            "link": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
+            "link": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?",
+            "link": "https://www.aljazeera.com/news/2026/8/20/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
             "link": "https://www.aljazeera.com/news/2026/8/20/13-workers-killed-in-colombia-mine-landslide-local-official?traffic_source=rss",
@@ -40,26 +60,6 @@
         {
             "title": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
             "link": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
-            "link": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Governments brace for historic El Nino impacts on global weather extremes",
-            "link": "https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
-            "link": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "USS Washington arrives in Middle East after aircraft carrier outcry",
-            "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "India's tour of Bangladesh could be postponed yet again",
+            "link": "https://www.cricinfo.com/ci/content/story/1550809.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Allison runs through Gloucestershire top order but rain ruins first day",
+            "link": "https://www.cricinfo.com/ci/content/story/1550797.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Monty Desai exits as Canada coach; board begins search for successor",
             "link": "https://www.cricinfo.com/ci/content/story/1550738.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -115,23 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "St Lucia Kings lose Noor Ahmad for CPL after ACB revokes his NOC",
-            "link": "https://www.cricinfo.com/ci/content/story/1550729.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Pretorius, Shamar, batters give Guyana Amazon Warriors second straight win",
-            "link": "https://www.cricinfo.com/ci/content/story/1550733.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Closer to retiring than changing teams - why Verstappen stayed at Red Bull",
             "link": "https://www.bbc.co.uk/sport/formula1/articles/c0qvkj40zk4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,40 +145,45 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Chelsea happy with Fernandez, says Alonso",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cpq8gq5llp9o?at_medium=RSS&at_campaign=rss",
+            "title": "Rider 'nearly hit' by car on day one of Tour of Britain Women",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/cp3rg3x0e7wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
-            "link": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
+            "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
+            "link": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
             "source": "TechCrunch"
         },
         {
-            "title": "AI data giant Alation confirms cyberattack",
-            "link": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
+            "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+            "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
             "source": "TechCrunch"
         },
         {
-            "title": "For a16z, AI gives foreign founders an advantage",
-            "link": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
+            "title": "The 2026 Startup Battlefield 200 is here — see who made the cut",
+            "link": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
             "source": "TechCrunch"
         },
         {
-            "title": "US says hackers are targeting vulnerable water systems with the help of AI",
-            "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+            "title": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
+            "link": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/",
             "source": "TechCrunch"
         },
         {
-            "title": "Meta AI’s new Mac app wants you to talk to your apps",
-            "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+            "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+            "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
             "source": "TechCrunch"
         },
         {
-            "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-            "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+            "title": "There are less than 48 hours to save up to $300 on your TechCrunch Disrupt 2026 ticket",
+            "link": "https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/",
             "source": "TechCrunch"
         },
         {
