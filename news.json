@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+            "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "The cost of rebuilding family homes in war-ravaged Syria",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
+            "link": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
             "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -45,21 +60,6 @@
         {
             "title": "Landslide at illegal gold mine kills 13 people in Colombia",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Four railway workers killed by express train at station in Japan",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -145,19 +145,24 @@
             "source": "BBC Sports"
         },
         {
-            "title": "US Open offers biggest prize fund in Grand Slam history",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c70g2zx0rp5o?at_medium=RSS&at_campaign=rss",
+            "title": "McIlroy back in form with lead at BMW Championship",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/cy4598pnx7po?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Why first 10 days of new season could tell us a lot about Man Utd",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cy5dx427yw7o?at_medium=RSS&at_campaign=rss",
+            "title": "US Open offers biggest prize fund in Grand Slam history",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c70g2zx0rp5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+            "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+            "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
             "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
             "source": "TechCrunch"
         },
@@ -182,9 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-            "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-            "source": "TechCrunch"
+            "title": "Google Pixel 11 Review: Minor Upgrade",
+            "link": "https://www.wired.com/review/google-pixel-11/",
+            "source": "Wired"
         },
         {
             "title": "The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole",
@@ -209,11 +214,6 @@
         {
             "title": "Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead",
             "link": "https://www.wired.com/story/bumble-women-first-rule-change/",
-            "source": "Wired"
-        },
-        {
-            "title": "The 3 Best USB Car Chargers for Phones (2026): Anker, DeWalt",
-            "link": "https://www.wired.com/story/best-usb-car-chargers/",
             "source": "Wired"
         }
     ]
