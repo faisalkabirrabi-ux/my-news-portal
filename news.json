@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "রাষ্ট্রপতি হিসেবে সন্ধ্যায় শপথ নেবেন মির্জা ফখরুল, মন্ত্রিসভায় যুক্ত হবেন চার জন",
+            "link": "https://www.bbc.co.uk/bengali/live/cv0l536y33wgt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "মাজার থেকে বঙ্গভবন- যে ইতিহাস কয়েক শতকের",
             "link": "https://www.bbc.com/bengali/articles/c0qvkk2kl5eo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,24 @@
             "title": "কেন জিন্নাহর স্বাস্থ্যকে 'ভারতের গোপনতম রহস্য' বলে মনে করা হতো?",
             "link": "https://www.bbc.com/bengali/articles/ce34rk2d6ldo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "তিনটি ব্যালট বাক্স, দুই জন প্রার্থী ও একটি লাল গোলাপ- যেমন ছিল রাষ্ট্রপতি নির্বাচনে ভোটের চিত্র",
-            "link": "https://www.bbc.com/bengali/articles/c0qvje91ww9o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Charter plane crash near Alaskan military site kills 8",
+            "link": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Russia ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+            "link": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Serie A: Key talking points heading into the new 2026-27 season",
+            "link": "https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?",
             "link": "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss",
@@ -45,21 +60,6 @@
         {
             "title": "Cyclist Josh Tarling to compete in Tour of Spain after brother’s death",
             "link": "https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Torrential rain floods New York City’s streets and subway",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Swiatek into Cincinnati semis after Rybakina injury",
-            "link": "https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Australia charges man for passing Ukrainian military intel to Russia",
-            "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -120,8 +120,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Imran Khan returns to jail after being declared 'medically fit'",
-            "link": "https://www.cricinfo.com/ci/content/story/1550825.html?ex_cid=OTC-RSS",
+            "title": "Walkden claims maiden wicket on truncated day",
+            "link": "https://www.cricinfo.com/ci/content/story/1550799.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Would Marmoush joining Tottenham be a masterstroke or risk?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr49yypz01eo?at_medium=RSS&at_campaign=rss",
+            "title": "Flex your football brain with our daily quizzes",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gxxyyn8yeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "West Ham's Wan‑Bissaka joins Aston Villa on loan",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c629pr7lwd1o?at_medium=RSS&at_campaign=rss",
+            "title": "Would Marmoush joining Tottenham be a masterstroke or risk?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr49yypz01eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,21 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Nyrius Phoenix Home True 4K60 (2026): A Solution for Cord Clutter",
+            "link": "https://www.wired.com/review/nyrius-phoenix-home-true-4k60/",
+            "source": "Wired"
+        },
+        {
+            "title": "The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood",
+            "link": "https://www.wired.com/story/the-patrick-clancy-conspiracy-theories-are-rooted-in-the-harsh-realities-of-motherhood/",
+            "source": "Wired"
+        },
+        {
+            "title": "5 Best Electric Toothbrushes (2026): Philips, Oral-B, Quip, More",
+            "link": "https://www.wired.com/story/the-best-electric-toothbrush-for-healthier-teeth-and-gums/",
+            "source": "Wired"
+        },
+        {
             "title": "Influencers and Resellers Are Turning Empty Boxes Into Big Cash",
             "link": "https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/",
             "source": "Wired"
@@ -199,21 +214,6 @@
         {
             "title": "Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More",
             "link": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Single English County Saying No to Palantir",
-            "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
-            "source": "Wired"
-        },
-        {
-            "title": "B&H Photo Promo Codes and Deals This August 2026",
-            "link": "https://www.wired.com/story/bh-photo-coupon/",
-            "source": "Wired"
-        },
-        {
-            "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026",
-            "link": "https://www.wired.com/story/nordvpn-coupon/",
             "source": "Wired"
         }
     ]
