@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
+            "link": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "How is drought hitting UK farming?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/how-is-drought-hitting-uk-farming?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
+            "link": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+            "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
             "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Migrants clash with French police as they attempt to cross the Channel",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
-            "link": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
-            "link": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "What to know about the Freedom 250 Grand Prix, Trump’s capital car race",
-            "link": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "England thrash Pakistan by an innings and 103 runs in first Test",
-            "link": "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,13 +68,18 @@
             "source": "BBC World"
         },
         {
-            "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-            "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+            "title": "Russian double-tap drone strike kills 14 in Ukrainian mall, officials say",
+            "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "Hong Kong's Tiananmen activists guilty in national security trial",
             "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+            "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,14 +91,14 @@
             "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
             "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-            "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Edavalath lifts Worcestershire response after Allison five-for",
+            "link": "https://www.cricinfo.com/ci/content/story/1550936.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Rabada suffers right hamstring injury during winter training",
             "link": "https://www.cricinfo.com/ci/content/story/1550931.html?ex_cid=OTC-RSS",
@@ -120,9 +125,14 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Sri Lanka bring in Mishara and Arachchige for second Test against India",
-            "link": "https://www.cricinfo.com/ci/content/story/1550884.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "It would be 'nice to have choice' over Ashes venues - Root",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cm2g5xpl33no?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "'I fear for them' - Vaughan & Raja lament 'desperate times' for Pakistan",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/czrj545d34mo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
@@ -135,27 +145,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'I fear for them' - Vaughan & Raja lament 'desperate times' for Pakistan",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/czrj545d34mo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Sinner & Draper withdraw from US Open",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Brighton reject Liverpool's new £60m Minteh bid",
             "link": "https://www.bbc.co.uk/sport/football/articles/ce97ky3vkx4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Joshua fight doesn't look like it will happen - Fury",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/cm2gj7dkl6lo?at_medium=RSS&at_campaign=rss",
+            "title": "Cricket: Today at the Test",
+            "link": "https://www.bbc.co.uk/iplayer/live/bbcfour?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Tesla’s solar roof is dead — here’s what went wrong",
+            "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Waymo hands over documents in NHTSA’s child collision probe",
+            "link": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
             "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
@@ -174,16 +184,6 @@
         {
             "title": "Walmart to finally start accepting Apple Pay and Google Pay",
             "link": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-            "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
-            "link": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
             "source": "TechCrunch"
         },
         {
