@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "England thrash Pakistan by an innings and 103 runs in first Test",
+            "link": "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Arsenal vs Coventry LIVE: Premier League",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli settlers set fire to heavy machinery at West Bank quarry",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Jannik Sinner to miss US Open tennis major due to knee injury",
+            "link": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain",
+            "link": "https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
             "link": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iraq’s solar villages show how to build an energy transition that lasts",
-            "link": "https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Fury says fight with Joshua looks unlikely with venue yet to be agreed",
-            "link": "https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL",
-            "link": "https://www.aljazeera.com/sports/2026/8/21/manchester-citys-maresca-admits-he-needs-time-after-big-changes?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Djibouti Football Federation accused of misusing funds from FIFA",
-            "link": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "War on Iran: The US could focus on economically isolating Iran",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,7 +78,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Several injured after sword attack at Swedish school",
+            "title": "Two teenagers seriously injured after sword attack at Swedish school",
             "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -125,7 +125,7 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £51m deal",
+            "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
             "link": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -140,22 +140,27 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Sinner & Draper withdraw from US Open",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Joshua fight doesn't look like it will happen - Fury",
             "link": "https://www.bbc.co.uk/sport/boxing/articles/cm2gj7dkl6lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Injured Sinner out of US Open",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'Plug him in as attack leader' - England-Pakistan player ratings",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c78g2v5ge26o?at_medium=RSS&at_campaign=rss",
+            "title": "Russell takes pole position for Dutch GP sprint race",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c8xn09wkw79o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "US government lab is probing Chinese lidar for security vulnerabilities",
+            "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
             "link": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
@@ -179,11 +184,6 @@
         {
             "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
             "link": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Senator asks US government watchdog to review how feds use hacking tools",
-            "link": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
             "source": "TechCrunch"
         },
         {
