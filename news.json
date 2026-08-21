@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "যুক্তরাষ্ট্র-দক্ষিণ কোরিয়া সামরিক মহড়া মাঝপথেই বন্ধ করে দেওয়ার কারণ কী?",
+            "link": "https://www.bbc.com/bengali/articles/c74g2zglgpxo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'যে কোনো সময় মন্ত্রিসভায় রদবদল, গাড়ি প্রস্তুত'",
             "link": "https://www.bbc.com/bengali/articles/ckg4d5kpzpqo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,14 @@
             "title": "বিএনপির ভারপ্রাপ্ত মহাসচিব হলেন রুহুল কবির রিজভী",
             "link": "https://www.bbc.co.uk/bengali/live/cwy8mlmex4v1t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ডেঙ্গু নিয়ে ঢাকার বাইরে যে পাঁচ জেলা সবচেয়ে বেশি ঝুঁকিতে",
-            "link": "https://www.bbc.com/bengali/articles/cqx7n9elw2yo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Hong Kong Tiananmen activists found guilty of national security charges",
+            "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
             "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
@@ -55,11 +60,6 @@
         {
             "title": "Taliban release two detained UN staff members in Afghanistan",
             "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
-            "link": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Renshaw to open in Mackay on Test comeback",
+            "link": "https://www.cricinfo.com/ci/content/story/1550834.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Shadab leads Falcons past Patriots to fourth place on the table",
+            "link": "https://www.cricinfo.com/ci/content/story/1550835.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Usman rues Pakistan bowling lapses despite five-wicket haul",
             "link": "https://www.cricinfo.com/ci/content/story/1550824.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -112,16 +122,6 @@
         {
             "title": "Abbott, Neal put Hampshire on top but Yorkshire fight back",
             "link": "https://www.cricinfo.com/ci/content/story/1550801.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Patterson-White leads Notts fightback as Lawes bags five",
-            "link": "https://www.cricinfo.com/ci/content/story/1550804.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Crawley makes 81 on return to first-class cricket",
-            "link": "https://www.cricinfo.com/ci/content/story/1550798.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
