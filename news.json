@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Taliban release two detained UN staff members in Afghanistan",
+            "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
+            "link": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+            "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "US charges woman for allegedly plotting attack on New York State Capitol",
             "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -43,38 +63,23 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
-            "link": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
-            "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US pummels Cuban economy with new sanctions on mining, construction",
-            "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Landslide at illegal gold mine kills 13 people in Colombia",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-            "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
             "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
+            "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+            "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
             "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+            "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -85,11 +90,6 @@
         {
             "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
             "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Assad officer extradited to Syria on war crimes charges for first time",
-            "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -157,6 +157,21 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+            "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+            "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Learn what VCs actually want, from a founder who’s raised $1B",
+            "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
             "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
             "source": "TechCrunch"
@@ -169,21 +184,6 @@
         {
             "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
             "link": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "OK, can we actually cool data centers with our pee?",
-            "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-            "link": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Mark buys a castle",
-            "link": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
             "source": "TechCrunch"
         },
         {
