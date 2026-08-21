@@ -33,6 +33,11 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
+            "link": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "TikTok settles with US Justice Department for $400m over child privacy laws",
             "link": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -55,11 +60,6 @@
         {
             "title": "Global Sumud Flotilla joins Albania’s anti-resort protest",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/global-sumud-flotilla-joins-albanias-anti-resort-protest?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Tunisian protesters call for President Kais Saied to step down",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -125,6 +125,16 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Swaggering Arsenal want title attack, not defence",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Lessons learned for Coventry in difficult top-flight return",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Arsenal start title defence with comfortable win over Coventry",
             "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -140,24 +150,24 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Tzolis shines in Premier League opener - Arsenal v Coventry player ratings",
-            "link": "https://www.bbc.co.uk/sport/football/articles/crl7g4e4pdno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Hunt second in Diamond League 200m as White wins",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/c8dnvl1mqleo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'I fear for them' - Vaughan & Raja lament 'desperate times' for Pakistan",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/czrj545d34mo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
+            "title": "Anthropic’s Opus 4.6 is a smut-machine",
+            "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Nvidia partners with data center developer Cloverleaf",
+            "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
             "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
             "source": "TechCrunch"
         },
@@ -177,14 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-            "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
-            "link": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
-            "source": "TechCrunch"
+            "title": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
+            "link": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
+            "source": "Wired"
         },
         {
             "title": "Meta’s Big Reckoning Is Here",
@@ -209,11 +214,6 @@
         {
             "title": "5 Best Electric Toothbrushes (2026): Philips, Oral-B, Quip, More",
             "link": "https://www.wired.com/story/the-best-electric-toothbrush-for-healthier-teeth-and-gums/",
-            "source": "Wired"
-        },
-        {
-            "title": "Influencers and Resellers Are Turning Empty Boxes Into Big Cash",
-            "link": "https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/",
             "source": "Wired"
         }
     ]
