@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বাংলাদেশে বিদ্যুৎ সংকটের সমাধান কী?",
+            "link": "https://www.bbc.com/bengali/articles/cx2renvyvdpo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "যুক্তরাষ্ট্র-দক্ষিণ কোরিয়া সামরিক মহড়া মাঝপথেই বন্ধ করে দেওয়ার কারণ কী?",
             "link": "https://www.bbc.com/bengali/articles/c74g2zglgpxo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -23,11 +28,6 @@
         {
             "title": "পৌর চেয়ারম্যান থেকে রাষ্ট্রপতি - মির্জা ফখরুল ইসলাম আলমগীরের রাজনৈতিক জীবন",
             "link": "https://www.bbc.com/bengali/articles/c935z00rqd2o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বিএনপির ভারপ্রাপ্ত মহাসচিব হলেন রুহুল কবির রিজভী",
-            "link": "https://www.bbc.co.uk/bengali/live/cwy8mlmex4v1t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
@@ -100,7 +100,7 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Renshaw locked in to open as Lyon survives selection call",
+            "title": "Lyon survives selection call as Renshaw locked in to open",
             "link": "https://www.cricinfo.com/ci/content/story/1550834.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
@@ -110,13 +110,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Usman rues Pakistan bowling lapses despite five-wicket haul",
-            "link": "https://www.cricinfo.com/ci/content/story/1550824.html?ex_cid=OTC-RSS",
+            "title": "Imran Khan moved to private hospital amid deteriorating health",
+            "link": "https://www.cricinfo.com/ci/content/story/1550825.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Imran Khan moved to private hospital amid deteriorating health",
-            "link": "https://www.cricinfo.com/ci/content/story/1550825.html?ex_cid=OTC-RSS",
+            "title": "Usman rues Pakistan bowling lapses despite five-wicket haul",
+            "link": "https://www.cricinfo.com/ci/content/story/1550824.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -125,8 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Spurs agree £75m deal to sign Man City's Savinho",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Brook as talented as Gower and Pietersen but not ready to be captain - Agnew",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c8rn7jx766go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Break-up of Villa's Europa heroes leaves cracks for Emery to fill",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,23 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Liverpool have £50m bid rejected for Brighton's Minteh",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "'Borderline Personality Disorder is my superpower'",
             "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3w0vw7530no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Seven defenders on the books - why Arsenal still want Konsa",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "McIlroy back in form with lead at BMW Championship",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/cy4598pnx7po?at_medium=RSS&at_campaign=rss",
+            "title": "Brook shines as England take control against Pakistan",
+            "link": "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
+            "title": "The Single English County Saying No to Palantir",
+            "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+            "source": "Wired"
+        },
+        {
             "title": "B&H Photo Promo Codes and Deals This August 2026",
             "link": "https://www.wired.com/story/bh-photo-coupon/",
             "source": "Wired"
         },
         {
+            "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026",
+            "link": "https://www.wired.com/story/nordvpn-coupon/",
+            "source": "Wired"
+        },
+        {
+            "title": "Home Depot Promo Codes: 30% Off in August 2026",
+            "link": "https://www.wired.com/story/home-depot-promo-code/",
+            "source": "Wired"
+        },
+        {
+            "title": "Ruggable Discount Code: 30% Off Rugs | August 2026",
+            "link": "https://www.wired.com/story/ruggable-discount-code/",
+            "source": "Wired"
+        },
+        {
             "title": "Meta Quest Promo Codes and Coupons for August 2026",
             "link": "https://www.wired.com/story/meta-quest-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "30% Off Canon Promo Codes | August 2026",
-            "link": "https://www.wired.com/story/canon-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Paramount+ Coupon Codes and Deals for August 2026",
-            "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Lenovo Coupon Codes: 15% Off in August 2026",
-            "link": "https://www.wired.com/story/lenovo-coupon-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Zoro Coupon Codes: 55% Off August",
-            "link": "https://www.wired.com/story/zoro-promo-code/",
             "source": "Wired"
         }
     ]
