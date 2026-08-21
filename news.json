@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "মাজার থেকে বঙ্গভবন- যে ইতিহাস কয়েক শতকের",
+            "link": "https://www.bbc.com/bengali/articles/c0qvkk2kl5eo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশে বিদ্যুৎ সংকটের সমাধান কী?",
             "link": "https://www.bbc.com/bengali/articles/cx2renvyvdpo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,29 @@
             "title": "তিনটি ব্যালট বাক্স, দুই জন প্রার্থী ও একটি লাল গোলাপ- যেমন ছিল রাষ্ট্রপতি নির্বাচনে ভোটের চিত্র",
             "link": "https://www.bbc.com/bengali/articles/c0qvje91ww9o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পৌর চেয়ারম্যান থেকে রাষ্ট্রপতি - মির্জা ফখরুল ইসলাম আলমগীরের রাজনৈতিক জীবন",
-            "link": "https://www.bbc.com/bengali/articles/c935z00rqd2o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Swiatek into Cincinnati semis after Rybakina injury",
+            "link": "https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Australia charges man for passing Ukrainian military intel to Russia",
+            "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Sudan’s displacement crisis deepens as violence escalates",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Bangladesh expect ‘harder’ Australia challenge in second Test, says coach",
+            "link": "https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Israeli settlers set fire to Palestinian home while family asleep",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
@@ -43,33 +63,8 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Australian Hussey open to Ashes Test role as England make approach",
-            "link": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Dr TikTok: Mental health moves from consulting rooms to social media",
-            "link": "https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
-            "link": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Dozens of migrants land on Spanish coast surprising beachgoers",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
             "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-            "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -88,20 +83,35 @@
             "source": "BBC World"
         },
         {
-            "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-            "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+            "title": "Meghan could return to acting once back in UK",
+            "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+            "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Bangladesh eye more history with only one result on Australia's mind",
-            "link": "https://www.cricinfo.com/ci/content/story/1550848.html?ex_cid=OTC-RSS",
+            "title": "Confident Shanto plots 'five days of good cricket again'",
+            "link": "https://www.cricinfo.com/ci/content/story/1550885.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Sri Lanka bring in Mishara and Arachchige for second Test against India",
+            "link": "https://www.cricinfo.com/ci/content/story/1550884.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "Lyon survives selection call as Renshaw locked in to open",
             "link": "https://www.cricinfo.com/ci/content/story/1550834.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Bangladesh eye more history with only one result on Australia's mind",
+            "link": "https://www.cricinfo.com/ci/content/story/1550848.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -112,16 +122,6 @@
         {
             "title": "Imran Khan returns to jail after being declared 'medically fit'",
             "link": "https://www.cricinfo.com/ci/content/story/1550825.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Usman rues Pakistan bowling lapses despite five-wicket haul",
-            "link": "https://www.cricinfo.com/ci/content/story/1550824.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Brook 91 cements England dominance as Usman fights for Pakistan",
-            "link": "https://www.cricinfo.com/ci/content/story/1550821.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
