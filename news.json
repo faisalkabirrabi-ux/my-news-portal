@@ -33,8 +33,18 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Dozens of migrants land on Spanish coast surprising beachgoers",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Hong Kong Tiananmen activists found guilty of national security charges",
             "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -53,16 +63,6 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Antigovernment protesters take to Tunisia’s streets for second month",
-            "link": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Taliban release two detained UN staff members in Afghanistan",
-            "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
             "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -78,6 +78,11 @@
             "source": "BBC World"
         },
         {
+            "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+            "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Why the US economy is ringing alarm bells",
             "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -86,16 +91,16 @@
             "title": "Hong Kong's Tiananmen activists guilty in national security trial",
             "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-            "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Renshaw to open in Mackay on Test comeback",
+            "title": "Bangladesh eye more history with only one result on Australia's mind",
+            "link": "https://www.cricinfo.com/ci/content/story/1550848.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Renshaw locked in to open as Lyon survives selection call",
             "link": "https://www.cricinfo.com/ci/content/story/1550834.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Abbott, Neal put Hampshire on top but Yorkshire fight back",
-            "link": "https://www.cricinfo.com/ci/content/story/1550801.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Brook as talented as Gower and Pietersen but not ready to be captain - Agnew",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c8rn7jx766go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -140,6 +140,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "'Borderline Personality Disorder is my superpower'",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3w0vw7530no?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Seven defenders on the books - why Arsenal still want Konsa",
             "link": "https://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -147,11 +152,6 @@
         {
             "title": "McIlroy back in form with lead at BMW Championship",
             "link": "https://www.bbc.co.uk/sport/golf/articles/cy4598pnx7po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "US Open offers biggest prize fund in Grand Slam history",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c70g2zx0rp5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Google Pixel 11 Review: Minor Upgrade",
-            "link": "https://www.wired.com/review/google-pixel-11/",
+            "title": "B&H Photo Promo Codes and Deals This August 2026",
+            "link": "https://www.wired.com/story/bh-photo-coupon/",
             "source": "Wired"
         },
         {
-            "title": "The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole",
-            "link": "https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/",
+            "title": "Meta Quest Promo Codes and Coupons for August 2026",
+            "link": "https://www.wired.com/story/meta-quest-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
-            "link": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
+            "title": "30% Off Canon Promo Codes | August 2026",
+            "link": "https://www.wired.com/story/canon-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Silicon Valley Doesn't Get Why You Hate AI",
-            "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+            "title": "Paramount+ Coupon Codes and Deals for August 2026",
+            "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "Poolease X1 Pool Robot Review: How Bad Can It Be?",
-            "link": "https://www.wired.com/review/poolease-x1-pool-robot/",
+            "title": "Lenovo Coupon Codes: 15% Off in August 2026",
+            "link": "https://www.wired.com/story/lenovo-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead",
-            "link": "https://www.wired.com/story/bumble-women-first-rule-change/",
+            "title": "Zoro Coupon Codes: 55% Off August",
+            "link": "https://www.wired.com/story/zoro-promo-code/",
             "source": "Wired"
         }
     ]
