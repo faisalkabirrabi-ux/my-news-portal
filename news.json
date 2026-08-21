@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পত্রিকা: 'যে কোনো সময় মন্ত্রিসভায় রদবদল, গাড়ি প্রস্তুত'",
+            "link": "https://www.bbc.com/bengali/articles/ckg4d5kpzpqo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "কেন জিন্নাহর স্বাস্থ্যকে 'ভারতের গোপনতম রহস্য' বলে মনে করা হতো?",
+            "link": "https://www.bbc.com/bengali/articles/ce34rk2d6ldo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "তিনটি ব্যালট বাক্স, দুই জন প্রার্থী ও একটি লাল গোলাপ- যেমন ছিল রাষ্ট্রপতি নির্বাচনে ভোটের চিত্র",
             "link": "https://www.bbc.com/bengali/articles/c0qvje91ww9o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,19 +29,29 @@
             "title": "ডেঙ্গু নিয়ে ঢাকার বাইরে যে পাঁচ জেলা সবচেয়ে বেশি ঝুঁকিতে",
             "link": "https://www.bbc.com/bengali/articles/cqx7n9elw2yo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "হলুদ খাওয়ার উপকার নিয়ে প্রচলিত ধারণাগুলো কতটা সত্য",
-            "link": "https://www.bbc.com/bengali/articles/cx2jvww1jj2o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "নারীদের চলাচলের গোলাপি রঙের বাস নিয়ে সামাজিক মাধ্যমে বিতর্ক কেন?",
-            "link": "https://www.bbc.com/bengali/articles/c05q4l87995o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
+            "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
+            "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
+            "link": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Antigovernment protesters take to Tunisia’s streets for second month",
+            "link": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Taliban release two detained UN staff members in Afghanistan",
             "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
@@ -40,26 +60,6 @@
         {
             "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
             "link": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-            "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US charges woman for allegedly plotting attack on New York State Capitol",
-            "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "The cost of rebuilding family homes in war-ravaged Syria",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,23 +73,23 @@
             "source": "BBC World"
         },
         {
-            "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-            "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+            "title": "El Niño set to be 'strongest in living memory', says Met Office",
+            "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-            "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+            "title": "Why the US economy is ringing alarm bells",
+            "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Dozens dead after boat capsizes in north-western Nigeria",
-            "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+            "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+            "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-            "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+            "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+            "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
