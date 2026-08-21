@@ -1,7 +1,7 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "রাষ্ট্রপতি হিসেবে শপথ নিলেন মির্জা ফখরুল ইসলাম আলমগীর",
+            "title": "রাষ্ট্রপতি হিসেবে শপথ নিলেন মির্জা ফখরুল, মন্ত্রিসভায় যুক্ত হলেন চার মন্ত্রী ও দুই প্রতিমন্ত্রী",
             "link": "https://www.bbc.co.uk/bengali/live/cv0l536y33wgt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "El Nino set to be most intense ‘for over a century’: UK forecasters",
-            "link": "https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss",
+            "title": "Djibouti Football Federation accused of misusing funds from FIFA",
+            "link": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "South Korea footballers urge safety after extreme heat statistics",
-            "link": "https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss",
+            "title": "War on Iran: The US could focus on economically isolating Iran",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli soldiers throw belongings from besieged Palestinian home",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss",
+            "title": "Several people injured in sword attack at school in Sweden",
+            "link": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why are Hong Kong’s Tiananmen vigil organisers facing prison?",
-            "link": "https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss",
+            "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
+            "link": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "China rejects US claim that Myanmar analyst wrongfully detained",
-            "link": "https://www.aljazeera.com/news/2026/8/21/china-rejects-us-claim-that-myanmar-analyst-wrongfully-detained?traffic_source=rss",
+            "title": "Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN",
+            "link": "https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US allies in Asia wary as Trump moves military assets for Iran war",
-            "link": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss",
+            "title": "Liverpool preview: Five key questions heading into 2026-27 season",
+            "link": "https://www.aljazeera.com/sports/2026/8/21/liverpool-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Kate Cross to retire at end of season",
+            "link": "https://www.cricinfo.com/ci/content/story/1550917.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Hussey on Fleming reunion with England - 'Wouldn't say no to anything'",
             "link": "https://www.cricinfo.com/ci/content/story/1550916.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,13 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Shadab leads Falcons past Patriots to fourth place on the table",
-            "link": "https://www.cricinfo.com/ci/content/story/1550835.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Argentina's Paredes banned for 10 games after World Cup clashes",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Joshua fight doesn't look like it will happen - Fury",
             "link": "https://www.bbc.co.uk/sport/boxing/articles/cm2gj7dkl6lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Injured Sinner out of US Open",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +145,32 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Spurs agree £75m deal for Man City winger Savinho",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss",
+            "title": "Watkins could leave Villa before transfer deadline - Emery",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c9v4wj07e8eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Antonelli leads Norris in Dutch GP first practice",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cx2l701nxnxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Ex-England bowler Cross to retire at end of summer",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cx2med7kv2yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Sutton's opening weekend predictions v Courteeners frontman Liam Fray",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cn9nqzny7n7o?at_medium=RSS&at_campaign=rss",
+            "title": "Where next for Chelsea's Delap and can he bounce back?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4g3n9zryx8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Walmart to finally start accepting Apple Pay and Google Pay",
+            "link": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+            "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
+            "link": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
             "link": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
@@ -169,21 +184,6 @@
         {
             "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
             "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-            "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-            "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-            "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
             "source": "TechCrunch"
         },
         {
