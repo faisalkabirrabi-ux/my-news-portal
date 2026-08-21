@@ -1,13 +1,23 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "রাষ্ট্রপতি হিসেবে শপথ নিলেন মির্জা ফখরুল, মন্ত্রিসভায় যুক্ত হলেন চার মন্ত্রী ও দুই প্রতিমন্ত্রী",
+            "title": "রাষ্ট্রপতি হিসেবে শপথ নিলেন মির্জা ফখরুল, শপথ পড়ালেন চার মন্ত্রী ও দুই প্রতিমন্ত্রীকে",
             "link": "https://www.bbc.co.uk/bengali/live/cv0l536y33wgt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "সরকারের নতুন মন্ত্রী ও প্রতিমন্ত্রী হলেন যারা",
+            "link": "https://www.bbc.com/bengali/articles/cj36kz40z11o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
             "title": "মাজার থেকে বঙ্গভবন- যে ইতিহাস কয়েক শতকের",
             "link": "https://www.bbc.com/bengali/articles/c0qvkk2kl5eo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "কলকাতায় গা ঘেঁষে দাঁড়ানো হোটেলগুলোয় আগুন থেকে বাঁচার কী উপায় আছে?",
+            "link": "https://www.bbc.com/bengali/articles/ckg3ml1122ko?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,19 +29,29 @@
             "title": "যুক্তরাষ্ট্র-দক্ষিণ কোরিয়া সামরিক মহড়া মাঝপথেই বন্ধ করে দেওয়ার কারণ কী?",
             "link": "https://www.bbc.com/bengali/articles/c74g2zglgpxo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'যে কোনো সময় মন্ত্রিসভায় রদবদল, গাড়ি প্রস্তুত'",
-            "link": "https://www.bbc.com/bengali/articles/ckg4d5kpzpqo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "কেন জিন্নাহর স্বাস্থ্যকে 'ভারতের গোপনতম রহস্য' বলে মনে করা হতো?",
-            "link": "https://www.bbc.com/bengali/articles/ce34rk2d6ldo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
+            "link": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iraq’s solar villages show how to build an energy transition that lasts",
+            "link": "https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Fury says fight with Joshua looks unlikely with venue yet to be agreed",
+            "link": "https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL",
+            "link": "https://www.aljazeera.com/sports/2026/8/21/manchester-citys-maresca-admits-he-needs-time-after-big-changes?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Djibouti Football Federation accused of misusing funds from FIFA",
             "link": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
@@ -40,26 +60,6 @@
         {
             "title": "War on Iran: The US could focus on economically isolating Iran",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Several people injured in sword attack at school in Sweden",
-            "link": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
-            "link": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN",
-            "link": "https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Liverpool preview: Five key questions heading into 2026-27 season",
-            "link": "https://www.aljazeera.com/sports/2026/8/21/liverpool-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,22 +78,32 @@
             "source": "BBC World"
         },
         {
-            "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-            "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+            "title": "Several injured after sword attack at Swedish school",
+            "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Panama Canal to cut number of ships passing through due to El Niño",
-            "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+            "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+            "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-            "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
+            "title": "Five missing after fire in Swiss Alpine town",
+            "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Rabada suffers right hamstring injury during winter training",
+            "link": "https://www.cricinfo.com/ci/content/story/1550931.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Tongue, Robinson, Archer lead the way as England seal three-day innings win",
+            "link": "https://www.cricinfo.com/ci/content/story/1550927.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Kate Cross to retire at end of season",
             "link": "https://www.cricinfo.com/ci/content/story/1550917.html?ex_cid=OTC-RSS",
@@ -115,14 +125,14 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Lyon survives selection call as Renshaw locked in to open",
-            "link": "https://www.cricinfo.com/ci/content/story/1550834.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £51m deal",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Bangladesh eye more history with only one result on Australia's mind",
-            "link": "https://www.cricinfo.com/ci/content/story/1550848.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "New Root era begins with huge win over Pakistan",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cn0nd9jj669o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Argentina's Paredes banned for 10 games after World Cup clashes",
@@ -140,22 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Strained smiles and uncertainty - the strange end of LIV Golf 1.0",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/crk5gzgl1rzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Watkins could leave Villa before transfer deadline - Emery",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c9v4wj07e8eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Where next for Chelsea's Delap and can he bounce back?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4g3n9zryx8o?at_medium=RSS&at_campaign=rss",
+            "title": "'Plug him in as attack leader' - England-Pakistan player ratings",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c78g2v5ge26o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
+            "link": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Walmart to finally start accepting Apple Pay and Google Pay",
             "link": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
@@ -182,9 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-            "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-            "source": "TechCrunch"
+            "title": "Meta’s Big Reckoning Is Here",
+            "link": "https://www.wired.com/story/metas-big-reckoning-is-here/",
+            "source": "Wired"
         },
         {
             "title": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
@@ -209,11 +214,6 @@
         {
             "title": "Influencers and Resellers Are Turning Empty Boxes Into Big Cash",
             "link": "https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Super El Niño Won’t Fix the West’s Water Crisis",
-            "link": "https://www.wired.com/story/the-super-el-nino-wont-fix-the-wests-water-crisis/",
             "source": "Wired"
         }
     ]
