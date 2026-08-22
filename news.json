@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Did DOGE cuts make America’s food safety problem worse?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
+            "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
             "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -43,33 +63,13 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Man Utd humiliated at Hull to open Premier League account",
-            "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
-            "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
-            "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Is Trump making Latin America great again?",
-            "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+            "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Carney faces crucial test after walking away from Trump's deal",
             "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-            "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -125,8 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Man Utd 'didn't look ready' - but hurting Carrick remains calm",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c87n78p070do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Norris beats Russell to pole position at Zandvoort",
             "link": "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Williams and Alcaraz to play US Open mixed doubles",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Williams and Alcaraz to play US Open mixed doubles",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'We're not Brendon and Ben' - Root's calmness praised",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cly9yzrgp21o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Russell wins Dutch GP sprint from pole position",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss",
+            "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c62x2z0k0p6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+            "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+            "source": "TechCrunch"
+        },
         {
             "title": "US battery startups have found a lifeline in defense",
             "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
@@ -179,11 +184,6 @@
         {
             "title": "Anthropic’s Opus 4.6 is a smut-machine",
             "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Nvidia partners with data center developer Cloverleaf",
-            "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
             "source": "TechCrunch"
         },
         {
