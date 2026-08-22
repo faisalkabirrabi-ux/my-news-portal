@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "South Korea sending first container ship through Arctic route",
+            "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Espanyol vs Real Madrid LIVE: La Liga",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "How is the pro-Israel lobby influencing US elections?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Elche vs Barcelona: La Liga – prediction, team news, lineups",
+            "link": "https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Did DOGE cuts make America’s food safety problem worse?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
-            "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
-            "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "What did war with the US reveal about Iran’s weapons capabilities?",
-            "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,13 +83,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-            "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+            "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+            "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-            "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+            "title": "US military newspaper editor voices censorship fears after being fired",
+            "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "OpenAI says California should strengthen its AI safety bill",
+            "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
             "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
             "source": "TechCrunch"
@@ -179,11 +184,6 @@
         {
             "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
             "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Anthropic’s Opus 4.6 is a smut-machine",
-            "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
             "source": "TechCrunch"
         },
         {
