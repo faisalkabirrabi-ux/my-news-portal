@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Man Utd humiliated at Hull to open Premier League account",
+            "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
+            "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
+            "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Is Trump making Latin America great again?",
             "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
+            "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
+            "link": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Jewish activists push back against Israeli settlers",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
-            "link": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "The Berlin Wall separated his family. Its legacy still endures",
-            "link": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-            "link": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Hundreds of children take part in swimming class on Gaza’s shore",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -70,6 +70,11 @@
         {
             "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
             "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Fourteen killed in strike on Myanmar monastery",
+            "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -85,11 +90,6 @@
         {
             "title": "One killed in sword attack at Swedish school",
             "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-            "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -125,12 +125,7 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Russell wins Dutch GP sprint from pole position",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Ajayi is rock at the back as Hull stun Man Utd - Hull v Man Utd player ratings",
+            "title": "Ajayi is rock at the back as Hull stun Man Utd - player ratings",
             "link": "https://www.bbc.co.uk/sport/football/articles/cpw94jp02xxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -145,6 +140,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Russell wins Dutch GP sprint from pole position",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "How new-look Spurs are shaping up under De Zerbi",
             "link": "https://www.bbc.co.uk/sport/football/articles/cx25xy7p9zpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -156,6 +156,11 @@
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+            "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Michael Polansky is training an AI model on skin that’s still alive",
             "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
@@ -179,11 +184,6 @@
         {
             "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
             "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-            "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
             "source": "TechCrunch"
         },
         {
