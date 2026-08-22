@@ -6,6 +6,11 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "সরকার কেন এখন কলেরার টিকা দিচ্ছে?",
+            "link": "https://www.bbc.com/bengali/articles/cx2kr011llzo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "সরকারের নতুন মন্ত্রী ও প্রতিমন্ত্রী হলেন যারা",
             "link": "https://www.bbc.com/bengali/articles/cj36kz40z11o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,24 @@
             "title": "বাংলাদেশে বিদ্যুৎ সংকটের সমাধান কী?",
             "link": "https://www.bbc.com/bengali/articles/cx2renvyvdpo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "যুক্তরাষ্ট্র-দক্ষিণ কোরিয়া সামরিক মহড়া মাঝপথেই বন্ধ করে দেওয়ার কারণ কী?",
-            "link": "https://www.bbc.com/bengali/articles/c74g2zglgpxo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Peru rescues people trapped by landslides on highway for nearly a week",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
+            "link": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iranian president says time to end war with US from ‘position of strength’",
+            "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "California lawmaker overcomes pro-Israel spending to win special election",
             "link": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
@@ -48,19 +63,14 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+            "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
-            "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
-            "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
-            "link": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+            "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -68,7 +78,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+            "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
             "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -78,22 +88,22 @@
             "source": "BBC World"
         },
         {
-            "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-            "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
             "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Two injured in stabbing attack at Canada Sikh temple",
-            "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Starc rips through Bangladesh with five wickets in 22 balls",
+            "link": "https://www.cricinfo.com/ci/content/story/1550957.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "How Starc completed his five-wicket haul in 22 balls",
+            "link": "https://www.cricinfo.com/ci/content/story/1550959.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Australia bowl first on Mackay's Test debut; Shoriful in for Bangladesh",
             "link": "https://www.cricinfo.com/ci/content/story/1550946.html?ex_cid=OTC-RSS",
@@ -112,16 +122,6 @@
         {
             "title": "Essex battle in follow-on as Leach, Gregory tighten Somerset's grip",
             "link": "https://www.cricinfo.com/ci/content/story/1550928.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Stone takes six as Nottinghamshire turn the tables on Surrey",
-            "link": "https://www.cricinfo.com/ci/content/story/1550929.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Stokes stars with bat and ball as Durham dominate Derbyshire",
-            "link": "https://www.cricinfo.com/ci/content/story/1550937.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Michael Polansky is training an AI model on skin that’s still alive",
+            "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
             "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
             "source": "TechCrunch"
@@ -179,11 +184,6 @@
         {
             "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
             "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-            "link": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
             "source": "TechCrunch"
         },
         {
