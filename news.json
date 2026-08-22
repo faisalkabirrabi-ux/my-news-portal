@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "মালয়েশিয়ার তালিকায় ২৫ এজেন্সি, শ্রমবাজার খোলা নিয়ে কী বলছে বাংলাদেশ সরকার",
+            "link": "https://www.bbc.com/bengali/articles/cm2g24p65mno?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "দিল্লিকে ঢাকার কঠিন শর্ত: নেপথ্যে 'অবিশ্বাস', নাকি সম্পর্কের 'রিসেট' চায় ঢাকা?",
             "link": "https://www.bbc.com/bengali/articles/cly5w34w0p8o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,29 @@
             "title": "শিশুদের গোপনীয়তা লঙ্ঘনের মামলায় যুক্তরাষ্ট্রকে ৪০ কোটি ডলার দেবে টিকটক",
             "link": "https://www.bbc.com/bengali/articles/cx2kr3q3kl3o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "টেস্ট চ্যাম্পিয়নশিপ ফাইনাল খেলতে বাংলাদেশকে কী করতে হবে?",
-            "link": "https://www.bbc.com/bengali/articles/c629pe5485xo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
+            "link": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Hundreds of children take part in swimming class on Gaza’s shore",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
+            "link": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
             "link": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
@@ -40,26 +60,6 @@
         {
             "title": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
             "link": "https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Manchester City preview: Five key questions heading into 2026-27 season",
-            "link": "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Former world champion boxer Zolani Tete shot and killed in South Africa",
-            "link": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran says new US sanctions violate sovereignty of other states",
-            "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
-            "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,7 +78,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
+            "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
             "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -100,6 +100,21 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Ponting on Labuschagne's struggles: Well and truly time to look at somebody else",
+            "link": "https://www.cricinfo.com/ci/content/story/1551035.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Gambhir rates Kuldeep 'very highly' but doesn't commit on selection",
+            "link": "https://www.cricinfo.com/ci/content/story/1551030.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "De Silva wants Sri Lanka's fast bowlers to 'raise their game a little bit'",
+            "link": "https://www.cricinfo.com/ci/content/story/1551031.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Zubin Bharucha joins Mumbai Indians as director of performance",
             "link": "https://www.cricinfo.com/ci/content/story/1551019.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -110,28 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "SL hope for spinners to step up to equalise in Colombo",
-            "link": "https://www.cricinfo.com/ci/content/story/1551014.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Dravid: Need players like Sooryavanshi to play all formats for Test cricket to grow",
-            "link": "https://www.cricinfo.com/ci/content/story/1550983.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Forde five-for and Kamil Pooran 81* keep Kings' rise going",
-            "link": "https://www.cricinfo.com/ci/content/story/1550979.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Russell wins Dutch GP sprint from pole position",
             "link": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Swaggering Arsenal want title attack, not defence",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
+            "title": "Martinelli deserves better from Arsenal - Wright",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cj636ewwz46o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
