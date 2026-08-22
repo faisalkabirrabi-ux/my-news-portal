@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
+            "link": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Open-air cinema brings movie nights back to Khartoum",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli army and settlers injure several Palestinians across West Bank",
+            "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
             "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -45,21 +60,6 @@
         {
             "title": "Why is Israel building new illegal settlements?",
             "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "More than 200,000 newly displaced in Sudan’s Kordofan region",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
-            "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Northants close in as Vasconcelos ton cements dominance",
+            "link": "https://www.cricinfo.com/ci/content/story/1551053.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Woakes holds nerve for Warwickshire in title-igniting thriller",
+            "link": "https://www.cricinfo.com/ci/content/story/1551047.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Carlson keeps Glamorgan in hunt after Gumbs shows quality",
             "link": "https://www.cricinfo.com/ci/content/story/1551048.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -115,14 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "McKinney, Stokes power Durham to 338-run thrashing",
-            "link": "https://www.cricinfo.com/ci/content/story/1551052.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Northants close in as Vaconcelos ton cements dominance",
-            "link": "https://www.cricinfo.com/ci/content/story/1551053.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Watch Match of the Day",
+            "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Hull shock Man Utd with dream Premier League return",
@@ -148,14 +153,14 @@
             "title": "Wasteful Palace punished by Everton in Sage's first game",
             "link": "https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Arsenal start title defence with comfortable win over Coventry",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+            "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Will the DOJ’s investigation into a16z spook other VCs?",
             "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
@@ -179,11 +184,6 @@
         {
             "title": "US battery startups have found a lifeline in defense",
             "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
-            "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
             "source": "TechCrunch"
         },
         {
