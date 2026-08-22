@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
+            "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
+            "link": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "How will Trump’s tariffs affect Canada’s economy?",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
             "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
-            "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
-            "link": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -100,6 +100,11 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "SL hope for spinners to step up to equalise in Colombo",
+            "link": "https://www.cricinfo.com/ci/content/story/1551014.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Dravid: Need players like Sooryavanshi to play all formats for Test cricket to grow",
             "link": "https://www.cricinfo.com/ci/content/story/1550983.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,13 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Milnes five-for puts Kent in charge against Middlesex",
-            "link": "https://www.cricinfo.com/ci/content/story/1550935.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Swaggering Arsenal want title attack, not defence",
             "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "How new-look Spurs are shaping up under De Zerbi",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx25xy7p9zpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,23 +140,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Lessons learned, but Coventry's top-flight return about more than result",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Arsenal start title defence with comfortable win over Coventry",
             "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Fab Four and Fleming on the phone - England's first-Test takeaways",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c5yr18gp9j9o?at_medium=RSS&at_campaign=rss",
+            "title": "'Shambolic' - Stokes and Root question Ashes venues",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cm2g5xpl33no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Serrano draws 3.4m views on TikTok for 50th win",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/ce97kk98ey4o?at_medium=RSS&at_campaign=rss",
+            "title": "Lessons learned, but Coventry's top-flight return about more than result",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "NASA Cancels Its Rescue Mission for the Aging Swift Telescope",
+            "link": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
+            "source": "Wired"
+        },
+        {
             "title": "The Unlikely Place at the Center of China’s AI Boom",
             "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "Nyrius Phoenix Home True 4K60 (2026): A Solution for Cord Clutter",
             "link": "https://www.wired.com/review/nyrius-phoenix-home-true-4k60/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood",
-            "link": "https://www.wired.com/story/the-patrick-clancy-conspiracy-theories-are-rooted-in-the-harsh-realities-of-motherhood/",
             "source": "Wired"
         }
     ]
