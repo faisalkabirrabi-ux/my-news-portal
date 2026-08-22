@@ -6,6 +6,11 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "যখন মান্না দে বলেছিলেন, 'হাজারটা মান্না দে হলেও রফি আর হবে না'",
+            "link": "https://www.bbc.com/bengali/articles/c5yex9952n3o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাংলাদেশসহ ৭৫ দেশের অভিবাসী ভিসা স্থগিতের নীতি বাতিল মার্কিন আদালতে",
             "link": "https://www.bbc.com/bengali/articles/c4gxngpjj35o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,19 @@
             "title": "টেস্ট চ্যাম্পিয়নশিপ ফাইনাল খেলতে বাংলাদেশকে কী করতে হবে?",
             "link": "https://www.bbc.com/bengali/articles/c629pe5485xo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'মন্ত্রিসভায় নতুন পাঁচ মুখ'",
-            "link": "https://www.bbc.com/bengali/articles/cgljr7wr411o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Former world champion boxer Zolani Tete shot and killed in South Africa",
+            "link": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran says new US sanctions violate sovereignty of other states",
+            "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
             "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
@@ -53,16 +63,6 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
-            "link": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
-            "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
             "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -78,22 +78,27 @@
             "source": "BBC World"
         },
         {
-            "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+            "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
             "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-            "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "One killed in sword attack at Swedish school",
             "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
+        },
+        {
+            "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+            "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Zubin Bharucha joins Mumbai Indians as director of performance",
+            "link": "https://www.cricinfo.com/ci/content/story/1551019.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Six for Starc, six for Shoriful, Australia in front after 18-wicket opening day",
             "link": "https://www.cricinfo.com/ci/content/story/1550957.html?ex_cid=OTC-RSS",
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Australia bowl first on Mackay's Test debut; Shoriful in for Bangladesh",
-            "link": "https://www.cricinfo.com/ci/content/story/1550946.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Swaggering Arsenal want title attack, not defence",
             "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -132,11 +132,6 @@
         {
             "title": "How new-look Spurs are shaping up under De Zerbi",
             "link": "https://www.bbc.co.uk/sport/football/articles/cx25xy7p9zpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Second set of twins a good distraction from injury - Maddison",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vx6ne4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Lessons learned, but Coventry's top-flight return about more than result",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss",
+            "title": "Second set of twins a good distraction from injury - Maddison",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vx6ne4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Serrano draws 3.4m views on TikTok for 50th win",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/ce97kk98ey4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
