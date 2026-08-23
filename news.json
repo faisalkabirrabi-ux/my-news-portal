@@ -83,13 +83,13 @@
             "source": "BBC World"
         },
         {
-            "title": "The hotel booking mix-up that could free mushroom murderer",
-            "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+            "title": "France links rise in drownings to heatwaves",
+            "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "'New season, new trim' - Haaland reveals buzzcut",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+            "title": "The hotel booking mix-up that could free mushroom murderer",
+            "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -97,6 +97,16 @@
         {
             "title": "Pant expected to bat after retiring hurt on first day",
             "link": "https://www.cricinfo.com/ci/content/story/1551238.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Former captains renew appeal to Pakistan PM over Imran Khan's health",
+            "link": "https://www.cricinfo.com/ci/content/story/1551234.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Lancashire crushed by 316 runs as Northants surge",
+            "link": "https://www.cricinfo.com/ci/content/story/1551241.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,23 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Padikkal century puts India ahead on hard-fought day",
-            "link": "https://www.cricinfo.com/ci/content/story/1551233.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Shanto hopes Bangladesh 'do it' in South Africa after Darwin conquest",
-            "link": "https://www.cricinfo.com/ci/content/story/1551210.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Man City agree £86m deal for 18-year-old Bouaddi",
-            "link": "https://www.bbc.co.uk/sport/football/articles/clyjy0e0pkzo?at_medium=RSS&at_campaign=rss",
+            "title": "ECB investigating Carse 'nightclub incident'",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'New season, new trim' - Haaland reveals buzzcut",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+            "title": "Sub Cherki rescues result for Maresca - player ratings for Man City v Bournemouth",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +145,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Mourinho urges Vinicius Jr to control emotions",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1414my6165o?at_medium=RSS&at_campaign=rss",
+            "title": "'New season, new trim' - Haaland reveals buzzcut",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Australia beat Bangladesh in two days",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c9989723r7xo?at_medium=RSS&at_campaign=rss",
+            "title": "Abuse from Liverpool fans hurts - Alexander-Arnold",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+            "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
             "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
@@ -179,11 +184,6 @@
         {
             "title": "OpenAI says California should strengthen its AI safety bill",
             "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-            "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
             "source": "TechCrunch"
         },
         {
