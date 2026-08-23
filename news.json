@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "মন্ত্রী-প্রতিমন্ত্রীর সঙ্গে উপদেষ্টা, সরকারের আকার বাড়লে ঝুঁকি আছে?",
+            "link": "https://www.bbc.com/bengali/articles/ckgdg81e2gro?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "গত ২৪ ঘণ্টায় আটশোর বেশি নতুন ডেঙ্গু রোগী হাসপাতালে ভর্তি",
             "link": "https://www.bbc.co.uk/bengali/live/cqly8y33el4mt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "অ্যালার্ম ছাড়াই ঘুম থেকে উঠবেন যেভাবে",
             "link": "https://www.bbc.com/bengali/articles/cd696y917lqo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'ভাসমান ২ এলএনজি টার্মিনাল চালু, মধ্যরাত থেকে বাড়বে গ্যাস সরবরাহ'",
-            "link": "https://www.bbc.com/bengali/articles/cpd7d932zl7o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Can Nigeria cash in on Iran war?",
+            "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+            "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Gaza families search for children missing after years of war",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran government signals fuel price hike on eve of new US sanctions",
+            "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
             "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
-            "link": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
-            "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
-            "link": "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Dozens of attacks in southern Thailand wound three people",
-            "link": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,12 +88,27 @@
             "source": "BBC World"
         },
         {
-            "title": "The hotel booking mix-up that could free mushroom murderer",
-            "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+            "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+            "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Bess takes five as Yorkshire close out tight 39-run win",
+            "link": "https://www.cricinfo.com/ci/content/story/1551251.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Holland fires Leicestershire to victory despite Carlson 99",
+            "link": "https://www.cricinfo.com/ci/content/story/1551232.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "ECB investigates Brydon Carse handcuff video",
+            "link": "https://www.cricinfo.com/ci/content/story/1551246.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Pant expected to bat after retiring hurt on first day",
             "link": "https://www.cricinfo.com/ci/content/story/1551238.html?ex_cid=OTC-RSS",
@@ -110,27 +125,27 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Kent hold nerve as Cracknell heroics in vain for Middlesex",
-            "link": "https://www.cricinfo.com/ci/content/story/1551237.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Cummins on two-day finish: Some good bowling and below-average batting",
-            "link": "https://www.cricinfo.com/ci/content/story/1551235.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Holland fires Leicestershire to victory despite Carlson 99",
-            "link": "https://www.cricinfo.com/ci/content/story/1551232.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "ECB investigating Carse 'nightclub incident'",
+            "title": "ECB investigates Carse 'nightclub incident'",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Sub Cherki rescues result for Maresca - player ratings for Man City v Bournemouth",
+            "title": "Norris beats Antonelli to claim final Dutch GP win",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/ce8l8jek1k1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Newcastle and Liverpool united in tribute to legend Keegan",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Jamieson ends 14-year wait for second title at Trump course",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
             "link": "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -138,24 +153,19 @@
             "title": "Golf brand apologises for advert that shows woman being pushed over",
             "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Kane first Englishman to win Germany's player of the year award",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'New season, new trim' - Haaland reveals buzzcut",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Abuse from Liverpool fans hurts - Alexander-Arnold",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+            "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+            "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
             "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
@@ -174,16 +184,6 @@
         {
             "title": "Will the DOJ’s investigation into a16z spook other VCs?",
             "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-            "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "OpenAI says California should strengthen its AI safety bill",
-            "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
             "source": "TechCrunch"
         },
         {
