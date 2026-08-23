@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "হুমকির খবরে ঢাকার কূটনৈতিক এলাকায় নিরাপত্তা জোরদার",
+            "link": "https://www.bbc.co.uk/bengali/live/cqly8y33el4mt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "যুক্তরাষ্ট্রের সাথে বাণিজ্য চুক্তি থেকে বেরিয়ে গেছে কানাডা, কী প্রতিক্রিয়া সে দেশে?",
             "link": "https://www.bbc.com/bengali/articles/c4gxgjd9q35o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,14 @@
             "title": "মালয়েশিয়ার তালিকায় ২৫ এজেন্সি, শ্রমবাজার খোলা নিয়ে কী বলছে বাংলাদেশ সরকার",
             "link": "https://www.bbc.com/bengali/articles/cm2g24p65mno?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "দিল্লিকে ঢাকার কঠিন শর্ত: নেপথ্যে 'অবিশ্বাস', নাকি সম্পর্কের 'রিসেট' চায় ঢাকা?",
-            "link": "https://www.bbc.com/bengali/articles/cly5w34w0p8o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Israeli wounded in occupied West Bank stabbing",
+            "link": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Flooding across Caracas, Venezuela, after heavy rains",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
@@ -55,11 +60,6 @@
         {
             "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
             "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles",
-            "link": "https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Shanto hopes Bangladesh 'do it' in South Africa after Darwin conquest",
+            "link": "https://www.cricinfo.com/ci/content/story/1551210.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Shanto wants more SENA Tests after Bangladesh rise to No. 6 in rankings",
             "link": "https://www.cricinfo.com/ci/content/story/1551205.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Northants close in as Vasconcelos ton cements dominance",
-            "link": "https://www.cricinfo.com/ci/content/story/1551053.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Australia beat Bangladesh in two days",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c9989723r7xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -140,18 +140,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Norris expects challenge after back-to-back poles",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cy4548x20y5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Heroic effort needed to catch Clark - McIlroy",
             "link": "https://www.bbc.co.uk/sport/golf/articles/c0m7mrp9pd7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Life after Salah - why Isak and Wirtz must step up for Liverpool",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
+            "title": "Norris expects challenge after back-to-back poles",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cy4548x20y5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Lopez beats Romero then snubs Catterall fight",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c87n7rd30vro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Is Expensive Bottled Water Actually Better for You?",
+            "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
+            "source": "Wired"
+        },
+        {
             "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
             "link": "https://www.wired.com/review/saily-ultra-esim/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
             "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
-            "source": "Wired"
-        },
-        {
-            "title": "NASA Cancels Its Rescue Mission for the Aging Swift Telescope",
-            "link": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
             "source": "Wired"
         }
     ]
