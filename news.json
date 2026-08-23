@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "যুক্তরাষ্ট্রের সাথে বাণিজ্য চুক্তি থেকে বেরিয়ে গেছে কানাডা, কী প্রতিক্রিয়া সে দেশে?",
+            "link": "https://www.bbc.com/bengali/articles/c4gxgjd9q35o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'ভাসমান ২ এলএনজি টার্মিনাল চালু, মধ্যরাত থেকে বাড়বে গ্যাস সরবরাহ'",
             "link": "https://www.bbc.com/bengali/articles/cpd7d932zl7o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -23,11 +28,6 @@
         {
             "title": "যখন মান্না দে বলেছিলেন, 'হাজারটা মান্না দে হলেও রফি আর হবে না'",
             "link": "https://www.bbc.com/bengali/articles/c5yex9952n3o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বাংলাদেশসহ ৭৫ দেশের অভিবাসী ভিসা স্থগিতের নীতি বাতিল মার্কিন আদালতে",
-            "link": "https://www.bbc.com/bengali/articles/c4gxngpjj35o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
@@ -63,7 +63,7 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Carney say Trump started trade war with fresh tarrifs 'attack'",
+            "title": "Carney says Trump started trade war with fresh tarrifs 'attack'",
             "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,13 +95,18 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Saransh debuts in place of Kuldeep as India bat in Colombo",
-            "link": "https://www.cricinfo.com/ci/content/story/1551183.html?ex_cid=OTC-RSS",
+            "title": "Shadab brilliance takes Falcons top of the table in CPL",
+            "link": "https://www.cricinfo.com/ci/content/story/1551185.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Starc makes early inroads after Australia build lead of 146",
+            "title": "Starc claims 10, Australia edge closer to victory",
             "link": "https://www.cricinfo.com/ci/content/story/1551163.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Saransh debuts in place of Kuldeep as India bat in Colombo",
+            "link": "https://www.cricinfo.com/ci/content/story/1551183.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -117,11 +122,6 @@
         {
             "title": "Carlson keeps Glamorgan in hunt after Gumbs shows quality",
             "link": "https://www.cricinfo.com/ci/content/story/1551048.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "All-round Hill leaves Hampshire with a mountain to climb",
-            "link": "https://www.cricinfo.com/ci/content/story/1551050.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
