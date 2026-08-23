@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Severe winds toss four aircraft across Italian airport tarmac",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+            "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Zhou Bo: China’s alternative to Western power",
             "link": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-            "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Tunisia sees protests after migrant boat sinking kills eight",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
-            "link": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -125,6 +125,11 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "ECB investigates Carse 'nightclub incident'",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -148,14 +153,19 @@
             "title": "Maresca's Manchester City reign begins with dramatic comeback against Bournemouth",
             "link": "https://www.bbc.co.uk/sport/football/videos/cpd7dp7zeqzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Jamieson takes Trump call after ending 14-year title wait",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+            "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+            "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
             "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
@@ -174,16 +184,6 @@
         {
             "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
             "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-            "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-            "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
             "source": "TechCrunch"
         },
         {
