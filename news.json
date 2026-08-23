@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বিদেশে উচ্চশিক্ষায় এসএসসির রেজাল্টের গুরুত্ব কতটা?",
+            "link": "https://www.bbc.com/bengali/articles/c0l5dlz6043o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "মালয়েশিয়ার তালিকায় ২৫ এজেন্সি, শ্রমবাজার খোলা নিয়ে কী বলছে বাংলাদেশ সরকার",
             "link": "https://www.bbc.com/bengali/articles/cm2g24p65mno?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,19 @@
             "title": "সরকার কেন এখন কলেরার টিকা দিচ্ছে?",
             "link": "https://www.bbc.com/bengali/articles/cx2kr011llzo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শিশুদের গোপনীয়তা লঙ্ঘনের মামলায় যুক্তরাষ্ট্রকে ৪০ কোটি ডলার দেবে টিকটক",
-            "link": "https://www.bbc.com/bengali/articles/cx2kr3q3kl3o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+            "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Iran war live: Tehran warns neighbours against joining US economic war",
             "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
@@ -50,16 +60,6 @@
         {
             "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
             "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
-            "link": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Open-air cinema brings movie nights back to Khartoum",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,7 +95,7 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Shoriful bags seven but Australia lead by 146",
+            "title": "Starc makes early inroads after Australia build lead of 146",
             "link": "https://www.cricinfo.com/ci/content/story/1551163.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+            "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
             "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
             "source": "TechCrunch"
@@ -179,11 +184,6 @@
         {
             "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
             "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "US battery startups have found a lifeline in defense",
-            "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
             "source": "TechCrunch"
         },
         {
