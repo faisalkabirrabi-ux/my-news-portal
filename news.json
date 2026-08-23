@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "LIVE: Elche vs Barcelona – La Liga",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
+            "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Can Nigeria cash in on Iran war?",
             "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -48,24 +58,9 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran government signals fuel price hike on eve of new US sanctions",
+            "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
             "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
             "source": "আল জাজিরা"
-        },
-        {
-            "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
-            "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-            "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         },
         {
             "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
@@ -73,8 +68,18 @@
             "source": "BBC World"
         },
         {
+            "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+            "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "DR Congo and M23 rebels agree roadmap for peace talks",
             "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+            "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,17 +91,22 @@
             "title": "France links rise in drownings to heatwaves",
             "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Thousands struggling without power in Indiana 12 days after severe storms",
-            "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
+            "title": "Leach leads the way as Somerset seal dominant win",
+            "link": "https://www.cricinfo.com/ci/content/story/1551254.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Bess takes five as Yorkshire close out tight 39-run win",
             "link": "https://www.cricinfo.com/ci/content/story/1551251.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Padikkal century puts India ahead on hard-fought day",
+            "link": "https://www.cricinfo.com/ci/content/story/1551233.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,16 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Former captains renew appeal to Pakistan PM over Imran Khan's health",
-            "link": "https://www.cricinfo.com/ci/content/story/1551234.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Lancashire crushed by 316 runs as Northants surge",
-            "link": "https://www.cricinfo.com/ci/content/story/1551241.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "ECB investigates Carse 'nightclub incident'",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,23 +135,23 @@
             "source": "BBC Sports"
         },
         {
+            "title": "'Up front next week?' Guehi proves Maresca's midfield masterstroke",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqx7x1wpz20o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Newcastle and Liverpool united in tribute to legend Keegan",
             "link": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Jamieson ends 14-year wait for second title at Trump course",
+            "title": "Jamieson takes Trump call after ending 14-year title wait",
             "link": "https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Golf brand apologises for advert that shows woman being pushed over",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+            "title": "Watkins' absence at Brighton a question for him - Emery",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
