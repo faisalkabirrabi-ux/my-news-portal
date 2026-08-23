@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "'রংপুরে ৪ জনকে খুন করে বাসায় বসেই খেজুর, শসা খেয়েছে খুনিরা', বলছে পুলিশ",
+            "link": "https://www.bbc.com/bengali/articles/cevmv71g18jo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "হুমকির খবরে ঢাকার কূটনৈতিক এলাকায় নিরাপত্তা জোরদার",
             "link": "https://www.bbc.co.uk/bengali/live/cqly8y33el4mt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,29 @@
             "title": "বিদেশে উচ্চশিক্ষায় এসএসসির রেজাল্টের গুরুত্ব কতটা?",
             "link": "https://www.bbc.com/bengali/articles/c0l5dlz6043o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মালয়েশিয়ার তালিকায় ২৫ এজেন্সি, শ্রমবাজার খোলা নিয়ে কী বলছে বাংলাদেশ সরকার",
-            "link": "https://www.bbc.com/bengali/articles/cm2g24p65mno?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "How the deadliest Bundibugyo Ebola outbreak can be stopped",
+            "link": "https://www.aljazeera.com/opinions/2026/8/23/how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli air strike near Gaza refugee camp kills one person and injures two",
+            "link": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Where water conflicts pose the biggest threat in 2026",
+            "link": "https://www.aljazeera.com/news/2026/8/23/where-water-conflicts-pose-the-biggest-threat-in-2026?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Israeli wounded in occupied West Bank stabbing",
             "link": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
@@ -43,33 +63,8 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
-            "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
-            "link": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
-            "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
-            "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
             "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Carney faces crucial test after walking away from Trump's deal",
-            "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -90,6 +85,11 @@
         {
             "title": "The hotel booking mix-up that could free mushroom murderer",
             "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+            "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -140,6 +140,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Lopez beats Romero then snubs Catterall fight",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c87n7rd30vro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Heroic effort needed to catch Clark - McIlroy",
             "link": "https://www.bbc.co.uk/sport/golf/articles/c0m7mrp9pd7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -147,11 +152,6 @@
         {
             "title": "Norris expects challenge after back-to-back poles",
             "link": "https://www.bbc.co.uk/sport/formula1/articles/cy4548x20y5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Lopez beats Romero then snubs Catterall fight",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/c87n7rd30vro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
+            "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
+            "source": "Wired"
+        },
+        {
             "title": "Is Expensive Bottled Water Actually Better for You?",
             "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "The Best Mattress Toppers I've Tried (2026): Supportive, Plush, Memory Foam",
             "link": "https://www.wired.com/gallery/the-best-mattress-toppers/",
-            "source": "Wired"
-        },
-        {
-            "title": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
-            "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
             "source": "Wired"
         }
     ]
