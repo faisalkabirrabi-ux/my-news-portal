@@ -33,12 +33,22 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
+            "link": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump administration announces global economic war on Iran",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Japanese delegation seeks to soothe strained ties with China",
             "link": "https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump administration announces global economic war on Iran",
+            "title": "Trump administration announces ‘economic D-day’ sanctions on Iran",
             "link": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
             "source": "আল জাজিরা"
         },
@@ -50,16 +60,6 @@
         {
             "title": "Russia to seize poorly protected infrastructure as Ukraine barrage persists",
             "link": "https://www.aljazeera.com/news/2026/8/24/russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-persists?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Former snooker world champion Graeme Dott convicted of child sex abuse",
-            "link": "https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israeli strike on Gaza shelter extends casualty list",
-            "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Fatima Sana's Pakistan prepare for Asia Cup with T20 matches against men",
+            "link": "https://www.cricinfo.com/ci/content/story/1551364.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "New normal dawning for England after Carse night out",
+            "link": "https://www.cricinfo.com/ci/content/story/1551361.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Carse removed from England squad as Cricket Regulator investigates",
             "link": "https://www.cricinfo.com/ci/content/story/1551345.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -112,16 +122,6 @@
         {
             "title": "Cremer returns for Zimbabwe's T20I tri-series; Ngarava out with injury",
             "link": "https://www.cricinfo.com/ci/content/story/1551346.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Jaiswal and Asitha penalised after on-field confrontation in Colombo Test",
-            "link": "https://www.cricinfo.com/ci/content/story/1551311.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Naveen-ul-Haq returns to Afghanistan side for India T20I series",
-            "link": "https://www.cricinfo.com/ci/content/story/1551326.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+            "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
             "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
             "source": "TechCrunch"
@@ -182,9 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-            "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-            "source": "TechCrunch"
+            "title": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
+            "link": "https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/",
+            "source": "Wired"
         },
         {
             "title": "Birdfy Nest Duo Review: My Own Private Nature Documentary",
@@ -209,11 +214,6 @@
         {
             "title": "The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame",
             "link": "https://www.wired.com/story/best-multi-use-air-purifiers/",
-            "source": "Wired"
-        },
-        {
-            "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
-            "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
             "source": "Wired"
         }
     ]
