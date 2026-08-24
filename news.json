@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "‘Barrel bomb mufti’ sentenced to life in Syria",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
+            "link": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Four arrested over fatal shooting of South African boxer Zolani Tete",
+            "link": "https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
             "link": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Activists occupy UK aircraft parts factory over Israel links",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud",
-            "link": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-            "link": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Cambuur fans suffer burns as fireworks set off during Dutch league match",
-            "link": "https://www.aljazeera.com/sports/2026/8/24/cambuur-fans-suffer-burns-as-fireworks-set-off-during-dutch-league-match?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Photos: Towering landfill collapse kills 30 in Guinea’s capital, Conakry",
-            "link": "https://www.aljazeera.com/gallery/2026/8/24/photos-towering-landfill-collapse-kills-30-in-guineas-capital-conakry?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,12 +88,22 @@
             "source": "BBC World"
         },
         {
-            "title": "Four arrested over suspected poisoning of elephants in Kenya",
-            "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
+            "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+            "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "India dictate terms after Jurel's unbeaten century",
+            "link": "https://www.cricinfo.com/ci/content/story/1551327.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Naveen-ul-Haq returns to Afghanistan side for India T20I series",
+            "link": "https://www.cricinfo.com/ci/content/story/1551326.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Namibia bank on seasoned core and emerging stars for home tri-series",
             "link": "https://www.cricinfo.com/ci/content/story/1551321.html?ex_cid=OTC-RSS",
@@ -115,23 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Amazon Warriors keep all-win record intact as bowling might thwarts Falcons",
-            "link": "https://www.cricinfo.com/ci/content/story/1551273.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Former captains renew appeal to Pakistan PM over Imran Khan's health",
-            "link": "https://www.cricinfo.com/ci/content/story/1551234.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Former world snooker champion Dott guilty of child sex abuse",
+            "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Alonso 'always thinking' but Arbeloa becoming boss 'a surprise' - Benitez",
             "link": "https://www.bbc.co.uk/sport/football/articles/ckge725zy1zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "What will it take to stop the England hangovers?",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -157,6 +157,16 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Hugging Face reportedly in talks to be acquired for $13B",
+            "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+            "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
             "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
             "source": "TechCrunch"
@@ -174,16 +184,6 @@
         {
             "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
             "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-            "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-            "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
             "source": "TechCrunch"
         },
         {
