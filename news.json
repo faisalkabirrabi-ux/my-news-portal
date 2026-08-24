@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "নুসরাত হত্যা মামলায় ১৬ আসামির মধ্যে ১০ জন খালাস, দুই জনের মৃত্যুদণ্ড বহাল",
+            "link": "https://www.bbc.co.uk/bengali/live/cv8e3rdp9xr1t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বাণিজ্য চুক্তি থেকে বেরিয়ে গিয়ে ট্রাম্পের অভিযোগ, কানাডা 'অঙ্গরাজ্যে'র সুবিধা চাইছে",
             "link": "https://www.bbc.com/bengali/articles/c4g7ee7dvx0o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,29 @@
             "title": "গত ২৪ ঘণ্টায় আটশোর বেশি নতুন ডেঙ্গু রোগী হাসপাতালে ভর্তি",
             "link": "https://www.bbc.co.uk/bengali/live/cqly8y33el4mt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'রংপুরে ৪ জনকে খুন করে বাসায় বসেই খেজুর, শসা খেয়েছে খুনিরা', বলছে পুলিশ",
-            "link": "https://www.bbc.com/bengali/articles/cevmv71g18jo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League",
+            "link": "https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
+            "link": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Mercedes no longer have the fastest car in F1, says leader Antonelli",
+            "link": "https://www.aljazeera.com/sports/2026/8/24/mercedes-no-longer-have-the-fastest-car-in-f1-says-leader-antonelli?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
+            "link": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
             "link": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss",
@@ -43,28 +63,13 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trabzonspor president reacts to Salah disallowed hat-trick goal",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trabzonspor-president-reacts-to-salah-disallowed-hat-trick-goal?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "How much more are you spending on petrol since the war on Iran began?",
-            "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "EU, Russian aircraft help Serbia battle wildfires",
-            "link": "https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "The right to health in Gaza is now a privilege",
-            "link": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
             "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+            "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,17 +88,22 @@
             "source": "BBC World"
         },
         {
-            "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-            "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+            "title": "China probes use of formaldehyde to keep cabbages fresh",
+            "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Jaiswal and Asitha penalised after on-field confrontation in Colombo Test",
+            "link": "https://www.cricinfo.com/ci/content/story/1551311.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Jason Smith ruled out of T20I tri-series in Namibia due to injury",
+            "link": "https://www.cricinfo.com/ci/content/story/1551309.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Shamas replaces injured Alvi in Pakistan's Asia Cup squad",
             "link": "https://www.cricinfo.com/ci/content/story/1551299.html?ex_cid=OTC-RSS",
@@ -112,16 +122,6 @@
         {
             "title": "Cummins to use South Africa ODIs as Test preparation",
             "link": "https://www.cricinfo.com/ci/content/story/1551242.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Lategan, Libby star as Worcestershire cruise in stiff run-chase",
-            "link": "https://www.cricinfo.com/ci/content/story/1551259.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Leach leads the way as Somerset seal dominant win",
-            "link": "https://www.cricinfo.com/ci/content/story/1551254.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+            "title": "Mateta's contract claim leaves Palace with transfer decision",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cz6465pj4njo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Clark holds off McIlroy fightback to win BMW Championship",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/cdrvr8nkm5mo?at_medium=RSS&at_campaign=rss",
+            "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,16 @@
             "source": "TechCrunch"
         },
         {
+            "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+            "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+            "source": "Wired"
+        },
+        {
+            "title": "NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe",
+            "link": "https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe/",
+            "source": "Wired"
+        },
+        {
             "title": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
             "link": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
             "source": "Wired"
@@ -204,16 +214,6 @@
         {
             "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
             "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-            "source": "Wired"
-        },
-        {
-            "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
-            "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
-            "source": "Wired"
-        },
-        {
-            "title": "Is Expensive Bottled Water Actually Better for You?",
-            "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
             "source": "Wired"
         }
     ]
