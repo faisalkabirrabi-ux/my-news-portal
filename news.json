@@ -6,6 +6,11 @@
             "source": "বিবিসি বাংলা"
         },
         {
+            "title": "'ওই জামা রংপুরে আমিসহ আরও দুশো লোকের আছে'- বললেন পুলিশ কর্মকর্তা",
+            "link": "https://www.bbc.com/bengali/articles/cwyz56lnwylo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "এসএসসির খাতা মূল্যায়নে রেকর্ড আবেদন, নম্বর কি কমতে পারে?",
             "link": "https://www.bbc.com/bengali/articles/cvgjgpn385lo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,24 @@
             "title": "পত্রিকা: 'ওসমান হাদি হত্যার চাঞ্চল্যকর তথ্য'",
             "link": "https://www.bbc.com/bengali/articles/cy8z44595x4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "হরমুজের অস্থিরতা কীভাবে পানামা খালকে ঘিরে পরাশক্তিগুলোর বিরোধ উসকে দিচ্ছে?",
-            "link": "https://www.bbc.com/bengali/articles/cy9w9qzg7z8o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Samuel Eto’o urges support for embattled FIFA President Gianni Infantino",
+            "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
+            "link": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Houses set on fire as fresh violence erupts in India’s Manipur",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Algeria’s schools put Shakespeare before Molière in break from France",
             "link": "https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss",
@@ -48,19 +63,9 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
-            "link": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Four arrested over fatal shooting of South African boxer Zolani Tete",
-            "link": "https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
-            "link": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+            "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
@@ -68,8 +73,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-            "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+            "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+            "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,17 +88,27 @@
             "source": "BBC World"
         },
         {
-            "title": "Access to Zambian courts prevented as election petition deadline looms",
-            "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "Sonya Massey's killer Sean Grayson dies in US prison",
             "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Jason Smith ruled out of T20I tri-series in Namibia due to injury",
+            "link": "https://www.cricinfo.com/ci/content/story/1551309.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Cremer returns for Zimbabwe's T20I tri-series; Ngarava out with injury",
+            "link": "https://www.cricinfo.com/ci/content/story/1551346.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Carse removed from England squad as Cricket Regulator investigates",
+            "link": "https://www.cricinfo.com/ci/content/story/1551345.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Jaiswal and Asitha penalised after on-field confrontation in Colombo Test",
             "link": "https://www.cricinfo.com/ci/content/story/1551311.html?ex_cid=OTC-RSS",
@@ -107,21 +122,6 @@
         {
             "title": "Naveen-ul-Haq returns to Afghanistan side for India T20I series",
             "link": "https://www.cricinfo.com/ci/content/story/1551326.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Namibia bank on seasoned core and emerging stars for home tri-series",
-            "link": "https://www.cricinfo.com/ci/content/story/1551321.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Jason Smith ruled out of T20I tri-series in Namibia due to injury",
-            "link": "https://www.cricinfo.com/ci/content/story/1551309.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Shamas replaces injured Alvi in Pakistan's Asia Cup squad",
-            "link": "https://www.cricinfo.com/ci/content/story/1551299.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -157,6 +157,16 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+            "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+            "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Brake problems in GM EVs draw greater federal scrutiny",
             "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
             "source": "TechCrunch"
@@ -174,16 +184,6 @@
         {
             "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
             "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-            "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-            "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
             "source": "TechCrunch"
         },
         {
