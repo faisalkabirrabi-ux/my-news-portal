@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "How US sanctions on Iran ripple through global markets and consumers",
+            "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US Supreme Court sides with Trump administration on mail voting",
+            "link": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US removes Syria from ‘state sponsor of terrorism’ list",
+            "link": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Jeffries-Kushner meeting sparks speculation amid contentious US midterms",
+            "link": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "US public support for Iran war falls as Trump approval at record low: Poll",
             "link": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "What’s behind domestic political pressure on Ukraine’s president?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
-            "link": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -125,8 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Three reasons Chelsea could challenge for title - and one they may not",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c62e2y1p7njo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Watkins' departure would cut deepest - and Villa did not see it coming",
             "link": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Punishment that sends shiver down whole England team needed - Vaughan",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cx2zn3exqj7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +145,22 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Watson among Britons through in US Open qualifying",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cj0689mmp16o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle",
             "link": "https://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "England drop Carse after nightclub incident",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Hodgkinson withdraws from Zurich Diamond League",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Al-Hilal in advanced talks to sign Arsenal's Martinelli",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+            "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
             "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
@@ -179,11 +184,6 @@
         {
             "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
             "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-            "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
             "source": "TechCrunch"
         },
         {
