@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "নুসরাত হত্যা মামলায় ১৬ আসামির মধ্যে ১০ জন খালাস, দুই জনের মৃত্যুদণ্ড বহাল",
+            "title": "মিরাজ শেখের নিখোঁজের ঘটনা ‘গণ অভ্যুত্থানের পর প্রথম গুম’, দাবি মানবাধিকার সংগঠনগুলোর",
             "link": "https://www.bbc.co.uk/bengali/live/cv8e3rdp9xr1t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "এসএসসির খাতা মূল্যায়নে রেকর্ড আবেদন, নম্বর কি কমতে পারে?",
+            "link": "https://www.bbc.com/bengali/articles/cvgjgpn385lo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,14 +29,19 @@
             "title": "মন্ত্রী-প্রতিমন্ত্রীর সঙ্গে উপদেষ্টা, সরকারের আকার বাড়লে ঝুঁকি আছে?",
             "link": "https://www.bbc.com/bengali/articles/ckgdg81e2gro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "গত ২৪ ঘণ্টায় আটশোর বেশি নতুন ডেঙ্গু রোগী হাসপাতালে ভর্তি",
-            "link": "https://www.bbc.co.uk/bengali/live/cqly8y33el4mt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "India used pellets, grenades on Gen Z protests: What Amnesty report reveals",
+            "link": "https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision",
+            "link": "https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "US threatens toughest sanctions yet against Iran: What we know",
             "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
@@ -53,18 +63,13 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Macron and MBS attend Esports World Cup closing ceremony",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+            "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
-            "title": "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
-            "link": "https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-            "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+            "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+            "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,23 +78,18 @@
             "source": "BBC World"
         },
         {
-            "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-            "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "King of Norway's health has worsened, palace says",
             "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Zambia courts sealed off as election petition deadline looms",
-            "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+            "title": "Nearly three million Teslas recalled in China over hidden door handles",
+            "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "China probes use of formaldehyde to keep cabbages fresh",
-            "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+            "title": "Access to Zambian courts prevented as election petition deadline looms",
+            "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -135,11 +135,6 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Norris and McLaren 'don't have car' to fight for title despite Dutch GP win",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c1e1e56q4w5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Uefa chief Ceferin rules out Fifa presidency bid",
             "link": "https://www.bbc.co.uk/sport/football/articles/cp878rp71v2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -152,6 +147,11 @@
         {
             "title": "Maradona's 'Hand of God' ball sells for £2.5m",
             "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "DeChambeau proud of what LIV has achieved",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/cx2z9yl1gdno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,16 @@
             "source": "TechCrunch"
         },
         {
+            "title": "The Kindle Accessories I Never Want to Read Without (2026)",
+            "link": "https://www.wired.com/story/best-kindle-accessories/",
+            "source": "Wired"
+        },
+        {
+            "title": "The Best Home Theater Projectors in 2026: XGIMI, Hisense, Leica, and More",
+            "link": "https://www.wired.com/story/best-home-theater-projector/",
+            "source": "Wired"
+        },
+        {
             "title": "Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful",
             "link": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
             "source": "Wired"
@@ -204,16 +214,6 @@
         {
             "title": "NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe",
             "link": "https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe/",
-            "source": "Wired"
-        },
-        {
-            "title": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
-            "link": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
-            "source": "Wired"
-        },
-        {
-            "title": "What’s the Best Kindle of 2026? (So Far)",
-            "link": "https://www.wired.com/gallery/best-kindle/",
             "source": "Wired"
         }
     ]
