@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "যুক্তরাষ্ট্রের অর্থনীতি ও ট্রাম্পকে কীভাবে বিপদে ফেলতে পারে কানাডা?",
+            "link": "https://www.bbc.com/bengali/articles/c9805qyz956o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'ক্যাম্পগুলো নিয়ন্ত্রণের বাইরে!'",
             "link": "https://www.bbc.com/bengali/articles/c24jpgd3q0lo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,19 @@
             "title": "এসএসসির খাতা মূল্যায়নে রেকর্ড আবেদন, নম্বর কি কমতে পারে?",
             "link": "https://www.bbc.com/bengali/articles/cvgjgpn385lo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "প্রাচীন হিন্দু শাস্ত্র মনুস্মৃতি নিয়ে কী বলেছেন রাহুল গান্ধী, কেন ক্ষুব্ধ বিজেপি?",
-            "link": "https://www.bbc.com/bengali/articles/c790w14njygo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+            "link": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Muslims celebrate Prophet Muhammad’s birthday",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss",
@@ -48,22 +58,12 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "US plans to revoke business, tourism visas of 200,000 asylum seekers",
+            "title": "Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers",
             "link": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "DRC’s constitutional battle: The fight over the 2028 vote",
-            "link": "https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
-            "link": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+            "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
             "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+            "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
             "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
             "source": "TechCrunch"
@@ -179,11 +184,6 @@
         {
             "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
             "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-            "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
             "source": "TechCrunch"
         },
         {
