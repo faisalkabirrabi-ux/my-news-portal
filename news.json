@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পত্রিকা: 'ক্যাম্পগুলো নিয়ন্ত্রণের বাইরে!'",
+            "link": "https://www.bbc.com/bengali/articles/c24jpgd3q0lo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "প্রতিদিন গড়ে খুন হচ্ছে ১০ জন, সহিংসতা ও হত্যাকাণ্ড কেন নিয়ন্ত্রণ করা যাচ্ছে না?",
+            "link": "https://www.bbc.com/bengali/articles/c98059y87zzo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "'দ্বৈত নাগরিকত্ব' প্রশ্নে পররাষ্ট্র প্রতিমন্ত্রীর পাল্টা প্রশ্ন, 'কে নিউজ করছে? কার এত জ্বালা?'",
             "link": "https://www.bbc.co.uk/bengali/live/cv8e3rdp9xr1t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,19 +29,24 @@
             "title": "প্রাচীন হিন্দু শাস্ত্র মনুস্মৃতি নিয়ে কী বলেছেন রাহুল গান্ধী, কেন ক্ষুব্ধ বিজেপি?",
             "link": "https://www.bbc.com/bengali/articles/c790w14njygo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বাণিজ্য চুক্তি থেকে বেরিয়ে গিয়ে ট্রাম্পের অভিযোগ, কানাডা 'অঙ্গরাজ্যে'র সুবিধা চাইছে",
-            "link": "https://www.bbc.com/bengali/articles/c4g7ee7dvx0o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'ওসমান হাদি হত্যার চাঞ্চল্যকর তথ্য'",
-            "link": "https://www.bbc.com/bengali/articles/cy8z44595x4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Muslims celebrate Prophet Muhammad’s birthday",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Man killed in world’s largest annual bullfighting event in Mexico",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "US plans to revoke business, tourism visas of 200,000 asylum seekers",
             "link": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
@@ -45,21 +60,6 @@
         {
             "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
             "link": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "How US sanctions on Iran ripple through global markets and consumers",
-            "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
-            "link": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,6 +78,11 @@
             "source": "BBC World"
         },
         {
+            "title": "French tourist dies in Death Valley after car gets stuck in mud",
+            "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Moment tornado tears through southern France",
             "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -85,11 +90,6 @@
         {
             "title": "King of Norway's health has worsened, palace says",
             "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-            "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
