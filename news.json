@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "চীনের তৈরি জে-১০সিই যুদ্ধবিমান কেনার পথে এগিয়ে যাচ্ছে বাংলাদেশ সরকার: প্রধানমন্ত্রীর তথ্য উপদেষ্টা",
+            "link": "https://www.bbc.co.uk/bengali/live/c61mv0y5e3lzt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "যুক্তরাষ্ট্রের অর্থনীতি ও ট্রাম্পকে কীভাবে বিপদে ফেলতে পারে কানাডা?",
             "link": "https://www.bbc.com/bengali/articles/c9805qyz956o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,24 @@
             "title": "'দ্বৈত নাগরিকত্ব' প্রশ্নে পররাষ্ট্র প্রতিমন্ত্রীর পাল্টা প্রশ্ন, 'কে নিউজ করছে? কার এত জ্বালা?'",
             "link": "https://www.bbc.co.uk/bengali/live/cv8e3rdp9xr1t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'ওই জামা রংপুরে আমিসহ আরও দুশো লোকের আছে'- বললেন পুলিশ কর্মকর্তা",
-            "link": "https://www.bbc.com/bengali/articles/cwyz56lnwylo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Nvidia, Supermicro employees charged over export of AI servers to China",
+            "link": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Pakistan says significant progress made in talks on Iran-US war",
+            "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Rohingya refugees protest, nine years after exodus to Bangladesh",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
@@ -48,21 +63,6 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "Hasina spat stalls Bangladesh-India reset. What would break the deadlock?",
-            "link": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Federer to play tennis at US Open but rules out Williams-like return",
-            "link": "https://www.aljazeera.com/sports/2026/8/25/federer-to-play-tennis-at-us-open-but-rules-out-williams-like-return?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
-            "link": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
             "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
@@ -73,7 +73,7 @@
             "source": "BBC World"
         },
         {
-            "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+            "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
             "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -94,6 +94,11 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Shahbaz leads East Zone to innings win over North East Zone",
+            "link": "https://www.cricinfo.com/ci/content/story/1551392.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Sri Lanka replace injured Vihanga with Meepage for Women's T20 Asia Cup",
             "link": "https://www.cricinfo.com/ci/content/story/1551381.html?ex_cid=OTC-RSS",
@@ -120,13 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "India dictate terms after Jurel's unbeaten century",
-            "link": "https://www.cricinfo.com/ci/content/story/1551327.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Tottenham sign Savinho from Man City for £75m",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Three reasons Chelsea could challenge for title - and one issue that could haunt them",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c62e2y1p7njo?at_medium=RSS&at_campaign=rss",
+            "title": "Legendary rugby league winger Boston dies aged 92",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cwy4zxypry7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "What does your Premier League club still need in the transfer window?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4gql9p0qn2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -142,16 +152,6 @@
         {
             "title": "'Change is necessary' - players unite against Fifa",
             "link": "https://www.bbc.co.uk/sport/football/articles/cy4zl2mz9rko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Palmer impresses as Chelsea edge past Fulham to give Alonso first win",
-            "link": "https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Is Mercedes' 2026 dominance over? F1 Q&A",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c3v0v4951k6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,16 @@
             "source": "TechCrunch"
         },
         {
+            "title": "It Should Be Harder to Apply for a Job. No, Really",
+            "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+            "source": "Wired"
+        },
+        {
+            "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+            "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+            "source": "Wired"
+        },
+        {
             "title": "Omega Just Released a Mini Moonwatch",
             "link": "https://www.wired.com/story/omega-just-released-a-mini-moonwatch/",
             "source": "Wired"
@@ -204,16 +214,6 @@
         {
             "title": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It",
             "link": "https://www.wired.com/story/sous-vide-salmonella-eggs/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe",
-            "link": "https://www.wired.com/story/food-safety-gear-salmonella/",
-            "source": "Wired"
-        },
-        {
-            "title": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
-            "link": "https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/",
             "source": "Wired"
         }
     ]
