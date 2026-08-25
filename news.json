@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "US plans to revoke business, tourism visas of 200,000 asylum seekers",
+            "link": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "DRC’s constitutional battle: The fight over the 2028 vote",
+            "link": "https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
+            "link": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "How US sanctions on Iran ripple through global markets and consumers",
             "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US Supreme Court sides with Trump administration on mail voting",
+            "title": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
             "link": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US removes Syria from ‘state sponsor of terrorism’ list",
-            "link": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Jeffries-Kushner meeting sparks speculation amid contentious US midterms",
-            "link": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US public support for Iran war falls as Trump approval at record low: Poll",
-            "link": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,13 +73,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-            "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+            "title": "US removes Syria from list of state sponsors of terrorism",
+            "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-            "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+            "title": "Moment tornado tears through southern France",
+            "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -88,8 +88,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Outrage in Nepal over rape and murder of three-year-old girl",
-            "link": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+            "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+            "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+            "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
             "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
             "source": "TechCrunch"
@@ -179,11 +184,6 @@
         {
             "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
             "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-            "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
             "source": "TechCrunch"
         },
         {
