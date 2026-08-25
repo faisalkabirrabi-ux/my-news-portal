@@ -33,6 +33,21 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
+            "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+            "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
+            "link": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Spain requests emergency funding from the EU over Ceuta migrants",
             "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -48,19 +63,9 @@
             "source": "আল জাজিরা"
         },
         {
-            "title": "US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction",
-            "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-denies-ghislaine-maxwells-frivolous-bid-to-throw-out-conviction?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Carlos Baleba joins Manchester United in transfer from Brighton",
-            "link": "https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
-            "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
-            "source": "আল জাজিরা"
+            "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+            "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
@@ -86,14 +91,14 @@
             "title": "Two unvaccinated people die of measles in Pennsylvania",
             "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "European rights court orders Turkey to free imprisoned businessman",
-            "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Gul blames Yorkshire weather for Headingley shortcomings",
+            "link": "https://www.cricinfo.com/ci/content/story/1551441.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Joe Root 'hacked off' after Carse incident mars Lord's Test build-up",
             "link": "https://www.cricinfo.com/ci/content/story/1551417.html?ex_cid=OTC-RSS",
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Shahbaz leads East Zone to innings win over North East Zone",
-            "link": "https://www.cricinfo.com/ci/content/story/1551392.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Baleba completes £70m Man Utd move from Brighton",
             "link": "https://www.bbc.co.uk/sport/football/articles/c1mv0rxpd1no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,8 +135,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "LIV returnees should 'eat humble pie' - Faldo",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/c3red51l4vxo?at_medium=RSS&at_campaign=rss",
+            "title": "Forest agree £50m deal for Chelsea striker Delap",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c4g5zg526gdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Littler's Players Championship hopes dented",
+            "link": "https://www.bbc.co.uk/sport/darts/articles/c36ln69p1ldo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +150,32 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Irish FA withdraws support for Infantino",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cgk5ylln5l5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "All the best Savinho - welcome Savio... new club, new name for Spurs signing",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss",
+            "title": "Pogacar's astonishing solo effort punishes Vuelta rivals",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/cg598r38811o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
+            "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+            "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+            "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Claude Cowork finally remembers what you told the app in chat",
+            "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Waymo robotaxis are headed to Munich",
             "link": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
@@ -167,24 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "That fake Grand Theft Auto VI demo is actually just malware",
-            "link": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-            "link": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Gamma acquires Accel-backed design startup Lica",
-            "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-            "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
-            "source": "TechCrunch"
+            "title": "The US Just Recorded Its First 2 Measles Deaths This Year",
+            "link": "https://www.wired.com/story/us-recorded-first-measles-deaths-2026/",
+            "source": "Wired"
         },
         {
             "title": "The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms",
@@ -209,11 +214,6 @@
         {
             "title": "The County Prosecutors Who Became ICE Informants",
             "link": "https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/",
-            "source": "Wired"
-        },
-        {
-            "title": "Optoma GT2400HDR Review: Ace Projector for Golf Simulation",
-            "link": "https://www.wired.com/review/optoma-gt2400hdr/",
             "source": "Wired"
         }
     ]
