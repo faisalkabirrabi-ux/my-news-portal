@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Students clash with police in India in a new protest over exam leaks",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Nevada wildfire contained to 27 percent as thousands still displaced",
+            "link": "https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
+            "link": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Infantino’s presidency under threat: FIFA elections, challengers, dates",
+            "link": "https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Nine years of Rohingya refugee crisis",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nine-years-of-rohingya-refugee-crisis?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Qatar says US sanctions on Iran are unilateral",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US launches Economic war on Iran",
-            "link": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "One year since Gaza journalist killed by Israel",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "No, the Democratic Party is not shifting on Israel",
-            "link": "https://www.aljazeera.com/opinions/2026/8/25/no-the-democratic-party-is-not-shifting-on-israel?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,12 +88,17 @@
             "source": "BBC World"
         },
         {
-            "title": "Lockerbie bombing trial postponed days before it was due to start",
-            "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+            "title": "European rights court orders Turkey to free imprisoned businessman",
+            "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Morkel doesn't rule out India enforcing follow-on as rain looms in Colombo",
+            "link": "https://www.cricinfo.com/ci/content/story/1551424.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Prasidh and Suthar share six to keep India in driver's seat",
             "link": "https://www.cricinfo.com/ci/content/story/1551415.html?ex_cid=OTC-RSS",
@@ -102,11 +107,6 @@
         {
             "title": "Kishan: Switching formats is what is fun about the game",
             "link": "https://www.cricinfo.com/ci/content/story/1551423.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Morkel doesn't rule out India enforcing follow-on as rain looms in Colombo",
-            "link": "https://www.cricinfo.com/ci/content/story/1551424.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -125,13 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Root 'hacked off' and 'disappointed' at Carse incident",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c4g5z5p8w17o?at_medium=RSS&at_campaign=rss",
+            "title": "Baleba completes £70m Man Utd move from Brighton",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1mv0rxpd1no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "All the best Savinho - welcome Savio... new club, new name for Spurs signing",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss",
+            "title": "Root 'hacked off' and 'disappointed' at Carse incident",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c4g5z5p8w17o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +140,32 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Man Utd's midfield spending is done - now for a left-back?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/clykngy3gldo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "All the best Savinho - welcome Savio... new club, new name for Spurs signing",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Leeds and Rangers co-owner jailed after prostitution arrest",
             "link": "https://www.bbc.co.uk/news/articles/c790wyyv71vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Sir Billy Boston - 'the world-class athlete, whose story deserved to be told'",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c5yedegw3wpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "How did all nine new managers fare in Premier League openers?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr4v0p1xqryo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
+            "link": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "That fake Grand Theft Auto VI demo is actually just malware",
+            "link": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
             "link": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
@@ -174,16 +184,6 @@
         {
             "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
             "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
-            "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-            "link": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
             "source": "TechCrunch"
         },
         {
