@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "সাংবিধানিকভাবেই পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির শপথ নিয়েছেন, বললেন আইনমন্ত্রী",
+            "title": "ইরানের ওপর যুক্তরাষ্ট্র নিষেধাজ্ঞা বাড়ালে নিজেদের স্বার্থ রক্ষার হুঁশিয়ারি চীনের",
             "link": "https://www.bbc.co.uk/bengali/live/c61mv0y5e3lzt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "দ্বৈত নাগরিকেরা উপদেষ্টা হতে পারলে মন্ত্রী-প্রতিমন্ত্রী হতে পারেন না কেন?",
+            "link": "https://www.bbc.com/bengali/articles/cr50n0gn660o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,46 +29,41 @@
             "title": "পত্রিকা: 'ক্যাম্পগুলো নিয়ন্ত্রণের বাইরে!'",
             "link": "https://www.bbc.com/bengali/articles/c24jpgd3q0lo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'দ্বৈত নাগরিকত্ব' প্রশ্নে পররাষ্ট্র প্রতিমন্ত্রীর পাল্টা প্রশ্ন, 'কে নিউজ করছে? কার এত জ্বালা?'",
-            "link": "https://www.bbc.co.uk/bengali/live/cv8e3rdp9xr1t?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
+            "title": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
+            "link": "https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How water becomes a weapon of war",
-            "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
+            "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
+            "link": "https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Rwanda accuses DR Congo of supporting an armed group on its soil",
-            "link": "https://www.aljazeera.com/news/2026/8/25/rwanda-accuses-dr-congo-of-supporting-an-armed-group-on-its-soil?traffic_source=rss",
+            "title": "Gaza child breaks down in tears after an Israeli threat over kites",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-child-breaks-down-in-tears-after-an-israeli-threat-over-kites?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Rohingya refugees demand justice, dignity at Cox’s Bazar protest",
-            "link": "https://www.aljazeera.com/news/2026/8/25/rohingya-refugees-demand-justice-dignity-at-coxs-bazar-protest?traffic_source=rss",
+            "title": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
+            "link": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Russia mobilisation fears grow amid reports of intimidating tactics",
-            "link": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss",
+            "title": "‘We can’t breathe’: Indonesians battle wildfire haze",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
-            "link": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
+            "title": "Israeli forces raid UNRWA training centre in occupied East Jerusalem",
+            "link": "https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "China warns it will protect its interests after US widens sanctions against Iran",
+            "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
             "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,8 +95,23 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Morkel doesn't rule out India enforcing follow-on as rain looms in Colombo",
+            "link": "https://www.cricinfo.com/ci/content/story/1551424.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Joe Root 'hacked off' after Carse incident mars Lord's Test build-up",
+            "link": "https://www.cricinfo.com/ci/content/story/1551417.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Prasidh and Suthar share six to keep India in driver's seat",
             "link": "https://www.cricinfo.com/ci/content/story/1551415.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Babar Azam set to return for Pakistan in second Test",
+            "link": "https://www.cricinfo.com/ci/content/story/1551419.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -110,32 +125,17 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Jayasuriya reprimanded for hitting boundary wedges with bat after dismissal",
-            "link": "https://www.cricinfo.com/ci/content/story/1551393.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Sri Lanka replace injured Vihanga with Meepage for Women's T20 Asia Cup",
-            "link": "https://www.cricinfo.com/ci/content/story/1551381.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Yorkshire's Richard Pyrah named new Melbourne Stars WBBL coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1551371.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Root 'hacked off' and 'disappointed' at Carse incident",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c4g5z5p8w17o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Legendary rugby league winger Boston dies aged 92",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cwy4zxypry7o?at_medium=RSS&at_campaign=rss",
+            "title": "Sir Billy Boston - 'the world-class athlete, whose story deserved to be told'",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c5yedegw3wpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Tottenham sign Savinho for £75m - what will he bring to club?",
+            "title": "Tottenham sign Savinho from Man City for £75m",
             "link": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -145,8 +145,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "What does your Premier League club still need in the transfer window?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c4gql9p0qn2o?at_medium=RSS&at_campaign=rss",
+            "title": "How did all nine new managers fare in Premier League openers?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr4v0p1xqryo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -156,6 +156,26 @@
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
+            "link": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "WhatsApp tightens account security with stronger two-step verification and more",
+            "link": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Accel-backed Keenable is indexing the web for AI agents",
+            "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Uber launches live video streaming for teen accounts",
+            "link": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
             "link": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
@@ -167,24 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-            "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
-            "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-            "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-            "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-            "source": "TechCrunch"
+            "title": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
+            "link": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
+            "source": "Wired"
         },
         {
             "title": "I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy (2026)",
@@ -209,11 +214,6 @@
         {
             "title": "Border Wall Construction Threatens 6,000 Years of History on Private Lands",
             "link": "https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/",
-            "source": "Wired"
-        },
-        {
-            "title": "It Should Be Harder to Apply for a Job. No, Really",
-            "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
             "source": "Wired"
         }
     ]
