@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "যুক্তরাষ্ট্রের ওপর ৫০ শতাংশ পর্যন্ত 'ডলার-ফর-ডলার' পাল্টা শুল্ক আরোপের ঘোষণা কানাডার",
+            "link": "https://www.bbc.com/bengali/articles/clyj5nxjnv5o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "তারেক রহমানের প্রস্তাবিত ভারত সফর নিয়ে দিল্লি কী ভাবছে?",
             "link": "https://www.bbc.com/bengali/articles/cjdvkv33p3eo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "দ্বৈত নাগরিকেরা উপদেষ্টা হতে পারলে মন্ত্রী-প্রতিমন্ত্রী হতে পারেন না কেন?",
             "link": "https://www.bbc.com/bengali/articles/cr50n0gn660o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "যুক্তরাষ্ট্রের অর্থনীতি ও ট্রাম্পকে কীভাবে বিপদে ফেলতে পারে কানাডা?",
-            "link": "https://www.bbc.com/bengali/articles/c9805qyz956o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Fireworks factory goes up in smoke in Mexico",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Massive natural gas leak in Wisconsin puts community on alert",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/massive-natural-gas-leak-in-wisconsin-puts-community-on-alert?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "At least 15 newborns killed in Pakistan hospital fire",
+            "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
             "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Instagram chief testifies at Meta trial, says few teens used safety feature",
-            "link": "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Who were the Syrian Democratic Forces and why dissolve?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Mamdani opposes Hindu nationalist event in New York",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Abid Mushtaq spins North Zone past West Zone and into the semi-finals",
+            "link": "https://www.cricinfo.com/ci/content/story/1551468.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Australia and overseas stars set for BBL payday under new contracting rules",
+            "link": "https://www.cricinfo.com/ci/content/story/1551458.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Moeen and James lead rout of Tridents to take Falcons back to the top",
             "link": "https://www.cricinfo.com/ci/content/story/1551459.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -112,16 +122,6 @@
         {
             "title": "Prasidh and Suthar share six to keep India in driver's seat",
             "link": "https://www.cricinfo.com/ci/content/story/1551415.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Morkel doesn't rule out India enforcing follow-on as rain looms in Colombo",
-            "link": "https://www.cricinfo.com/ci/content/story/1551424.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Kishan: Switching formats is what is fun about the game",
-            "link": "https://www.cricinfo.com/ci/content/story/1551423.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "PGA Tour play-off shake-up a 'big swing' - McIlroy",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/cm2q4n5r98mo?at_medium=RSS&at_campaign=rss",
+            "title": "How Smith became women's first £1m player",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c8jdl0n0r7mo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance",
-            "link": "https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/",
+            "title": "AirDoctor Coupon Codes: 40% Off | August 2026",
+            "link": "https://www.wired.com/story/airdoctor-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)",
-            "link": "https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/",
+            "title": "Corsair Discount Code: Up to 50% Off for August 2026",
+            "link": "https://www.wired.com/story/corsair-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Google Pixel 11 Pro Fold Review: Better, Not Best",
-            "link": "https://www.wired.com/review/google-pixel-11-pro-fold/",
+            "title": "Google Workspace Promo Codes: 14% Off for August 2026",
+            "link": "https://www.wired.com/story/google-workspace-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "The US Just Recorded Its First 2 Measles Deaths This Year",
-            "link": "https://www.wired.com/story/us-recorded-first-measles-deaths-2026/",
+            "title": "Nomad Goods Promo Codes: Get 25% Off in August 2026",
+            "link": "https://www.wired.com/story/nomad-discount-code/",
             "source": "Wired"
         },
         {
-            "title": "The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms",
-            "link": "https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/",
+            "title": "Surfshark Promo Codes: 87% Off | August 2026",
+            "link": "https://www.wired.com/story/surfshark-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
-            "link": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
+            "title": "20% Off Sephora Promo Code | August 2026",
+            "link": "https://www.wired.com/story/sephora-promo-code/",
             "source": "Wired"
         }
     ]
