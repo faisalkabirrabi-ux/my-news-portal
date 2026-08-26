@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বিদেশি কর্মী নিয়োগ কীভাবে হবে, যা জানাল মালয়েশিয়া",
+            "link": "https://www.bbc.com/bengali/articles/ckgwj59peneo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "যুক্তরাষ্ট্রের ওপর ৫০ শতাংশ পর্যন্ত 'ডলার-ফর-ডলার' পাল্টা শুল্ক আরোপের ঘোষণা কানাডার",
             "link": "https://www.bbc.com/bengali/articles/clyj5nxjnv5o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,14 +29,29 @@
             "title": "ইরানের ওপর যুক্তরাষ্ট্র নিষেধাজ্ঞা বাড়ালে নিজেদের স্বার্থ রক্ষার হুঁশিয়ারি চীনের",
             "link": "https://www.bbc.co.uk/bengali/live/c61mv0y5e3lzt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বাংলাদেশে বিচারকদের জবাবদিহির প্রক্রিয়া কী?",
-            "link": "https://www.bbc.com/bengali/articles/czjzyxyjg2go?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
+        {
+            "title": "Trump’s Korean gambit exposes a shifting East Asian order",
+            "link": "https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam",
+            "link": "https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "US Army Black Hawk helicopter crashes in Colorado",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/us-army-black-hawk-helicopter-crashes-in-colorado?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
+            "link": "https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
         {
             "title": "Palestinian boy shot during Israeli raid on UNRWA centre",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss",
@@ -40,26 +60,6 @@
         {
             "title": "The RSF’s defeat will not end Sudan’s war but merely fragment it",
             "link": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Man United’s Fernandes, City’s Shaw named PFA Players of the Year",
-            "link": "https://www.aljazeera.com/sports/2026/8/26/man-uniteds-fernandes-citys-shaw-named-pfa-players-of-the-year?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Trump threatens Iran’s partners: How do secondary sanctions work?",
-            "link": "https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Serena Williams, Carlos Alcaraz fall in US Open mixed doubles quarterfinal",
-            "link": "https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
-            "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "How the WBBL and BBL squads for 2026-27 stack up",
+            "link": "https://www.cricinfo.com/ci/content/story/1551479.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Relaunched Afghanistan Premier League to start on December 27",
+            "link": "https://www.cricinfo.com/ci/content/story/1551476.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Abid Mushtaq spins North Zone past West Zone and into the semi-finals",
             "link": "https://www.cricinfo.com/ci/content/story/1551468.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -115,18 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Joe Root 'hacked off' after Carse incident mars Lord's Test build-up",
-            "link": "https://www.cricinfo.com/ci/content/story/1551417.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Prasidh and Suthar share six to keep India in driver's seat",
-            "link": "https://www.cricinfo.com/ci/content/story/1551415.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Celtic deficiencies laid bare on another night of Champions League pain",
             "link": "https://www.bbc.co.uk/sport/football/articles/cjdv5xvgv9lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Sterling charged with dangerous driving after crash",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c23xkk1vkkpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Tottenham agree loan for Man City's Marmoush",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx2z5ewlrwko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Man City's Gonzalez set for £52m Newcastle move",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -137,21 +152,6 @@
         {
             "title": "Liverpool's midfield is fragile - will they act in the window?",
             "link": "https://www.bbc.co.uk/sport/football/articles/cx2zgzydd16o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "O'Neill takes responsibility after Celtic's latest European capitulation",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Is Joao Pedro ready to break Chelsea's so-called number nine curse?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cgk5ydy0vk4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "From influencers to queens of women's boxing - five years of MVP",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -207,13 +207,13 @@
             "source": "Wired"
         },
         {
-            "title": "20% Off Sephora Promo Code | August 2026",
-            "link": "https://www.wired.com/story/sephora-promo-code/",
+            "title": "Nomad Goods Promo Codes: Get 25% Off in August 2026",
+            "link": "https://www.wired.com/story/nomad-discount-code/",
             "source": "Wired"
         },
         {
-            "title": "Nomad Goods Promo Codes: Get 25% Off in August 2026",
-            "link": "https://www.wired.com/story/nomad-discount-code/",
+            "title": "20% Off Sephora Promo Code | August 2026",
+            "link": "https://www.wired.com/story/sephora-promo-code/",
             "source": "Wired"
         }
     ]
