@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "A teacher’s slap, student’s death revive India’s corporal punishment debate",
+            "link": "https://www.aljazeera.com/news/2026/8/26/a-teachers-slap-students-death-revive-indias-corporal-punishment-debate?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "ICC chief urges Japan to counter US pressure on the court",
+            "link": "https://www.aljazeera.com/news/2026/8/26/icc-chief-urges-japan-to-counter-us-pressure-on-war-crimes-court?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Deadly flash floods sweep through northern Nepal",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "CCTV captures terrifying mudslide engulfing Nepal-China border",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "When is the Champions League draw, which teams are in, and what are the dates?",
             "link": "https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Photos: Avalanche floods kill eight, hundreds missing in Nepal’s Himalayas",
             "link": "https://www.aljazeera.com/gallery/2026/8/26/photos-avalanche-floods-kill-eight-hundreds-missing-in-nepals-himalayas?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "England footballer Sterling charged with dangerous driving after collision",
-            "link": "https://www.aljazeera.com/sports/2026/8/26/england-footballer-sterling-charged-with-dangerous-driving-after-collision?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Iran, Oman agree on temporary Hormuz route: What we know",
-            "link": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Dead whale washes ashore on beach in Mexico",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/dead-whale-washes-ashore-on-beach-in-mexico?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Why India is sharing missile secrets with its private sector",
-            "link": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Dean Elgar, former South Africa captain, to retire at end of season",
+            "link": "https://www.cricinfo.com/ci/content/story/1551519.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "India close in despite Sooriyabandara, Kamindu fifties",
             "link": "https://www.cricinfo.com/ci/content/story/1551507.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,9 +125,14 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "New Zealander Fraser Sheat joins Nottinghamshire for Championship run-in",
-            "link": "https://www.cricinfo.com/ci/content/story/1551485.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Uefa set to drop Fifa tournament boycott threat",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c5ye3j5n8vyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Chelsea in contact over move for Villa goalkeeper Martinez",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm27yzrkeydo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Man City complete £86m Bouaddi signing from Lille",
@@ -140,16 +150,6 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Sterling charged with dangerous driving after crash",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c23xkk1vkkpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Celtic deficiencies laid bare on another night of Champions League pain",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cjdv5xvgv9lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Postecoglou subs off Ronaldo to spark dramatic Al-Nassr comeback",
             "link": "https://www.bbc.co.uk/sport/football/articles/c62kd8027w1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -157,34 +157,39 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+            "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Robot brain builders are pushing out of their GPT-2 era",
+            "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Bluesky now lets you upload 10-minute long videos",
+            "link": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "QueryStory wants you to believe what AI is telling you",
+            "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Arga Labs is building a better way to train enterprise AI agents",
+            "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
             "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
             "source": "TechCrunch"
         },
         {
-            "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-            "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
-            "link": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-            "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-            "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-            "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-            "source": "TechCrunch"
+            "title": "PeopleFinders’ New Website Runs Background Checks on Your Dates",
+            "link": "https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/",
+            "source": "Wired"
         },
         {
             "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
@@ -209,11 +214,6 @@
         {
             "title": "A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread",
             "link": "https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/",
-            "source": "Wired"
-        },
-        {
-            "title": "Corsair Discount Code: Up to 50% Off for August 2026",
-            "link": "https://www.wired.com/story/corsair-coupon/",
             "source": "Wired"
         }
     ]
