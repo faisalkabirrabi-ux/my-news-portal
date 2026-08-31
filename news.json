@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Dozens evacuated and about 15 missing after Grand Canyon flash flood",
+            "link": "https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Flash flooding in Grand Canyon leaves more than 20 people missing",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "What is Notting Hill Carnival’s Jab Jab parade?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
+            "link": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
             "link": "https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israeli strike kills 3-year-old child in Gaza",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Jose Andres renews call for investigation into WCK Gaza staff killings",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
-            "link": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Video: Raging floodwaters sweep away lorry in the Philippines",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/video-raging-floodwaters-sweep-away-lorry-in-the-philippines?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US strikes Iran’s Larak Island in first attack in weeks",
-            "link": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,7 +83,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+            "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
             "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -125,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Watch: Match of the Day",
-            "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "A new Man Utd era - but Fernandes still sets the standard",
             "link": "https://www.bbc.co.uk/sport/football/articles/cpwl248p5vgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -137,6 +132,11 @@
         {
             "title": "How did Rashford do on return to Man Utd XI? Player ratings",
             "link": "https://www.bbc.co.uk/sport/football/articles/cx2z6kkqdxqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "GB's Samuel earns first win at a Grand Slam - but 'nervous' Norrie beaten",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c8045eyd84mo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Why Chelsea need more than a new goalkeeper to be title challengers",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss",
+            "title": "World number one Scheffler claims second Fedex Cup title",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/cx2zj8xngvdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
