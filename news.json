@@ -1,6 +1,21 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বাংলাদেশে নতুন পে স্কেল অনুমোদন, সরকারি চাকরিজীবীদের বেতন বেড়েছে ১৪২ শতাংশ পর্যন্ত",
+            "link": "https://www.bbc.co.uk/bengali/live/cm2kw5v903yqt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "নতুন পে-স্কেলে কোন গ্রেডে কত বেতন বাড়ল?",
+            "link": "https://www.bbc.com/bengali/articles/c8e3dpn37k7o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "যুক্তরাষ্ট্রের বিশেষ দূতের দাবি, বোয়িং থেকে আরো বিমান কিনছে বাংলাদেশ",
+            "link": "https://www.bbc.com/bengali/articles/c5ywd41wp28o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "মাগুরার আট বছরের শিশু ধর্ষণ ও হত্যা মামলায় হিটু শেখের মৃত্যুদণ্ড বহাল",
             "link": "https://www.bbc.com/bengali/articles/cgl7yy9lzn2o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -14,52 +29,37 @@
             "title": "পত্রিকা: 'বাজেট ও মূল্যস্ফীতির সমতা রক্ষায় পে-স্কেল'",
             "link": "https://www.bbc.com/bengali/articles/cew951pq20qo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বাজারে মানহীন বা নিম্নমানের পণ্য কীভাবে বুঝবেন?",
-            "link": "https://www.bbc.com/bengali/articles/c5y404ggn1xo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "নেপালি প্রধান শিক্ষকের সিদ্ধান্তে বন্যা থেকে রক্ষা পেয়েছে ৯০০ শিক্ষার্থী",
-            "link": "https://www.bbc.co.uk/bengali/live/cq39m02ldnlmt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "আওয়ামী লীগ নেতাদের নিয়ে দিল্লির সেমিনার পুলিশি বাধায় বাতিল, কী জানা যাচ্ছে?",
-            "link": "https://www.bbc.com/bengali/articles/c5ywgz9v05po?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Nepal races to rescue trapped workers, as flood death toll surpasses 900",
-            "link": "https://www.aljazeera.com/news/2026/8/31/nepal-races-to-rescue-hydropower-workers-as-flood-death-toll-reaches-903?traffic_source=rss",
+            "title": "Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000",
+            "link": "https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "FIFA president Infantino ‘must go’, says former UEFA boss Platini",
-            "link": "https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss",
+            "title": "India rejects Hague court order to restore Indus waters pact with Pakistan",
+            "link": "https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Aston Villa vs Arsenal: Premier League – prediction, team news, lineups",
-            "link": "https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss",
+            "title": "LIVE: Aston Villa vs Arsenal – Premier League",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/8/31/live-aston-villa-vs-arsenal-premier-league?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Tennis great Djokovic exits US Open in first round amid tears and pain",
-            "link": "https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss",
+            "title": "Argentina legend Lionel Messi retires from international football",
+            "link": "https://www.aljazeera.com/sports/2026/8/31/argentina-legend-lionel-messi-retires-from-international-football?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Global coral reef coverage risks irreversible decline, new report warns",
-            "link": "https://www.aljazeera.com/news/2026/8/31/global-coral-reef-coverage-risks-irreversible-decline-new-report-warns?traffic_source=rss",
+            "title": "Israeli strikes kill at least five Palestinians in Gaza City",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "People return to their flood-ravaged homes in Nepal",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-nepal-aftermath-clip?traffic_source=rss",
+            "title": "Trump says Iran is ‘dead’, vows to respond after renewed clashes",
+            "link": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,65 +68,75 @@
             "source": "BBC World"
         },
         {
-            "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
-            "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+            "title": "Man arrested after Swiss rave shooting that killed woman",
+            "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-            "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+            "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+            "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Iceland votes against restarting EU membership talks",
-            "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+            "title": "The jury's options in Lindsay Clancy's murder trial",
+            "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-            "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+            "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+            "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-            "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+            "title": "Dolly Parton laid to rest alongside husband in Nashville",
+            "link": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Hazlewood looks to maintain intensity after successful Test return",
-            "link": "https://www.cricinfo.com/ci/content/story/1552299.html?ex_cid=OTC-RSS",
+            "title": "Pakistan send seven players home and bring in Hesson to coach Test side",
+            "link": "https://www.cricinfo.com/ci/content/story/1552377.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Abbas: \"Everyone is worried\" as Pakistan's grim run of form is extended",
-            "link": "https://www.cricinfo.com/ci/content/story/1552287.html?ex_cid=OTC-RSS",
+            "title": "Zimbabwe survive Green, Busing-Volschenk scare to win thriller",
+            "link": "https://www.cricinfo.com/ci/content/story/1552375.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "India shrug off middle-order collapse to post big win",
-            "link": "https://www.cricinfo.com/ci/content/story/1552278.html?ex_cid=OTC-RSS",
+            "title": "'I'm confident in my abilities' - Maphaka ready to step up in Rabada's absence",
+            "link": "https://www.cricinfo.com/ci/content/story/1552362.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Toby Albert fifty fails to ease Hampshire frustration",
-            "link": "https://www.cricinfo.com/ci/content/story/1552283.html?ex_cid=OTC-RSS",
+            "title": "Pakistan squad, management set for overhaul after Lord's defeat",
+            "link": "https://www.cricinfo.com/ci/content/story/1552366.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Sides content to draw after third-day washout",
-            "link": "https://www.cricinfo.com/ci/content/story/1552279.html?ex_cid=OTC-RSS",
+            "title": "Indonesia opt to bowl in maiden Asia Cup appearance",
+            "link": "https://www.cricinfo.com/ci/content/story/1552367.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Vasconcelos, McSweeney hundreds seal stalemate",
-            "link": "https://www.cricinfo.com/ci/content/story/1552277.html?ex_cid=OTC-RSS",
+            "title": "Mayank Agarwal joins Durham for remainder of County Championship",
+            "link": "https://www.cricinfo.com/ci/content/story/1552352.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Djokovic in tears during US Open first-round exit",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss",
+            "title": "Messi retires from Argentina duty with 'nothing left to give'",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Pakistan drop seven players and release head coach",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cvgy9qqvwzxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Barcola joins Liverpool from PSG in £123m move",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,85 +145,75 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'It's not a good relationship, it's a deal for money' - Emery on Villa-Chelsea moves",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
+            "title": "Midnight matches and money disputes - why is tennis schedule such a headache?",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cly7kglvn7xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Venus Williams loses 15th match in row in 2am finish",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c14d8lg0grpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Robinson's rhythmical action reminiscent of McGrath - Agnew",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c750w5vdlveo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "World number one Scheffler claims second Fedex Cup title",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/cx2zj8xngvdo?at_medium=RSS&at_campaign=rss",
+            "title": "Man City sign Palmeiras winger Allan for £34m",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crer89qjgydo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-            "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+            "title": "VLC crosses 7 billion downloads",
+            "link": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/",
             "source": "TechCrunch"
         },
         {
-            "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-            "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+            "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+            "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
             "source": "TechCrunch"
         },
         {
-            "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
-            "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+            "title": "How AI could make it harder for governments to use hacking tools",
+            "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
             "source": "TechCrunch"
         },
         {
-            "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-            "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+            "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+            "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
             "source": "TechCrunch"
         },
         {
-            "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
-            "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+            "title": "MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario",
+            "link": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/",
             "source": "TechCrunch"
         },
         {
-            "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-            "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+            "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+            "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "George Santos Just Got Hit With Kalshi’s First-Ever Lifetime Ban",
+            "link": "https://www.wired.com/story/george-santos-gets-a-lifetime-ban-from-kalshi/",
+            "source": "Wired"
+        },
+        {
+            "title": "Why Food Keeps Making Everybody Sick This Summer",
+            "link": "https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/",
+            "source": "Wired"
+        },
+        {
+            "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+            "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+            "source": "Wired"
+        },
+        {
+            "title": "The 9 Best MagSafe Phone Grips for Your Butter Fingers (2026)",
+            "link": "https://www.wired.com/gallery/best-magsafe-grips/",
+            "source": "Wired"
+        },
+        {
+            "title": "ATM Flaws Reveal Key Weaknesses in the Software Supply Chain",
+            "link": "https://www.wired.com/story/atm-flaws-reveal-key-weaknesses-in-the-software-supply-chain/",
+            "source": "Wired"
         },
         {
             "title": "Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario",
             "link": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
-            "link": "https://www.wired.com/story/best-mesh-wifi-routers/",
-            "source": "Wired"
-        },
-        {
-            "title": "Why the Hottest New Wearables Want to Be Ignored",
-            "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Best Label Makers (2026): Brother, Niimbot, Dymo",
-            "link": "https://www.wired.com/gallery/the-best-label-makers-for-an-organized-home/",
-            "source": "Wired"
-        },
-        {
-            "title": "How to Escape Group Chat Hell",
-            "link": "https://www.wired.com/story/how-to-escape-from-group-chat-hell/",
-            "source": "Wired"
-        },
-        {
-            "title": "Scientists Create the Littlest Big Bang to Study the Universe's Origins",
-            "link": "https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/",
             "source": "Wired"
         }
     ]
