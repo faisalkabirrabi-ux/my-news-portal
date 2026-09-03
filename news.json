@@ -1,13 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "বিশ্ব ইজতেমার দুই পর্বের তারিখ ঘোষণা, টঙ্গীতে আয়োজন চায় দু’পক্ষই",
+            "title": "নেপালে নিখোঁজ মানুষের সংখ্যা পাঁচ হাজার ছাড়িয়েছে, বেড়েছে মৃতের সংখ্যাও",
             "link": "https://www.bbc.co.uk/bengali/live/c8qlw6340rg5t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
             "title": "জমির নামজারিতে নতুন যে পরিবর্তন এলো, আরো যা জেনে রাখতে পারেন",
             "link": "https://www.bbc.com/bengali/articles/c1dl4d4d6l3o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ওরাকল, মাইক্রোসফট-সহ ভারতে বড় কোম্পানিগুলোয় ছাঁটাইয়ের পেছনে কি দায়ী এআই?",
+            "link": "https://www.bbc.com/bengali/articles/cly4zkp396yo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,42 +29,37 @@
             "title": "আজও উত্তমকুমার সর্বত্র আছেন: সৃজিত মুখার্জি",
             "link": "https://www.bbc.com/bengali/articles/cd942ke1492o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বোয়িং থেকে নতুন করে বিমান কেনা লাভের নাকি চাপের?",
-            "link": "https://www.bbc.com/bengali/articles/cg49kn97yyvo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Benzema, Pogba, Sancho and Sterling: What now for football’s free agents?",
-            "link": "https://www.aljazeera.com/sports/2026/9/3/benzema-pogba-sancho-and-sterling-what-now-for-footballs-free-agents?traffic_source=rss",
+            "title": "Israeli bombing seen behind journalist reporting from Lebanese village",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/israeli-bombing-seen-behind-journalist-reporting-from-lebanese-village?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "UEFA opens disciplinary case against Fenerbahce’s Guendouzi and Greenwood",
-            "link": "https://www.aljazeera.com/sports/2026/9/3/uefa-opens-disciplinary-case-against-fenerbahces-guendouzi-and-greenwood?traffic_source=rss",
+            "title": "Israel’s siege on Gaza is forcing dentists to operate in the streets",
+            "link": "https://www.aljazeera.com/features/2026/9/3/gaza-housing-dentists?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why has the Netherlands moved $10bn of its gold from the US?",
-            "link": "https://www.aljazeera.com/news/2026/9/3/why-has-the-netherlands-moved-10bn-of-its-gold-from-the-us?traffic_source=rss",
+            "title": "Real Madrid’s Raul Asencio acquitted in sex-tape sharing case",
+            "link": "https://www.aljazeera.com/sports/2026/9/3/real-madrids-raul-asencio-acquitted-in-sex-tape-sharing-case?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Feminist icon Gloria Steinem dies aged 92",
-            "link": "https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss",
+            "title": "Houthi fighters clash with Yemeni government forces in country’s southwest",
+            "link": "https://www.aljazeera.com/news/2026/9/3/houthi-fighters-clash-with-yemeni-government-forces-in-countrys-southwest?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Families perform symbolic funerals for missing Nepal flood victims",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/families-perform-symbolic-funerals-for-missing-nepal-flood-victims?traffic_source=rss",
+            "title": "Deadpool-Wolverine derby in the offing as Hugh Jackman targets Norwich City",
+            "link": "https://www.aljazeera.com/sports/2026/9/3/deadpool-wolverine-derby-in-the-offing-as-hugh-jackman-targets-norwich-city?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Kenya’s aviation strike is over, but the dispute is far from settled",
-            "link": "https://www.aljazeera.com/news/2026/9/3/kenyas-aviation-strike-is-over-but-the-dispute-is-far-from-settled?traffic_source=rss",
+            "title": "20 million children a year face online sexual abuse, UNICEF says",
+            "link": "https://www.aljazeera.com/news/2026/9/3/20-million-children-a-year-face-online-sexual-abuse-unicef-says?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,108 +83,118 @@
             "source": "BBC World"
         },
         {
-            "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-            "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
+            "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+            "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Trump $1 coin makes him first living president on US currency in a century",
-            "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+            "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+            "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Mohsin Naqvi on Pakistan's changes: No option if players don't perform",
-            "link": "https://www.cricinfo.com/ci/content/story/1552674.html?ex_cid=OTC-RSS",
+            "title": "Sales, Zaib hit fifties to edge Northamptonshire in front against leaders",
+            "link": "https://www.cricinfo.com/ci/content/story/1552721.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "England bowl first again in second ODI at Derby",
-            "link": "https://www.cricinfo.com/ci/content/story/1552673.html?ex_cid=OTC-RSS",
+            "title": "Wong, Bouchier star as England cruise to 2-0 series win in Derby",
+            "link": "https://www.cricinfo.com/ci/content/story/1552703.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Zimbabwe opt to bowl against Namibia; Muzarabani returns",
-            "link": "https://www.cricinfo.com/ci/content/story/1552672.html?ex_cid=OTC-RSS",
+            "title": "Kesteven's best keeps Lancashire alive in tight victory",
+            "link": "https://www.cricinfo.com/ci/content/story/1552727.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Laxman confirmed as India men's head coach for Asian Games",
-            "link": "https://www.cricinfo.com/ci/content/story/1552668.html?ex_cid=OTC-RSS",
+            "title": "Kaia keeps Zimbabwe's hopes of making tri-series final alive",
+            "link": "https://www.cricinfo.com/ci/content/story/1552702.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Injured Jafta out of Zimbabwe tour; Filander earns maiden SA call-up",
-            "link": "https://www.cricinfo.com/ci/content/story/1552670.html?ex_cid=OTC-RSS",
+            "title": "Adams century crushes Durham to power Hampshire title push",
+            "link": "https://www.cricinfo.com/ci/content/story/1552704.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Cornwall, Nawaz keep Falcons on top; TKR on the brink of elimination",
-            "link": "https://www.cricinfo.com/ci/content/story/1552649.html?ex_cid=OTC-RSS",
+            "title": "George, Freeborn keep Warwickshire in knockout hunt",
+            "link": "https://www.cricinfo.com/ci/content/story/1552707.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "The Premier League premium is £20m - and that worries European clubs",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss",
+            "title": "Breaking down Chelsea's staggering 39 summer exits",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Arsenal's Martinelli joins Al-Hilal in £60m move",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Wong stars as England thump Ireland to seal series",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/czxz1v7xyk9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Spurs omit Richarlison from Premier League squad",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Sarr 'needs time' to process collapse of Liverpool move",
+            "link": "https://www.bbc.co.uk/sport/football/articles/czdz349nyl7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "I used to play in-match games as a laugh - Dean",
             "link": "https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Ferrari upgrade a step but not all we need - Hamilton",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cvgyqlne25do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Janse van Rensburg denies Erasmus' claim of Springbok call-up talks",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/clyr1247xk9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Ashes ticket price increase 'really poor' - Vaughan",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Osnabruck display tifo with working rollercoaster before Kane ruins fun",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvgy1g4800zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+            "link": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+            "link": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+            "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+            "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+            "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Volunteer at TechCrunch Founder Summit in Boston",
             "link": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
             "source": "TechCrunch"
         },
         {
-            "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
-            "link": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
-            "source": "TechCrunch"
+            "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+            "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+            "source": "Wired"
         },
         {
-            "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-            "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
-            "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-            "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-            "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-            "source": "TechCrunch"
+            "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
+            "link": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
+            "source": "Wired"
         },
         {
             "title": "I Got a Brief Look at ‘Guild Wars 3,’ and I’m Excited",
@@ -204,16 +214,6 @@
         {
             "title": "Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle",
             "link": "https://www.wired.com/story/scientists-find-most-convincing-evidence-yet-dark-matter-particle/",
-            "source": "Wired"
-        },
-        {
-            "title": "Ugly AI Food Photos Are Only the Beginning",
-            "link": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning/",
-            "source": "Wired"
-        },
-        {
-            "title": "‘The Blood of Dawnwalker’ Is a Bloody Balm for My Completionism",
-            "link": "https://www.wired.com/story/the-blood-of-dawnwalker-is-a-bloody-balm-for-my-completionism/",
             "source": "Wired"
         }
     ]
