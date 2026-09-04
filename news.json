@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পত্রিকা: 'সৌদি আরব থেকে রেমিট্যান্স বেড়েছে, কমেছে যুক্তরাষ্ট্র থেকে'",
+            "link": "https://www.bbc.com/bengali/articles/cn8ev5wdel8o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "তাজমহল: ভালোবাসার নিদর্শনের আড়ালে লুকিয়ে থাকা মমতাজ মহলের বেদনার গল্প",
+            "link": "https://www.bbc.com/bengali/articles/crmr9p37v37o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "নেপালে নিখোঁজ মানুষের সংখ্যা পাঁচ হাজার ছাড়িয়েছে, বেড়েছে মৃতের সংখ্যাও",
             "link": "https://www.bbc.co.uk/bengali/live/c8qlw6340rg5t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,48 +29,53 @@
             "title": "বয়সের ফারাক অনেক, এমন দম্পতিদের ভালোবাসা নিয়ে বোঝাপড়া কতটা?",
             "link": "https://www.bbc.com/bengali/articles/c8d8pzd2114o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইন্দোনেশিয়ার দাবানলের ধোঁয়ায় ছেয়ে যাচ্ছে মালয়েশিয়া ও ফিলিপিন্সের আকাশ",
-            "link": "https://www.bbc.com/bengali/articles/ckgvyj5nneyo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "আজও উত্তমকুমার সর্বত্র আছেন: সৃজিত মুখার্জি",
-            "link": "https://www.bbc.com/bengali/articles/cd942ke1492o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss",
+            "title": "Missouri Supreme Court blocks Trump-backed map from November’s midterms",
+            "link": "https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
-            "link": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss",
+            "title": "Why did Trump meet with anti-Zionist Jewish leaders?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "NYC’s AI ban through grade 8 sets stage for rest of US, experts say",
-            "link": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss",
+            "title": "Chile police and protesters clash outside far-right forum",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Nepal flood victims to be identified through DNA",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss",
+            "title": "ICC leaders condemn efforts to erode international legal order",
+            "link": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "El Nino: A phenomenon supercharged by climate change",
-            "link": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
+            "title": "US continues to squeeze Cuban economy with new round of sanctions",
+            "link": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
-            "link": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss",
+            "title": "Ghana tightens gold exports in push to keep more value at home",
+            "link": "https://www.aljazeera.com/news/2026/9/4/ghana-tightens-gold-exports-in-push-to-keep-more-value-at-home?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
+            "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Argentine leader says oil firms working off Falklands face sanctions",
+            "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "US investigating if missile hit Iran wedding, Vance says",
+            "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
@@ -68,32 +83,22 @@
             "source": "BBC World"
         },
         {
-            "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
-            "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
+            "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-            "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-            "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-            "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-            "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
+            "title": "Transplanted pig kidney works in US man's body for record 271 days",
+            "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Siddle joins New South Wales as bowling coach",
+            "link": "https://www.cricinfo.com/ci/content/story/1552740.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Surrey fight for survival as 'roulette-wheeler' pitch serves up 23-wicket day",
             "link": "https://www.cricinfo.com/ci/content/story/1552708.html?ex_cid=OTC-RSS",
@@ -120,11 +125,6 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Henry Crocombe repeats trick as Essex tumble into trouble",
-            "link": "https://www.cricinfo.com/ci/content/story/1552711.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Breaking down Chelsea's staggering 39 summer exits",
             "link": "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -135,13 +135,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Spurs omit Richarlison from Premier League squad",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
+            "title": "Kyrgios given one-month ban for positive cocaine test",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c4gj0x5z10go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "GB's Dart struggles with illness in second-round exit",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cwyznnqdd4yo?at_medium=RSS&at_campaign=rss",
+            "title": "'I was seeing spots' - third seed Auger-Aliassime stunned in New York",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cy0zxxk3y62o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,12 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "'I was seeing spots' - third seed Auger-Aliassime stunned in New York",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cy0zxxk3y62o?at_medium=RSS&at_campaign=rss",
+            "title": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+            "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Oura files to go public",
             "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
@@ -182,9 +187,14 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-            "link": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-            "source": "TechCrunch"
+            "title": "Tesla’s Make-or-Break Cybercab Had a Quiet Debut",
+            "link": "https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/",
+            "source": "Wired"
+        },
+        {
+            "title": "Wikipedia Workers Unionize for the First Time",
+            "link": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/",
+            "source": "Wired"
         },
         {
             "title": "5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More",
@@ -204,16 +214,6 @@
         {
             "title": "Prediction Market Betting Is Getting People Banned and Arrested",
             "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-            "source": "Wired"
-        },
-        {
-            "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-            "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-            "source": "Wired"
-        },
-        {
-            "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-            "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
             "source": "Wired"
         }
     ]
