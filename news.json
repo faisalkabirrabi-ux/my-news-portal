@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "'যৌনাঙ্গ চুরির' গুজব যেভাবে আফ্রিকার কয়েকটি দেশে প্রাণঘাতি হয়ে উঠলো",
+            "link": "https://www.bbc.com/bengali/articles/cy0zykg55n5o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "এক লাখ চাকরি ছাঁটাই করতে যাচ্ছে ভক্সওয়াগন",
+            "link": "https://www.bbc.com/bengali/articles/cn74xkmgl53o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'সৌদি আরব থেকে রেমিট্যান্স বেড়েছে, কমেছে যুক্তরাষ্ট্র থেকে'",
             "link": "https://www.bbc.com/bengali/articles/cn8ev5wdel8o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,48 +29,43 @@
             "title": "জমির নামজারিতে নতুন যে পরিবর্তন এলো, আরো যা জেনে রাখতে পারেন",
             "link": "https://www.bbc.com/bengali/articles/c1dl4d4d6l3o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ওরাকল, মাইক্রোসফট-সহ ভারতে বড় কোম্পানিগুলোয় ছাঁটাইয়ের পেছনে কি দায়ী এআই?",
-            "link": "https://www.bbc.com/bengali/articles/cly4zkp396yo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বয়সের ফারাক অনেক, এমন দম্পতিদের ভালোবাসা নিয়ে বোঝাপড়া কতটা?",
-            "link": "https://www.bbc.com/bengali/articles/c8d8pzd2114o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Missouri Supreme Court blocks Trump-backed map from November’s midterms",
-            "link": "https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss",
+            "title": "Video: Workers rescued from hydro tunnel nine days after Nepal flooding",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/video-workers-rescued-from-hydro-tunnel-nine-days-after-nepal-flooding?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why did Trump meet with anti-Zionist Jewish leaders?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss",
+            "title": "Why Pakistan overhauled its military command structure after five decades",
+            "link": "https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Chile police and protesters clash outside far-right forum",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss",
+            "title": "Zverev goes distance to scrape into third round as upsets rock US Open",
+            "link": "https://www.aljazeera.com/sports/2026/9/4/zverev-goes-distance-to-scrape-into-third-round-as-upsets-rock-us-open?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "ICC leaders condemn efforts to erode international legal order",
-            "link": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order?traffic_source=rss",
+            "title": "Nepal floods: How DNA identification of bodies works",
+            "link": "https://www.aljazeera.com/news/2026/9/4/nepal-floods-how-does-dna-identification-of-bodies-work?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US continues to squeeze Cuban economy with new round of sanctions",
-            "link": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
+            "title": "In southern Lebanon, Israeli demolitions continue ‘day and night’",
+            "link": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ghana tightens gold exports in push to keep more value at home",
-            "link": "https://www.aljazeera.com/news/2026/9/4/ghana-tightens-gold-exports-in-push-to-keep-more-value-at-home?traffic_source=rss",
+            "title": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
+            "link": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+            "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
@@ -68,7 +73,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Argentine leader says oil firms working off Falklands face sanctions",
+            "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
             "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -78,13 +83,8 @@
             "source": "BBC World"
         },
         {
-            "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-            "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-            "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+            "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+            "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -95,33 +95,33 @@
     ],
     "খেলাধুলা": [
         {
-            "title": "Siddle joins New South Wales as bowling coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1552740.html?ex_cid=OTC-RSS",
+            "title": "What is Total Impact in T20?",
+            "link": "https://www.cricinfo.com/ci/content/story/1552784.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Surrey fight for survival as 'roulette-wheeler' pitch serves up 23-wicket day",
-            "link": "https://www.cricinfo.com/ci/content/story/1552708.html?ex_cid=OTC-RSS",
+            "title": "India Under-19 player Rohit Yadav banned for two years for age discrepancy",
+            "link": "https://www.cricinfo.com/ci/content/story/1552785.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Wobble's right for Wong despite wobble",
-            "link": "https://www.cricinfo.com/ci/content/story/1552739.html?ex_cid=OTC-RSS",
+            "title": "'It's just the start' - Mandhana after record-breaking night",
+            "link": "https://www.cricinfo.com/ci/content/story/1552762.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Wong, Bouchier star as England cruise to 2-0 series win in Derby",
-            "link": "https://www.cricinfo.com/ci/content/story/1552703.html?ex_cid=OTC-RSS",
+            "title": "चहल और सेल्स की बदौलत नॉर्थैम्पटनशायर को मिली महत्वपूर्ण बढ़त",
+            "link": "https://www.cricinfo.com/ci/content/story/1552790.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Holden cements Middlesex dominance after seamers put Lancashire under cosh",
-            "link": "https://www.cricinfo.com/ci/content/story/1552717.html?ex_cid=OTC-RSS",
+            "title": "Keightley appointed to CA development role, WPL future uncertain",
+            "link": "https://www.cricinfo.com/ci/content/story/1552760.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Sam Northeast points way for Kent in promotion battle",
-            "link": "https://www.cricinfo.com/ci/content/story/1552716.html?ex_cid=OTC-RSS",
+            "title": "Kusal Mendis, Binura Fernando ruled out of T20I series in England",
+            "link": "https://www.cricinfo.com/ci/content/story/1552781.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -130,32 +130,37 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+            "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Kyrgios given one-month ban for positive cocaine test",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c4gj0x5z10go?at_medium=RSS&at_campaign=rss",
+            "title": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'I was seeing spots' - third seed Auger-Aliassime stunned in New York",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cy0zxxk3y62o?at_medium=RSS&at_campaign=rss",
+            "title": "Obano to put England career on hold with Pau move",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8047p5em5lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Ashes tickets pricing people out of game - Vaughan",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&at_campaign=rss",
+            "title": "Ukrainian quits college team over Russian signing",
+            "link": "https://www.bbc.co.uk/sport/basketball/articles/cgmr8ny1eeno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
+            "title": "From playing with Rashford to non-league and new career",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "The sameness problem behind those unappetizing AI-generated menus",
+            "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Crusoe reportedly raises $3B at a  $30B valuation",
             "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-            "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Tesla’s Make-or-Break Cybercab Had a Quiet Debut",
-            "link": "https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/",
+            "title": "Foreo Discount Codes and Deals: Up to 50% Off",
+            "link": "https://www.wired.com/story/foreo-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Wikipedia Workers Unionize for the First Time",
-            "link": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/",
+            "title": "Sportsman's Warehouse Promo Code: Save in September 2026",
+            "link": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More",
-            "link": "https://www.wired.com/gallery/best-video-doorbells/",
+            "title": "Medicube Coupon Code: 40% Off for September 2026",
+            "link": "https://www.wired.com/story/medicube-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
-            "link": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/",
+            "title": "Mattress Firm Coupons: Save up to $700",
+            "link": "https://www.wired.com/story/mattress-firm-coupon/",
             "source": "Wired"
         },
         {
-            "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-            "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+            "title": "Purple Promo Codes and Deals: Up to 30% Off",
+            "link": "https://www.wired.com/story/purple-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-            "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+            "title": "30% Off Tempur-Pedic Promo Codes | September 2026",
+            "link": "https://www.wired.com/story/tempur-pedic-promo-code/",
             "source": "Wired"
         }
     ]
