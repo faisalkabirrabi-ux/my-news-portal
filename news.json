@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "রাষ্ট্রপতির আদেশে এনবিআর আন্দোলনে অংশ নেওয়া ২০ কর্মকর্তার শাস্তি বাতিল",
+            "link": "https://www.bbc.co.uk/bengali/live/cq7701ygn5p1t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "মৃত্যুর ৩০ বছর পরেও নায়ক সালমান শাহকে ঘিরে আগ্রহ ও কৌতুহল কেন?",
+            "link": "https://www.bbc.com/bengali/articles/cz9zy0xkkgno?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ইউক্রেন ইস্যুতে ট্রাম্প প্রতিনিধিদের সঙ্গে পুতিনের 'রুদ্ধদ্বার' বৈঠক",
             "link": "https://www.bbc.com/bengali/articles/cp80yr4nx01o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "জামায়াত-এনসিপি জোটের লংমার্চে এক দফার ইঙ্গিত",
             "link": "https://www.bbc.com/bengali/articles/c7v4777g46do?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ফেসবুকে 'গালির' ঘটনায় সন্ত্রাসবিরোধী আইনের পুরোনো মামলায় গ্রেফতার কেন?",
-            "link": "https://www.bbc.com/bengali/articles/c93vl4q5vggo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "যুক্তরাষ্ট্র থেকে কেন স্বর্ণ সরিয়ে নিচ্ছে ইউরোপের দেশগুলো?",
-            "link": "https://www.bbc.com/bengali/articles/c3eq59zevy9o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Flames burst from Qantas plane engine after New Zealand takeoff",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss",
+            "title": "LIVE: Everton vs Manchester United – Premier League",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
-            "link": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
+            "title": "Israeli flags become the latest weapon of settlers in West Bank domination",
+            "link": "https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss",
+            "title": "Israeli air attacks on Lebanon kill at least four",
+            "link": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "More than 20 killed in fire at wedding party in DR Congo",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/more-than-20-killed-in-fire-at-wedding-party-in-dr-congo?traffic_source=rss",
+            "title": "Israel bombards several towns in southern Lebanon",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "South Africa’s chrome riches fuel a deadly underground economy",
-            "link": "https://www.aljazeera.com/news/2026/9/6/south-africas-chrome-riches-fuel-a-deadly-underground-economy?traffic_source=rss",
+            "title": "Zverev and Gauff ease into US Open last 16 but Alex Eala falls to Jovic",
+            "link": "https://www.aljazeera.com/sports/2026/9/6/zverev-and-gauff-ease-into-us-open-last-16-but-alex-eala-falls-to-jovic?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "German voters head to polls as far-right AfD party eyes historic state win",
-            "link": "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss",
+            "title": "How do you arrest 50,000 people quietly?",
+            "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/6/how-do-you-arrest-50000-people-quietly?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,12 +73,12 @@
             "source": "BBC World"
         },
         {
-            "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+            "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
             "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+            "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
             "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Ireland win toss, bowl in Arlene Kelly's farewell",
+            "link": "https://www.cricinfo.com/ci/content/story/1553033.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Pooran and Narine lead TKR to victory in low-scoring clash",
             "link": "https://www.cricinfo.com/ci/content/story/1553020.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -102,6 +107,11 @@
         {
             "title": "Pandey, Harris and Yastika give Knight Riders opening-night win",
             "link": "https://www.cricinfo.com/ci/content/story/1553003.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Leus du Plooy to leave Middlesex as he targets South Africa cap",
+            "link": "https://www.cricinfo.com/ci/content/story/1552936.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,28 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Leus du Plooy to leave Middlesex as he targets South Africa cap",
-            "link": "https://www.cricinfo.com/ci/content/story/1552936.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "PCB and team owners hold talks for bringing forward PSL to January",
-            "link": "https://www.cricinfo.com/ci/content/story/1552959.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Taylor crowns career in stylish Croke Park triumph",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/clyeg4n8l98o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
+            "title": "Taylor's place among greats set in stone after extraordinary swansong",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Hunt 'not afraid of anyone' after second podium in two days",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,8 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "How Man Utd plan to compete at top with richer rivals",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
+            "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,21 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link",
+            "link": "https://www.wired.com/gallery/best-water-leak-detector/",
+            "source": "Wired"
+        },
+        {
+            "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+            "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+            "source": "Wired"
+        },
+        {
+            "title": "The Best Gaming Chairs (2026): Are They Worth It?",
+            "link": "https://www.wired.com/gallery/best-gaming-chairs/",
+            "source": "Wired"
+        },
+        {
             "title": "4 Best Alexa Speakers I’ve Tested (2026)",
             "link": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
             "source": "Wired"
@@ -199,21 +214,6 @@
         {
             "title": "OpenAI Agents Hacked Another Website",
             "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-            "source": "Wired"
-        },
-        {
-            "title": "Scientists Put Caterpillars in an Ultraquiet Chamber to Learn How They Hear Without Ears",
-            "link": "https://www.wired.com/story/how-do-caterpillars-hear-without-ears/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Watch World Went Crazy This Week. Here Are the 10 You Need to See",
-            "link": "https://www.wired.com/story/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see/",
-            "source": "Wired"
-        },
-        {
-            "title": "Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’",
-            "link": "https://www.wired.com/story/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday/",
             "source": "Wired"
         }
     ]
