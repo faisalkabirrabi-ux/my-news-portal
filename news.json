@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "দিল্লিতে একটি ভবন ধসে পড়েছে, ধ্বংসস্তুপের নিচে অনেকের আটকে থাকার আশঙ্কা",
+            "title": "সম্পত্তি হস্তান্তরের পরেও বাবা-মা'র অধিকারের আইন পাস, বিরোধী দলের ওয়াকআউট",
             "link": "https://www.bbc.co.uk/bengali/live/cq7701ygn5p1t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "হামে মৃত্যুর সংখ্যা হাজার ছুঁই ছুঁই, পাঁচ মাস পরেও কেন থামানো যাচ্ছে না?",
+            "link": "https://www.bbc.com/bengali/articles/cx2zewgn0kyo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,52 +29,57 @@
             "title": "রূপপুর থেকে বিদ্যুৎ পেতে দেরি হচ্ছে কেন?",
             "link": "https://www.bbc.com/bengali/articles/ckgvxr73vpyo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'হাম ও ডেঙ্গু সংক্রমণ একসঙ্গে বাড়তে থাকায় চাপে বাংলাদেশের স্বাস্থ্যব্যবস্থা'",
-            "link": "https://www.bbc.com/bengali/articles/cjrxnzv0zrgo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "How significant is the Yemeni government’s military gains against Houthis?",
-            "link": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss",
+            "title": "Iran touts military response as US maintains blockade, hits tankers",
+            "link": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
-            "link": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
+            "title": "Far-right AFD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+            "link": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How the West’s promise of freedom created a world of anger",
-            "link": "https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss",
+            "title": "Maitland-Niles stuns Manchester United as Everton claim last-ditch point",
+            "link": "https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Palestinians mourn loved ones in mass funeral in Gaza City",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
+            "title": "Niger military accuses France of orchestrating failed mutiny: What to know",
+            "link": "https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Algeria civil defence recovers body of 10-year-old boy from well",
-            "link": "https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss",
+            "title": "Dead fish fill vanishing river as drought grips Indonesia",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/dead-fish-fill-vanishing-river-as-drought-grips-indonesia?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Bangladesh protesters demand action over rising costs",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/bangladesh-protesters-demand-action-over-rising-costs?traffic_source=rss",
+            "title": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
+            "link": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+            "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
             "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-            "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+            "title": "German far-right set for big win in eastern state - exit polls",
+            "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+            "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Dozens feared trapped in collapsed building in Delhi",
+            "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -78,25 +88,35 @@
             "source": "BBC World"
         },
         {
-            "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-            "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-            "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Prince William to attend King Harald's funeral in Norway",
-            "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+            "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+            "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "England fall away after Dunkley hundred to post 291",
+            "title": "Chatterji stars with bat and ball as Surrey ease past Essex",
+            "link": "https://www.cricinfo.com/ci/content/story/1553081.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Dunkley hundred sets up England for 3-0 series sweep",
             "link": "https://www.cricinfo.com/ci/content/story/1553064.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Wellington five-for maintains Hampshire pursuit of top spot",
+            "link": "https://www.cricinfo.com/ci/content/story/1553080.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "J Hermann, Bosch, Jansen hand South Africa tri-series triumph",
+            "link": "https://www.cricinfo.com/ci/content/story/1553089.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Gunaratne in as SL bowl; Easmin debuts for Bangladesh",
+            "link": "https://www.cricinfo.com/ci/content/story/1553077.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -105,28 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Pretorius, Simelane miss T20I tri-series final with injuries",
-            "link": "https://www.cricinfo.com/ci/content/story/1553049.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Antonelli takes stunning Monza win from 19th on grid",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/clyl3l325g6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Ireland win toss, bowl in Arlene Kelly's farewell",
-            "link": "https://www.cricinfo.com/ci/content/story/1553033.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Which sub had biggest impact? Everton v Man Utd player ratings",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c78070053wvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Pooran and Narine lead TKR to victory in low-scoring clash",
-            "link": "https://www.cricinfo.com/ci/content/story/1553020.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Dunkley century helps England sweep Ireland 3-0",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cqxve1xderro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Pandey, Harris and Yastika give Knight Riders opening-night win",
-            "link": "https://www.cricinfo.com/ci/content/story/1553003.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Vardy joins Burnley on season-long contract",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
+            "title": "Itoje returns to England squad for training camp",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjrxnej1z07o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +150,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Taylor's place among greats set in stone after extraordinary swansong",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Hunt 'not afraid of anyone' after second podium in two days",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "McColgan wins London Big Half after five months out",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Police investigate Bielik fan clash at Portsmouth",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5ym8mx573yo?at_medium=RSS&at_campaign=rss",
+            "title": "Vardy joins Burnley on season-long contract",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+            "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+            "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
             "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -174,16 +184,6 @@
         {
             "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
             "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Oura is going public, but these smart ring companies are coming for its crown",
-            "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-            "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
             "source": "TechCrunch"
         },
         {
