@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
+            "link": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
+            "link": "https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Hawaii braces for Hurricane Lowell",
+            "link": "https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
             "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Indian temple collapses into Ganges as riverbank erodes",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
-            "link": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Robots protest in Poland over AI regulation concerns",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
-            "link": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,18 +78,18 @@
             "source": "BBC World"
         },
         {
+            "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+            "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+            "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
             "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Israeli strikes in southern Lebanese village kill 12",
-            "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-            "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "Le Creuset x Star Trek Collection: Prices, availability, release date",
+            "link": "https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/",
+            "source": "Wired"
+        },
+        {
             "title": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools",
             "link": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.",
             "link": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
-            "source": "Wired"
-        },
-        {
-            "title": "Every Samsung Galaxy Phone Comes With This Unique Add-On",
-            "link": "https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/",
             "source": "Wired"
         }
     ]
