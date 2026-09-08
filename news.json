@@ -1,6 +1,26 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "ধর্মীয় সফর ঘিরে নারী কর্মীদের সরিয়ে রাখার প্রতিবাদে বন্ধ আইফেল টাওয়ার",
+            "link": "https://www.bbc.com/bengali/articles/cpq0n8nlnyjo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "বাংলাদেশ থেকে ভারতে কেন পাট পাচার করার অভিযোগ উঠছে",
+            "link": "https://www.bbc.com/bengali/articles/cx2znpw3pg9o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পুরুষদের তুলনায় কেন বেশি নারী মাইগ্রেনের সমস্যায় ভোগেন?",
+            "link": "https://www.bbc.com/bengali/articles/cwyzxqvdjvxo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'হাসিনার সম্পদ বাজেয়াপ্ত হচ্ছে'",
+            "link": "https://www.bbc.com/bengali/articles/cx2zkd18nlno?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "আবারও ভোটার এলাকা পরিবর্তন করলেন এনসিপির মুখপাত্র আসিফ মাহমুদ",
             "link": "https://www.bbc.co.uk/bengali/live/ckpq0nenr7qpt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -9,61 +29,41 @@
             "title": "সিকিমে ভূমিধসের ফলে আংশিকভাবে অবরুদ্ধ তিস্তা নদী - এখন পরিস্থিতি কেমন?",
             "link": "https://www.bbc.com/bengali/articles/c14deg3vzrko?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "সম্পত্তি হস্তান্তর আইনের সংশোধনী নিয়ে কিছু প্রশ্ন ও তার উত্তর",
-            "link": "https://www.bbc.com/bengali/articles/c93ek1yq4zno?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শাস্তি পাওয়া কর্মকর্তাদের ফিরিয়ে আনার সংস্কৃতি কী বার্তা দিচ্ছে?",
-            "link": "https://www.bbc.com/bengali/articles/clykg02v2j6o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "নারীদের এগ ফ্রিজিং কী, বাংলাদেশে কি এই সেবা আছে?",
-            "link": "https://www.bbc.com/bengali/articles/clylz35n9y0o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মার্কিন দূতদের সঙ্গে আলোচনার পর যুদ্ধ নিয়ে যা বললেন জেলেনস্কি",
-            "link": "https://www.bbc.com/bengali/articles/c5y4l7eepldo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss",
+            "title": "Forest fires force evacuations near resorts in Antalya",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
-            "link": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
+            "title": "Mladic’s funeral: Were no lessons learned?",
+            "link": "https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
-            "link": "https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss",
+            "title": "Polls suggest tight presidential race as Brazil marks Independence Day",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Hawaii braces for Hurricane Lowell",
-            "link": "https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss",
+            "title": "Houthi attacks on Saudi Arabia have wounded 73 civilians, official says",
+            "link": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-            "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+            "title": "‘House moved like jelly’ says resident near Bolivia barracks blast",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Indian temple collapses into Ganges as riverbank erodes",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss",
+            "title": "Real Madrid vs Inter: Champions League – preview, team news, prediction",
+            "link": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-vs-inter-champions-league-preview-team-news?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+            "title": "Flight recorders recovered from Amazon cargo plane crash",
             "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -83,45 +83,45 @@
             "source": "BBC World"
         },
         {
-            "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-            "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+            "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+            "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-            "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+            "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+            "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "CSA withdraw South African county players ahead of domestic season",
+            "title": "Kendel Kadowaki-Fleming to lead familiar looking Japan squad for India T20I",
+            "link": "https://www.cricinfo.com/ci/content/story/1553218.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "CA green lights BBL privatisation despite being 'a long way' from deal with players",
+            "link": "https://www.cricinfo.com/ci/content/story/1553214.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Mehidy Hasan Miraz set for CPL debut after joining Amazon Warriors",
+            "link": "https://www.cricinfo.com/ci/content/story/1553219.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Aryan Savsani and Tanmay Baloda replace suspended Rohit Yadav in India Under-19 squads",
+            "link": "https://www.cricinfo.com/ci/content/story/1553215.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Chapman shifts to casual New Zealand contract to play in the BBL",
+            "link": "https://www.cricinfo.com/ci/content/story/1553208.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "CSA withdraws South African county players ahead of domestic season",
             "link": "https://www.cricinfo.com/ci/content/story/1553204.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Kishan says captaincy has led to 'immense personal growth'",
-            "link": "https://www.cricinfo.com/ci/content/story/1553193.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Sandhu's 6 for 7 seals Pakistan's semi-final spot",
-            "link": "https://www.cricinfo.com/ci/content/story/1553203.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Duleep final: Karun Nair leaves South Zone squad, puts spotlight on selection",
-            "link": "https://www.cricinfo.com/ci/content/story/1553198.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'All we can do is add positivity' - Noffke seeks calm as Pakistan reshape Test attack",
-            "link": "https://www.cricinfo.com/ci/content/story/1553196.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Archer displays his new-found durability ... even if Pakistan have not",
-            "link": "https://www.cricinfo.com/ci/content/story/1553195.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -130,13 +130,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Can Kane buck history and win Ballon d'Or?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&at_campaign=rss",
+            "title": "Gauff's dominant win completes stacked US Open last eight",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Rybakina sweeps past Osaka to close in on number one ranking",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
+            "title": "Can Kane buck history and win Ballon d'Or?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -156,6 +156,11 @@
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+            "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Opaque recurrence, and other AI terms that you should probably know",
             "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -179,11 +184,6 @@
         {
             "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
             "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-            "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
             "source": "TechCrunch"
         },
         {
