@@ -33,38 +33,53 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "UN extends partial Sudan arms embargo for a month",
+            "link": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+            "link": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
+            "link": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
+            "link": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form",
+            "link": "https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Zohran Mamdani commemorates 9/11 amid widespread criticism",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US legislators push AI safety laws amid human extinction warnings",
-            "link": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
-            "link": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
-            "link": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Can BRICS help reshape global order by strengthening emerging economies?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
             "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
             "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+            "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Passenger train derails in France leaving at least 44 injured",
+            "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Arrest made over the death of black woman found hanged from tree",
+            "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -76,24 +91,14 @@
             "title": "Israel says it has destroyed major underground Hezbollah base",
             "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Princess Diana's 'revenge dress' goes up for auction",
-            "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-            "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-            "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Durham promoted as Division Two champions with rout of Middlesex",
+            "link": "https://www.cricinfo.com/ci/content/story/1553815.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Razaullah: 'I was just enjoying myself'",
             "link": "https://www.cricinfo.com/ci/content/story/1553853.html?ex_cid=OTC-RSS",
@@ -115,18 +120,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Durham promoted as Division Two champions with rout of Midlesex",
-            "link": "https://www.cricinfo.com/ci/content/story/1553815.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Esterhuizen maiden ODI ton, Duan Jansen four-for power South Africa to 2-0 lead",
             "link": "https://www.cricinfo.com/ci/content/story/1553832.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Zverev through to third Grand Slam final in a row",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Razaullah introduces himself as Pakistan thrive in chaos",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c158k8vn7vwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,34 +145,29 @@
             "source": "BBC Sports"
         },
         {
-            "title": "New Madrid circuit very high risk, says Russell",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cew9nr2kx20o?at_medium=RSS&at_campaign=rss",
+            "title": "Glitzy innovations but Duplantis still wins - new Ultimate Championship begins",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/c05r94l4j9go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "'Out of control' - Cook questions England tactics",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c1kxw9dn29ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Wigan beat Catalans to win sixth League Leaders' Shield",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c3v4zpewq6qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Richarlison's move to Vasco da Gama falls through",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr50q58vqggo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+            "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
             "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
             "source": "TechCrunch"
         },
         {
-            "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+            "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
             "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
             "source": "TechCrunch"
         },
@@ -179,11 +184,6 @@
         {
             "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
             "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-            "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
             "source": "TechCrunch"
         },
         {
