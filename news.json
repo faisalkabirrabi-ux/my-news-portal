@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "আওয়ামী লীগের কার্যক্রম নিষিদ্ধের বৈধতা নিয়ে করা রিট খারিজ",
+            "title": "নাসীরুদ্দীন পাটওয়ারীকে ঢাকা দক্ষিণ ও আসিফ মাহমুদকে ঢাকা উত্তর সিটিতে মেয়র প্রার্থী ঘোষণা এনসিপি'র",
             "link": "https://www.bbc.co.uk/bengali/live/c6gqdldz8xnpt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ঘোষণার পরেও নতুন বেতন কাঠামোর প্রজ্ঞাপন জারিতে দেরি হচ্ছে কেন?",
+            "link": "https://www.bbc.com/bengali/articles/ceq80q9xwzqo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "সাইবার সুরক্ষা আইনের সংশোধনী নিয়ে নতুন করে উদ্বেগ কেন",
+            "link": "https://www.bbc.com/bengali/articles/c3rejgdp3qgo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,57 +29,52 @@
             "title": "ইরাক থেকে ড্রোন হামলার পর সৌদি আরবের গুরুত্বপূর্ণ তেল পাইপলাইন বন্ধ",
             "link": "https://www.bbc.com/bengali/articles/crr4e1g9pl4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ড্রোন, সাইবার হামলা, অপপ্রচার: ইউরোপে যে 'হাইব্রিড যুদ্ধ' চালানোর অভিযোগ রাশিয়ার বিরুদ্ধে",
-            "link": "https://www.bbc.com/bengali/articles/c8r60y4v7zdo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'নিম্ন আয়ের ক্রেতার কাছে ডিমও এখন দামি'",
-            "link": "https://www.bbc.com/bengali/articles/c4gq76g9rv3o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Niger military government reshuffles army command weeks after deadly mutiny",
-            "link": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
+            "title": "Villagers in India tie technician to cell tower over 5G failure",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Voting under way in Sweden election that could see far right enter gov’t",
-            "link": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
+            "title": "Renewed fighting worsens Yemen’s humanitarian crisis",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
+            "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
+            "link": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Olympic flame arrives in Senegal for first ever Olympic event in Africa",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/olympic-flame-arrives-in-senegal-for-first-ever-olympic-event-in-africa?traffic_source=rss",
+            "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
+            "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Mystery son and disputed heir: Uganda’s king buried amid succession dispute",
-            "link": "https://www.aljazeera.com/news/2026/9/13/mystery-son-and-disputed-heir-ugandas-king-buried-amid-succession-dispute?traffic_source=rss",
+            "title": "The Iran war reveals the limits of BRICS",
+            "link": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Rescuers search for over 100 people after Indonesian passenger ship sinks",
-            "link": "https://www.aljazeera.com/news/2026/9/13/one-dead-102-rescued-after-indonesian-ferry-goes-missing-in-java-sea?traffic_source=rss",
+            "title": "The Houthis’ escalation in Yemen could flop",
+            "link": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-            "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+            "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+            "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-            "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+            "title": "Iran war reshapes Brics ties but also exposes divisions",
+            "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+            "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,17 +88,27 @@
             "source": "BBC World"
         },
         {
-            "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-            "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Six dead, 97 rescued from Indonesian ferry that went missing in Java Sea",
-            "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+            "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+            "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Fortuin, Hermann, Esterhuizen headline South Africa's 3-0 sweep of Namibia",
+            "link": "https://www.cricinfo.com/ci/content/story/1554019.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Trescothick set for discussions over future England role",
+            "link": "https://www.cricinfo.com/ci/content/story/1553997.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Bates, Green star as Tridents clinch last-gasp thriller",
+            "link": "https://www.cricinfo.com/ci/content/story/1553976.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Injured Baartman out of Australia ODIs, Duan Jansen named replacement",
             "link": "https://www.cricinfo.com/ci/content/story/1553992.html?ex_cid=OTC-RSS",
@@ -105,33 +120,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Bates, Green star as Tridents clinch last-gasp thriller",
-            "link": "https://www.cricinfo.com/ci/content/story/1553976.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Motie's late hits clinch thriller; Tridents, Kingsmen through to playoffs",
             "link": "https://www.cricinfo.com/ci/content/story/1553979.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Joe Root eyes England progress after 'unusual summer'",
-            "link": "https://www.cricinfo.com/ci/content/story/1553956.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Ottneil Baartman injury concern for South Africa",
-            "link": "https://www.cricinfo.com/ci/content/story/1553966.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Garcia crushes overmatched Benn in two rounds",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/cr7dm1vk7pgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Fixed v fluid - the opposing approaches of Maresca and Carrick",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cn45w80wn5xo?at_medium=RSS&at_campaign=rss",
+            "title": "Garcia reality check bursts Benn's bubble in Vegas",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/cx2zy36rzjzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +135,32 @@
             "source": "BBC Sports"
         },
         {
-            "title": "No away fans, Euro calamities & derby debuts - why Old Firm tie is crucial",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx2zpjpwz0wo?at_medium=RSS&at_campaign=rss",
+            "title": "England Test opener may not have to be specialist - Trescothick",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c0j3d0gz6d1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Tough to control emotions' as Sabalenka suffers another near miss",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cy7zej21x6do?at_medium=RSS&at_campaign=rss",
+            "title": "Arsenal hold off energetic Sunderland to continue perfect title defence",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c5ympj1m71ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss",
+            "title": "Tottenham's wait for league goal continues after Everton draw",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cg49xg625n0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Hull remain unbeaten in league after impressive Chelsea draw",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cwyz533qlw8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Fusion power startups find new partners in the defense world",
+            "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
             "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-            "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "10 Best Standing Desks Worth Buying in 2026",
-            "link": "https://www.wired.com/gallery/best-standing-desks/",
+            "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
+            "link": "https://www.wired.com/story/best-smart-bird-feeders/",
             "source": "Wired"
         },
         {
-            "title": "The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’",
-            "link": "https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/",
+            "title": "Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser",
+            "link": "https://www.wired.com/story/iphone-settings-ios-27-safari-browser/",
             "source": "Wired"
         },
         {
-            "title": "The Best 3-in-1 Apple Charging Stations After Testing 30+ Models",
-            "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
+            "title": "Best Indoor Garden Systems I’ve Been Testing All Year (2026)",
+            "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
             "source": "Wired"
         },
         {
-            "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-            "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+            "title": "Coway Airmega Halo Review: Is Your Air Really Clean?",
+            "link": "https://www.wired.com/review/coway-airmega-halo/",
             "source": "Wired"
         },
         {
-            "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
-            "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+            "title": "AI Agents Are Thirsty for Power",
+            "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
             "source": "Wired"
         },
         {
-            "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
-            "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
+            "title": "With a Better Understanding of Physics, We Could Predict Volcanic Eruptions",
+            "link": "https://www.wired.com/story/physics-predict-volcanic-eruptions/",
             "source": "Wired"
         }
     ]
