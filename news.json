@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "ডাকসুতে জিন্নাহ'র ছবি প্রদর্শনকারীদের বিরুদ্ধে ব্যবস্থা গ্রহণ করা হবে: ঢাবি কর্তৃপক্ষ",
+            "title": "ভারত থেকে বাংলাদেশে টনে টনে ইলিশ আমদানি কেন হচ্ছে",
+            "link": "https://www.bbc.com/bengali/articles/cmz7znp5477qo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ডাকসুতে জিন্নাহর ছবি টানানো, শিক্ষক মূল্যায়নসহ তিন ঘটনা তদন্তে তিন কমিটি",
             "link": "https://www.bbc.co.uk/bengali/live/cmy8z45jvyvjt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "এশিয়া কাপে আরো একবার ভূলুণ্ঠিত ক্রিকেটের সৌজন্য",
+            "link": "https://www.bbc.com/bengali/articles/cr86x57l7vz4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,47 +29,37 @@
             "title": "ইরান যুদ্ধ ব্রিকস সম্পর্ক নতুন করে তৈরি করছে, যদিও বিভেদ এখনো আছে",
             "link": "https://www.bbc.com/bengali/articles/c4gm4vv5106o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শরীরে চর্বির দলা 'লাইপোমা', এটি কি ক্যান্সারে রূপ নিতে পারে?",
-            "link": "https://www.bbc.com/bengali/articles/c5y9r40knepo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: '২৪ পাবলিক বিশ্ববিদ্যালয়ে ২ হাজার কোটি টাকার অনিয়ম'",
-            "link": "https://www.bbc.com/bengali/articles/cx2z58k5ry1o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
-            "link": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss",
+            "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Tom Aspinall vacates UFC heavyweight title due to eye injury",
-            "link": "https://www.aljazeera.com/sports/2026/9/14/tom-aspinall-vacates-ufc-heavyweight-title-due-to-eye-injury?traffic_source=rss",
+            "title": "India to supply Nepal electricity after floods wrecked hydropower projects",
+            "link": "https://www.aljazeera.com/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
-            "link": "https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100?traffic_source=rss",
+            "title": "Carney pitches Canada to global investors amid US trade war",
+            "link": "https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "South Korea’s new manager Robert Moreno dismisses ‘AI coaching’ allegations",
-            "link": "https://www.aljazeera.com/sports/2026/9/14/south-koreas-new-manager-robert-moreno-dismisses-ai-coaching-allegations?traffic_source=rss",
+            "title": "EU states to raise game as Arctic becomes strategic geopolitical frontier",
+            "link": "https://www.aljazeera.com/news/2026/9/14/eu-states-to-raise-game-as-arctic-becomes-strategic-geopolitical-frontier?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Strait of Hormuz talks postponed due to Yemen events, says Iran",
-            "link": "https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran?traffic_source=rss",
+            "title": "Syria fuel price hikes test public patience with economic recovery",
+            "link": "https://www.aljazeera.com/features/2026/9/14/syria-fuel-price-hikes-test-public-patience-with-economic-recovery?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US may be ‘forced to intervene’ in the Red Sea",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/us-may-be-forced-to-intervene-in-the-red-sea?traffic_source=rss",
+            "title": "Private schools become a costly choice for struggling parents in Gaza",
+            "link": "https://www.aljazeera.com/features/2026/9/14/private-schools-become-a-costly-choice-for-struggling-in-gaza?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,118 +73,123 @@
             "source": "BBC World"
         },
         {
-            "title": "Thousands demand end to violence in Mexican cartel hotspot",
-            "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
             "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-            "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+            "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+            "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-            "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+            "title": "Thousands demand end to violence in Mexican cartel hotspot",
+            "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Body of missing runner found in South Africa",
+            "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Mukesh signs with Nottinghamshire for two County Championship matches",
+            "link": "https://www.cricinfo.com/ci/content/story/1554237.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Fleming to link up with T20I squad in preparation for Test coaching stint",
+            "link": "https://www.cricinfo.com/ci/content/story/1554232.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "England look to continue domineering T20 form",
+            "link": "https://www.cricinfo.com/ci/content/story/1554229.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Varun to miss rest of Afghanistan T20Is with injury",
+            "link": "https://www.cricinfo.com/ci/content/story/1554235.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Afghanistan look for better result as India hope for a repeat of near-perfect opener",
             "link": "https://www.cricinfo.com/ci/content/story/1554188.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Muzumdar sees 'scope for improvement' after India drop five catches",
-            "link": "https://www.cricinfo.com/ci/content/story/1554172.html?ex_cid=OTC-RSS",
+            "title": "Jamie Smith ruled out of Surrey's fight for Championship survival",
+            "link": "https://www.cricinfo.com/ci/content/story/1554227.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Zimbabwe plot to topple Australia again with World Cup on horizon",
-            "link": "https://www.cricinfo.com/ci/content/story/1554180.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Pakistan docked 11 WTC points for a slow over-rate in Edgbaston Test",
-            "link": "https://www.cricinfo.com/ci/content/story/1554191.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Vaas and Mishra set to join Delhi Capitals as bowling coaches",
-            "link": "https://www.cricinfo.com/ci/content/story/1554192.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "A year to go - Australia's to-do list for ODI World Cup defence",
-            "link": "https://www.cricinfo.com/ci/content/story/1554171.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'This is what women in sport look like' - Hunt responds to controversial Sweeney advert",
+            "title": "'This is what women in sport look like' - Hunt leads response to Sweeney advert",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Familiar questions for Man Utd, now Carrick must find answers",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cddv5mqjgvlo?at_medium=RSS&at_campaign=rss",
+            "title": "No weekend game for Manchester derby VAR officials",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Zverev turns US Open tears into triumph in transformational year",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/clyrkeyn5pgo?at_medium=RSS&at_campaign=rss",
+            "title": "Brands v country - Kerr ramps up kit battle after latest victory",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Big Ludo' - trailblazing keeper who became West Ham cult figure",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cd620083wp0o?at_medium=RSS&at_campaign=rss",
+            "title": "Madrid F1 circuit set for changes after criticism",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/ckwyzllzdq43o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "How did the first Ultimate Championship go?",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjkwl78plro?at_medium=RSS&at_campaign=rss",
+            "title": "Pollock still 'open to new opportunities' as Northampton talks go on",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck1e54qzjqljo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "How youth helped Nordqvist answer critics and deliver Solheim Cup win",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/cg49nxv2ykgo?at_medium=RSS&at_campaign=rss",
+            "title": "Is the Premier League already a two-team title race?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqwyzxx96wnwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-            "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+            "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+            "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
             "source": "TechCrunch"
         },
         {
-            "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-            "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+            "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+            "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
             "source": "TechCrunch"
         },
         {
-            "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-            "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+            "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+            "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
             "source": "TechCrunch"
         },
         {
-            "title": "What’s behind the AI industry’s latest warnings of doom?",
-            "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+            "title": "With iOS 27, I’m actually using Siri again",
+            "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
             "source": "TechCrunch"
         },
         {
-            "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-            "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+            "title": "macOS 27: new Siri takes on AI productivity apps",
+            "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
             "source": "TechCrunch"
         },
         {
-            "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-            "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+            "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+            "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
+            "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+            "source": "Wired"
         },
         {
             "title": "The Best Air Purifier of 2026: Tested Picks for Every Room",
@@ -209,11 +214,6 @@
         {
             "title": "Roborock Qrevo 2 Review (2026): A New Budget Vacuum King?",
             "link": "https://www.wired.com/review/roborock-qrevo-2-pro/",
-            "source": "Wired"
-        },
-        {
-            "title": "Best Noise-Canceling Earbuds (2026): Bose, Apple, Samsung, Beats, and More",
-            "link": "https://www.wired.com/story/best-noise-canceling-earbuds/",
             "source": "Wired"
         }
     ]
