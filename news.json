@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli quadcopter terrorises homes in Gaza City",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
+            "link": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Zverev defeats Shelton in four sets to win his first US Open title",
             "link": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Could AI really kill us within a decade?",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Barcelona beat Levante as Yamal scores twice to maintain perfect start",
-            "link": "https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles",
-            "link": "https://www.aljazeera.com/sports/2026/9/13/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Manchester City wrongly awarded Haaland goal by VAR at United: Refs’ body",
-            "link": "https://www.aljazeera.com/sports/2026/9/13/manchester-city-wrongly-awarded-haaland-goal-by-var-at-united-refs-body?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Tehran and Muscat delay talks, citing regional consensus need",
-            "link": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Melbourne Stars sign Overton twins simultaneously",
+            "link": "https://www.cricinfo.com/ci/content/story/1554162.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "India win the Asia Cup but no trophy presentation... again",
             "link": "https://www.cricinfo.com/ci/content/story/1554161.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -120,17 +125,12 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "All-round Bosch puts South Africa 2-0 up",
-            "link": "https://www.cricinfo.com/ci/content/story/1554043.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Refereeing body admits judgement error over Haaland derby winner",
             "link": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Their intelligence & resilience was key' - how Man City earned 'statement win'",
+            "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
             "link": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
@@ -157,7 +157,7 @@
     ],
     "প্রযুক্তি": [
         {
-            "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+            "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
             "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
             "source": "TechCrunch"
         },
