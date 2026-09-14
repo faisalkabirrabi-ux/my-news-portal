@@ -1,6 +1,21 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "বরিস জনসন ও ইউরোপের শীর্ষ কর্মকর্তারা স্টেশন ছাড়ার পর ইউক্রেনের ট্রেনে রাশিয়ার হামলা",
+            "link": "https://www.bbc.com/bengali/articles/cq5xqwy65zjo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ইরান যুদ্ধ ব্রিকস সম্পর্ক নতুন করে তৈরি করছে, যদিও বিভেদ এখনো আছে",
+            "link": "https://www.bbc.com/bengali/articles/c4gm4vv5106o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: '২৪ পাবলিক বিশ্ববিদ্যালয়ে ২ হাজার কোটি টাকার অনিয়ম'",
+            "link": "https://www.bbc.com/bengali/articles/cx2z58k5ry1o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ঘোষণার পরেও নতুন বেতন কাঠামোর প্রজ্ঞাপন জারিতে দেরি হচ্ছে কেন?",
             "link": "https://www.bbc.com/bengali/articles/ceq80q9xwzqo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -14,52 +29,37 @@
             "title": "সাইবার সুরক্ষা আইনের সংশোধনী নিয়ে নতুন করে উদ্বেগ কেন",
             "link": "https://www.bbc.com/bengali/articles/c3rejgdp3qgo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইনানীতে বিপন্ন মেঘলা চিতাসহ আরও যেসব প্রাণীর দেখা মিললো",
-            "link": "https://www.bbc.com/bengali/articles/c4gq77m9l21o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ছাদ থেকে সৌর বিদ্যুৎ বাড়ানোর লক্ষ্য সফল হবে কীভাবে?",
-            "link": "https://www.bbc.com/bengali/articles/cvgyvdzvnyzo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইরাক থেকে ড্রোন হামলার পর সৌদি আরবের গুরুত্বপূর্ণ তেল পাইপলাইন বন্ধ",
-            "link": "https://www.bbc.com/bengali/articles/crr4e1g9pl4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
+            "title": "Protests break out across Syria over fuel price increases",
+            "link": "https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
+            "title": "Residents help battle forest fires threatening homes in Ecuadorian capital",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/13-09-sv-residents-battle-wildfire-in-quito-ecuador?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli quadcopter terrorises homes in Gaza City",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
+            "title": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
+            "link": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
-            "link": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
+            "title": "Turkish authorities launch anti-LGBTQ raids, detaining dozens",
+            "link": "https://www.aljazeera.com/news/2026/9/14/turkish-authorities-launch-anti-lgbtq-raids-detaining-dozens?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Zverev defeats Shelton in four sets to win his first US Open title",
-            "link": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
+            "title": "Japanese PM-backed candidate wins Okinawa gubernatorial election",
+            "link": "https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Could AI really kill us within a decade?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss",
+            "title": "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/russia-hits-ukrainian-train-shortly-after-boris-johnson-leaves-station?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,7 +78,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Swedish party blocs tied after Sunday vote, projections say",
+            "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
             "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -95,33 +95,33 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Zimbabwe plot to topple Australia again with World Cup on horizon",
+            "link": "https://www.cricinfo.com/ci/content/story/1554180.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Pybus: 'We made fundamental mistakes, we'll be reviewing that'",
+            "link": "https://www.cricinfo.com/ci/content/story/1554177.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Muzumdar sees 'scope for improvement' after India drop five catches",
+            "link": "https://www.cricinfo.com/ci/content/story/1554172.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Tridents crush Amazon Warriors to set up Eliminator clash with Kingsmen",
+            "link": "https://www.cricinfo.com/ci/content/story/1554169.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Salman Agha responds to Test axing with triple century",
+            "link": "https://www.cricinfo.com/ci/content/story/1554163.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Melbourne Stars sign Overton twins simultaneously",
             "link": "https://www.cricinfo.com/ci/content/story/1554162.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "India win the Asia Cup but no trophy presentation... again",
-            "link": "https://www.cricinfo.com/ci/content/story/1554161.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Harmanpreet Kaur says good to see Shafali Verma taking responsibility",
-            "link": "https://www.cricinfo.com/ci/content/story/1554159.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Shafali, Mandhana power India to eighth Asia Cup title",
-            "link": "https://www.cricinfo.com/ci/content/story/1554152.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Sri Lanka lose rain-affected warm-up against England Lions",
-            "link": "https://www.cricinfo.com/ci/content/story/1554151.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Abhishek lights up Delhi as India cruise past Afghanistan",
-            "link": "https://www.cricinfo.com/ci/content/story/1554143.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -130,13 +130,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
+            "title": "Zverev turns US Open tears into triumph",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/clyrkeyn5pgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Zverev caps transformational year with US Open triumph",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
+            "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Haaland scores controversial winner as Man City win derby despite Foden red",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
+            "title": "Bears, Bills and Ravens win on record-breaking Sunday",
+            "link": "https://www.bbc.co.uk/sport/american-football/articles/c86x5pq12e6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Finally got our points' - Hull and Woad shine in European Solheim win",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/c0m3pnlyl9vo?at_medium=RSS&at_campaign=rss",
+            "title": "Haaland scores controversial winner as Man City win derby despite Foden red",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
