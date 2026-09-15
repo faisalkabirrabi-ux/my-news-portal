@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Russia resupplies military bases in Syria for first time under new deal",
+            "link": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Geneva talks put Rwanda-DRC peace deal to the test",
+            "link": "https://www.aljazeera.com/news/2026/9/15/geneva-talks-put-rwanda-drc-peace-deal-to-the-test?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Sweden election is too close to call as far right loses ground",
+            "link": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Landowners in Texas ask court to stop Trump border wall",
             "link": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Israeli attack targets Gaza displacement camp",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US repeals rules limiting greenhouse gas emissions by power plants",
-            "link": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -125,13 +125,13 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Leeds inflict heavy defeat on Newcastle to climb to third",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
+            "title": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6790xr3wvr7o?at_medium=RSS&at_campaign=rss",
+            "title": "Leeds inflict heavy defeat on Newcastle to climb to third",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "No weekend game for Manchester derby VAR officials",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
+            "title": "Who has made Troy's Premier League team of the week?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Pollock still 'open to new opportunities' as Northampton talks go on",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck1e54qzjqljo?at_medium=RSS&at_campaign=rss",
+            "title": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6790xr3wvr7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,6 +187,11 @@
             "source": "TechCrunch"
         },
         {
+            "title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
+            "link": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
+            "source": "Wired"
+        },
+        {
             "title": "The Top New Features in Apple’s iOS 27 and iPadOS 27",
             "link": "https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/",
             "source": "Wired"
@@ -209,11 +214,6 @@
         {
             "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
             "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-            "source": "Wired"
-        },
-        {
-            "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
-            "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
             "source": "Wired"
         }
     ]
