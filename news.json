@@ -1,6 +1,21 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "যুক্তরাষ্ট্রে হামের প্রকোপ, পেনসিলভেনিয়ায় চতুর্থ মৃত্যুর খবর জানালো কর্তৃপক্ষ",
+            "link": "https://www.bbc.com/bengali/articles/cmlyrn05nnxro?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'সর্বজনীন পেনশনে পরিবর্তন আসছে, আজীবন সুবিধা পাবেন স্বামী-স্ত্রী'",
+            "link": "https://www.bbc.com/bengali/articles/ck3re1vx2l8ro?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "সোভিয়েত আমলের যে হ্রদে এখনো ভেসে ওঠে মানুষের হাড়গোড়",
+            "link": "https://www.bbc.com/bengali/articles/cwe87gjz95ddo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "কারখানায় সরবরাহ বেড়েছে, বাসাবাড়িতে গ্যাস বিদ্যুৎ সংকট কাটবে কবে?",
             "link": "https://www.bbc.com/bengali/articles/c60qx40dk7l4o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -14,52 +29,37 @@
             "title": "মহাকাশে অস্ত্র মোতায়েন করেছে যুক্তরাষ্ট্র",
             "link": "https://www.bbc.com/bengali/articles/cw1l6zvgm0ngo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বাংলাদেশে সবচেয়ে বেশি দেখা যায় কোন ১০টি সাপ ও এর কতগুলো বিষধর?",
-            "link": "https://www.bbc.com/bengali/articles/c9w0egg11zro?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "যে চার অভিযোগে ওবায়দুল কাদেরসহ সাতজনের মৃত্যুদণ্ড ও আমৃত্যু কারাদণ্ড",
-            "link": "https://www.bbc.com/bengali/articles/cqy0z5nljn83o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "হিমালয়ের হিমবাহ দ্রুত গলছে, 'ঝুঁকি' তৈরি করছে ভারতের অর্থনীতির জন্য",
-            "link": "https://www.bbc.com/bengali/articles/cme8x6ez73eyo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Argentina intensifies campaign against Falklands oil companies",
-            "link": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
+            "title": "At least 10 dead, dozens missing in Gaza building collapse",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
-            "link": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
+            "title": "Gaza residential building collapses, six families reportedly trapped",
+            "link": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ed Sheeran blames US tour promoter for dropping Macklemore",
-            "link": "https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss",
+            "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
+            "link": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why is the far-right embracing crypto?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto?traffic_source=rss",
+            "title": "China’s defence chief warns against coercion, avoids US, Japan mention",
+            "link": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Algeria faces calls to drop death penalty plans after wildfires",
-            "link": "https://www.aljazeera.com/news/2026/9/15/algeria-faces-calls-to-drop-death-penalty-plans-after-wildfires?traffic_source=rss",
+            "title": "Is US health care too broken to cure cancer?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/aje-onl-nf_us-healthcare-too-broken-to-cure-cancer-150926?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US Senate crypto bill collapses in blow to industry",
-            "link": "https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss",
+            "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,21 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Renshaw adjusting to his varied all-format lifestyle",
+            "link": "https://www.cricinfo.com/ci/content/story/1554397.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Bangladesh committee names Asif Nazrul as sole decision-maker of pulling out of T20 World Cup",
+            "link": "https://www.cricinfo.com/ci/content/story/1554398.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Samson, Abhishek and Reddy power India to series win",
+            "link": "https://www.cricinfo.com/ci/content/story/1554367.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Brook, Buttler, Baker star as Sri Lanka slump to 119-run rout",
             "link": "https://www.cricinfo.com/ci/content/story/1554393.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -107,21 +122,6 @@
         {
             "title": "Zak Crawley resists as wickets tumble",
             "link": "https://www.cricinfo.com/ci/content/story/1554330.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Auqib Nabi, Zain-ul-Hassan claim four each on 20-wicket day",
-            "link": "https://www.cricinfo.com/ci/content/story/1554326.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Twin tons rescue Derbyshire",
-            "link": "https://www.cricinfo.com/ci/content/story/1554329.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Ball dominates bat as Somerset keep chasing title",
-            "link": "https://www.cricinfo.com/ci/content/story/1554322.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -157,6 +157,11 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+            "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "The AI data center boom is colliding with cities scarred by big industry",
             "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
             "source": "TechCrunch"
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "AI agents now have a place to snitch",
-            "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-            "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+            "title": "Walmart Promo Codes: 20% Off for September 2026",
+            "link": "https://www.wired.com/story/top-walmart-promo-codes/",
             "source": "Wired"
         },
         {
-            "title": "The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards",
-            "link": "https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/",
+            "title": "Sam's Club Promo Codes and Membership Deals for September 2026",
+            "link": "https://www.wired.com/story/sams-club-coupon/",
             "source": "Wired"
         },
         {
-            "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-            "link": "https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/",
+            "title": "Rover Promo Codes and Referral Deals for 2026",
+            "link": "https://www.wired.com/story/rover-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Join WIRED@Night for an Uncanny Valley Live Recording on Women, Tech, and Power",
-            "link": "https://www.wired.com/story/come-see-uncanny-valley-live/",
+            "title": "Bose Promo Code: 40% Off for September 2026",
+            "link": "https://www.wired.com/story/bose-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
-            "link": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+            "title": "Office Depot Coupons: $20 Off September 2026",
+            "link": "https://www.wired.com/story/office-depot-promo-codes/",
             "source": "Wired"
         },
         {
-            "title": "Why the Postpandemic Tech Bust Sent Billionaires to Trump",
-            "link": "https://www.wired.com/story/against-tech-oligarchy-book-excerpt-trump-billionaries/",
+            "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
+            "link": "https://www.wired.com/story/naturepedic-promo-code/",
             "source": "Wired"
         }
     ]
