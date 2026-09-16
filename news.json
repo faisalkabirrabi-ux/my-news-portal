@@ -33,34 +33,39 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Romanian shepards and farmers clash with police",
-            "link": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
+            "title": "Argentina intensifies campaign against Falklands oil companies",
+            "link": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "What makes these midterms so pivotal?",
-            "link": "https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss",
+            "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
+            "link": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why do some African leaders gamble with term limits?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/9/15/why-do-some-african-leaders-gamble-with-term-limits-2?traffic_source=rss",
+            "title": "Ed Sheeran blames US tour promoter for dropping Macklemore",
+            "link": "https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
-            "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
+            "title": "Why is the far-right embracing crypto?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Kennedy Center closes amid financial crisis and Trump name dispute",
-            "link": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
+            "title": "Algeria faces calls to drop death penalty plans after wildfires",
+            "link": "https://www.aljazeera.com/news/2026/9/15/algeria-faces-calls-to-drop-death-penalty-plans-after-wildfires?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Blanche says admin will comply with mail ballot ruling, defends Trump",
-            "link": "https://www.aljazeera.com/news/2026/9/15/blanche-says-admin-will-comply-with-mail-ballot-ruling-defends-trump?traffic_source=rss",
+            "title": "US Senate crypto bill collapses in blow to industry",
+            "link": "https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+            "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Denmark says Russian warship fired flares at military helicopter",
@@ -70,11 +75,6 @@
         {
             "title": "What weapon could the US have put into space?",
             "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Suspected sabotage causes major Netherlands rail disruption",
-            "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -94,6 +94,11 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Brook, Buttler, Baker star as Sri Lanka slump to 119-run rout",
+            "link": "https://www.cricinfo.com/ci/content/story/1554393.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Yuvraj: India must avoid 'massive changes' ahead of 2027 ODI World Cup",
             "link": "https://www.cricinfo.com/ci/content/story/1554300.html?ex_cid=OTC-RSS",
@@ -120,13 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Hutton grit helps bail out champions at Hove",
-            "link": "https://www.cricinfo.com/ci/content/story/1554320.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "VAR did not even consider if Fernandez was offside - Webb",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&at_campaign=rss",
+            "title": "Brook likened to Pietersen in SL win - how do they compare?",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Let them ref the games and be humans - Andrews",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cxj06nmjl3l6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Brook & Baker shine as England crush Sri Lanka",
+            "link": "https://www.bbc.co.uk/sport/cricket/videos/cv70dl8301xyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Youth star JJ Gabriel, 15, on brink of leaving Man Utd",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c95y4dxr0v6do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
             "link": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Sterling admits dangerous driving on motorway before crash",
-            "link": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "PGA Tour not planning return programme for LIV stars",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/c5pve7md09wgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "The AI data center boom is colliding with cities scarred by big industry",
+            "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
             "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
@@ -179,11 +184,6 @@
         {
             "title": "AI agents now have a place to snitch",
             "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "US military says it has launched weapons into space",
-            "link": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
             "source": "TechCrunch"
         },
         {
