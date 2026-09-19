@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "'একই কায়দায়' ফেলে রাখা ৯ নারীর মরদেহ উদ্ধার দক্ষিণ আফ্রিকায়",
+            "link": "https://www.bbc.com/bengali/articles/cme305vj2570o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ট্রাম্পের হুমকির পর গ্রিনল্যান্ড নিয়ে চুক্তিতে পৌঁছালো যুক্তরাষ্ট্র ও ডেনমার্ক",
             "link": "https://www.bbc.com/bengali/articles/cmge401ndx2zo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -8,6 +13,11 @@
         {
             "title": "বিদ্যুতের মিটার ভাড়া ও ডিমান্ড চার্জ নিয়ে প্রশ্ন-আপত্তি কেন?",
             "link": "https://www.bbc.com/bengali/articles/ck5ye403yyg5o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "সিএনএন-সহ তিনটি সংবাদ মাধ্যমকে হোয়াইট হাউজে নিষিদ্ধ করলেন ট্রাম্প",
+            "link": "https://www.bbc.com/bengali/articles/cq0lre1y0lrwo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,47 +29,37 @@
             "title": "জাফর ইকবাল ও মাকসুদ কামালের বিরুদ্ধে মানবতাবিরোধী অপরাধের কী অভিযোগ আনা হয়েছে?",
             "link": "https://www.bbc.com/bengali/articles/cqkgv2vz8z0go?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মমতা ব্যানার্জীর দলের নাম বদলে দিল নির্বাচন কমিশন, প্রতীক 'ফুটবল খেলোয়াড়'",
-            "link": "https://www.bbc.com/bengali/articles/cmrl6461857ko?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "সৌদি তেল সংকট সবখানেই জিনিসপত্রের দাম বাড়িয়ে দিতে পারে",
-            "link": "https://www.bbc.com/bengali/articles/cqwyz8ewkelwo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "North Korea dismisses UN nuclear watchdog resolution",
-            "link": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss",
+            "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
+            "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Report: More US troops have died in Iran war than Pentagon says",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss",
+            "title": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
+            "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "South Africans voice their anger as hundreds hold femicide vigil",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss",
+            "title": "Trump ‘settled for less’ with new US-Denmark Greenland security deal",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-settled-for-less-with-new-us-denmark-greenland-security-deal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US court blocks Trump plan to deport migrants to third countries",
-            "link": "https://www.aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries?traffic_source=rss",
+            "title": "Ugo Ugochukwu: Road to F1",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/ugo-ugochukwu-road-to-f1?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iranian women defy law and run Tehran race without hijab",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
+            "title": "Russia’s elections are more than political theatre",
+            "link": "https://www.aljazeera.com/opinions/2026/9/19/russias-elections-are-more-than-political-theatre?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Google’s Gemini AI hacks 3 companies in security test, then stops",
-            "link": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops?traffic_source=rss",
+            "title": "Could US pull one-third of troops from Europe? What that would mean",
+            "link": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,60 +68,60 @@
             "source": "BBC World"
         },
         {
-            "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-            "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "Trump says he is banning CNN and Politico from White House",
             "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-            "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+            "title": "Google's Gemini AI hacked three companies in security test",
+            "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-            "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+            "title": "Trump signs sweeping Russia sanctions bill",
+            "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-            "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+            "title": "Grim discoveries of murdered women spark fear in South Africa",
+            "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+            "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Pakistan face familiar Sri Lanka in Asian Games semi-final",
+            "link": "https://www.cricinfo.com/ci/content/story/1554968.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Green could return as dominant Australia seek series sweep",
+            "link": "https://www.cricinfo.com/ci/content/story/1554955.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "'Maybe the best one that I've played' - Powell pleased with match-winning CPL bash",
+            "link": "https://www.cricinfo.com/ci/content/story/1554960.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Hetmyer century in vain as Powell powers Kingsmen to CPL final",
             "link": "https://www.cricinfo.com/ci/content/story/1554957.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Ravindra in doubt for India T20Is after dislocating right shoulder during promo shoot",
+            "title": "Ravindra in doubt for India T20Is after dislocating shoulder during promo shoot",
             "link": "https://www.cricinfo.com/ci/content/story/1554947.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
             "title": "Rain allows Western Australia to escape after Fraser-McGurk's onslaught",
             "link": "https://www.cricinfo.com/ci/content/story/1554946.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Doggett adds miles to his legs amid Border-Gavaskar Trophy ambitions",
-            "link": "https://www.cricinfo.com/ci/content/story/1554922.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Northants denied by elements as promotion race goes to wire",
-            "link": "https://www.cricinfo.com/ci/content/story/1554921.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Brydon Carse won't face charges over Derby nightclub incident",
-            "link": "https://www.cricinfo.com/ci/content/story/1554937.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -135,8 +135,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Brentford stay unbeaten as they put three past Chelsea",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+            "title": "Arsenal open to Dowman loan in right circumstances",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,13 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "McIlroy in mix heading into weekend at Wentworth",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/c94gm0gg6mm7o?at_medium=RSS&at_campaign=rss",
+            "title": "Winless Villa and Spurs face telling early showdown",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6ly7vg8n7geo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "A weight off Igor Thiago's shoulders - Brentford v Chelsea ratings",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm046x9l6d6po?at_medium=RSS&at_campaign=rss",
+            "title": "The man who would be king - the rise and fall of 'the next Prince Naseem'",
+            "link": "https://www.bbc.co.uk/news/articles/c5ye0l17dnjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Flock Offers Employees Buyouts as Customers Flee",
-            "link": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+            "title": "6 Best VPN Services (2026), Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-vpn/",
             "source": "Wired"
         },
         {
-            "title": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
-            "link": "https://www.wired.com/review/apple-watch-ultra-4/",
+            "title": "Join the WIRED World Fair in Miami on November 4",
+            "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
             "source": "Wired"
         },
         {
-            "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-            "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+            "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
+            "link": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
             "source": "Wired"
         },
         {
-            "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-            "link": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+            "title": "Paramount+ Coupon Codes and Deals for September 2026",
+            "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-            "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+            "title": "B&H Photo Promo Codes and Deals This September 2026",
+            "link": "https://www.wired.com/story/bh-photo-coupon/",
             "source": "Wired"
         },
         {
-            "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-            "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+            "title": "KitchenAid Promo Codes: Save Up to 20%",
+            "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
             "source": "Wired"
         }
     ]
