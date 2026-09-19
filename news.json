@@ -1,6 +1,21 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "কুমিল্লায় অপ্রতীমের হত্যায় কিছু ক্লু পাওয়ার তথ্য পুলিশের, সর্বশেষ যা জানা যাচ্ছে",
+            "link": "https://www.bbc.com/bengali/articles/cmde0536dwyno?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "নতুন বেতন কাঠামোর প্রজ্ঞাপন জারি, জুলাই থেকে বাড়তি বেতন",
+            "link": "https://www.bbc.com/bengali/articles/cx4gq6d59ry9o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "দ্বিতীয় লংমার্চ থেকে যেসব দাবিদাওয়া জানাল জামায়াত নেতৃত্বাধীন বিরোধী জোট",
+            "link": "https://www.bbc.com/bengali/articles/cm3wj344ng6eo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "'একই কায়দায়' ফেলে রাখা ৯ নারীর মরদেহ উদ্ধার দক্ষিণ আফ্রিকায়",
             "link": "https://www.bbc.com/bengali/articles/cme305vj2570o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -14,52 +29,37 @@
             "title": "বিদ্যুতের মিটার ভাড়া ও ডিমান্ড চার্জ নিয়ে প্রশ্ন-আপত্তি কেন?",
             "link": "https://www.bbc.com/bengali/articles/ck5ye403yyg5o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "সিএনএন-সহ তিনটি সংবাদ মাধ্যমকে হোয়াইট হাউজে নিষিদ্ধ করলেন ট্রাম্প",
-            "link": "https://www.bbc.com/bengali/articles/cq0lre1y0lrwo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'সন্দেহজনক ভ্রমণে বিমানবন্দর থেকে ফেরত ৮১,৫০০ বিদেশগামী'",
-            "link": "https://www.bbc.com/bengali/articles/cxnvl8qm0735o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "জাফর ইকবাল ও মাকসুদ কামালের বিরুদ্ধে মানবতাবিরোধী অপরাধের কী অভিযোগ আনা হয়েছে?",
-            "link": "https://www.bbc.com/bengali/articles/cqkgv2vz8z0go?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
-            "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
+            "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+            "link": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
-            "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
+            "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump ‘settled for less’ with new US-Denmark Greenland security deal",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-settled-for-less-with-new-us-denmark-greenland-security-deal?traffic_source=rss",
+            "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
+            "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ugo Ugochukwu: Road to F1",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/ugo-ugochukwu-road-to-f1?traffic_source=rss",
+            "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
+            "link": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Russia’s elections are more than political theatre",
-            "link": "https://www.aljazeera.com/opinions/2026/9/19/russias-elections-are-more-than-political-theatre?traffic_source=rss",
+            "title": "Asian Games 2026: Top athletes and storylines to look out for",
+            "link": "https://www.aljazeera.com/sports/2026/9/19/asian-games-2026-top-athletes-and-storylines-to-look-out-for?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Could US pull one-third of troops from Europe? What that would mean",
-            "link": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean?traffic_source=rss",
+            "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
+            "link": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -88,25 +88,35 @@
             "source": "BBC World"
         },
         {
-            "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-            "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+            "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+            "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
+            "title": "England bowl first in bid for series clean sweep against Sri Lanka",
+            "link": "https://www.cricinfo.com/ci/content/story/1555015.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Liam Blackford's stunning debut 149* pulls of remarkable Victoria chase",
+            "link": "https://www.cricinfo.com/ci/content/story/1554990.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Bangladesh pick Hridoy for one-off Test against Afghanistan",
+            "link": "https://www.cricinfo.com/ci/content/story/1554992.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Dot balls the big concern as Bangladesh look to test favourites India",
+            "link": "https://www.cricinfo.com/ci/content/story/1554986.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Pakistan face familiar Sri Lanka in Asian Games semi-final",
             "link": "https://www.cricinfo.com/ci/content/story/1554968.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Green could return as dominant Australia seek series sweep",
-            "link": "https://www.cricinfo.com/ci/content/story/1554955.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'Maybe the best one that I've played' - Powell pleased with match-winning CPL bash",
-            "link": "https://www.cricinfo.com/ci/content/story/1554960.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,47 +125,42 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Ravindra in doubt for India T20Is after dislocating shoulder during promo shoot",
-            "link": "https://www.cricinfo.com/ci/content/story/1554947.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Rain allows Western Australia to escape after Fraser-McGurk's onslaught",
-            "link": "https://www.cricinfo.com/ci/content/story/1554946.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Chelsea miss Joao Pedro... and can't stop conceding goals",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
+            "title": "Ingebrigtsen pipped to 5km road gold in Copenhagen",
+            "link": "https://www.bbc.co.uk/sport/athletics/articles/cw783r41l940o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Hodgkinson powers to Athlos win in speed suit",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo?at_medium=RSS&at_campaign=rss",
+            "title": "Brentford stay unbeaten as they put three past Chelsea",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Arsenal open to Dowman loan in right circumstances",
-            "link": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
+            "title": "100 years on, is time up for Milan's iconic San Siro?",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c0q4k74kvy5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Littler survives scare to progress at World Series Finals",
-            "link": "https://www.bbc.co.uk/sport/darts/articles/c62l8wnd45xpo?at_medium=RSS&at_campaign=rss",
+            "title": "Hodgkinson dazzles to win Athlos 800m",
+            "link": "https://www.bbc.co.uk/sport/athletics/videos/cmx2zrlyrx1yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Winless Villa and Spurs face telling early showdown",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6ly7vg8n7geo?at_medium=RSS&at_campaign=rss",
+            "title": "Kane makes history and Olise nets hat-trick as Bayern thrash Union Berlin",
+            "link": "https://www.bbc.co.uk/sport/football/videos/ck4gle1ep647o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "The man who would be king - the rise and fall of 'the next Prince Naseem'",
-            "link": "https://www.bbc.co.uk/news/articles/c5ye0l17dnjo?at_medium=RSS&at_campaign=rss",
+            "title": "Man City strike late to beat Liverpool and maintain perfect start",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cvlyl0dg98zpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+            "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+            "source": "TechCrunch"
+        },
         {
             "title": "India forces caller-ID apps to feed spam reports to telcos",
             "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Anthropic’s first embedded evaluator is … Accenture?",
-            "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "6 Best VPN Services (2026), Tested and Reviewed",
-            "link": "https://www.wired.com/gallery/best-vpn/",
+            "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+            "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
             "source": "Wired"
         },
         {
-            "title": "Join the WIRED World Fair in Miami on November 4",
-            "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+            "title": "Tired of Cluttered Productivity Apps? This One’s Just a Text Document",
+            "link": "https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/",
             "source": "Wired"
         },
         {
-            "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
-            "link": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
+            "title": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score",
+            "link": "https://www.wired.com/review/samsung-galaxy-watch9/",
             "source": "Wired"
         },
         {
-            "title": "Paramount+ Coupon Codes and Deals for September 2026",
-            "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+            "title": "An Editor’s Picks: The Best Gifts for Bird Lovers",
+            "link": "https://www.wired.com/story/best-gifts-for-bird-lovers-2026/",
             "source": "Wired"
         },
         {
-            "title": "B&H Photo Promo Codes and Deals This September 2026",
-            "link": "https://www.wired.com/story/bh-photo-coupon/",
+            "title": "Mathematicians Hate AI. They Can’t Quit It",
+            "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
             "source": "Wired"
         },
         {
-            "title": "KitchenAid Promo Codes: Save Up to 20%",
-            "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+            "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+            "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
             "source": "Wired"
         }
     ]
