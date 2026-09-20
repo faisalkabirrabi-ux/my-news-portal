@@ -33,6 +33,16 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Polls close in Russian wartime election with ruling party set to dominate",
+            "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "France to summon Iran envoy after language centre closure in Tehran",
+            "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Qatar PM urges Gulf security framework with Iran",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -50,16 +60,6 @@
         {
             "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
             "link": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "US, China open high-level talks ahead of Trump-Xi summit",
-            "link": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Qatar says it is working to revive Iran-US talks",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,13 +83,13 @@
             "source": "BBC World"
         },
         {
-            "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-            "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+            "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+            "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Converse pulls 'deeply upsetting' advert after backlash",
-            "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+            "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+            "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -125,37 +125,42 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Man City beat Sunderland in eight-goal thriller to go three points clear",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cmq5x78j0y1lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Cunha's late strike denies Fulham first league win of season",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cqpve80lwem9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Liverpool boss Iraola makes winning return to Bournemouth",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cmp3k277095do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Leeds continue unbeaten start in league with draw against Palace",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c39w4nydl1dzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Brighton cruise past Arsenal to end champions' perfect start",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
             "link": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "What have we learned from the Premier League so far?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Mourinho prints out 'red card' incidents after Real lose derby",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Rangers look like they know where they want to go - Celtic just look lost",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Holdt scores hat-trick as Spurs thrash 10-player Palace",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cqx2zg35kln5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Middlesex beat Leicestershire to win One-Day Cup",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c3vgylgqz8p8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+            "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+            "source": "TechCrunch"
+        },
         {
             "title": "World model companies are keeping a lot of secrets",
             "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
@@ -179,11 +184,6 @@
         {
             "title": "ScrollEd wants to turn textbooks into TikTok",
             "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "New California law will penalize influencers who don’t disclose political ads",
-            "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
             "source": "TechCrunch"
         },
         {
