@@ -33,12 +33,22 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "How thousands of migrants stranded in Ceuta are surviving",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
+            "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Trump speech inaudible as US networks boycott White House event",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Putin’s party wins supermajority in Russia’s parliamentary vote",
+            "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
             "link": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
@@ -50,16 +60,6 @@
         {
             "title": "US man convicted in 2023 shooting of three Palestinian students in Vermont",
             "link": "https://www.aljazeera.com/news/2026/9/21/us-man-convicted-in-2023-shooting-of-three-palestinian-students-in-vermont?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "FAA halts flights to major US East Coast airports amid outage",
-            "link": "https://www.aljazeera.com/economy/2026/9/21/faa-halts-flights-to-major-us-east-coast-airports-amid-outage?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Embattled Gianni Infantino says he is open to talks over FIFA reform",
-            "link": "https://www.aljazeera.com/sports/2026/9/21/embattled-gianni-infantino-says-he-is-open-to-talks-over-fifa-reform?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -130,13 +130,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Infantino says Fifa can change as he proposes external review",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+            "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+            "title": "Being run over by pitch roller was 'terrifying' - Townsend",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Infantino says he is open to talks over Fifa reform",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -145,17 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Atletico hit back at Mourinho over referee complaints",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwx2z115lx4mo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Xhaka under investigation over Covid-19 certificate",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+            "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+            "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+            "source": "TechCrunch"
+        },
         {
             "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
             "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
@@ -179,11 +184,6 @@
         {
             "title": "Meta’s AI agent has been blocked from using Amazon.com",
             "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "X will now tell users when governments have forced it to limit their posts",
-            "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
             "source": "TechCrunch"
         },
         {
