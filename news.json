@@ -1,8 +1,23 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "গাজী নজরুল ইসলাম চার দিন এবং তার প্রথম স্ত্রী এক দিন রিমান্ডে",
+            "title": "'টাকা যদি তেল-গ্যাসের পিছেই চলে যায়, তাহলে আমরা কি না খাইয়া থাকুম?'",
+            "link": "https://www.bbc.com/bengali/articles/cm20l2qq1gelo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "বিনা অনুমতিতে কর্মস্থলে অনুপস্থিতির অভিযোগে পুলিশের ঊর্ধ্বতন ছয় কর্মকর্তা বরখাস্ত",
             "link": "https://www.bbc.co.uk/bengali/live/cwn74pkm383dt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "মাদ্রাসায় শিক্ষার্থীদের মারধর নিষিদ্ধ, মহিলা আবাসিক না রাখার পরামর্শ",
+            "link": "https://www.bbc.com/bengali/articles/cm62exd57dnzo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ভারতে 'এআই চশমা' বিক্রির হিড়িক, কিন্তু দেশের আইন কী বলছে?",
+            "link": "https://www.bbc.com/bengali/articles/cqkgvpzpled8o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -14,206 +29,191 @@
             "title": "পত্রিকা: 'পুলিশের কাজে ধীরগতির কারণে নিখোঁজ শিশুদের লাশ পাওয়া যাচ্ছে'",
             "link": "https://www.bbc.com/bengali/articles/cq7705176klgo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শিয়ালের মাংস, তক্ষক, জোঁকের তেল: রোগ সারানোর বিশ্বাস কতটা সত্য?",
-            "link": "https://www.bbc.com/bengali/articles/c20jk88643jo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পেট্রোল, ডিজেল, অকটেন, কেরোসিন- সব ধরনের জ্বালানি তেলের দাম বাড়ল",
-            "link": "https://www.bbc.co.uk/bengali/live/cm790j2yl0y4t?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "অপ্রতিমকে বিকেল ৫-৬টার মধ্যেই মেরে ফেলা হয়েছে, দাবি পুলিশের",
-            "link": "https://www.bbc.com/bengali/articles/c64g7xn8dmzko?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Mystery object spotted hovering over Tehran",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
+            "title": "Antonio Guterres: Can the UN still meet today’s global crises?",
+            "link": "https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "A simple guide to the Yemen conflict",
-            "link": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
+            "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
+            "link": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
-            "link": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss",
+            "title": "Poor storage or sabotage? Series of explosions in Syria raises fears",
+            "link": "https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Can the US win the AI cold war with China?",
-            "link": "https://www.aljazeera.com/opinions/2026/9/21/can-the-us-win-the-ai-cold-war-with-china?traffic_source=rss",
+            "title": "Elif Eralp: A leftist leader with Turkish roots dubbed ‘Germany’s Mamdani’",
+            "link": "https://www.aljazeera.com/features/2026/9/21/elif-eralp-daughter-of-turkish-exiles-and-berlins-next-leftist-mayor?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Mourinho holds up images of ‘two clear red cards’ after Atletico defeat",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mourinho-holds-up-images-of-two-clear-red-cards-after-atletico-defeat?traffic_source=rss",
+            "title": "How an economic squeeze is changing everyday life and work for Iranians",
+            "link": "https://www.aljazeera.com/economy/2026/9/21/how-an-economic-squeeze-is-changing-everyday-life-and-work-for-iranians?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Protests in Texas after ICE agent shoots Venezuelan man",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protests-in-texas-after-ice-agent-shoots-venezuelan-man?traffic_source=rss",
+            "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
+            "link": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-            "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+            "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+            "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+            "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+            "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "First UK charges brought over 1994 Rwanda genocide",
+            "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+            "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
             "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Seven Ethiopian rebel groups form new alliance",
-            "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Three arrested in South Africa over one of nine women's bodies found",
-            "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
-            "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-            "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "It's Shafali vs Athapaththu as Sri Lanka seek to stop India juggernaut",
-            "link": "https://www.cricinfo.com/ci/content/story/1555225.html?ex_cid=OTC-RSS",
+            "title": "Sri Lanka seek ODI revival in bruising England tour",
+            "link": "https://www.cricinfo.com/ci/content/story/1555264.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'Not many gave us a chance' - celebrations begin after Falcons pull off CPL heist",
-            "link": "https://www.cricinfo.com/ci/content/story/1555216.html?ex_cid=OTC-RSS",
+            "title": "'I'll back him again and again': Raza stands by Madhevere after final-over gamble",
+            "link": "https://www.cricinfo.com/ci/content/story/1555248.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Edwards called up to Australia's ODI squad for South Africa series",
-            "link": "https://www.cricinfo.com/ci/content/story/1555223.html?ex_cid=OTC-RSS",
+            "title": "CSK bring in Zaheer Khan as head coach for IPL 2027",
+            "link": "https://www.cricinfo.com/ci/content/story/1555242.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Being 'mentally free' brought out Shadab's best in Falcons' CPL triumph",
-            "link": "https://www.cricinfo.com/ci/content/story/1555213.html?ex_cid=OTC-RSS",
+            "title": "Jonathan Trott appointed England Lions head coach",
+            "link": "https://www.cricinfo.com/ci/content/story/1555244.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Moqim four-for sets up Antigua and Barbuda Falcons' maiden CPL title win",
-            "link": "https://www.cricinfo.com/ci/content/story/1555199.html?ex_cid=OTC-RSS",
+            "title": "Rain threat looms over Japan's chance to get a glimpse of top-flight cricket",
+            "link": "https://www.cricinfo.com/ci/content/story/1555233.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Big Bash privatisation: Inside how Melbourne Renegades will be sold",
-            "link": "https://www.cricinfo.com/ci/content/story/1555110.html?ex_cid=OTC-RSS",
+            "title": "Yashbardhan Chauhan's all-round show seals series for India Under-19",
+            "link": "https://www.cricinfo.com/ci/content/story/1555237.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Gibbs-White set to replace Palmer in England squad",
+            "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Palmer & Rice among five withdrawals from England squad",
             "link": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss",
+            "title": "Celtic can't sack manager O'Neill, says Lambert",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c3j4jpzy08p5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
+            "title": "Why Cardiff is set to win race to host Fury-Joshua",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/ck5yw8q81ql2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "All the goals from the Women's Super League - matchweek three",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cm0qx2191yxgo?at_medium=RSS&at_campaign=rss",
+            "title": "How will clubs train during three-week international break?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c93v020y7qgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Chiefs back in business as star QBs go down - five things from NFL week two",
-            "link": "https://www.bbc.co.uk/sport/american-football/articles/crz6z2pypgqlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "What will 'greatest captain' bring to Bellamy's Wales?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c58jdvlejve2o?at_medium=RSS&at_campaign=rss",
+            "title": "Xhaka under investigation over Covid-19 certificate",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-            "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+            "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
+            "link": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
             "source": "TechCrunch"
         },
         {
-            "title": "World model companies are keeping a lot of secrets",
-            "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+            "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+            "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
             "source": "TechCrunch"
         },
         {
-            "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
-            "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+            "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+            "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
             "source": "TechCrunch"
         },
         {
-            "title": "Is the AI industry really ready to slow down?",
-            "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+            "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+            "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
             "source": "TechCrunch"
         },
         {
-            "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-            "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+            "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+            "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
             "source": "TechCrunch"
         },
         {
-            "title": "ScrollEd wants to turn textbooks into TikTok",
-            "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+            "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+            "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
             "source": "TechCrunch"
         },
         {
-            "title": "The Search for Silicon Valley’s Most Powerful Woman",
-            "link": "https://www.wired.com/story/searching-for-powerful-women-silicon-valley/",
+            "title": "Here’s the iFixit Repairability Rating for the iPhone 18 Pro",
+            "link": "https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability/",
+            "source": "Wired"
+        },
+        {
+            "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+            "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+            "source": "Wired"
+        },
+        {
+            "title": "Apple Mac Mini (M6) Review: For the AI Curious",
+            "link": "https://www.wired.com/review/apple-mac-mini-m6/",
+            "source": "Wired"
+        },
+        {
+            "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+            "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+            "source": "Wired"
+        },
+        {
+            "title": "Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory",
+            "link": "https://www.wired.com/review/bambu-p2s-combo-3d-printer/",
             "source": "Wired"
         },
         {
             "title": "Justice for CSS",
             "link": "https://www.wired.com/story/justice-for-css/",
-            "source": "Wired"
-        },
-        {
-            "title": "Women Still Face Too Much Bullshit—in Silicon Valley and Beyond",
-            "link": "https://www.wired.com/story/wired-women-editors-letter/",
-            "source": "Wired"
-        },
-        {
-            "title": "We Surveyed 634 Women Who Work in Tech. They Let Loose",
-            "link": "https://www.wired.com/story/women-in-tech-survey/",
-            "source": "Wired"
-        },
-        {
-            "title": "Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow",
-            "link": "https://www.wired.com/review/factor-perpared-meals-2026/",
-            "source": "Wired"
-        },
-        {
-            "title": "After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury",
-            "link": "https://www.wired.com/story/after-8-years-in-space-bepicolombo-finally-approaching-mercury/",
             "source": "Wired"
         }
     ]
