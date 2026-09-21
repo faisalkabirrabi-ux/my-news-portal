@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "গাজী নজরুল ইসলাম চার দিন এবং তার প্রথম স্ত্রী এক দিন রিমান্ডে",
+            "link": "https://www.bbc.co.uk/bengali/live/cwn74pkm383dt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "শ্রীলঙ্কায় 'সবচেয়ে বড়' গণকবরের সন্ধান, ৫৭২ জনের কঙ্কাল খুঁজে পেলেন শ্রমিকেরা",
+            "link": "https://www.bbc.com/bengali/articles/c62l8270lvexo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'পুলিশের কাজে ধীরগতির কারণে নিখোঁজ শিশুদের লাশ পাওয়া যাচ্ছে'",
             "link": "https://www.bbc.com/bengali/articles/cq7705176klgo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "অপ্রতিমকে বিকেল ৫-৬টার মধ্যেই মেরে ফেলা হয়েছে, দাবি পুলিশের",
             "link": "https://www.bbc.com/bengali/articles/c64g7xn8dmzko?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "সৌদি আরবের রাজধানীতে ব্যালিস্টিক ক্ষেপণাস্ত্র হামলার দাবি হুথিদের",
-            "link": "https://www.bbc.com/bengali/articles/cwe8e4ke00r3o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ঘুমের মধ্যে মানুষ কেন দাঁত কিড়মিড় করে? কাদের হয় আর চিকিৎসা কী?",
-            "link": "https://www.bbc.com/bengali/articles/c60re4n1gjj4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
+            "title": "Mystery object spotted hovering over Tehran",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
-            "link": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
+            "title": "A simple guide to the Yemen conflict",
+            "link": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump administration readies sweeping sanctions against ICC, reports say",
-            "link": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
+            "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
+            "link": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "The Sahel and the UN: a smaller footprint, a different role",
-            "link": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss",
+            "title": "Can the US win the AI cold war with China?",
+            "link": "https://www.aljazeera.com/opinions/2026/9/21/can-the-us-win-the-ai-cold-war-with-china?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ethiopian armed groups forge alliance against government",
-            "link": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
+            "title": "Mourinho holds up images of ‘two clear red cards’ after Atletico defeat",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mourinho-holds-up-images-of-two-clear-red-cards-after-atletico-defeat?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+            "title": "Protests in Texas after ICE agent shoots Venezuelan man",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protests-in-texas-after-ice-agent-shoots-venezuelan-man?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,90 +68,90 @@
             "source": "BBC World"
         },
         {
-            "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-            "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+            "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+            "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-            "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+            "title": "Seven Ethiopian rebel groups form new alliance",
+            "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Trump says triumphal arch will be military complex with drones and snipers",
-            "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+            "title": "Three arrested in South Africa over one of nine women's bodies found",
+            "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
-            "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+            "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
+            "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-            "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+            "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+            "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "It's Shafali vs Athapaththu as Sri Lanka seek to stop India juggernaut",
+            "link": "https://www.cricinfo.com/ci/content/story/1555225.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "'Not many gave us a chance' - celebrations begin after Falcons pull off CPL heist",
+            "link": "https://www.cricinfo.com/ci/content/story/1555216.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Edwards called up to Australia's ODI squad for South Africa series",
+            "link": "https://www.cricinfo.com/ci/content/story/1555223.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Being 'mentally free' brought out Shadab's best in Falcons' CPL triumph",
+            "link": "https://www.cricinfo.com/ci/content/story/1555213.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Moqim four-for sets up Antigua and Barbuda Falcons' maiden CPL title win",
+            "link": "https://www.cricinfo.com/ci/content/story/1555199.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Big Bash privatisation: Inside how Melbourne Renegades will be sold",
             "link": "https://www.cricinfo.com/ci/content/story/1555110.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Inglis: Tight finish valuable experience ahead of World Cup",
-            "link": "https://www.cricinfo.com/ci/content/story/1555190.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Ellis and Inglis break Zimbabwe hearts to secure one-wicket thriller",
-            "link": "https://www.cricinfo.com/ci/content/story/1555108.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Roland-Jones rolls back the years as Middlesex end long trophy drought",
-            "link": "https://www.cricinfo.com/ci/content/story/1555182.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Higgins hundred ends Middlesex's 36-year wait for List A glory",
-            "link": "https://www.cricinfo.com/ci/content/story/1555178.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Gous 90* makes Castle Rockers inaugural ETPL champions",
-            "link": "https://www.cricinfo.com/ci/content/story/1555168.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
+            "title": "Gibbs-White set to replace Palmer in England squad",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "What have we learned from the Premier League so far?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
+            "title": "'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Mourinho prints out 'red card' incidents after Real lose derby",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss",
+            "title": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Rangers look like they know where they want to go - Celtic just look lost",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss",
+            "title": "All the goals from the Women's Super League - matchweek three",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cm0qx2191yxgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Holdt scores hat-trick as Spurs thrash 10-player Palace",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cqx2zg35kln5o?at_medium=RSS&at_campaign=rss",
+            "title": "Chiefs back in business as star QBs go down - five things from NFL week two",
+            "link": "https://www.bbc.co.uk/sport/american-football/articles/crz6z2pypgqlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Middlesex beat Leicestershire to win One-Day Cup",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c3vgylgqz8p8o?at_medium=RSS&at_campaign=rss",
+            "title": "What will 'greatest captain' bring to Bellamy's Wales?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c58jdvlejve2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Thermacell LIV 2.0 Review: Taking My Yard Back",
-            "link": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/",
+            "title": "The Search for Silicon Valley’s Most Powerful Woman",
+            "link": "https://www.wired.com/story/searching-for-powerful-women-silicon-valley/",
             "source": "Wired"
         },
         {
-            "title": "Welcome to Dogs Anonymous, the Online Support Group for People With Difficult Dogs",
-            "link": "https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/",
+            "title": "Justice for CSS",
+            "link": "https://www.wired.com/story/justice-for-css/",
             "source": "Wired"
         },
         {
-            "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-            "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+            "title": "Women Still Face Too Much Bullshit—in Silicon Valley and Beyond",
+            "link": "https://www.wired.com/story/wired-women-editors-letter/",
             "source": "Wired"
         },
         {
-            "title": "It’s Donald Trump Versus MAGA on Data Centers",
-            "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+            "title": "We Surveyed 634 Women Who Work in Tech. They Let Loose",
+            "link": "https://www.wired.com/story/women-in-tech-survey/",
             "source": "Wired"
         },
         {
-            "title": "Meet the Academics Trying to Stop You From Having Sex in Robotaxis",
-            "link": "https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/",
+            "title": "Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow",
+            "link": "https://www.wired.com/review/factor-perpared-meals-2026/",
             "source": "Wired"
         },
         {
-            "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
-            "link": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+            "title": "After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury",
+            "link": "https://www.wired.com/story/after-8-years-in-space-bepicolombo-finally-approaching-mercury/",
             "source": "Wired"
         }
     ]
