@@ -1,8 +1,13 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "বাসভাড়া কিলোমিটারে ১৭ পয়সা বাড়ানোর সিদ্ধান্ত নিয়েছে সরকার",
+            "title": "জাতিসংঘের সাধারণ পরিষদের অধিবেশনে যোগ দিতে নিউইয়র্কে জড়ো হচ্ছেন বিশ্বনেতারা",
             "link": "https://www.bbc.co.uk/bengali/live/c6z7z5w2wqn5t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "বিশ্ববাজারে কমলেও বাংলাদেশে জ্বালানি তেলের দাম সেভাবে কমে না কেন?",
+            "link": "https://www.bbc.com/bengali/articles/cqrm9070z91vo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,46 +29,41 @@
             "title": "'টাকা যদি তেল-গ্যাসের পিছেই চলে যায়, তাহলে আমরা কি না খাইয়া থাকুম?'",
             "link": "https://www.bbc.com/bengali/articles/cm20l2qq1gelo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বিনা অনুমতিতে কর্মস্থলে অনুপস্থিতির অভিযোগে পুলিশের ঊর্ধ্বতন ছয় কর্মকর্তা বরখাস্ত",
-            "link": "https://www.bbc.co.uk/bengali/live/cwn74pkm383dt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit",
-            "link": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit?traffic_source=rss",
+            "title": "Colombia eases gun restrictions despite fears of more violence",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why young people are paying to get hired",
-            "link": "https://www.aljazeera.com/video/money-works/2026/9/22/why-young-people-are-paying-to-get-hired?traffic_source=rss",
+            "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
+            "link": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Undermining the UN is not a new US policy",
-            "link": "https://www.aljazeera.com/opinions/2026/9/22/undermining-the-un-is-not-a-new-us-policy?traffic_source=rss",
+            "title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15",
+            "link": "https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains",
-            "link": "https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss",
+            "title": "FIFA President Infantino’s letter a ploy for re-election, says German FA",
+            "link": "https://www.aljazeera.com/sports/2026/9/22/fifa-president-infantinos-letter-a-ploy-for-re-election-says-german-fa?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran’s Pezeshkian meets Pakistan’s Naqvi in Tehran as tensions with US rise",
-            "link": "https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss",
+            "title": "‘Disgraceful’: Did India bully umpires to win Japan T20 cricket match?",
+            "link": "https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Palestinians turn to communal ovens to bake bread in Gaza",
-            "link": "https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss",
+            "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
+            "link": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+            "title": "Major US outlets suspend shared Trump coverage in protest at media ban",
             "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -73,56 +73,71 @@
             "source": "BBC World"
         },
         {
+            "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+            "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+            "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
             "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "At least 11 injured in shooting at Turkish high school",
+            "title": "Eleven injured in shooting outside Turkish school",
             "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
-            "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
-            "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Wood retires from international cricket after battling injuries",
-            "link": "https://www.cricinfo.com/ci/content/story/1555339.html?ex_cid=OTC-RSS",
+            "title": "Kushagra, Kotian fifties rescue India A from 97 for 5",
+            "link": "https://www.cricinfo.com/ci/content/story/1555368.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Mandhana, Shafali and Ghosh lead dominant India to Asian Games gold",
-            "link": "https://www.cricinfo.com/ci/content/story/1555338.html?ex_cid=OTC-RSS",
+            "title": "The wide that wasn't: why the right call was made in a tight finish",
+            "link": "https://www.cricinfo.com/ci/content/story/1555354.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "India survive Japan scare in thrilling Sano contest",
-            "link": "https://www.cricinfo.com/ci/content/story/1555337.html?ex_cid=OTC-RSS",
+            "title": "Alexa Stonehouse agrees permanent switch to Warwickshire",
+            "link": "https://www.cricinfo.com/ci/content/story/1555375.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "India bat first in five-over shootout against Japan",
-            "link": "https://www.cricinfo.com/ci/content/story/1555319.html?ex_cid=OTC-RSS",
+            "title": "Miller commits to SA despite no national contract",
+            "link": "https://www.cricinfo.com/ci/content/story/1555372.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "India bat vs Sri Lanka in gold-medal match; both sides unchanged",
-            "link": "https://www.cricinfo.com/ci/content/story/1555295.html?ex_cid=OTC-RSS",
+            "title": "ICC's agenda for 2027-31: more T20Is, fewer bilateral ODIs",
+            "link": "https://www.cricinfo.com/ci/content/story/1555369.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Fatima Sana and Umm-e-Hani secure bronze for Pakistan in Asian Games",
-            "link": "https://www.cricinfo.com/ci/content/story/1555282.html?ex_cid=OTC-RSS",
+            "title": "England bat first in opening ODI with Rashid ruled out of series",
+            "link": "https://www.cricinfo.com/ci/content/story/1555359.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Pollock left money on table to stay at Saints - Hearn",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckn8eq99jnevo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Arteta agrees new deal with champions Arsenal",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "England fast bowler Wood retires from internationals",
@@ -130,90 +145,75 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Pollock signs new Northampton deal in excess of £400K",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq39m2eppe0wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
+            "title": "'In another galaxy' - La Liga chief dismisses Real's ref conspiracy claims",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmvgye6g53l7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Why is Monaco staging a sprint race? F1 Q&A",
             "link": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "'Alarming' - does WSL have a homegrown problem?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cew9nqnz9lno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'Real fear Littler could walk away' - darts would be loser in booing row",
-            "link": "https://www.bbc.co.uk/sport/darts/articles/cxq63p1y1m83o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Morphotonics raises €40M to expand its display tech into data centers",
-            "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+            "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+            "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
             "source": "TechCrunch"
         },
         {
-            "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-            "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+            "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
+            "link": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
             "source": "TechCrunch"
         },
         {
-            "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-            "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+            "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+            "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
             "source": "TechCrunch"
         },
         {
-            "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-            "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+            "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
+            "link": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
             "source": "TechCrunch"
         },
         {
-            "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-            "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+            "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
+            "link": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
             "source": "TechCrunch"
         },
         {
-            "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-            "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+            "title": "Everyone can find a reason to dislike data center construction",
+            "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
             "source": "TechCrunch"
         },
         {
-            "title": "How to Use AI With Your Privacy Intact",
-            "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+            "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+            "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
             "source": "Wired"
         },
         {
-            "title": "Layla Sleep Coupon: Save Up to $600 in September 2026",
-            "link": "https://www.wired.com/story/layla-sleep-coupon/",
+            "title": "Adobe Premiere, One of the iPhone’s Best Video-Editing Apps, Is Now on Android",
+            "link": "https://www.wired.com/story/adobe-premiere-now-on-android/",
             "source": "Wired"
         },
         {
-            "title": "Loop Earplugs Discount Codes: 40% Off",
-            "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
+            "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+            "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
             "source": "Wired"
         },
         {
-            "title": "Ruggable Discount Code: 30% Off Rugs | September 2026",
-            "link": "https://www.wired.com/story/ruggable-discount-code/",
+            "title": "GoPro Mission 1 Pro ILS Review (2026): Cinema-Quality Action Cam",
+            "link": "https://www.wired.com/review/gopro-mission-1-ils-camera/",
             "source": "Wired"
         },
         {
-            "title": "Meta Quest Promo Codes and Coupons for September 2026",
-            "link": "https://www.wired.com/story/meta-quest-promo-code/",
+            "title": "The UK Government Faces a Reckoning Over Palantir",
+            "link": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/",
             "source": "Wired"
         },
         {
-            "title": "1Password Coupon: Score a Free Trial in September 2026",
-            "link": "https://www.wired.com/story/1password-coupon/",
+            "title": "Everything You Know About Political Violence Is Probably Wrong",
+            "link": "https://www.wired.com/story/book-excerpt-political-violence-robert-pape-our-own-worst-enemies/",
             "source": "Wired"
         }
     ]
