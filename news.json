@@ -1,13 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "জাতিসংঘের সাধারণ পরিষদের অধিবেশনে যোগ দিতে নিউইয়র্কে জড়ো হচ্ছেন বিশ্বনেতারা",
+            "title": "জাতিসংঘের সাধারণ পরিষদের অধিবেশনে যোগ দিয়েছেন বিশ্বনেতারা",
             "link": "https://www.bbc.co.uk/bengali/live/c6z7z5w2wqn5t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
             "title": "বিশ্ববাজারে কমলেও বাংলাদেশে জ্বালানি তেলের দাম সেভাবে কমে না কেন?",
             "link": "https://www.bbc.com/bengali/articles/cqrm9070z91vo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "'একটা জ্যাতা নমো পুড়মু'- বাউফলে ব্যবসায়ীকে হুমকির পর কী ঘটেছে?",
+            "link": "https://www.bbc.com/bengali/articles/c6ly7ex9pm0xo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -24,53 +29,38 @@
             "title": "কেন নতুন পাকিস্তান-চীন সীমান্ত চুক্তি ভারতকে ক্ষুব্ধ করে তুলছে",
             "link": "https://www.bbc.com/bengali/articles/cwvgyzzenn13o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'টাকা যদি তেল-গ্যাসের পিছেই চলে যায়, তাহলে আমরা কি না খাইয়া থাকুম?'",
-            "link": "https://www.bbc.com/bengali/articles/cm20l2qq1gelo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Colombia eases gun restrictions despite fears of more violence",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss",
+            "title": "Indian MMA fighter refuses handshake after Asian Games ‘defeat’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/indian-mma-fighter-refuses-handshake-after-asian-games?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
-            "link": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
+            "title": "Lula warns against foreign interference, defends Brazil’s sovereignty at UN",
+            "link": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15",
-            "link": "https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss",
+            "title": "Sudan’s historical famine echoes through latest hunger crisis",
+            "link": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "FIFA President Infantino’s letter a ploy for re-election, says German FA",
-            "link": "https://www.aljazeera.com/sports/2026/9/22/fifa-president-infantinos-letter-a-ploy-for-re-election-says-german-fa?traffic_source=rss",
+            "title": "ECHR hears how 10 children went missing after Russia annexed Crimea",
+            "link": "https://www.aljazeera.com/news/2026/9/22/echr-hears-how-10-children-went-missing-after-russia-annexed-crimea?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘Disgraceful’: Did India bully umpires to win Japan T20 cricket match?",
-            "link": "https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss",
+            "title": "Turkiye school shooting leaves 11 pupils wounded",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
-            "link": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
+            "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
+            "link": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
             "source": "আল জাজিরা"
-        },
-        {
-            "title": "Major US outlets suspend shared Trump coverage in protest at media ban",
-            "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-            "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         },
         {
             "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
@@ -83,20 +73,45 @@
             "source": "BBC World"
         },
         {
-            "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-            "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+            "title": "Eleven injured in shooting outside Turkish school",
+            "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Eleven injured in shooting outside Turkish school",
-            "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+            "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+            "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Top South African policeman charged with sexual offences",
+            "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+            "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
+            "title": "Japan captain Kadowaki-Fleming: 'Emotions running pretty high' after close India contest",
+            "link": "https://www.cricinfo.com/ci/content/story/1555348.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Sachindu Colombage shines on debut as Sri Lanka limit England",
+            "link": "https://www.cricinfo.com/ci/content/story/1555402.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Kushagra, Kotian fifties rescue India A from 97 for 5",
             "link": "https://www.cricinfo.com/ci/content/story/1555368.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Asian Games: Dickwella in Sri Lanka's T20I squad for the first time since 2021",
+            "link": "https://www.cricinfo.com/ci/content/story/1555374.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -110,19 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Miller commits to SA despite no national contract",
-            "link": "https://www.cricinfo.com/ci/content/story/1555372.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "ICC's agenda for 2027-31: more T20Is, fewer bilateral ODIs",
-            "link": "https://www.cricinfo.com/ci/content/story/1555369.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "England bat first in opening ODI with Rashid ruled out of series",
-            "link": "https://www.cricinfo.com/ci/content/story/1555359.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "I was close to joining Liverpool in 2016 - Mbappe",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Pollock left money on table to stay at Saints - Hearn",
@@ -130,61 +135,66 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Who will start for England at Euro 2028? BBC Sport's predictions",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm3v41epe3l9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Keothavong 'can't fault' GB after BJK Cup loss to Czechs",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cmkg75dyz154o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Arteta agrees new deal with champions Arsenal",
             "link": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "England fast bowler Wood retires from internationals",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'In another galaxy' - La Liga chief dismisses Real's ref conspiracy claims",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmvgye6g53l7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why is Monaco staging a sprint race? F1 Q&A",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-            "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+            "title": "A16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+            "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
             "source": "TechCrunch"
         },
         {
-            "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
-            "link": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
+            "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+            "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
             "source": "TechCrunch"
         },
         {
-            "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-            "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+            "title": "Waymo’s latest expansion strategy: teenagers",
+            "link": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
             "source": "TechCrunch"
         },
         {
-            "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
-            "link": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
+            "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+            "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
             "source": "TechCrunch"
         },
         {
-            "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
-            "link": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
+            "title": "Stolen passwords are exposing America’s water providers to hackers",
+            "link": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
             "source": "TechCrunch"
         },
         {
-            "title": "Everyone can find a reason to dislike data center construction",
-            "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+            "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+            "link": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+            "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+            "source": "Wired"
+        },
+        {
+            "title": "Rabbit Is Back, This Time With an AI Agent App",
+            "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+            "source": "Wired"
         },
         {
             "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
@@ -204,16 +214,6 @@
         {
             "title": "GoPro Mission 1 Pro ILS Review (2026): Cinema-Quality Action Cam",
             "link": "https://www.wired.com/review/gopro-mission-1-ils-camera/",
-            "source": "Wired"
-        },
-        {
-            "title": "The UK Government Faces a Reckoning Over Palantir",
-            "link": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/",
-            "source": "Wired"
-        },
-        {
-            "title": "Everything You Know About Political Violence Is Probably Wrong",
-            "link": "https://www.wired.com/story/book-excerpt-political-violence-robert-pape-our-own-worst-enemies/",
             "source": "Wired"
         }
     ]
