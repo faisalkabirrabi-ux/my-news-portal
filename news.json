@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পত্রিকা: 'প্রধানমন্ত্রীর সফর ঘিরে নিউ ইয়র্কে আ'লীগ-বিএনপির মধ্যে উত্তেজনা'",
+            "link": "https://www.bbc.com/bengali/articles/cm0re2kd9evko?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "কেন নতুন পাকিস্তান-চীন সীমান্ত চুক্তি ভারতকে ক্ষুব্ধ করে তুলছে",
+            "link": "https://www.bbc.com/bengali/articles/cwvgyzzenn13o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "'টাকা যদি তেল-গ্যাসের পিছেই চলে যায়, তাহলে আমরা কি না খাইয়া থাকুম?'",
             "link": "https://www.bbc.com/bengali/articles/cm20l2qq1gelo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "ভারতে 'এআই চশমা' বিক্রির হিড়িক, কিন্তু দেশের আইন কী বলছে?",
             "link": "https://www.bbc.com/bengali/articles/cqkgvpzpled8o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "শ্রীলঙ্কায় 'সবচেয়ে বড়' গণকবরের সন্ধান, ৫৭২ জনের কঙ্কাল খুঁজে পেলেন শ্রমিকেরা",
-            "link": "https://www.bbc.com/bengali/articles/c62l8270lvexo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'পুলিশের কাজে ধীরগতির কারণে নিখোঁজ শিশুদের লাশ পাওয়া যাচ্ছে'",
-            "link": "https://www.bbc.com/bengali/articles/cq7705176klgo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "How thousands of migrants stranded in Ceuta are surviving",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss",
+            "title": "India vs Sri Lanka live: Asian Games – Women’s cricket final",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
-            "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
+            "title": "Brazil election: Lula and Flavio Bolsonaro tied in latest polls",
+            "link": "https://www.aljazeera.com/news/2026/9/22/brazil-election-lula-and-flavio-bolsonaro-tied-in-latest-polls?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump speech inaudible as US networks boycott White House event",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss",
+            "title": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
+            "link": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
-            "link": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
+            "title": "Mamdani challenges Trump over White House press ban during meeting",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/mamdani-challenges-trump-over-white-house-press-ban-during-meeting?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "UN Chief Guterres calls for ban on ‘killer robots’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/un-chief-guterres-calls-for-ban-on-killer?traffic_source=rss",
+            "title": "Influencers Jake and Logan Paul visit the Pentagon",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/influencers-jake-and-logan-paul-visit-the-pentagon?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US man convicted in 2023 shooting of three Palestinian students in Vermont",
-            "link": "https://www.aljazeera.com/news/2026/9/21/us-man-convicted-in-2023-shooting-of-three-palestinian-students-in-vermont?traffic_source=rss",
+            "title": "Here’s what to pay attention to at the UNGA",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_heres-what-to-pay-attention-to-at-the-unga-210926?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Fatima Sana and Umm-e-Hani secure bronze for Pakistan in Asian Games",
+            "link": "https://www.cricinfo.com/ci/content/story/1555282.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Rain threat looms over Japan's chance to get a glimpse of top-flight cricket",
             "link": "https://www.cricinfo.com/ci/content/story/1555233.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -117,11 +122,6 @@
         {
             "title": "CSK bring in Zaheer Khan as head coach for IPL 2027",
             "link": "https://www.cricinfo.com/ci/content/story/1555242.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Jonathan Trott appointed England Lions head coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1555244.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
