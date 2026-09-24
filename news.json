@@ -33,38 +33,43 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "FBI says investigating breach of ‘very sensitive’ data by hackers",
-            "link": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
+            "title": "China’s Xi visits US as Trump bets on stabilising global relations",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-            "link": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
+            "title": "OpenAI, Anthropic CEOs call for global AI regulation at UN",
+            "link": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
-            "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+            "title": "Why is Kenya turning against Tata Chemicals in Magadi?",
+            "link": "https://www.aljazeera.com/news/2026/9/24/why-is-kenya-turning-against-tata-chemicals-in-magadi?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
+            "title": "Iran war live: Tehran says it won’t be bullied, remains open for talks",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump administration invites Putin to attend G20 summit in Miami",
-            "link": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss",
+            "title": "China’s Xi arrives to Trump welcome on state visit",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Harvey Weinstein sentenced to 15 years in New York sexual assault retrial",
-            "link": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
+            "title": "Trump greets China’s Xi Jinping on arrival for three-day US trip",
+            "link": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
             "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
             "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+            "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -85,11 +90,6 @@
         {
             "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
             "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "UK survivor of Canadian poison seller says he exploited her despair",
-            "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -157,6 +157,26 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+            "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Meta is trying VR glasses (again), this time with more IMAX",
+            "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Meta introduces camera-free AI glasses",
+            "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+            "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Anthropic says its biology lab has already found something big",
             "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
             "source": "TechCrunch"
@@ -167,24 +187,14 @@
             "source": "TechCrunch"
         },
         {
-            "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-            "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-            "source": "TechCrunch"
+            "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon",
+            "link": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
+            "source": "Wired"
         },
         {
-            "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-            "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Modal Motors is trying to cut China out of electric motors entirely",
-            "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-            "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-            "source": "TechCrunch"
+            "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+            "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+            "source": "Wired"
         },
         {
             "title": "A US-China AI Hotline Won't Be Ready For a While",
@@ -204,16 +214,6 @@
         {
             "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
             "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
-            "source": "Wired"
-        },
-        {
-            "title": "YouTube’s Custom Feeds Give You More Control Over the Algorithm",
-            "link": "https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/",
-            "source": "Wired"
-        },
-        {
-            "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-            "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
             "source": "Wired"
         }
     ]
