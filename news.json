@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "যুক্তরাষ্ট্রে তারেক রহমানের পাঁচ দিনের সফরে কী কী হলো?",
+            "link": "https://www.bbc.com/bengali/articles/ck5yeel4251wo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "আফ্রিকার সবচেয়ে ধনী ব্যক্তি কেন তার সাম্রাজ্যের একটি অংশ বিক্রি করতে চান?",
+            "link": "https://www.bbc.com/bengali/articles/ckddvv3gpyjzo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "নিখোঁজ শিশুর জন্য অপেক্ষা-উদ্বেগ, কী করছে পুলিশ?",
             "link": "https://www.bbc.com/bengali/articles/ck87vnlxxydxo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -16,56 +26,41 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "পত্রিকা: 'প্রাথমিকে চূড়ান্ত সুপারিশ পেয়েও নিয়োগপত্র পাননি শত শত প্রার্থী'",
-            "link": "https://www.bbc.com/bengali/articles/ck8d334d97y7o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
             "title": "কেন কিছু মানুষ বিশ্বাস করেন কৃত্রিম বুদ্ধিমত্তাই খ্রিস্টবিরোধী, যা মানুষকে শয়তানের উপাসনায় প্ররোচিত করছে",
             "link": "https://www.bbc.com/bengali/articles/c9e8ek77e77eo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "জাতিসংঘে জাইমা রহমানের নিয়োগ: লিগ্যাল অফিসার পদটির কাজ কী?",
-            "link": "https://www.bbc.com/bengali/articles/cw7v4g2v5835o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
-            "link": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
+            "title": "Pressure to boycott Israel game grows as Ireland preparations stall",
+            "link": "https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US",
-            "link": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss",
+            "title": "Blast in Pakistan’s Dera Ismail Khan kills several people",
+            "link": "https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?",
-            "link": "https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss",
+            "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+            "link": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Bangkok on red alert as massive floods hit the city",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/bangkok-on-red-alert-as-massive-floods-hit-the-city?traffic_source=rss",
+            "title": "Ebola spreads in DR Congo, putting neighbouring nations at risk",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-ebola-spreading-borders-drc-dr?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US official claims Trump holds all the cards in Iran talks",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+            "title": "An unexpected welcome: Syrian Kurds return to their homes in Afrin",
+            "link": "https://www.aljazeera.com/features/2026/9/26/an-unexpected-welcome-syrian-kurds-return-to-their-homes-in-afrin?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran pitches US a seven-day end to the war at UNGA",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/iran-pitches-us-a-seven-day-end-to-the-war-at-unga?traffic_source=rss",
+            "title": "Israel bans Arab parties from election: Who they are, why it matters",
+            "link": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
             "source": "আল জাজিরা"
-        },
-        {
-            "title": "OpenAI bots meddled with multiple US government agency sites",
-            "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         },
         {
             "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
@@ -73,8 +68,18 @@
             "source": "BBC World"
         },
         {
-            "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-            "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+            "title": "OpenAI bots meddled with multiple US government agency sites",
+            "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
+            "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Bangkok roads submerged as flood disaster declared",
+            "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,17 +88,32 @@
             "source": "BBC World"
         },
         {
-            "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "White House bars CNN from travelling with Trump on Air Force One",
-            "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+            "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+            "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Inglis in doubt for South Africa Tests after fractured finger rules him out of ODIs",
+            "link": "https://www.cricinfo.com/ci/content/story/1555761.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Asian Games: India to face Afghanistan in quarter-finals in repeat of the last final",
+            "link": "https://www.cricinfo.com/ci/content/story/1555765.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "South Africa look to secure the early honours over Australia",
+            "link": "https://www.cricinfo.com/ci/content/story/1555750.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Asian Games: Malaysia enter quarter-finals after washout, Oman knocked out",
+            "link": "https://www.cricinfo.com/ci/content/story/1555763.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Hardik set to miss Australia A one-dayers after fresh injury",
             "link": "https://www.cricinfo.com/ci/content/story/1555757.html?ex_cid=OTC-RSS",
@@ -105,24 +125,19 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Morkel: Reddy can 'compete for allrounder's spot'",
-            "link": "https://www.cricinfo.com/ci/content/story/1555741.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Man City legal fight could spiral out of control - Purslow",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Hain makes the grind count as Warwickshire put their champagne on ice",
-            "link": "https://www.cricinfo.com/ci/content/story/1555717.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Ngumoha not in England squad to face Spain",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqn744el41d8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Ben Compton hundred keeps Kent promotion train on track",
-            "link": "https://www.cricinfo.com/ci/content/story/1555727.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Abject Essex collapse under Glamorgan's weight of runs",
-            "link": "https://www.cricinfo.com/ci/content/story/1555723.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "The computer hacker who tried to take down Man City",
@@ -137,21 +152,6 @@
         {
             "title": "Relegation? Titles stripped? Appeals? What next for Man City",
             "link": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Do England have a problem against top-10 teams?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmr4v77zyr64o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Charles brothers 'brilliant' in NI's landmark win",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqy4zz7rze21o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "The MMA fighter helping Brighton - and filling stadiums",
-            "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/crq8j9572vejo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
-            "link": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/",
+            "title": "Old-School Credit Card Scams Are Far From Dead",
+            "link": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
             "source": "Wired"
         },
         {
-            "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-            "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+            "title": "12 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)",
+            "link": "https://www.wired.com/gallery/best-white-elephant-gifts-2026/",
             "source": "Wired"
         },
         {
-            "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-            "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+            "title": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
+            "link": "https://www.wired.com/story/best-mesh-wifi-routers/",
             "source": "Wired"
         },
         {
-            "title": "War Bros Didn’t Always Rule Silicon Valley",
-            "link": "https://www.wired.com/story/war-bros-didnt-always-rule-silicon-valley/",
+            "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+            "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
             "source": "Wired"
         },
         {
-            "title": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
-            "link": "https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/",
+            "title": "This Browser Extension Lets You Snooze Open Tabs Until Later",
+            "link": "https://www.wired.com/story/tuck-browser-extension-lets-you-snooze-open-tabs-until-later/",
             "source": "Wired"
         },
         {
-            "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-            "link": "https://www.wired.com/story/best-laptops/",
+            "title": "A Gravitational Battle Within the Earth Is Changing the Length of Days",
+            "link": "https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/",
             "source": "Wired"
         }
     ]
