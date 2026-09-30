@@ -33,38 +33,53 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
-            "link": "https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss",
+            "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
+            "link": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Has Gaza broken the Israel consensus in the US?",
-            "link": "https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss",
+            "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
+            "link": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US troops fully withdraw from Baghdad base after two decades",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
+            "title": "Venezuelan man shot by ICE officer in Texas is charged with assault",
+            "link": "https://www.aljazeera.com/news/2026/9/29/venezuelan-man-shot-by-ice-officer-in-texas-is-charged-with-assault?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Can Iraq handle future security challenges alone?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/9/29/can-iraq-handle-future-security-challenges-alone?traffic_source=rss",
+            "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
+            "link": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Madrid residents feel the impact of Spain’s housing crisis",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/madrid-residents-feel-the-impact-of-spains-housing-crisis?traffic_source=rss",
+            "title": "Man City CEO: Premier League verdict based on ‘conspiracy theory’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Jerusalem Daily: Israeli worshippers attack Palestinian man",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss",
+            "title": "UN extends mandate of Gang Suppression Force in Haiti for six months",
+            "link": "https://www.aljazeera.com/news/2026/9/29/un-extends-mandate-of-gang-suppression-force-in-haiti-for-six-months?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
             "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
             "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Chinese AI tool told researchers how to make bioweapons",
+            "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "South Africa to clean up high-risk areas after 12 women killed",
+            "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
+            "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -76,24 +91,19 @@
             "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
             "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Dutch police arrest suspected member of group that claimed FBI hack",
-            "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "First female prime minister named in Morocco after winning elections",
-            "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Eiffel Tower chief to quit after female staff replaced by men during religious visit",
-            "link": "https://www.bbc.co.uk/news/articles/crn8e069v7p7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Molineux monitored, Hamilton out of ODIs, Brown out with back injury",
+            "link": "https://www.cricinfo.com/ci/content/story/1556159.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Sam Harper century leads Australia A fightback",
+            "link": "https://www.cricinfo.com/ci/content/story/1556129.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Maharaj and Lyon resume their bromance, ten years after first meeting",
             "link": "https://www.cricinfo.com/ci/content/story/1556148.html?ex_cid=OTC-RSS",
@@ -115,14 +125,24 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Jadeja or Axar? India to make 'utility' decision ahead of 2027 World Cup",
-            "link": "https://www.cricinfo.com/ci/content/story/1556124.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "The intricate web Man City spun to con the Premier League",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Tanisha, Prasad, Satheesh fifties drive India A on opening day",
-            "link": "https://www.cricinfo.com/ci/content/story/1556131.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Time for Tuchel to offer Alexander-Arnold some trust",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "New coach, new players, but same old failings hamper Scotland",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Who continues to show how important they are? England player ratings",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6g7kldr9378o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Man City guilty of 'sham' contracts and £830m 'disguised funding scheme'",
@@ -130,61 +150,46 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Man Utd do not deserve Man City titles - Rooney",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "England's Palmer a 'victim' of 'sick' schedule, says PFA chief",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c68048pynj94o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Saracens face fines over 'wine consultant' Venter's media no-shows",
             "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck7902q3g5vgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Fury & Joshua in London for news conference as doubts ease",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/cr9dwz3nppx8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "What have Man City been found guilty of doing?",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cm1j46n74ke6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+            "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+            "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+            "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+            "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+            "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+            "source": "TechCrunch"
+        },
         {
             "title": "OpenAI’s latest features take direct aim at the app store model",
             "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
             "source": "TechCrunch"
         },
         {
-            "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-            "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
-            "link": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
-            "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-            "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-            "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-            "source": "TechCrunch"
+            "title": "Range Rover Sport Electric: Price, Specs, Availability",
+            "link": "https://www.wired.com/story/range-rover-sport-electric-arrives-with-more-for-less/",
+            "source": "Wired"
         },
         {
             "title": "OpenAI Gets Sued Over the Hugging Face Hack",
@@ -209,11 +214,6 @@
         {
             "title": "I Found National Coffee Day Deals Worth Making Coffee at Home For (2026)",
             "link": "https://www.wired.com/story/national-coffee-day-deals-2026/",
-            "source": "Wired"
-        },
-        {
-            "title": "How to Beat Surveillance Pricing Before It Bleeds You Dry",
-            "link": "https://www.wired.com/story/how-to-beat-surveillance-pricing-before-it-bleeds-you-dry/",
             "source": "Wired"
         }
     ]
