@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "অভিযোগের 'সত্যতা' মেলায় পদ হারালেন এমপি ফেরদৌসী আহমেদ মিষ্টি",
+            "link": "https://www.bbc.com/bengali/articles/ckeq8qygdg74o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "আমি চেয়েছিলাম বলেই ইরান যুদ্ধ দীর্ঘায়িত হয়েছে: ট্রাম্প",
             "link": "https://www.bbc.co.uk/bengali/live/crgjqj8qz01vt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -8,11 +13,6 @@
         {
             "title": "আইনশৃঙ্খলা বাহিনীর ফেসবুক পেইজ থেকে আসা আয় যাচ্ছে কোথায়?",
             "link": "https://www.bbc.com/bengali/articles/cm9w4w1xvgn9o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "অভিযোগের 'সত্যতা' মেলায় পদ হারালেন এমপি ফেরদৌসী আহমেদ মিষ্টি",
-            "link": "https://www.bbc.com/bengali/articles/ckeq8qygdg74o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -33,70 +33,80 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
-            "link": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss",
+            "title": "Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark",
+            "link": "https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "LIVE: Denmark vs Portugal – UEFA Nations League; Ronaldo latest",
-            "link": "https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss",
+            "title": "Protesters halt game as calls grow on Ireland to boycott second Israel game",
+            "link": "https://www.aljazeera.com/sports/2026/10/1/protesters-halt-game-as-calls-grow-on-ireland-to-boycott-second-israel-game?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Moroccan intelligence uses surveillance to ‘silence’ journalists: Amnesty",
-            "link": "https://www.aljazeera.com/news/2026/10/1/moroccan-intelligence-uses-surveillance-to-silence-journalists-amnesty?traffic_source=rss",
+            "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
+            "link": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Flydubai stabbing: How safe are planes if a pilot turns violent?",
-            "link": "https://www.aljazeera.com/features/2026/10/1/flydubai-stabbing-how-safe-are-planes-if-a-pilot-turns-violent?traffic_source=rss",
+            "title": "Funeral held for Palestinian man killed in the occupied West Bank",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Western militaries are undermining Ukraine’s defence, experts say",
-            "link": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss",
+            "title": "The filmmaker taking on Kenya’s colonised tea plantations",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/the-filmmaker-taking-on-kenyas-colonised-tea-plantations?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Sunday in Japan: A Ugandan asylum seeker turns to filmmaking",
-            "link": "https://www.aljazeera.com/video/witness/2026/10/1/sunday-in-japan-a-ugandan-asylum-seeker-turns-to-filmmaking?traffic_source=rss",
+            "title": "ICC ends contract with French insurer amid US sanctions threat",
+            "link": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Tennessee halts executions after death row inmate Christa Pike survives hers",
+            "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
             "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "What happened in failed execution of Christa Pike - and what next?",
+            "title": "What happened in the failed execution of Christa Pike - and what next?",
             "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+            "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
             "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+            "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+            "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
             "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Japan raises permanent residency fee by 20 times",
-            "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
+            "title": "Baker gears up for reverse after summer in fast-forward",
+            "link": "https://www.cricinfo.com/ci/content/story/1556742.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Wanderers to host 2027 men's ODI World Cup final as well as India vs Pakistan",
             "link": "https://www.cricinfo.com/ci/content/story/1556110.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Carson back in NZ squad for Australia T20Is; James, Rowe, Penfold recalled",
+            "link": "https://www.cricinfo.com/ci/content/story/1556780.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -110,23 +120,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Baker gears up for reverse after summer in fast-forward",
-            "link": "https://www.cricinfo.com/ci/content/story/1556742.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Maddinson, Harper added to Australia's Test squad in South Africa",
             "link": "https://www.cricinfo.com/ci/content/story/1556765.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Kamboj replaces injured Prasidh for final India vs West Indies ODI",
-            "link": "https://www.cricinfo.com/ci/content/story/1556731.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "HMRC urged to scrutinise tax implications of Man City case",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Man City to argue sponsorship deals came from Abu Dhabi government",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+            "title": "England avoid Australia & India in World Cup draw",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
+            "link": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,60 +150,60 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Why penalty for Williamson handball was correct call",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cw07l7pk2gp4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "England call up Crane and rest Archer for Pakistan series",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Injured O'Reilly withdraws from England squad",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6kg0gkjngzmo?at_medium=RSS&at_campaign=rss",
+            "title": "Real Madrid keen on Quansah - Friday's gossip",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cw8r6r0pdkyzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
-            "link": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+            "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+            "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
             "source": "TechCrunch"
         },
         {
-            "title": "Brian Chesky interview: AI agents need their own operating system",
-            "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+            "title": "ChatGPT can now virtually try on clothes for you",
+            "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
             "source": "TechCrunch"
         },
         {
-            "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-            "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+            "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+            "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
             "source": "TechCrunch"
         },
         {
-            "title": "Hearing tech startup Legato launches its AI hearing glasses",
-            "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+            "title": "World’s first enhanced geothermal power plant completed in just 23 months",
+            "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
             "source": "TechCrunch"
         },
         {
-            "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
-            "link": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+            "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+            "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
             "source": "TechCrunch"
         },
         {
-            "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
-            "link": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+            "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+            "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+            "link": "https://www.wired.com/story/amazon-prime-day-early-deals-10-01-2026/",
+            "source": "Wired"
+        },
+        {
+            "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+            "source": "Wired"
+        },
+        {
+            "title": "Experience What It’s Like to Travel in the Occupied West Bank",
+            "link": "https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/",
+            "source": "Wired"
         },
         {
             "title": "Tim Heidecker Is Bringing His Joe Rogan Parody Show to The Onion",
             "link": "https://www.wired.com/story/tim-heidecker-is-bringing-his-joe-rogan-parody-show-to-the-onion/",
-            "source": "Wired"
-        },
-        {
-            "title": "Amazon Kindle, Paperwhite, and Colorsoft 2026: Specs, Price, Release Date",
-            "link": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh/",
             "source": "Wired"
         },
         {
@@ -202,18 +212,8 @@
             "source": "Wired"
         },
         {
-            "title": "The Best Early Amazon Echo Deals (and the Worst) Ahead of Prime Big Deal Days",
-            "link": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day/",
-            "source": "Wired"
-        },
-        {
-            "title": "2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing",
-            "link": "https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/",
-            "source": "Wired"
-        },
-        {
-            "title": "Measles Is Forcing Hospitals to Adapt to a New Normal",
-            "link": "https://www.wired.com/story/measles-is-forcing-hospitals-to-adapt-to-a-new-normal/",
+            "title": "Amazon Kindle, Paperwhite, and Colorsoft 2026: Specs, Price, Release Date",
+            "link": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh/",
             "source": "Wired"
         }
     ]
