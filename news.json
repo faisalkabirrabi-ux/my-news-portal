@@ -33,6 +33,26 @@
     ],
     "আন্তর্জাতিক": [
         {
+            "title": "Air ambulance missing on flight from Bermuda to Boston",
+            "link": "https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+            "link": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+            "link": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
+            "title": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+            "source": "আল জাজিরা"
+        },
+        {
             "title": "Trump ramps up pressure on US Republicans to end US clock switching",
             "link": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss",
             "source": "আল জাজিরা"
@@ -40,26 +60,6 @@
         {
             "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
-            "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Is the CJP changing India’s political landscape?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
-            "source": "আল জাজিরা"
-        },
-        {
-            "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
-            "link": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,11 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Brand goes big as Australia flip through Test plans",
+            "link": "https://www.cricinfo.com/ci/content/story/1557077.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Gill: India's fielding and death bowling needs to improve",
             "link": "https://www.cricinfo.com/ci/content/story/1557083.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -102,11 +107,6 @@
         {
             "title": "Hope 162* beats Rahul 129* as West Indies pull off record chase",
             "link": "https://www.cricinfo.com/ci/content/story/1557059.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Brand goes big as Australia flip through Test plans",
-            "link": "https://www.cricinfo.com/ci/content/story/1557077.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -125,6 +125,16 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Two going on four, five or six on good night for new Scotland era",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Wakefield beat Warrington to win Super League",
             "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -140,18 +150,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Gloucester thrash sorry Quins to go top of the Prem",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Republic of Ireland news conference ends abruptly amid accusations",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Sinfield completes final ultramarathon challenge",
-            "link": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
+            "title": "Leicester hold off Newcastle for first Prem win",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy9z7dxdvv0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
