@@ -1,6 +1,26 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "'হুমকির' কারণে ফেয়ারফোর্ড ঘাঁটি থেকে যুদ্ধবিমান সরিয়েছে যুক্তরাষ্ট্র: ট্রাম্প",
+            "link": "https://www.bbc.com/bengali/articles/cmy4xgpkknp3o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ইমরান খান ও নওয়াজ শরীফের বন্ধুত্ব কীভাবে হয়েছিল?",
+            "link": "https://www.bbc.com/bengali/articles/cmq5ne142n2wo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "বাংলাদেশি কর্মীদের ভিসা বন্ধের বিষয়ে যেসব নির্দেশনা দিয়েছে লাওস",
+            "link": "https://www.bbc.com/bengali/articles/cm9qzv2j220vo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: '২০ লাখ শিশু নেই সরকারের খাতায়'",
+            "link": "https://www.bbc.com/bengali/articles/ckx2qnnrgpwno?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "দুর্গাপূজায় টানা পাঁচদিনের ছুটি, আগের শনিবার খোলা থাকবে অফিস",
             "link": "https://www.bbc.co.uk/bengali/live/c50me0j704w4t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -9,57 +29,37 @@
             "title": "আইএমএফ-এর বিষয়ে সরকার আসলে কী করতে যাচ্ছে, আপত্তি কোন শর্তে",
             "link": "https://www.bbc.com/bengali/articles/cq1kd71nem7ro?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'বারবার প্রশ্ন করছিল, আমার সাথে কেউ নেই? আমি বিবাহিত নাকি অবিবাহিত?'",
-            "link": "https://www.bbc.com/bengali/articles/cm2l4nz0kn04o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "দিল্লিতে নারী বিক্ষোভকারীদের 'হেনস্থা', 'দ্বিতীয় যন্তর মন্তরের' ডাক ককরোচ জনতা পার্টির",
-            "link": "https://www.bbc.com/bengali/articles/c6eq3nv5843qo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ব্রাজিলের নির্বাচনের প্রথম দফায় ডানপন্থী ফ্লাভিও বলসোনারোর জয়",
-            "link": "https://www.bbc.com/bengali/articles/c6ewe1jpldeko?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'নিরাপত্তা চৌহদ্দি, তবুও অপরাধ বাড়ছে গুলশানে'",
-            "link": "https://www.bbc.com/bengali/articles/c8p3g9x31l90o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Syrian Airlines unveils laser-sharp look for the future",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
+            "title": "Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?",
+            "link": "https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Moroccan journalists recount years of surveillance amid new Amnesty claim",
-            "link": "https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss",
+            "title": "Croatia vs Spain: UEFA Nations League – Yamal, Modric, head-to-head",
+            "link": "https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
-            "link": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss",
+            "title": "Widowed twice: A Gaza mother’s story of loss and survival",
+            "link": "https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump officials pursue record number of cases to strip US citizenship",
-            "link": "https://www.aljazeera.com/news/2026/10/6/trump-officials-pursue-record-number-of-cases-to-strip-us-citizenship?traffic_source=rss",
+            "title": "Erling Haaland faces injury scare ahead of Man City vs Liverpool",
+            "link": "https://www.aljazeera.com/sports/2026/10/6/erling-haaland-faces-injury-scare-ahead-of-man-city-vs-liverpool?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "New York state declares measles disaster amid resurgence of disease in US",
-            "link": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
+            "title": "Violent clashes erupt after mass housing protest in Barcelona",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-barcelona-protests-clip-mp4?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
+            "title": "Quebec separatists win election reviving push for independence",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/quebec-separatists-win-election-reviving-push-for-independence?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,27 +73,32 @@
             "source": "BBC World"
         },
         {
-            "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-            "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+            "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+            "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-            "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+            "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+            "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Spain PM pins hopes on housing crisis to help win snap election",
-            "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+            "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+            "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "US 'watching closely' after plague researcher dies in Russia",
-            "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+            "title": "Yemeni military says it has 'secured' Red Sea waterway",
+            "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Harmanpreet Kaur steps down as India captain",
+            "link": "https://www.cricinfo.com/ci/content/story/1557275.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Pakistan withdraw from World Championship of Legends after PCB refuse NOCs",
             "link": "https://www.cricinfo.com/ci/content/story/1557244.html?ex_cid=OTC-RSS",
@@ -120,38 +125,33 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Brathwaite fifty, Claxton three-for seal series win for West Indies",
-            "link": "https://www.cricinfo.com/ci/content/story/1557197.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "England's greatest international? Kane is now a serious contender",
             "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "F1 needs to have hard look at itself - Sainz",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss",
+            "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Player welfare, injury worries & boredom - has extended break worked?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+            "title": "F1 in the wet and the future of engines - Q&A",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Medvedev disqualified from Djokovic match for hitting spectator with ball",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss",
+            "title": "NFL suspends two officials for player incidents",
+            "link": "https://www.bbc.co.uk/sport/american-football/articles/cqrlynky9j61o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
+            "title": "Gauff condemns racist abuse after China Open win",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cqd09z0x9xd8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "ECB will 'look at' funding women's Windies Test if needed",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
+            "title": "Northern Ireland make huge strides despite Georgia frustration",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary",
-            "link": "https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/",
+            "title": "Nomad Goods Promo Codes: Get 25% Off in October 2026",
+            "link": "https://www.wired.com/story/nomad-discount-code/",
             "source": "Wired"
         },
         {
-            "title": "Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever",
-            "link": "https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/",
+            "title": "Priceline Promo Codes & Coupons: 10% Off October 2026",
+            "link": "https://www.wired.com/story/priceline-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "The Best Early Amazon Prime Day Deals 2026: WIRED-Tested Picks to Shop Now",
-            "link": "https://www.wired.com/story/amazon-prime-day-early-deals-10-05-2026/",
+            "title": "Sportsman's Warehouse Promo Code: Save in October 2026",
+            "link": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-            "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+            "title": "KitchenAid Promo Codes: Save Up to 20%",
+            "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Withings BodyScan 2 Review: Worth Its Weight",
-            "link": "https://www.wired.com/review/withings-bodyscan-2/",
+            "title": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras October 2026",
+            "link": "https://www.wired.com/story/sony-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Omega Has New Bond Watches Even if There Isn’t a New James Bond",
-            "link": "https://www.wired.com/story/omega-has-new-bond-watches-even-if-we-dont-have-a-new-bond/",
+            "title": "25% Off Adidas Promo Code | October 2026",
+            "link": "https://www.wired.com/story/adidas-promo-code/",
             "source": "Wired"
         }
     ]
