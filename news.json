@@ -33,43 +33,53 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
-            "link": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
+            "title": "Intercommunal clashes kill 71 people in South Sudan",
+            "link": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "European states, Canada, Japan and UN back ICC against US sanctions",
-            "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+            "title": "Iran war live: Kremlin says Trump welcomed Russia effort in Iran deal",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
-            "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
+            "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Injured Orangutan rescued from Indonesia wildfires",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
+            "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Katie Zacharia ‘offered’ position as White House press secretary",
-            "link": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
+            "title": "US judge rules Trump administration’s use of voter data unlawful",
+            "link": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution",
-            "link": "https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution?traffic_source=rss",
+            "title": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
+            "link": "https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
             "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+            "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
             "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
             "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+            "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -80,16 +90,6 @@
         {
             "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
             "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-            "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Man named Hitler Mussolini elected mayor in Peru",
-            "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -125,8 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
+            "title": "Greek takeaways: What did we learn from Lionesses' win?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Arteta's conscience clear over Man City charges",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "What reception awaits Man City at Anfield?",
             "link": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Man City whistleblower to remain in witness protection",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +150,27 @@
             "source": "BBC Sports"
         },
         {
-            "title": "I've got my own questions on Man City case - Carrick",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Fury-Joshua tickets priced up to £13,000 sell out in one hour",
             "link": "https://www.bbc.co.uk/sport/boxing/articles/cwp9gxzyplk4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Everton up for sale again - so what next as owners TFG look for a way out?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c3y0e8n9q4e0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "33 balls, 0 runs - Maddinson's record amid Australia top-order struggles",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/ck20wpg18w19o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+            "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Long live the mechanical keyboard",
+            "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+            "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+            "source": "TechCrunch"
+        },
         {
             "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
             "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
@@ -169,21 +184,6 @@
         {
             "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
             "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "LumenUs helps automate tedious paperwork in times of grief",
-            "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-            "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Danu Robotics’ fight to build a better recycling robot",
-            "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
             "source": "TechCrunch"
         },
         {
