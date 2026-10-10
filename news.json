@@ -1,12 +1,17 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "দিল্লিতে বিক্ষোভ: সিজেপির অভিজিৎ দীপকে, মমতা ব্যানার্জী, অরবিন্দ কেজরিওয়ালসহ আটক হাজারেরও বেশি",
+            "link": "https://www.bbc.com/bengali/articles/c6wyr1gp38kro?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "ট্রাম্পের ঘোষণা করা রাশিয়ান ডিজেল চুক্তিকে পুতিনের জন্য উপহার বলছেন জেলেনস্কি",
             "link": "https://www.bbc.com/bengali/articles/c6n4ez0339qlo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "বাংলাদেশি ফটোগ্রাফারদের চোখে পাঁচটি পরিযায়ী পাখির চোখধাঁধানো ছবি",
+            "title": "বাংলাদেশি ফটোগ্রাফারদের চোখে নয়টি পরিযায়ী পাখির চোখধাঁধানো ছবি",
             "link": "https://www.bbc.com/bengali/articles/cwm247z07j78o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -24,43 +29,48 @@
             "title": "পত্রিকা: 'শাহবাগ এলাকায় ৯ মাসে ৬৫ অজ্ঞাত মরদেহ উদ্ধার'",
             "link": "https://www.bbc.com/bengali/articles/cq1j3gn4x0zpo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "নোবেল শান্তি পুরস্কার পেলেন জাতিসংঘের সাবেক মানবাধিকার প্রধান নাভি পিল্লাই",
-            "link": "https://www.bbc.com/bengali/articles/cvkgknz82xelo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "India protest live: Police detain Cockroach leaders, New Delhi in lockdown",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
+            "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
+            "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
-            "link": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
+            "title": "Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes",
+            "link": "https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel’s economy prospers despite years of war, but prices worry voters",
-            "link": "https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss",
+            "title": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown",
+            "link": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Taiwan president says defence spending boost aims to ‘deter war’",
-            "link": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss",
+            "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+            "link": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Anthropic AI model submits false homicide tip to Philadelphia police",
-            "link": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
+            "title": "England international Cole Palmer signs new Chelsea deal until 2034",
+            "link": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Supporters of jailed former Pakistani PM Khan marching to capital",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss",
+            "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+            "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+            "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
@@ -73,56 +83,61 @@
             "source": "BBC World"
         },
         {
-            "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-            "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+            "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+            "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-            "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
-            "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "US country music star Ella Langley cancels show due to 'security threat'",
-            "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+            "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+            "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Weatherald backed to return as South Australia thump Victoria",
-            "link": "https://www.cricinfo.com/ci/content/story/1557828.html?ex_cid=OTC-RSS",
+            "title": "India and West Indies head to Indore for potential run-fest with series level",
+            "link": "https://www.cricinfo.com/ci/content/story/1557827.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Gambhir: 'Bowlers' careers are at stake'",
-            "link": "https://www.cricinfo.com/ci/content/story/1557814.html?ex_cid=OTC-RSS",
+            "title": "Sri Lanka hope to get out of T20I rut and keep series alive",
+            "link": "https://www.cricinfo.com/ci/content/story/1557869.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Will O'Rourke to miss India series to rehabilitate from hamstring, calf injuries",
-            "link": "https://www.cricinfo.com/ci/content/story/1557813.html?ex_cid=OTC-RSS",
+            "title": "Forgotten Test quick Richardson sparks stunning WA fightback",
+            "link": "https://www.cricinfo.com/ci/content/story/1557864.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Hope 102*, Rutherford 84 help West Indies pull off their highest T20I chase",
-            "link": "https://www.cricinfo.com/ci/content/story/1557797.html?ex_cid=OTC-RSS",
+            "title": "Aliss Al Islam in Litton-led Bangladesh squad for ODI tri-series",
+            "link": "https://www.cricinfo.com/ci/content/story/1557851.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Raza leads Zimbabwe in Ngarava's absence at UAE tri-series",
-            "link": "https://www.cricinfo.com/ci/content/story/1557800.html?ex_cid=OTC-RSS",
+            "title": "Malik's maiden Test fifty keeps Afghanistan steady",
+            "link": "https://www.cricinfo.com/ci/content/story/1557831.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Matthew Humphreys back for Ireland's ODI tour of Namibia",
-            "link": "https://www.cricinfo.com/ci/content/story/1557796.html?ex_cid=OTC-RSS",
+            "title": "Renshaw's century resurrects Australia after Mulder's four",
+            "link": "https://www.cricinfo.com/ci/content/story/1557850.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Renshaw century puts Australia on top against South Africa - scorecard",
+            "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Verstappen wins sprint after Russell crashes out",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "'We lost the life of a brother' - rider protest delays Giro di Lombardia",
+            "link": "https://www.bbc.co.uk/sport/cycling/articles/cqx2vm911870o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Time to rise? Ranking European football's sleeping giants",
@@ -130,28 +145,13 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Greek takeaways: What did we learn from Lionesses' win?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&at_campaign=rss",
+            "title": "Palmer signs new Chelsea contract until 2034",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Arteta's conscience clear over Man City charges",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Man City whistleblower to remain in witness protection",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Verstappen on sprint pole after another settings issue",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Fury-Joshua tickets priced up to £13,000 sell out in one hour",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/cwp9gxzyplk4o?at_medium=RSS&at_campaign=rss",
+            "title": "All Blacks power past Australia to retain Bledisloe Cup",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c9zrdl4028mko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
@@ -187,33 +187,33 @@
             "source": "TechCrunch"
         },
         {
+            "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+            "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+            "source": "Wired"
+        },
+        {
+            "title": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More",
+            "link": "https://www.wired.com/gallery/gifts-for-lego-lovers/",
+            "source": "Wired"
+        },
+        {
+            "title": "The Best Smart Scales for Tracking Weight and Body Composition (2026)",
+            "link": "https://www.wired.com/gallery/best-smart-scales/",
+            "source": "Wired"
+        },
+        {
+            "title": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition",
+            "link": "https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/",
+            "source": "Wired"
+        },
+        {
+            "title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
+            "link": "https://www.wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet/",
+            "source": "Wired"
+        },
+        {
             "title": "LG Promo Codes and Coupons for October 2026",
             "link": "https://www.wired.com/story/lg-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "30% Off Canon Promo Codes | October 2026",
-            "link": "https://www.wired.com/story/canon-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Disney Plus Discount Codes: 52% Off October 2026",
-            "link": "https://www.wired.com/story/disney-plus-discounts/",
-            "source": "Wired"
-        },
-        {
-            "title": "Home Depot Promo Codes: 30% Off in October 2026",
-            "link": "https://www.wired.com/story/home-depot-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "Altra Running Promo Codes: 10% Off October 2026",
-            "link": "https://www.wired.com/story/altra-promo-code/",
-            "source": "Wired"
-        },
-        {
-            "title": "eBay Coupons: 20% Off in October 2026",
-            "link": "https://www.wired.com/story/ebay-coupon-code/",
             "source": "Wired"
         }
     ]
