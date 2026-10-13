@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পত্রিকা: 'হুথি-সৌদি সংঘাত দীর্ঘায়িত হলে বহুমুখী সংকটে পড়তে পারে বাংলাদেশ'",
+            "link": "https://www.bbc.com/bengali/articles/cm62yz6d1wx7o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "শিশুর ডিএনএ টেস্টের দাবি, বাংলাদেশে চাইলেই কি এই টেস্ট করা যায়?",
+            "link": "https://www.bbc.com/bengali/articles/c6n49yr8nd41o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "বিমানবন্দরে হুথি হামলার জবাবে ‘কঠোর পদক্ষেপের’ হুঁশিয়ারি সৌদি মন্ত্রীর",
             "link": "https://www.bbc.co.uk/bengali/live/cwe9l87zezn7t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,47 +29,37 @@
             "title": "সাবেক দুই সেনা কর্মকর্তাকে গ্রেফতারের ঘটনায় কী বলছে পুলিশ",
             "link": "https://www.bbc.com/bengali/articles/cvde8l58z9p2o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "সৌদি আরবে হুথিদের হামলায় আহত বাংলাদেশিরা কে কোন হাসপাতালে",
-            "link": "https://www.bbc.com/bengali/articles/cw8rzkn3v0zro?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "রাশিয়া থেকে ডিজেল আমদানির পরিকল্পনা নিয়ে সমালোচনার মুখে ট্রাম্প",
-            "link": "https://www.bbc.com/bengali/articles/c6p9gym4vzm3o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
-            "link": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
+            "title": "‘Unprecedented’ cyberattack hits French supermarkets, causing food losses",
+            "link": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss",
+            "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
+            "link": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel demolitions in Negev displace 400 Palestinians",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israel-demolitions-in-negev-displace-400-palestinians?traffic_source=rss",
+            "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "South Africa deputy police chief resigns amid sex offence charges",
-            "link": "https://www.aljazeera.com/news/2026/10/12/south-africa-deputy-police-chief-resigns-amid-sex-offence-charges?traffic_source=rss",
+            "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+            "link": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli strike on tent in Gaza’s Khan Younis kills three",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
+            "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+            "link": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Elon Musk spends $366m to bolster Republican Party in US midterm elections",
-            "link": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
+            "title": "US archbishop says Catholics in army should not participate in firing squad",
+            "link": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -83,13 +83,13 @@
             "source": "BBC World"
         },
         {
-            "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-            "link": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
+            "title": "Breaking Bad actor RJ Mitte dies aged 34",
+            "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-            "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+            "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
+            "link": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -125,13 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Hincapie and Zubimendi injured in post-match training session",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmq5nzn8ww98o?at_medium=RSS&at_campaign=rss",
+            "title": "Coventry announce themselves back in the big time",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Do Lionesses lack ruthlessness in front of goal?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwe8rvm8yl93o?at_medium=RSS&at_campaign=rss",
+            "title": "Who has made Troy's Premier League team of the week?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cme36q1gnpnlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Coventry thrash Newcastle to claim first home win of season",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,18 +145,13 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Hincapie and Zubimendi injured in post-match training session",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmq5nzn8ww98o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "GB's Richardson withdrawn from World Championships",
             "link": "https://www.bbc.co.uk/sport/cycling/articles/cmpwgdw0p1d5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Pope pulls out of controversial Afghanistan T20 league",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Jordan 'Last Dance' jersey sells for record £10.6m",
-            "link": "https://www.bbc.co.uk/sport/basketball/articles/cje36qz977yqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
