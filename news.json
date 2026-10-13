@@ -1,8 +1,23 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "মুহাম্মদ ইউনূসকে যুক্তরাষ্ট্রে হেনস্তার ঘটনায় আইনি পদক্ষেপ নেওয়া হবে: জাহেদ উর রহমান",
+            "title": "অধ্যাপক ইউনূসকে হয়রানির প্রতিবাদে সাবেক ১২ জন উপদেষ্টার বিবৃতি",
             "link": "https://www.bbc.co.uk/bengali/live/ck1exg00z4e1t?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "কওমি মাদ্রাসায় বারবার ছেলেশিশু যৌন নির্যাতনের ঘটনা ঘটছে কীভাবে?",
+            "link": "https://www.bbc.com/bengali/articles/cr624jpwj40eo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "'অবরুদ্ধ' থাকার ৩০ ঘণ্টা পর চুয়েট ভিসি  হাসপাতালে, আন্দোলন 'চালিয়ে যাবেন' শিক্ষার্থীরা",
+            "link": "https://www.bbc.com/bengali/articles/cmlydwgeyek6o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "'তালা পড়লো' যন্তর-মন্তরে, কী ছিল সেখানে বিক্ষোভ-প্রতিবাদের ইতিহাস?",
+            "link": "https://www.bbc.com/bengali/articles/cjly05nx5wp1o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -14,52 +29,37 @@
             "title": "শিশুর ডিএনএ টেস্টের দাবি, বাংলাদেশে চাইলেই কি এই টেস্ট করা যায়?",
             "link": "https://www.bbc.com/bengali/articles/c6n49yr8nd41o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'হুথি-সৌদি সংঘাত দীর্ঘায়িত হলে বহুমুখী সংকটে পড়তে পারে বাংলাদেশ'",
-            "link": "https://www.bbc.com/bengali/articles/cm62yz6d1wx7o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বিমানবন্দরে হুথি হামলার জবাবে ‘কঠোর পদক্ষেপের’ হুঁশিয়ারি সৌদি মন্ত্রীর",
-            "link": "https://www.bbc.co.uk/bengali/live/cwe9l87zezn7t?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "সাজেক ভ্রমণ কতদিন বন্ধ থাকবে?",
-            "link": "https://www.bbc.com/bengali/articles/cmg47kp179nwo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Trump Protester punched at Trump rally as they’re mocked by the president",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-protester-punched-at-trump-rally-as-theyre-mocked-by-the-president?traffic_source=rss",
+            "title": "China sentences three people to death for running Myanmar scam centres",
+            "link": "https://www.aljazeera.com/news/2026/10/13/china-sentences-three-people-to-death-for-running-myanmar-scam-centres?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Activist Greta Thunberg joins French student protests",
-            "link": "https://www.aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests?traffic_source=rss",
+            "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
+            "link": "https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "One killed, several injured in Georgia rollercoaster ‘incident’",
-            "link": "https://www.aljazeera.com/news/2026/10/13/one-dead-after-roller-coaster-incident-in-george-us?traffic_source=rss",
+            "title": "New White House press secretary Katie Zacharia holds first briefing",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli forces raid Palestinian NGOs in occupied West Bank",
-            "link": "https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank?traffic_source=rss",
+            "title": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "The monetisation of mental health",
-            "link": "https://www.aljazeera.com/video/money-works/2026/10/13/the-monetisation-of-mental-health?traffic_source=rss",
+            "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Air France says it will follow Israeli rule barring crew from some nations",
-            "link": "https://www.aljazeera.com/features/2026/10/13/air-france-risks-breaking-the-law-by-adopting-israels-nationality-policy?traffic_source=rss",
+            "title": "Drivers queue for hours in Bali amid fuel shortage",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/drivers-queue-for-hours-in-bali-amid-fuel-shortage?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,152 +68,152 @@
             "source": "BBC World"
         },
         {
+            "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+            "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
             "title": "Breaking Bad actor RJ Mitte dies aged 34",
             "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "One dead and several hurt after rollercoaster incident at Six Flags",
-            "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+            "title": "Watch: Emergency calls from botched Christa Pike execution released",
+            "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
-            "link": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
+            "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
             "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-            "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+            "title": "Pope admitted to hospital for surgery to remove lump on his lung",
+            "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "England rest Archer, Atkinson, Tongue for Australia T20Is",
-            "link": "https://www.cricinfo.com/ci/content/story/1558275.html?ex_cid=OTC-RSS",
+            "title": "Kusal Mendis 87* hands Sri Lanka consolation win",
+            "link": "https://www.cricinfo.com/ci/content/story/1558343.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'Don't be scared' - Pollock bats for pink-ball switch for light-affected Tests",
-            "link": "https://www.cricinfo.com/ci/content/story/1558269.html?ex_cid=OTC-RSS",
+            "title": "Bavuma focused on South Africa response after first taste of defeat",
+            "link": "https://www.cricinfo.com/ci/content/story/1558308.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Another batting paradise greets India and West Indies in Hyderabad",
-            "link": "https://www.cricinfo.com/ci/content/story/1558270.html?ex_cid=OTC-RSS",
+            "title": "'We should have taken all ten wickets' - Shanto rues missed chances",
+            "link": "https://www.cricinfo.com/ci/content/story/1558342.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Atal's resistance frustrates Bangladesh despite Ebadot three-for",
-            "link": "https://www.cricinfo.com/ci/content/story/1558264.html?ex_cid=OTC-RSS",
+            "title": "SA20: Donald replaces Simons as JSK's bowling coach",
+            "link": "https://www.cricinfo.com/ci/content/story/1558340.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "World Cup revenge, Olympics dream keeps Mooney motivated",
-            "link": "https://www.cricinfo.com/ci/content/story/1558257.html?ex_cid=OTC-RSS",
+            "title": "Hazlewood six-for seals dominant Australia win",
+            "link": "https://www.cricinfo.com/ci/content/story/1558276.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Prestwidge stars in unexpected role as Tasmania topple NSW",
-            "link": "https://www.cricinfo.com/ci/content/story/1558254.html?ex_cid=OTC-RSS",
+            "title": "Sadikur 149 crushes Barishal; Chattogram move to No. 1 on NCL table",
+            "link": "https://www.cricinfo.com/ci/content/story/1558325.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "How much did Man City's rule breaking cost your team?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss",
+            "title": "Football regulator says he would quit over Man City political interference",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Australia close on win but Markram remains for South Africa - scorecard",
-            "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+            "title": "Majority of clubs on edge of 'financial disaster' - regulator",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Rwanda to host F1's first race in Africa since 1993",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss",
+            "title": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Is Man Utd's Fernandes issue a symptom or reason for their form?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o?at_medium=RSS&at_campaign=rss",
+            "title": "Liverpool's Wirtz problem - does he need to be dropped?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cvglw07rx6jeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Bethell returns as England call up youngsters Jack and Rew",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cqe8lg3xpmr3o?at_medium=RSS&at_campaign=rss",
+            "title": "Rusty or something more? South Africa's concern after Australia loss",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Ronaldo scores after match delayed by missile alert",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro?at_medium=RSS&at_campaign=rss",
+            "title": "McIlroy would vote for LIV players' PGA Tour return",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/c875pdv1ye2lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Meta releases its first frontier model, Muse Wonder",
-            "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+            "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+            "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
             "source": "TechCrunch"
         },
         {
-            "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-            "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+            "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+            "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
             "source": "TechCrunch"
         },
         {
-            "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-            "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+            "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
+            "link": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
             "source": "TechCrunch"
         },
         {
-            "title": "Microsoft president says UK is best placed to drive AI regulation",
-            "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+            "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+            "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
             "source": "TechCrunch"
         },
         {
-            "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-            "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+            "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+            "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
             "source": "TechCrunch"
         },
         {
-            "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-            "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+            "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+            "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
             "source": "TechCrunch"
         },
         {
-            "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-            "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+            "title": "The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds",
+            "link": "https://www.wired.com/story/new-york-comic-con-panel/",
             "source": "Wired"
         },
         {
-            "title": "What’s the Best Kindle of 2026 (So Far)?",
-            "link": "https://www.wired.com/gallery/best-kindle/",
+            "title": "The Apple HomeView Is Like a Giant Apple Watch for the Home",
+            "link": "https://www.wired.com/story/apple-homeview-smart-display/",
             "source": "Wired"
         },
         {
-            "title": "6 Best Coffee Grinders Based on Particle Analysis and Tasting (2026)",
-            "link": "https://www.wired.com/gallery/best-coffee-grinders-2026/",
+            "title": "Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’",
+            "link": "https://www.wired.com/story/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/",
             "source": "Wired"
         },
         {
-            "title": "What Flock Actually Costs Cities Across the Country",
-            "link": "https://www.wired.com/story/how-much-does-flock-actually-cost-cities/",
+            "title": "40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)",
+            "link": "https://www.wired.com/gallery/best-gifts-under-100/",
             "source": "Wired"
         },
         {
-            "title": "Wayfair Coupons: Up to 80% Off October 2026",
-            "link": "https://www.wired.com/story/wayfair-promo-code/",
+            "title": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés",
+            "link": "https://www.wired.com/gallery/best-tech-books-to-gift/",
             "source": "Wired"
         },
         {
-            "title": "Lego Promo Code | 20% Off October 2026",
-            "link": "https://www.wired.com/story/lego-promo-code/",
+            "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+            "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
             "source": "Wired"
         }
     ]
