@@ -1,7 +1,12 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "টঙ্গীতে প্রায় চার ঘণ্টার চেষ্টায় ওষুধ কারখানার আগুন নিয়ন্ত্রণে: ফায়ার সার্ভিস",
+            "title": "বাংলাদেশে ৩৫ বছরের পরে আইনজীবী হতে বাধা কেন?",
+            "link": "https://www.bbc.com/bengali/articles/cqev3dwmj48vo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পাকিস্তানে বিরোধীতার মধ্যেই খাইবার পাখতুনখোয়ায় জরুরি অবস্থা জারির প্রস্তাব অনুমোদন",
             "link": "https://www.bbc.co.uk/bengali/live/c6rmy3gxpnwnt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -16,55 +21,55 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "ওয়াইল্ডলাইফ ফটোগ্রাফার অফ দ্য ইয়ার ২০২৬-এর বিজয়ী ছবিগুলো",
-            "link": "https://www.bbc.com/bengali/articles/c5n49wn0000go?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
             "title": "ইমরান খানের শক্ত ঘাঁটি অবরুদ্ধ করেছে পাকিস্তান, কিন্তু এর ফল উল্টো হতে পারে",
             "link": "https://www.bbc.com/bengali/articles/c5x2v0d2199po?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "পত্রিকা: 'শাহজালালে আটকা ১৩ হাজার যাত্রী'",
-            "link": "https://www.bbc.com/bengali/articles/c68jzenpd7kko?at_medium=RSS&at_campaign=rss",
+            "title": "কলম্বাসের ৫০০ বছর আগে আমেরিকা পৌঁছেছিল যে ভাইকিংরা",
+            "link": "https://www.bbc.com/bengali/articles/c6rmyj917gvdo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "China’s exports surge amid AI-driven demand",
-            "link": "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss",
+            "title": "Saudi national charged with planting a listening device at OpenAI offices",
+            "link": "https://www.aljazeera.com/news/2026/10/14/saudi-national-charged-with-planting-a-listening-device-at-openai-offices?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss",
+            "title": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
+            "link": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss",
+            "title": "What is potash, and why is the US importing it from Belarus?",
+            "link": "https://www.aljazeera.com/news/2026/10/14/what-is-potash-and-why-is-the-us-importing-it-from-belarus?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How do Iranians move money abroad to avoid US sanctions?",
-            "link": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss",
+            "title": "Colombia inaugurates embassy to Israel in Jerusalem",
+            "link": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
-            "link": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
+            "title": "Two scenarios for the Yemen war",
+            "link": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Tensions with teachers, pupils and Turkiye: Inside Azerbaijan’s hijab row",
-            "link": "https://www.aljazeera.com/news/2026/10/14/tensions-with-teachers-pupils-and-turkiye-inside-azerbaijans-hijab-row?traffic_source=rss",
+            "title": "UK restaurateur claims losses after video calling for Gaza destruction",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+            "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
             "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "US inflation rises more than expected - here's what is happening with prices",
+            "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,60 +78,70 @@
             "source": "BBC World"
         },
         {
-            "title": "Turkish police raid opposition TV station, halting live broadcasts",
-            "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Saudi employee charged with planting recording device in OpenAI office",
-            "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
             "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-            "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+            "title": "Turkish police raid opposition TV station, halting live broadcasts",
+            "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+            "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Home ODI World Cup before retiring 'certainly a blessing' for Sikandar Raza",
-            "link": "https://www.cricinfo.com/ci/content/story/1558414.html?ex_cid=OTC-RSS",
+            "title": "MCC dig up 'unsatisfactory' Test pitch after ICC demerit point",
+            "link": "https://www.cricinfo.com/ci/content/story/1558470.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Jack Leach not on England radar for Bangladesh tour",
-            "link": "https://www.cricinfo.com/ci/content/story/1558344.html?ex_cid=OTC-RSS",
+            "title": "Unchanged India bowl first in bid to win series, West Indies make two changes",
+            "link": "https://www.cricinfo.com/ci/content/story/1558464.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Rahmat Shah calls hard-fought Abu Dhabi draw 'equal to a win'",
-            "link": "https://www.cricinfo.com/ci/content/story/1558370.html?ex_cid=OTC-RSS",
+            "title": "Natarajan returns to SRH, Ansari traded to Dehi Capitals",
+            "link": "https://www.cricinfo.com/ci/content/story/1558453.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Alzarri Joseph, Shai Hope to miss WI's two-Test series in Bangladesh",
-            "link": "https://www.cricinfo.com/ci/content/story/1558358.html?ex_cid=OTC-RSS",
+            "title": "SA's middle order in a muddle and Conrad wants them to 'get bloody better'",
+            "link": "https://www.cricinfo.com/ci/content/story/1558426.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Australia bowl again, Litchfield out with hip complaint; Bangladesh debut for Disha Biswas",
-            "link": "https://www.cricinfo.com/ci/content/story/1558362.html?ex_cid=OTC-RSS",
+            "title": "Iyer moves to fourth in T20I batting rankings",
+            "link": "https://www.cricinfo.com/ci/content/story/1558447.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Weibgen century helps Queensland to One-Day Cup win over WA",
-            "link": "https://www.cricinfo.com/ci/content/story/1558351.html?ex_cid=OTC-RSS",
+            "title": "Chad Laycock takes record-breaking five wickets in an over in South African T20 match",
+            "link": "https://www.cricinfo.com/ci/content/story/1558419.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Struijk red card shown after VAR intervention is overturned",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+            "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Man Utd defender Martinez issues scathing attack on board",
             "link": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Quiz: Do you remember the big names who took aim at football club chiefs?",
+            "link": "https://www.bbc.co.uk/sport/articles/cqvgr7530085o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,29 +150,29 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Saka responds to Arteta's challenge with 'huge impact'",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Rams player suspended for punch & kicker cut by club",
-            "link": "https://www.bbc.co.uk/sport/american-football/articles/c5zjxnwm8dzpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Lions women to face France in history-making first game",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwly01vdjpvzo?at_medium=RSS&at_campaign=rss",
+            "title": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+            "title": "TechCrunch Disrupt 2026: Day 2",
+            "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "NTangible bets it can predict how athletes will perform under pressure",
+            "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+            "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
             "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
             "source": "TechCrunch"
         },
@@ -172,48 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-            "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Cerebras CEO pushes back on AI doomsday warnings",
-            "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-            "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Tesla’s Roadster 2 Is Late—and Entering a Different EV World",
-            "link": "https://www.wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world/",
+            "title": "Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies",
+            "link": "https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms/",
             "source": "Wired"
         },
         {
-            "title": "Cat-Like Whiskers Help Tiny Drones Fly in the Dark",
-            "link": "https://www.wired.com/story/cat-like-whiskers-help-tiny-drones-fly-in-the-dark/",
+            "title": "‘Dune: Part Three’ Cowriter Brian K. Vaughan Has a New Comic on the Way",
+            "link": "https://www.wired.com/story/new-york-comic-con-interview/",
             "source": "Wired"
         },
         {
-            "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-            "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+            "title": "Formlabs Has a 3D Printer for Normies",
+            "link": "https://www.wired.com/story/formlabs-has-a-3d-printer-for-normies/",
             "source": "Wired"
         },
         {
-            "title": "Dell Coupon Codes: 20% Off for October 2026",
-            "link": "https://www.wired.com/story/dell-coupon-code/",
+            "title": "My Friend Has No Soul",
+            "link": "https://www.wired.com/story/my-friend-has-no-soul/",
             "source": "Wired"
         },
         {
-            "title": "Expedia Coupons: 40% Off",
-            "link": "https://www.wired.com/story/expedia-coupon/",
+            "title": "Breville Eye Q Toaster Review: Neat Sensors, but Less-Than-Perfect Toast",
+            "link": "https://www.wired.com/review/breville-eye-q-toaster/",
             "source": "Wired"
         },
         {
-            "title": "Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026",
-            "link": "https://www.wired.com/story/vimeo-promo-code/",
+            "title": "JackRabbit MG Cargo Bike Review (2026): Compact and Powerful",
+            "link": "https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/",
             "source": "Wired"
         }
     ]
