@@ -1,7 +1,17 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "ইউক্রেনের ড্রোনের গতি কমিয়ে দেওয়ার পেছনে যুক্তরাষ্ট্র সরকার থাকতে পারে, ইঙ্গিত ইলন মাস্কের",
+            "title": "পাকিস্তানে স্কুলে ছাদ ধসের ঘটনায় ২৯ মরদেহ উদ্ধারের দাবি",
+            "link": "https://www.bbc.com/bengali/articles/cq2031p56nejo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "'যৌনাঙ্গে বুট দিয়ে মেরেছে', 'জামা টেনে তুলে দিয়েছে' - দিল্লিতে আটক বিক্ষোভকারীদের অভিজ্ঞতা",
+            "link": "https://www.bbc.com/bengali/articles/cq78p72y1nyxo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ইউক্রেনের ড্রোনের গতি কমানোর পেছনে যুক্তরাষ্ট্র সরকার থাকতে পারে, ইঙ্গিত ইলন মাস্কের",
             "link": "https://www.bbc.com/bengali/articles/cm8xzgvdnn2go?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -19,47 +29,37 @@
             "title": "বাংলাদেশে ৩৫ বছরের পরে আইনজীবী হতে বাধা কেন?",
             "link": "https://www.bbc.com/bengali/articles/cqev3dwmj48vo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "সৌদি জোটের হামলার জবাবে হুথিদের পাল্টা হামলা, আরামকোর সদরদপ্তরে 'ব্যাপক ক্ষয়ক্ষতি'",
-            "link": "https://www.bbc.co.uk/bengali/live/c6rmy3gxpnwnt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পোপ লিও ক্যান্সারে আক্রান্ত, এ নিয়ে পাঁচটি প্রশ্নের উত্তর",
-            "link": "https://www.bbc.com/bengali/articles/cqkgleln0kg8o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Albanian Ministry of Justice on fire as education protesters riot",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss",
+            "title": "School roof collapses in northwestern Pakistan, killing at least 29 people",
+            "link": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia",
-            "link": "https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia?traffic_source=rss",
+            "title": "Man United’s Martinez takes to social media to defend his criticism of club",
+            "link": "https://www.aljazeera.com/sports/2026/10/15/man-uniteds-martinez-takes-to-social-media-to-defend-his-criticism-of-club?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "North Korea tests two submarine-launched missiles, state media reports",
-            "link": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss",
+            "title": "Messi’s Inter Miami beat New York City to reach third straight MLS playoff",
+            "link": "https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Teenager dies as heavy rain floods Istanbul",
-            "link": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
+            "title": "Containers and debris captured floating around the Strait of Hormuz",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
-            "link": "https://www.aljazeera.com/news/2026/10/15/trump-administration-seeks-to-strip-ilhan-omar-of-us-citizenship-wsj?traffic_source=rss",
+            "title": "Police arrest US teen in alleged Illinois Hindu temple mass shooting plot",
+            "link": "https://www.aljazeera.com/news/2026/10/15/us-police-arrest-illinois-teen-in-alleged-hindu-temple-mass-shooting-plot?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/14-10-clip-trump-attacks-el-sayed-mb-us?traffic_source=rss",
+            "title": "Russian nuclear-powered submarine fires missiles during Pacific drills",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-clip-russia-nuclear-submarines?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,27 +73,37 @@
             "source": "BBC World"
         },
         {
-            "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-            "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+            "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+            "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "US inflation rises more than expected - here's what is happening with prices",
-            "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+            "title": "White House defends new press secretary amid questions about her legal credentials",
+            "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-            "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+            "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+            "link": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-            "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+            "title": "At the Brooklyn novelty shop in 'surreal' row with Kelly Clarkson over mechanical bird",
+            "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Raipur the stage for the start of India's Mandhana era",
+            "link": "https://www.cricinfo.com/ci/content/story/1558544.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Stubbs dropped, Rickelton to keep wickets in Gqeberha Test",
+            "link": "https://www.cricinfo.com/ci/content/story/1558532.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Samson: Tilak's wicket the 'turning point' in India's loss",
             "link": "https://www.cricinfo.com/ci/content/story/1558515.html?ex_cid=OTC-RSS",
@@ -115,18 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Rahmat Shah calls hard-fought Abu Dhabi draw 'equal to a win'",
-            "link": "https://www.cricinfo.com/ci/content/story/1558370.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "MCC dig up 'unsatisfactory' Test pitch after ICC demerit point",
-            "link": "https://www.cricinfo.com/ci/content/story/1558470.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Guardiola's return, Man City's defiance - and a game of glorious chaos",
             "link": "https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Could Wenger really take on Infantino and run for Fifa presidency?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "The F1 pit stop that helped save lives",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c6ly0q00gj5do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Southgate does not see return to Premier League management",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +150,17 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Martinez outburst came out of 'anger and frustration'",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "PSG on 'different level' - are they building greatest European dynasty?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Jackson steps up again as Aston Villa revival continues",
             "link": "https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Man City show fight but fall short of fightback against slick PSG",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Figma announces new features to define how agents work on its platform",
+            "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
             "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
@@ -182,38 +187,33 @@
             "source": "TechCrunch"
         },
         {
-            "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-            "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Trump Aides Admit the House Is a Lost Cause",
-            "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
+            "title": "Lenovo Coupon Codes: 15% Off in October 2026",
+            "link": "https://www.wired.com/story/lenovo-coupon-code/",
             "source": "Wired"
         },
         {
-            "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
-            "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+            "title": "Walmart Promo Codes: 20% Off for October 2026",
+            "link": "https://www.wired.com/story/top-walmart-promo-codes/",
             "source": "Wired"
         },
         {
-            "title": "Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies",
-            "link": "https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms/",
+            "title": "Hotels.com Coupon Codes for October 2026",
+            "link": "https://www.wired.com/story/hotels-com-coupon/",
             "source": "Wired"
         },
         {
-            "title": "‘Dune: Part Three’ Cowriter Brian K. Vaughan Has a New Comic on the Way",
-            "link": "https://www.wired.com/story/new-york-comic-con-interview/",
+            "title": "ABT Promo Codes & Discounts for October 2026",
+            "link": "https://www.wired.com/story/abt-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "Formlabs Has a 3D Printer for Normies",
-            "link": "https://www.wired.com/story/formlabs-has-a-3d-printer-for-normies/",
+            "title": "Groupon Promo Codes: 60% Off in October 2026",
+            "link": "https://www.wired.com/story/groupon-promo-code/",
             "source": "Wired"
         },
         {
-            "title": "My Friend Has No Soul",
-            "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+            "title": "Design Within Reach Promo Codes: 30% Off | October 2026",
+            "link": "https://www.wired.com/story/design-within-reach-promo-code/",
             "source": "Wired"
         }
     ]
