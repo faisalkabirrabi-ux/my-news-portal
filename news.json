@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "White House press secretary Katie Zacharia fired after five days on the job",
-            "link": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss",
+            "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
+            "link": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Kenya records third Ebola case, linked to first patient who died",
-            "link": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
+            "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+            "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "UK PM adviser’s wife expresses ‘support’ for Palestine Action",
-            "link": "https://www.aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss",
+            "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
-            "link": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
+            "title": "Students in Europe are rising up to call for better education",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ukraine president targets Trump, Putin at EU summit",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
+            "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US records 4,410 measles cases as outbreak grows",
-            "link": "https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss",
+            "title": "Oregon community mourns victims of school shooting",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,8 +73,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-            "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+            "title": "Trump denies limiting Ukraine access to Starlink network",
+            "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -88,12 +88,17 @@
             "source": "BBC World"
         },
         {
-            "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-            "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+            "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+            "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Bumrah, Pant in India squad for New Zealand Test series",
+            "link": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Jaffer applies for India men's national selector post",
             "link": "https://www.cricinfo.com/ci/content/story/1558791.html?ex_cid=OTC-RSS",
@@ -102,11 +107,6 @@
         {
             "title": "Deepti Sharma and Niki Prasad seal nervy chase of 115 for India",
             "link": "https://www.cricinfo.com/ci/content/story/1558783.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Bumrah, Pant in India squad for New Zealand Test series",
-            "link": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -125,8 +125,8 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Former Sale Sharks lock Andrews dies at team hotel in La Rochelle",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjvxynj2kyo?at_medium=RSS&at_campaign=rss",
+            "title": "Ranking the Premier League's all-time greatest super subs",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -135,27 +135,37 @@
             "source": "BBC Sports"
         },
         {
+            "title": "Former Sale Sharks lock Andrews dies at team hotel in La Rochelle",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjvxynj2kyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game?",
             "link": "https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Underdogs? We like that tag, says England captain Williams",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cx7vprd744y9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Rahm sacrifices £75m to secure exit from LIV Golf",
             "link": "https://www.bbc.co.uk/sport/golf/articles/cq80zpk1xgxpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Dubois and Wardley at career-heaviest for rematch",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/cm4g1e65y3d0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "'I am telling you the truth' - Carrick on Martinez fallout",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Replit is no longer working with Anthropic, CEO says",
+            "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+            "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+            "source": "TechCrunch"
+        },
         {
             "title": "India becomes the latest country to report rogue AI agent activity",
             "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
@@ -177,14 +187,14 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-            "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-            "source": "TechCrunch"
+            "title": "The Leap Second Is No More",
+            "link": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+            "source": "Wired"
         },
         {
-            "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-            "link": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-            "source": "TechCrunch"
+            "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+            "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+            "source": "Wired"
         },
         {
             "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
@@ -204,16 +214,6 @@
         {
             "title": "Thank Gen Z for the ‘Girls’ Revival",
             "link": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
-            "source": "Wired"
-        },
-        {
-            "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
-            "link": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
-            "source": "Wired"
-        },
-        {
-            "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-            "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
             "source": "Wired"
         }
     ]
