@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "তিন বান্ধবীর দুইজন হাঁটতে গিয়েছিলেন, আরেকজন ফিরলেন লাশ হয়ে",
+            "link": "https://www.bbc.com/bengali/articles/ck5yn9lrz597o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "মক্কায় মৃত্যুদণ্ড দেওয়া দুই বাংলাদেশির বিষয়ে সৌদি আরব কি ভিয়েনা প্রটোকল লঙ্ঘন করেছে?",
             "link": "https://www.bbc.com/bengali/articles/cj20vwy1pqyxo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,42 +29,37 @@
             "title": "ইউক্রেনের মানুষ শহর ছেড়ে পালিয়ে যাক- এই কৌশল নিয়েছেন পুতিন?",
             "link": "https://www.bbc.com/bengali/articles/cmy4xvxl3yl1o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'আমি জানতাম না যে ঘুমের মধ্যে আমার সঙ্গী আমাকে ধর্ষণ করছিল'",
-            "link": "https://www.bbc.com/bengali/articles/c50mezlmj4y0o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
-            "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
+            "title": "India and West Indies denied a thrilling finale as rain hits final T20",
+            "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why adults are going back to summer camp",
-            "link": "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss",
+            "title": "Pope Leo returns to Vatican after lung cancer surgery",
+            "link": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-            "link": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
+            "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+            "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
-            "link": "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss",
+            "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
-            "link": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
+            "title": "Al Jazeera reports from Paris as protests turns violent",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
-            "link": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss",
+            "title": "Why are Latin American countries building closer ties with Israel?",
+            "link": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,21 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Kishan and Dhir impress but rain forces series to end 2-2",
+            "link": "https://www.cricinfo.com/ci/content/story/1558889.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Taylor and Ervine lift Zimbabwe to 271 after top-order collapse",
+            "link": "https://www.cricinfo.com/ci/content/story/1558881.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "WI bowl in rain-reduced game; India bring in Bhuvneshwar",
+            "link": "https://www.cricinfo.com/ci/content/story/1558878.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Chaminda Vaas unveiled as Delhi Capitals' fast-bowling coach",
             "link": "https://www.cricinfo.com/ci/content/story/1558867.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -110,28 +125,18 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Gill to feature for Punjab in second round of Ranji Trophy",
-            "link": "https://www.cricinfo.com/ci/content/story/1558865.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Pakistan, Sri Lanka look to find the right mix as World Cup countdown begins",
-            "link": "https://www.cricinfo.com/ci/content/story/1558862.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Rabada's back to bolster South Africa as Australia chase series win",
-            "link": "https://www.cricinfo.com/ci/content/story/1558835.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Boos and bananas on day of defiance at Man City",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "McDermott seeks fix as England fight to save their World Cup",
             "link": "https://www.bbc.co.uk/sport/rugby-league/articles/crwyqgjg5y8wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Neto stars but who was subdued? - player ratings for Everton v Chelsea",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c674pzzlz8zlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,22 +145,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Dubois v Wardley 2 - heavyweight title fight predictions",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/cwz0vdmyvrx8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Glasgow get bonus-point win at emotion-filled Sale",
             "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqpvgj4837r1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "GB's Morris completes hat-trick of golds at Worlds",
-            "link": "https://www.bbc.co.uk/sport/cycling/articles/cmj47egq1dx5o?at_medium=RSS&at_campaign=rss",
+            "title": "Arsenal held at home by Birmingham",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c680zp4djprgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+            "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
             "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
@@ -179,11 +184,6 @@
         {
             "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
             "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Waymo’s robotaxis are headed to Canada",
-            "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
             "source": "TechCrunch"
         },
         {
