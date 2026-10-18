@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "কলকাতায় পদপিষ্টের ঘটনায় কেন অভিযোগ পুলিশ ও উদ্যোক্তাদের বিরুদ্ধে?",
+            "link": "https://www.bbc.com/bengali/articles/cr93z9nl13dko?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ফ্রান্সজুড়ে সহিংস সংঘর্ষ, লুটপাট ও অগ্নিসংযোগ চলছে, গ্রেপ্তার ১ হাজারের বেশি",
+            "link": "https://www.bbc.com/bengali/articles/c5gm029lmnneo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "পত্রিকা: 'অস্ত্র হাতে মাদকসেবীদের ধাওয়া প্রতিমন্ত্রী ইশরাকের'",
             "link": "https://www.bbc.com/bengali/articles/c6n9r2xzl99lo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -16,55 +26,55 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "তিন বান্ধবীর দুইজন হাঁটতে গিয়েছিলেন, আরেকজন ফিরলেন লাশ হয়ে",
-            "link": "https://www.bbc.com/bengali/articles/ck5yn9lrz597o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
             "title": "মক্কায় মৃত্যুদণ্ড দেওয়া দুই বাংলাদেশির বিষয়ে সৌদি আরব কি ভিয়েনা প্রটোকল লঙ্ঘন করেছে?",
             "link": "https://www.bbc.com/bengali/articles/cj20vwy1pqyxo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "জেলেনস্কির সাথে বিরোধ, রাশিয়ার ওপর কয়েকটি নিষেধাজ্ঞা আটকে দিলেন ট্রাম্প",
-            "link": "https://www.bbc.com/bengali/articles/cvlyd2xnx75do?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Search continues for 11 missing after boat sank off Mexico’s Baja coast",
-            "link": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss",
+            "title": "Why Iran-US negotiations keep failing",
+            "link": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
-            "link": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
+            "title": "WNBA Finals: Gabby Williams leads Valkyries to nervy Game 1 win over Dream",
+            "link": "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
-            "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+            "title": "Israel’s ties with Europe are fraying. Can its election change that?",
+            "link": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Buildings burn as French protests go into the night",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
+            "title": "Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title",
+            "link": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss",
+            "title": "Guatemalan former prosecutor shot dead at sports centre",
+            "link": "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli settlers attack European diplomats in the occupied West Bank",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
+            "title": "AI tool helps stranded protesters find their way home in the Indian capital",
+            "link": "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+            "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
             "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+            "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+            "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -73,7 +83,7 @@
             "source": "BBC World"
         },
         {
-            "title": "Deadly fire breaks out at Canada military base",
+            "title": "Several dead or injured in major fire at Canada military base",
             "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
@@ -81,52 +91,42 @@
             "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
             "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Anti-government protesters battle with police in Albania",
-            "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "At least 17 dead in crush at Hindu festival event in India",
-            "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Australia bowl, McGrath replaces injured Litchfield",
+            "link": "https://www.cricinfo.com/ci/content/story/1558933.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Lyon left out as Australia go all-pace and bowl first on damp day",
+            "link": "https://www.cricinfo.com/ci/content/story/1558919.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Sri Lanka bowl, Pakistan hand debut to Baig",
+            "link": "https://www.cricinfo.com/ci/content/story/1558929.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Can Zimbabwe escape Afghanistan's ODI chokehold?",
+            "link": "https://www.cricinfo.com/ci/content/story/1558921.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "'The swagger is back' - Sammy thrilled with West Indies' T20I surge",
             "link": "https://www.cricinfo.com/ci/content/story/1558905.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Taylor, Ervine lay platform before Evans four-for secures thumping win",
-            "link": "https://www.cricinfo.com/ci/content/story/1558881.html?ex_cid=OTC-RSS",
+            "title": "Raza hails 'unity and culture of the team' after Zimbabwe's hard-fought win",
+            "link": "https://www.cricinfo.com/ci/content/story/1558914.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Rabada's back to bolster South Africa as Australia chase series win",
-            "link": "https://www.cricinfo.com/ci/content/story/1558835.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Shreyas Iyer on Shai Hope: 'He was cruising through in the series'",
-            "link": "https://www.cricinfo.com/ci/content/story/1558895.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Kishan and Dhir impress but rain forces series to end 2-2",
-            "link": "https://www.cricinfo.com/ci/content/story/1558889.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "WI bowl in rain-reduced game; India bring in Bhuvneshwar",
-            "link": "https://www.cricinfo.com/ci/content/story/1558878.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Dubois destroys Wardley in two rounds to retain title",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss",
+            "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -140,18 +140,18 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Villa's Manzambi shows Newcastle what they missed out on",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
+            "title": "Martinez 'back in a few weeks' after operation",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Tributes to Andrews before Champions Cup matches",
             "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "New Zealand avoid World Cup shock against Fiji",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
