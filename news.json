@@ -1,8 +1,18 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "কলকাতায় দুর্গাপুজোর মণ্ডপে পদপিষ্ট হয়ে অন্তত ১৭ জনের মৃত্যু",
+            "title": "পত্রিকা: 'অস্ত্র হাতে মাদকসেবীদের ধাওয়া প্রতিমন্ত্রী ইশরাকের'",
+            "link": "https://www.bbc.com/bengali/articles/c6n9r2xzl99lo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "কলকাতায় দুর্গাপুজোর মণ্ডপে পদপিষ্ট হয়ে অন্তত ১৯ জনের মৃত্যু",
             "link": "https://www.bbc.com/bengali/articles/ck3wv4vwwzggo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "কানাডার উদ্ধার করা ৩০টি বেলুগা তিমির অনিশ্চিত ভবিষ্যৎ",
+            "link": "https://www.bbc.com/bengali/articles/c6pwgqlg8j74o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -19,47 +29,37 @@
             "title": "জেলেনস্কির সাথে বিরোধ, রাশিয়ার ওপর কয়েকটি নিষেধাজ্ঞা আটকে দিলেন ট্রাম্প",
             "link": "https://www.bbc.com/bengali/articles/cvlyd2xnx75do?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "কক্সবাজারে রিসোর্টে আগুনে অন্তত ১০ জনের মৃত্যু, আরো যা জানা যাচ্ছে",
-            "link": "https://www.bbc.com/bengali/articles/cqrly015p1nzo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ভুট্টা চাষীদের সার সংকটের যে চিত্র দেখেছে বিবিসি",
-            "link": "https://www.bbc.com/bengali/articles/cwm26yr13vydo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "US ambassador urges Israel to prosecute attackers of American journalist",
-            "link": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+            "title": "Search continues for 11 missing after boat sank off Mexico’s Baja coast",
+            "link": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-            "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+            "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
+            "link": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
-            "link": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
+            "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+            "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-            "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+            "title": "Buildings burn as French protests go into the night",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ten killed in fire at beach resort in Bangladesh",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
+            "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Protesters allege police brutality as violent clashes rage on in Albania",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
+            "title": "Israeli settlers attack European diplomats in the occupied West Bank",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -68,13 +68,18 @@
             "source": "BBC World"
         },
         {
-            "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-            "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+            "title": "European diplomats attacked by Israeli settlers in West Bank",
+            "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "European diplomats attacked by Israeli settlers in West Bank",
-            "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+            "title": "Deadly fire breaks out at Canada military base",
+            "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+            "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -86,14 +91,14 @@
             "title": "At least 17 dead in crush at Hindu festival event in India",
             "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
-        },
-        {
-            "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-            "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "'The swagger is back' - Sammy thrilled with West Indies' T20I surge",
+            "link": "https://www.cricinfo.com/ci/content/story/1558905.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Taylor, Ervine lay platform before Evans four-for secures thumping win",
             "link": "https://www.cricinfo.com/ci/content/story/1558881.html?ex_cid=OTC-RSS",
@@ -117,11 +122,6 @@
         {
             "title": "WI bowl in rain-reduced game; India bring in Bhuvneshwar",
             "link": "https://www.cricinfo.com/ci/content/story/1558878.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Chaminda Vaas unveiled as Delhi Capitals' fast-bowling coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1558867.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
