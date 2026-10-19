@@ -1,7 +1,17 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "শেষপর্যন্ত প্রতিমন্ত্রীর পদ ছাড়লেন ইশরাক হোসেন",
+            "title": "ইশরাক হোসেন স্বেচ্ছায় পদত্যাগ করেছেন নাকি প্রধানমন্ত্রীর নির্দেশে?",
+            "link": "https://www.bbc.com/bengali/articles/ckq6n86y946ro?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "সৌদি আরবে মৃত্যুদণ্ড হওয়া বাংলাদেশিকে নিয়ে  কী জানা যাচ্ছে",
+            "link": "https://www.bbc.com/bengali/articles/c615jlex1lzlo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ফ্রান্সের পরিস্থিতি পুলিশের নিয়ন্ত্রণের বাইরে, মেয়রদের হাতে কারফিউ জারির ক্ষমতা",
             "link": "https://www.bbc.co.uk/bengali/live/cqp8gzd2w269t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -19,48 +29,58 @@
             "title": "'মন্ত্রী নয়, মাদক নির্মূল'-স্লোগান দিয়ে নিজেই পদত্যাগের ঘোষণা দেয়ার কথা জানালেন ইশরাক",
             "link": "https://www.bbc.com/bengali/articles/cr5ynlzje74wo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'স্ত্রী ও দুই শিশুকন্যাকে নিয়ে টুপটুপে উঠেছিলেন নাহিদ, মিলছে না খোঁজ'",
-            "link": "https://www.bbc.com/bengali/articles/cqwyr3d4zy22o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "দুই বাংলাদেশির মৃত্যুদণ্ডের ঘটনায় সৌদি রাষ্ট্রদূতকে ডেকে তথ্য চেয়েছে ঢাকা",
-            "link": "https://www.bbc.co.uk/bengali/live/cmx2870x0plyt?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Qatar to unveil regional defence partnership",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss",
+            "title": "Protesters block Louvre in support of French student movement",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
-            "link": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss",
+            "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
+            "link": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Indonesia battles worst forest fires and toxic haze in 11 years",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss",
+            "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
+            "link": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Museum protesters in Colombia accuse gov’t of erasing history",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history?traffic_source=rss",
+            "title": "Benny Gantz drops out of Israel’s election race",
+            "link": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
-            "link": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss",
+            "title": "Mauritius lifts curfew imposed amid wave of violent protests",
+            "link": "https://www.aljazeera.com/news/2026/10/19/mauritius-lifts-curfew-imposed-amid-wave-of-violent-protests?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli police arrest 10 after settler attacks on journalist, diplomats",
-            "link": "https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss",
+            "title": "Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus",
+            "link": "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Australian MP critically injured after being hit by car in apparent attack",
+            "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+            "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+            "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+            "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
@@ -68,45 +88,25 @@
             "source": "BBC World"
         },
         {
-            "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-            "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-            "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-            "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Personal attacks fire up debate before Brazil's run-off vote",
-            "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Italian PM Meloni to hold emergency meeting after weekend of violent clashes",
-            "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
+            "title": "Exiled critic of Rwandan president found beheaded",
+            "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Powar appointed men's national selector; Ojha to serve as chair",
-            "link": "https://www.cricinfo.com/ci/content/story/1559046.html?ex_cid=OTC-RSS",
+            "title": "Atal ton, Zadran 90 put Afghanistan on course before Zimbabwe fight back",
+            "link": "https://www.cricinfo.com/ci/content/story/1559073.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Afghanistan bat; Zimbabwe bring in Burl and Masuku",
-            "link": "https://www.cricinfo.com/ci/content/story/1559048.html?ex_cid=OTC-RSS",
+            "title": "Bavuma fights but Boland's four puts Australia in complete control",
+            "link": "https://www.cricinfo.com/ci/content/story/1559080.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Patterson's century cements New South Wales' dominant day",
-            "link": "https://www.cricinfo.com/ci/content/story/1559022.html?ex_cid=OTC-RSS",
+            "title": "Molineux, Dunkley enter WPL 2027 auction with top base price of INR 50 lakh",
+            "link": "https://www.cricinfo.com/ci/content/story/1559061.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -115,76 +115,96 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Injured McDermott returns to rescue Tasmania after Hoekstra surges",
-            "link": "https://www.cricinfo.com/ci/content/story/1559020.html?ex_cid=OTC-RSS",
+            "title": "Familiar foes get serious in ODI World Cup build-up",
+            "link": "https://www.cricinfo.com/ci/content/story/1559050.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Gannon's five puts Queensland in charge despite McSweeney, Lehmann fifties",
-            "link": "https://www.cricinfo.com/ci/content/story/1559021.html?ex_cid=OTC-RSS",
+            "title": "Why George Hill faces an uphill battle for higher honours",
+            "link": "https://www.cricinfo.com/ci/content/story/1559057.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "England manager Wiegman signs contract extension",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&at_campaign=rss",
+            "title": "Ronaldo handed 30-day suspension by Portuguese FA",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Brook says he has 'learned a lot' from off-field issues",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo?at_medium=RSS&at_campaign=rss",
+            "title": "Uefa gives Infantino two-week deadline to release key documents",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Beer & Blackpool beach was how British players bonded - Pulis",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro?at_medium=RSS&at_campaign=rss",
+            "title": "Leicester to visit Oxford City in FA Cup first round - see full draw",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Best images of F1 in the US through the years",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cqm24nezmy23o?at_medium=RSS&at_campaign=rss",
+            "title": "Are free-scoring Brighton genuine title contenders?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwn8d48je057o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "How one rule change is altering the face of one-day cricket",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&at_campaign=rss",
+            "title": "Svitolina says emotional toll of Ukraine war led to Monfils separation",
+            "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Cardinals upset Rams as Eagles lose - five things from NFL week six",
-            "link": "https://www.bbc.co.uk/sport/american-football/articles/crq5n8px34pwo?at_medium=RSS&at_campaign=rss",
+            "title": "Araujo the stopgap solution fixing Liverpool's problems",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ck8dz7pp4089o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-            "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+            "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+            "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
             "source": "TechCrunch"
         },
         {
-            "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-            "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+            "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+            "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
             "source": "TechCrunch"
         },
         {
-            "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-            "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+            "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+            "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
             "source": "TechCrunch"
         },
         {
-            "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-            "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+            "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+            "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
             "source": "TechCrunch"
         },
         {
-            "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-            "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+            "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+            "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
             "source": "TechCrunch"
         },
         {
-            "title": "TechCrunch Mobility: Rivian’s next act",
-            "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+            "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+            "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
             "source": "TechCrunch"
+        },
+        {
+            "title": "Election Offices in at Least 32 States Have Received Suspicious Letters",
+            "link": "https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/",
+            "source": "Wired"
+        },
+        {
+            "title": "Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
+            "link": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
+            "source": "Wired"
+        },
+        {
+            "title": "All-Clad Factory Seconds Sale: Cookware Deals for Fall Cooking",
+            "link": "https://www.wired.com/story/all-clad-factory-seconds-sale-october-2026/",
+            "source": "Wired"
+        },
+        {
+            "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+            "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+            "source": "Wired"
         },
         {
             "title": "Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’",
@@ -194,26 +214,6 @@
         {
             "title": "How the Xbox’s Disc-to-Digital Program Works",
             "link": "https://www.wired.com/story/xbox-disc-to-digital/",
-            "source": "Wired"
-        },
-        {
-            "title": "Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories",
-            "link": "https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories/",
-            "source": "Wired"
-        },
-        {
-            "title": "How Elizabeth Holmes Tricked WIRED—and Everyone Else",
-            "link": "https://www.wired.com/story/how-elizabeth-holmes-tricked-wired-and-everyone-else/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Story of Billy Evans and ‘Theranos 2.0’",
-            "link": "https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20/",
-            "source": "Wired"
-        },
-        {
-            "title": "15 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)",
-            "link": "https://www.wired.com/gallery/best-white-elephant-gifts-2026/",
             "source": "Wired"
         }
     ]
