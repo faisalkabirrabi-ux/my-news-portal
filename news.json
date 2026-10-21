@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "সৌদি আরবে মৃত্যুদণ্ড কার্যকর হওয়া দুই বাংলাদেশির মরদেহ দেশে ফিরবে কবে?",
+            "link": "https://www.bbc.com/bengali/articles/cmkg7knyy8d3o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "বাংলাদেশে গোয়েন্দা সংস্থা কি এখনো রাজনৈতিক কাজে ব্যবহৃত হচ্ছে?",
+            "link": "https://www.bbc.com/bengali/articles/c5x2vpnm0wzjo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "৫০ মিটার দীর্ঘ সুইমিং পুলসহ কিম জং আনের বিলাসবহুল প্রমোদতরী, যা জানা যাচ্ছে",
             "link": "https://www.bbc.com/bengali/articles/cmy4xdlxly8go?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,62 +29,52 @@
             "title": "মিষ্টির পর ইশরাক: পরিস্থিতি নিয়ন্ত্রণ, নাকি দল সামলানোর চেষ্টা তারেক রহমানের?",
             "link": "https://www.bbc.com/bengali/articles/c6rey52ded3po?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "স্ত্রী ভেসে যান সুনামিতে, সান্নিধ্য পেতে ১৫ বছর ধরে সাগরে ডুব দিয়ে চলেছেন স্বামী",
-            "link": "https://www.bbc.com/bengali/articles/ck9dzpdpv2q3o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'সৌদিতে দুই বাংলাদেশির মৃত্যুদণ্ড: মিশন ও পররাষ্ট্রের না জানার কারণ কী?'",
-            "link": "https://www.bbc.com/bengali/articles/cjy5606yg95do?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
-            "link": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
+            "title": "What’s behind protests in Portugal?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal-2?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "From one house to whole villages: Settlers have Palestinians surrounded",
-            "link": "https://www.aljazeera.com/features/2026/10/21/from-one-house-to-whole-villages-settlers-have-palestinians-surrounded?traffic_source=rss",
+            "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
+            "link": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Pakistani authorities arrest man accused in $126m US postage fraud",
-            "link": "https://www.aljazeera.com/news/2026/10/21/pakistani-authorities-arrest-man-accused-in-126m-us-postage-fraud?traffic_source=rss",
+            "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
-            "link": "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss",
+            "title": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Protests as UK approves new gas drilling in North Sea",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
+            "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘They try to break us’: Pro-Palestine activists in Czech custody",
-            "link": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss",
+            "title": "Bayern Munich vs Arsenal LIVE: Champions League",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/bayern-munich-vs-arsenal-live-champions-league?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-            "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+            "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+            "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Trump and Zelensky at loggerheads despite new optimism",
-            "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+            "title": "Macron accuses foreign leaders of exploiting French riots",
+            "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-            "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+            "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+            "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -83,46 +83,61 @@
             "source": "BBC World"
         },
         {
-            "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+            "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
+            "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-            "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+            "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+            "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Maddinson falls early again after SA enforce follow-on",
+            "title": "Jansen says he is ready to 'come back again and again' after star turn in Gqeberha",
+            "link": "https://www.cricinfo.com/ci/content/story/1559364.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Jansen five-for sets up South Africa's victory push",
             "link": "https://www.cricinfo.com/ci/content/story/1559315.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Orr targets 'fresh start' at Middlesex after struggles at Hampshire",
-            "link": "https://www.cricinfo.com/ci/content/story/1559335.html?ex_cid=OTC-RSS",
+            "title": "NCL: Khulna go top; Nayeem double-century lifts Rajshahi",
+            "link": "https://www.cricinfo.com/ci/content/story/1559358.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Sri Lanka, England close Rawalpindi leg in search of first points",
-            "link": "https://www.cricinfo.com/ci/content/story/1559334.html?ex_cid=OTC-RSS",
+            "title": "Jetlagged India brace for New Zealand challenge",
+            "link": "https://www.cricinfo.com/ci/content/story/1559280.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Senior England players to miss Sri Lanka T20Is for WPL 2027",
-            "link": "https://www.cricinfo.com/ci/content/story/1559290.html?ex_cid=OTC-RSS",
+            "title": "Anderson's future in doubt as Lancashire opt against new contract",
+            "link": "https://www.cricinfo.com/ci/content/story/1559342.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "New Zealand Cricket steps back from agreement to invest in MLC",
-            "link": "https://www.cricinfo.com/ci/content/story/1559320.html?ex_cid=OTC-RSS",
+            "title": "Ahmadzai, Omarzai lay the foundation as Bangladesh fold for 160",
+            "link": "https://www.cricinfo.com/ci/content/story/1559341.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Konstas 151* helps NSW close in on victory",
-            "link": "https://www.cricinfo.com/ci/content/story/1559326.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "'Playing for their careers' - Australia reeling after extraordinary day",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Anderson, 44, not offered new Lancashire contract",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Andrews died of tear in artery around heart - autopsy",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "F1 races to return to standard distance in 2028",
@@ -130,23 +145,8 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Crystal Palace urged to retire bald eagle mascot",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Why has Lord's dug up its pitch and what comes next?",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Kildunne drops to bench as England ring changes",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3ewe42q4jqzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "PSG's Kvaratskhelia to have surgery on ruptured ACL",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss",
+            "title": "Why do Man City fans boo pre-match anthems?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cvx28yk1j6z0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -157,63 +157,63 @@
     ],
     "প্রযুক্তি": [
         {
-            "title": "Heat pump tech is 170 years old. Pascal thinks it’s time for an update.",
-            "link": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+            "title": "GM is giving OnStar an AI makeover",
+            "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
             "source": "TechCrunch"
         },
         {
-            "title": "Mach9 raises $34M after pivoting to AI CAD software",
-            "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+            "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+            "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
             "source": "TechCrunch"
         },
         {
-            "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-            "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+            "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+            "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
             "source": "TechCrunch"
         },
         {
-            "title": "SpaceX and Tesla boards form special committees to review merger",
-            "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+            "title": "Waymo starts offering rides at the Las Vegas airport",
+            "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
             "source": "TechCrunch"
         },
         {
-            "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-            "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+            "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+            "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
             "source": "TechCrunch"
         },
         {
-            "title": "Anthropic’s cloud partnerships are getting messy",
-            "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+            "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+            "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
             "source": "TechCrunch"
         },
         {
-            "title": "Roku Pro Series OLED TV Review (2026)",
-            "link": "https://www.wired.com/review/roku-pro-series-oled/",
+            "title": "GM Wants Your Car to Do Your Chores",
+            "link": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/",
             "source": "Wired"
         },
         {
-            "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
-            "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+            "title": "The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026)",
+            "link": "https://www.wired.com/story/art-tv-samsung-frame-tv-sale-october-2026/",
             "source": "Wired"
         },
         {
-            "title": "Apple iPhone Duo Review: Is It Worth It?",
-            "link": "https://www.wired.com/review/apple-iphone-duo/",
+            "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+            "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
             "source": "Wired"
         },
         {
-            "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
-            "link": "https://www.wired.com/story/best-gifts-for-moms-2026/",
+            "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+            "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
             "source": "Wired"
         },
         {
-            "title": "Gaming Can’t Afford More Games the Size of ‘Grand Theft Auto VI’",
-            "link": "https://www.wired.com/story/make-big-games-smaller/",
+            "title": "7 Best Phones You Can’t Buy in the US (2026)",
+            "link": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
             "source": "Wired"
         },
         {
-            "title": "Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer",
-            "link": "https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer/",
+            "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+            "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
             "source": "Wired"
         }
     ]
