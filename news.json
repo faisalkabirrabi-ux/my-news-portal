@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পত্রিকা: 'প্রধানমন্ত্রী ও মন্ত্রীদের বাসভবনের দায়িত্বে আ'লীগপন্থী কর্মকর্তারা'",
+            "link": "https://www.bbc.com/bengali/articles/c6g7xe53d211o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ছাত্র আন্দোলন কীভাবে সার্বিয়ার ভুচিচের ১৪ বছরের ক্ষমতার পতন ঘটাল",
+            "link": "https://www.bbc.com/bengali/articles/ckn9rz9j7e3po?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "'ক্রসফায়ার' নিয়ে আইজিপির মন্তব্যের পর কেন 'ব্যাখ্যা' দিতে হলো পুলিশকে?",
             "link": "https://www.bbc.com/bengali/articles/cmx2wr592pzko?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -19,109 +29,99 @@
             "title": "ভারতে প্রবেশ প্রায় বন্ধ, শেরপুর সীমান্তে আটকে পড়া হাতিগুলোর কী হবে?",
             "link": "https://www.bbc.com/bengali/articles/cq4g1jkl3nn8o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "কওমি মাদ্রাসায় শিশুদের যৌন নির্যাতনের ঘটনা থামছে না কেন?",
-            "link": "https://www.bbc.com/bengali/articles/cvglw88we0yro?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'কাশ্মীরকে রক্ষা করছে পাকিস্তান'- ফারুক আবদুল্লাহর মন্তব্য নিয়ে ভারতে বিতর্ক",
-            "link": "https://www.bbc.com/bengali/articles/cq70pl2n7r4po?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Romania says Russia-run sabotage network set fire near weapons factory",
-            "link": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
+            "title": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
+            "link": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+            "title": "South Korea’s GDP growth beats forecasts amid AI boom",
+            "link": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Bolsonaro says police demand passports after Brazil election defeat",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
+            "title": "Sixty Christians killed in Ethiopia’s Oromia region",
+            "link": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Jordan strikes Syria after church attack, killing at least seven people",
-            "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+            "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
+            "link": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Jordan attacks Syria in response to Karak church attack",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
+            "title": "Palestinian citizens of Israel can vote, but cannot expect change",
+            "link": "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
-            "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
+            "title": "Palestinian citizens of Israel fear they’re next target if far-right wins",
+            "link": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Lula wins fourth term in dramatic Brazil election comeback",
-            "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+            "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+            "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-            "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+            "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
+            "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-            "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+            "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+            "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-            "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+            "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+            "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-            "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+            "title": "Ex-FBI chief James Comey faces federal charges for third time",
+            "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "US Marine indicted for murder and robbery of woman in Japan",
-            "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+            "title": "Jay-Z to perform at Super Bowl half-time show",
+            "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Bangladesh's chance to bounce back after tough UAE tour",
+            "link": "https://www.cricinfo.com/ci/content/story/1560136.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "No pressure, but an inspiration - Shanto on Bangladesh's WTC chances",
+            "link": "https://www.cricinfo.com/ci/content/story/1560137.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Unchanged India bowl, NZ make three changes",
+            "link": "https://www.cricinfo.com/ci/content/story/1560132.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Jonassen ruled out of WBBL with hip complaint",
+            "link": "https://www.cricinfo.com/ci/content/story/1560125.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Smith undergoes fitness test ahead of decider in Cape Town",
             "link": "https://www.cricinfo.com/ci/content/story/1560077.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Ralphie Albert to lead England Under-19 tour of Pakistan",
-            "link": "https://www.cricinfo.com/ci/content/story/1560111.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Gareth Batty leaves Surrey to join CSK coaching staff",
-            "link": "https://www.cricinfo.com/ci/content/story/1560099.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Sammy tells West Indies Test stars to attract better pay with better play",
-            "link": "https://www.cricinfo.com/ci/content/story/1560096.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
             "title": "Series set for dramatic finish as Australia return to Cape Town",
             "link": "https://www.cricinfo.com/ci/content/story/1560090.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Bumrah and Pant likely to play for India A in third unofficial Test against New Zealand A",
-            "link": "https://www.cricinfo.com/ci/content/story/1560088.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -135,27 +135,37 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Ballon d'Or winner Kane's best Bundesliga goals",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o?at_medium=RSS&at_campaign=rss",
+            "title": "Lancashire consider Anderson farewell amid fan unrest",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Lancashire consider Anderson farewell amid fan unrest",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&at_campaign=rss",
+            "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
+            "link": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
             "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Player in Stokes and Atkinson altercation joins Bristol after Saracens sacking",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c95yn672rx64o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+            "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+            "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
             "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
@@ -174,16 +184,6 @@
         {
             "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
             "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-            "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-            "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
             "source": "TechCrunch"
         },
         {
