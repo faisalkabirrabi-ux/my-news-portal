@@ -1,6 +1,16 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পত্রিকা: 'নতুন পে-স্কেলে বেতন দিতে ব্যাংক ঋণ নেয়া বাড়িয়েছে সরকার'",
+            "link": "https://www.bbc.com/bengali/articles/cmpwg04gk4jpo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "মাশরুম চাষ কি বাড়ছে, এটিই কি ব্যাঙের ছাতা?",
+            "link": "https://www.bbc.com/bengali/articles/c87q005245do?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "'বিগ-বি' কী এবং বাংলাদেশের সঙ্গে ভারতকেও কেন এতে রাখতে চায় জাপান?",
             "link": "https://www.bbc.com/bengali/articles/c6kgqz95800qo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -16,50 +26,40 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "ইসরায়েল ও যুক্তরাষ্ট্র: দুই দেশের নির্বাচনের পরিণতি হবে বিশ্বব্যাপী",
+            "title": "ইসরায়েল ও যুক্তরাষ্ট্র: দু'দেশের নির্বাচনের ফলাফলের প্রভাব থাকবে বিশ্বব্যাপী",
             "link": "https://www.bbc.com/bengali/articles/cwp8g5m9gpd4o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'বিএনপি সরকারকে ভোট দিয়া আজকে এই ভুক্তভোগী' বলা ময়মনসিংহের নারী ব্যবসায়ী কারাগারে",
-            "link": "https://www.bbc.com/bengali/articles/cr78px4x9p8zo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "বারুইপুর, গাইঘাটা, সামশেরগঞ্জ: পশ্চিমবঙ্গের কথিত এনকাউন্টারগুলো যে প্রশ্ন উসকে দিচ্ছে",
-            "link": "https://www.bbc.com/bengali/articles/cw8dz5r0813no?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Smotrich dances in Israel despite far-right decline",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
+            "title": "Mahmoud Khalil credits Palestinian activism for reshaping US politics",
+            "link": "https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
+            "title": "Bolsonaro ally denies knowledge of senator’s plan to flee Brazil",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
+            "title": "Global stock markets rise as investors continue to bet on AI",
+            "link": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+            "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
+            "link": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
-            "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
+            "title": "Five key takeaways from Israel’s parliamentary elections",
+            "link": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
-            "link": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+            "title": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -95,6 +95,16 @@
     ],
     "খেলাধুলা": [
         {
+            "title": "Mushfiqur out with 'contusion injury', expected to be fit for second Test against West Indies",
+            "link": "https://www.cricinfo.com/ci/content/story/1560370.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "WI hand Bishop his Test debut; Mushfiqur out with injury as Bangladesh bat",
+            "link": "https://www.cricinfo.com/ci/content/story/1560367.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "Starc's admission: 'A lot of things that haven't felt right'",
             "link": "https://www.cricinfo.com/ci/content/story/1560352.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
@@ -115,14 +125,19 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Abhishek 'pretty much manifested' his 35-ball century",
-            "link": "https://www.cricinfo.com/ci/content/story/1560257.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "'Biggest night in the club's history' for fearless Fleetwood",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Naim 282 carries Dhaka Division to second place in NCL",
-            "link": "https://www.cricinfo.com/ci/content/story/1560332.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
@@ -138,24 +153,14 @@
             "title": "Barcelona fined £503 over approach for Alvarez",
             "link": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Ballon d'Or in London - the most chaotic ever?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Simpler, cheaper hybrid V8s proposed for next F1 rules",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Williams loses again - to opponent 28 years younger",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cqr7y33ekv0go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+            "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
             "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
@@ -179,11 +184,6 @@
         {
             "title": "GM is embracing hybrids now",
             "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-            "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
             "source": "TechCrunch"
         },
         {
