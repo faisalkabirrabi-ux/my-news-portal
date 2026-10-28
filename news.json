@@ -1,8 +1,23 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "স্পেনে দুটি দ্রুতগামী ট্রেনের সংঘর্ষে অন্তত ৩০ জন নিহত",
+            "title": "স্পেনে ট্রেন দুর্ঘটনায় অন্তত ৬৮ জনের মৃত্যু, তিন দিনের শোক ঘোষণা",
             "link": "https://www.bbc.co.uk/bengali/live/c8qln7rxdw7pt?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "নাটোরে ছাত্রদল নেতা হত্যা, ছেলে রিমান্ডে যাওয়ার পর কী বলছেন বিএনপি'র এমপি",
+            "link": "https://www.bbc.com/bengali/articles/ck98zm4r9pm9o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "লগি-বৈঠা সহিংসতার ২০ বছর: আওয়ামী লীগ ও জামায়াতের রক্তক্ষয়ী সংঘর্ষের আগে যা যা ঘটেছিল",
+            "link": "https://www.bbc.com/bengali/articles/cxdd8nqqqmymo?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "সরকারি চাকরিজীবীদের নতুন পে-স্কেল দিতে বাড়তি টাকা কোথা থেকে আনছে সরকার?",
+            "link": "https://www.bbc.com/bengali/articles/cmqjn8vy2l0ko?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -14,53 +29,48 @@
             "title": "জ্বালানির দামের কারণে যাত্রী নিয়ে মাঝ সাগরে আটকা বিলাসবহুল জাহাজ",
             "link": "https://www.bbc.com/bengali/articles/c9n738r6e7ddo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "ইসরায়েলের নির্বাচনে নেতানিয়াহু ও বিরোধীজোটের মধ্যে হাড্ডাহাড্ডি লড়াই",
-            "link": "https://www.bbc.com/bengali/articles/cvglw5lwpepzo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'নতুন পে-স্কেলে বেতন দিতে ব্যাংক ঋণ নেয়া বাড়িয়েছে সরকার'",
-            "link": "https://www.bbc.com/bengali/articles/cmpwg04gk4jpo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "মাশরুম চাষ কি বাড়ছে, এটিই কি ব্যাঙের ছাতা?",
-            "link": "https://www.bbc.com/bengali/articles/c87q005245do?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "US midterms: Six days left – who leads in the polls as Trump, Obama rally",
-            "link": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally?traffic_source=rss",
+            "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
+            "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Norway and Finland hold rare phone call with Putin: What that means",
-            "link": "https://www.aljazeera.com/news/2026/10/28/norway-and-finland-hold-rare-phone-call-with-putin-what-that-means?traffic_source=rss",
+            "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
+            "link": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Hormuz oil spill forces closure of UAE beaches",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
+            "title": "Bank of Canada raises interest rates for the first time in three years",
+            "link": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Netanyahu or Eisenkot? Can you form Israel’s next coalition government?",
-            "link": "https://www.aljazeera.com/news/2026/10/28/netanyahu-or-eisenkot-can-you-form-israels-next-coalition-government?traffic_source=rss",
+            "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
+            "link": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israel’s stock market drops as exit polls show no clear election winner",
-            "link": "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner?traffic_source=rss",
+            "title": "Kremlin says European countries not included in next Ukraine talks",
+            "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Mapping the siege of Yemen’s Taiz, and the price families are paying",
-            "link": "https://www.aljazeera.com/news/2026/10/28/mapping-the-siege-of-yemens-taiz-and-the-price-families-are-paying?traffic_source=rss",
+            "title": "Israeli soldier visiting UK faces war crimes complaint",
+            "link": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+            "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "How could Israel break election deadlock? Here are four scenarios",
+            "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
@@ -68,152 +78,142 @@
             "source": "BBC World"
         },
         {
-            "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-            "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+            "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+            "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-            "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+            "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+            "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Dutch zookeeper dies after being mauled by leopard",
-            "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Norway and Finland leaders hold rare call with Putin",
-            "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-            "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+            "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+            "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
-            "title": "Bancroft, Goodwin post centuries as WA bat big against SA",
-            "link": "https://www.cricinfo.com/ci/content/story/1560414.html?ex_cid=OTC-RSS",
+            "title": "Injured Stirling flies home as Ireland seek turnaround in Namibia",
+            "link": "https://www.cricinfo.com/ci/content/story/1560484.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "McDonald in discussions with Cricket Australia regarding contract extension",
-            "link": "https://www.cricinfo.com/ci/content/story/1560411.html?ex_cid=OTC-RSS",
+            "title": "Dead-rubber blues for England as Sri Lanka tune up for final",
+            "link": "https://www.cricinfo.com/ci/content/story/1560422.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Jansen becomes top-ranked Test bowler, Abhishek takes back crown for T20I batters",
-            "link": "https://www.cricinfo.com/ci/content/story/1560404.html?ex_cid=OTC-RSS",
+            "title": "Inglis leads reshuffled Australia to advantage in Cape Town",
+            "link": "https://www.cricinfo.com/ci/content/story/1560424.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Zimbabwe bat first; India bring in Bhatia, Gaud and Deol",
-            "link": "https://www.cricinfo.com/ci/content/story/1560402.html?ex_cid=OTC-RSS",
+            "title": "Sophie Molineux the top buy at WPL 2027 auction",
+            "link": "https://www.cricinfo.com/ci/content/story/1560430.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Shadman and Hridoy take Bangladesh forward after Warrican double-strike",
-            "link": "https://www.cricinfo.com/ci/content/story/1560383.html?ex_cid=OTC-RSS",
+            "title": "Vaishnavi five-for and Rawal, Shafali fifties power India to 3-0 sweep",
+            "link": "https://www.cricinfo.com/ci/content/story/1560452.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "WBBL: Yastika Bhatia replaces Jess Jonassen at Brisbane Heat",
-            "link": "https://www.cricinfo.com/ci/content/story/1560372.html?ex_cid=OTC-RSS",
+            "title": "WI 'disappointed' with early finish, Shadman 99* earns praise from hosts' camp",
+            "link": "https://www.cricinfo.com/ci/content/story/1560463.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'Biggest night in club's history' for fearless Fleetwood",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
+            "title": "Carrick and Fernandes hold clear-the-air talks",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+            "title": "Labuschagne's form hits record low but Australia hint at future",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
+            "title": "Arsenal to appeal against Dowman red card",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Liverpool gambled on Jacquet and it is paying off",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no?at_medium=RSS&at_campaign=rss",
+            "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Why Hurts played with blood clot and what it means for NFL",
-            "link": "https://www.bbc.co.uk/sport/american-football/articles/cm0qk37933nno?at_medium=RSS&at_campaign=rss",
+            "title": "Perez signs multi-year extension with Cadillac",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cqde852ww04ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Cundy 'no spring chicken' but nears 20-year unbeaten run",
-            "link": "https://www.bbc.co.uk/sport/cycling/articles/cjn5vql4z137o?at_medium=RSS&at_campaign=rss",
+            "title": "Scottish side to play two cup ties simultaneously after schedule clash",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-            "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+            "title": "Apple launches its new touchscreen MacBook Pro",
+            "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
             "source": "TechCrunch"
         },
         {
-            "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-            "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+            "title": "Xreal Aura is a new wired headset powered by Android XR",
+            "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
             "source": "TechCrunch"
         },
         {
-            "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-            "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+            "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+            "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
             "source": "TechCrunch"
         },
         {
-            "title": "The data center boom has an upside: innovation for the US grid",
-            "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+            "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+            "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
             "source": "TechCrunch"
         },
         {
-            "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-            "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+            "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
+            "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
             "source": "TechCrunch"
         },
         {
-            "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-            "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+            "title": "AI execs may be too out of touch to build for the general public",
+            "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
             "source": "TechCrunch"
         },
         {
-            "title": "Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA",
-            "link": "https://www.wired.com/story/portland-fermentation-festival-stinkfest/",
+            "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
+            "link": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
             "source": "Wired"
         },
         {
-            "title": "Pornhub Stars Want to Teach You How to Make Dinner",
-            "link": "https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/",
+            "title": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers",
+            "link": "https://www.wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller/",
             "source": "Wired"
         },
         {
-            "title": "Apple AirPods Max 2 Are $100 Off Ahead of Black Friday",
-            "link": "https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/",
+            "title": "Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups",
+            "link": "https://www.wired.com/story/senators-demand-to-know-if-dr-oz-collaborated-with-election-denial-groups/",
             "source": "Wired"
         },
         {
-            "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-            "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+            "title": "What’s the Best Kindle of 2026 (So Far)?",
+            "link": "https://www.wired.com/gallery/best-kindle/",
             "source": "Wired"
         },
         {
-            "title": "Please Let the Internet Die",
-            "link": "https://www.wired.com/story/let-the-internet-die/",
+            "title": "Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories",
+            "link": "https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/",
             "source": "Wired"
         },
         {
-            "title": "The Men Spending $50,000 Just to Reserve a Tesla Roadster",
-            "link": "https://www.wired.com/story/the-men-dropping-50000-and-up-on-teslas-new-roadster/",
+            "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
+            "link": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
             "source": "Wired"
         }
     ]
