@@ -33,34 +33,49 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-            "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+            "title": "UN experts sound alarm at excessive use of force in French student protests",
+            "link": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
-            "link": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
+            "title": "Costa Rica’s mega-prison receives first inmates",
+            "link": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Bank of Canada raises interest rates for the first time in three years",
-            "link": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
+            "title": "Indonesian students demand action on wildfires and rising costs",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
-            "link": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss",
+            "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
+            "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Kremlin says European countries not included in next Ukraine talks",
-            "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
+            "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
+            "link": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Israeli soldier visiting UK faces war crimes complaint",
-            "link": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+            "title": "Rwanda’s milk bars",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "High-speed train crash kills at least 68 people in Spain",
+            "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+            "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+            "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -73,27 +88,22 @@
             "source": "BBC World"
         },
         {
-            "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-            "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-            "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-            "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
-            "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+            "title": "Girl seriously injured in wolf attack at German wildlife park",
+            "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Scans show joint injury for Smith, expected to be fit to face NZ",
+            "link": "https://www.cricinfo.com/ci/content/story/1560491.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "SA feel the strain as Rabada battles stomach cramps, Jansen back stiffness",
+            "link": "https://www.cricinfo.com/ci/content/story/1560490.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Injured Stirling flies home as Ireland seek turnaround in Namibia",
             "link": "https://www.cricinfo.com/ci/content/story/1560484.html?ex_cid=OTC-RSS",
@@ -115,33 +125,23 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Vaishnavi five-for and Rawal, Shafali fifties power India to 3-0 sweep",
-            "link": "https://www.cricinfo.com/ci/content/story/1560452.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "WI 'disappointed' with early finish, Shadman 99* earns praise from hosts' camp",
-            "link": "https://www.cricinfo.com/ci/content/story/1560463.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Carrick and Fernandes hold clear-the-air talks",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
             "title": "Labuschagne's form hits record low but Australia hint at future",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "Arsenal to appeal against Dowman red card",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
+            "title": "Fleetwood to face Everton or Newcastle in last eight",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
+            "title": "Russo scores hat-trick as Arsenal beat Benfica",
+            "link": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Red Roses make six changes but Kildunne on bench again",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -150,70 +150,70 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Scottish side to play two cup ties simultaneously after schedule clash",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
+            "title": "Sancho rejects Getafe - Thursday's gossip",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Apple launches its new touchscreen MacBook Pro",
-            "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+            "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+            "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
             "source": "TechCrunch"
         },
         {
-            "title": "Xreal Aura is a new wired headset powered by Android XR",
-            "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+            "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+            "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
             "source": "TechCrunch"
         },
         {
-            "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-            "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+            "title": "Google expands AI Search ads globally as core ad growth slows",
+            "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
             "source": "TechCrunch"
         },
         {
-            "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-            "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+            "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+            "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
             "source": "TechCrunch"
         },
         {
-            "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
-            "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+            "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+            "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
             "source": "TechCrunch"
         },
         {
-            "title": "AI execs may be too out of touch to build for the general public",
-            "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+            "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+            "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
             "source": "TechCrunch"
         },
         {
-            "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
-            "link": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+            "title": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
+            "link": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
             "source": "Wired"
         },
         {
-            "title": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers",
-            "link": "https://www.wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller/",
+            "title": "This Is What the GOP’s Final Midterms Push Looks Like",
+            "link": "https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/",
             "source": "Wired"
         },
         {
-            "title": "Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups",
-            "link": "https://www.wired.com/story/senators-demand-to-know-if-dr-oz-collaborated-with-election-denial-groups/",
+            "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
+            "link": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
             "source": "Wired"
         },
         {
-            "title": "What’s the Best Kindle of 2026 (So Far)?",
-            "link": "https://www.wired.com/gallery/best-kindle/",
+            "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+            "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
             "source": "Wired"
         },
         {
-            "title": "Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories",
-            "link": "https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/",
+            "title": "The New M6 MacBook Pro Has a Serious Price Problem",
+            "link": "https://www.wired.com/story/m6-macbook-pro-price-problem/",
             "source": "Wired"
         },
         {
-            "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
-            "link": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
+            "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+            "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
             "source": "Wired"
         }
     ]
