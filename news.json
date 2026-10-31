@@ -1,8 +1,23 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "বিমানবাহিনীর সাবেক কর্মকর্তার মৃত্যু রহস্য: যেসব বিষয় তদন্ত করছে পুলিশ",
-            "link": "https://www.bbc.com/bengali/articles/c5vgjz9ez11lo?at_medium=RSS&at_campaign=rss",
+            "title": "কেন উত্তর কোরিয়ার হ্যাকাররা বাইন্যান্সের হ্যাকিংয়ের ঘটনায় সন্দেহের তালিকায়",
+            "link": "https://www.bbc.com/bengali/articles/crkg7pp44k19o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "ইউক্রেনের কাছে ৫০০ প্যাট্রিয়ট ক্ষেপণাস্ত্র বিক্রির অনুমোদন যুক্তরাষ্ট্রের",
+            "link": "https://www.bbc.com/bengali/articles/cqm26prege4ro?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "আওয়ামী লীগের সঙ্গে 'আঁতাত' নিয়ে বিএনপি-জামায়াতের পাল্টাপাল্টি সন্দেহ, নেপথ্যে কী?",
+            "link": "https://www.bbc.com/bengali/articles/cwj3474djk12o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
+            "title": "পত্রিকা: 'তাহসিফের মৃত্যু: বন্ধু দীপের তথ্যে বাড়ছে রহস্য'",
+            "link": "https://www.bbc.com/bengali/articles/cm62yel91yepo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -11,55 +26,40 @@
             "source": "বিবিসি বাংলা"
         },
         {
-            "title": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচন কী?",
-            "link": "https://www.bbc.com/bengali/articles/cr5yn72jwe7jo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "যুক্তরাষ্ট্রে মধ্যবর্তী নির্বাচনে আগাম ভোটের রেকর্ড ভাঙতে পারে",
-            "link": "https://www.bbc.com/bengali/articles/c64g148l4e00o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "'যৌন হয়রানি, ধর্মান্তরের চাপ', আতঙ্কে পশ্চিমবঙ্গের খ্রিস্টানরা",
-            "link": "https://www.bbc.com/bengali/articles/cqkgj2kpmz44o?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "নেতানিয়াহু ইসরায়েলি নির্বাচনকে 'অবৈধ' প্রমাণের চেষ্টা করছেন- অভিযোগ বিরোধীদের",
-            "link": "https://www.bbc.com/bengali/articles/cmj47p9ydgqeo?at_medium=RSS&at_campaign=rss",
+            "title": "বিমানবাহিনীর সাবেক কর্মকর্তার মৃত্যু রহস্য: যেসব বিষয় তদন্ত করছে পুলিশ",
+            "link": "https://www.bbc.com/bengali/articles/c5vgjz9ez11lo?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Germany and France brace for protests on Halloween weekend",
-            "link": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
+            "title": "LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller",
+            "link": "https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
-            "link": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss",
+            "title": "The selective solidarity at the heart of India’s voter protests",
+            "link": "https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+            "title": "What has it cost to keep Al Jazeera on air for 30 years?",
+            "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/31/what-has-it-cost-to-keep-al-jazeera-on-air-for-30-years?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
+            "title": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
+            "link": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Polish police deployed to top court after head judge suspended",
-            "link": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+            "title": "Why are US, Russia and China racing to put nuclear reactors on the moon?",
+            "link": "https://www.aljazeera.com/news/2026/10/31/why-are-us-russia-and-china-racing-to-put-nuclear-reactors-on-the-moon?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why AI could threaten much of the world’s digital infrastructure",
-            "link": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
+            "title": "Mohammed Deif, rare footage and October 7 documents",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -73,13 +73,8 @@
             "source": "BBC World"
         },
         {
-            "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-            "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-            "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+            "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+            "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -88,15 +83,40 @@
             "source": "BBC World"
         },
         {
-            "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-            "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+            "title": "Spain train disaster clouds Sánchez chances of re-election",
+            "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+            "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
         {
+            "title": "Jurel's unbeaten 99 and Padikkal 80 carry India A",
+            "link": "https://www.cricinfo.com/ci/content/story/1560823.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "West Indies need 170 to win after Chase five-for in Dhaka",
+            "link": "https://www.cricinfo.com/ci/content/story/1560822.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Auqib Nabi added to India squad for first three ODIs against New Zealand",
+            "link": "https://www.cricinfo.com/ci/content/story/1560820.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
             "title": "'It's win or lose. No draw tomorrow': Rickelton anticipates gripping final day",
             "link": "https://www.cricinfo.com/ci/content/story/1560806.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Phillips' century, Duffy's four-for topple India",
+            "link": "https://www.cricinfo.com/ci/content/story/1560744.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo"
         },
         {
@@ -105,24 +125,9 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "'Hamstring has been declared fit' - Rodrigues eyes return to action after three months of rehab",
-            "link": "https://www.cricinfo.com/ci/content/story/1560774.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Perry, Coyte help Sixers seal a final ball thriller over Heat",
-            "link": "https://www.cricinfo.com/ci/content/story/1560766.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "'We are in a very good position' - West Indies bank on 'positive intent' to chase win in Dhaka",
-            "link": "https://www.cricinfo.com/ci/content/story/1560755.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Robin Uthappa named Mumbai Indians batting coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1560666.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Shearer discusses scoring record, MOTD & a brush with Cardiff",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
             "title": "What Howe could bring to Man Utd - and what are the challenges?",
@@ -145,17 +150,22 @@
             "source": "BBC Sports"
         },
         {
-            "title": "Leclerc sets pace in Friday practice at Mexico City Grand Prix",
+            "title": "Verstappen and Lawson given grid penalties for Mexico practice collision",
             "link": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+            "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+            "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
             "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
@@ -177,14 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-            "link": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Last-minute Halloween costumes for tech nerds",
-            "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-            "source": "TechCrunch"
+            "title": "Wayfair Coupons: Up to 80% Off November 2026",
+            "link": "https://www.wired.com/story/wayfair-promo-code/",
+            "source": "Wired"
         },
         {
             "title": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
@@ -209,11 +214,6 @@
         {
             "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
             "link": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-            "source": "Wired"
-        },
-        {
-            "title": "Mattress Deals: Save Over $600 Before Black Friday 2026",
-            "link": "https://www.wired.com/story/best-early-bfcm-mattress-deals-10-30-2026/",
             "source": "Wired"
         }
     ]
