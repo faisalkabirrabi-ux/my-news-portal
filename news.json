@@ -1,6 +1,11 @@
 {
     "বাংলাদেশ": [
         {
+            "title": "পোশাক শ্রমিকদের আন্দোলনের পেছনে আওয়ামী লীগের ইন্ধন দেখছে সরকার",
+            "link": "https://www.bbc.com/bengali/articles/crgj9xznejx3o?at_medium=RSS&at_campaign=rss",
+            "source": "বিবিসি বাংলা"
+        },
+        {
             "title": "গার্মেন্টস শ্রমিকদের ব্যবহার করে অনেকেই সীমান্তের ওপার থেকে দেশে অস্থিরতা সৃষ্টির ইন্ধন যোগাচ্ছে: স্বরাষ্ট্রমন্ত্রী",
             "link": "https://www.bbc.co.uk/bengali/live/cm9wz2dx4dr2t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
@@ -24,43 +29,53 @@
             "title": "এইচএসসিতে প্রায় অর্ধেক পরীক্ষার্থী ফেল কী কারণে?",
             "link": "https://www.bbc.com/bengali/articles/cmeweqlv5dk7o?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
-        },
-        {
-            "title": "পত্রিকা: 'হঠাৎ শ্রমিক বিক্ষোভ নেপথ্যে কী?'",
-            "link": "https://www.bbc.com/bengali/articles/ck3r5y8wlgzeo?at_medium=RSS&at_campaign=rss",
-            "source": "বিবিসি বাংলা"
         }
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss",
+            "title": "Video captures house collapsing due to Ecuador floods",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
+            "title": "Arsenal go top after narrow win at Liverpool",
+            "link": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Serbia arrests police chief over abuse of office allegations",
-            "link": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations?traffic_source=rss",
+            "title": "How will the Iran war shape the outcome of the US midterm vote?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Burnham ‘open’ to UK slavery apology, but not reparations: Why now?",
-            "link": "https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss",
+            "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+            "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Photos: Thousands join India’s opposition rally against election chief",
-            "link": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
+            "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
+            "link": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
-            "link": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
+            "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
+            "link": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
             "source": "আল জাজিরা"
+        },
+        {
+            "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+            "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+            "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "University of Cambridge scientist among those who died in Spanish train crash",
+            "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
         },
         {
             "title": "Shops looted as German cost-of-living protests turn violent",
@@ -68,32 +83,37 @@
             "source": "BBC World"
         },
         {
-            "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-            "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+            "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+            "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "India's opposition holds mega rally seeking election chief's resignation",
-            "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-            "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-            "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+            "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+            "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Boyle and Foxcroft make it a long, hard day for India A bowlers",
+            "link": "https://www.cricinfo.com/ci/content/story/1560923.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Noor five-for seals 3-0 series sweep for Afghanistan in Sharjah",
+            "link": "https://www.cricinfo.com/ci/content/story/1561047.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "JJ Smit sets up Namibia's first-ever bilateral ODI series win",
+            "link": "https://www.cricinfo.com/ci/content/story/1561007.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Gambhir hails India's ruthlessness in T20Is despite little preparation time in NZ",
+            "link": "https://www.cricinfo.com/ci/content/story/1560984.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Afghanistan make four changes, hand Tarakhail debut in final T20I",
             "link": "https://www.cricinfo.com/ci/content/story/1560988.html?ex_cid=OTC-RSS",
@@ -105,57 +125,47 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Gambhir hails India's ruthlessness in T20Is despite little preparation time in NZ",
-            "link": "https://www.cricinfo.com/ci/content/story/1560984.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Conrad: 'I don't think you ever want to walk around saying you are the best'",
-            "link": "https://www.cricinfo.com/ci/content/story/1560970.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Gardner's 124 diffuses Hurricanes as Sixers script stunning comeback win",
-            "link": "https://www.cricinfo.com/ci/content/story/1560969.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Seifert, Phillips, Milne set up NZ win as India take series 3-2",
-            "link": "https://www.cricinfo.com/ci/content/story/1560963.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
-        },
-        {
-            "title": "Defeat for London City against Man City - but is Europe a real possibility?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
+            "title": "Arsenal move clear at the top with a rare win at Liverpool",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "How England's rugby league bosses plan to avoid repeat of World Cup pain",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c5y439xp22n7o?at_medium=RSS&at_campaign=rss",
+            "title": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Are Celtic club in regression amid run of six defeats in 10?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Giant curiosity Hibs finally liberated from the sucker punch",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "How Dart revived career with help of Wimbledon champion",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cmrlyw2y0gxzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "Referee accidentally fractures college football player's leg",
             "link": "https://www.bbc.co.uk/sport/american-football/articles/ck30ey1ezmyqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
-        },
-        {
-            "title": "Former European champion and two-time Olympian Mageean dies aged 34",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Britain's Dart wins first WTA title in 'wild week'",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cm62y10v3p96o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Yamaha will not travel to Qatar for MotoGP race",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cm98z2966128o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
+        {
+            "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+            "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Binance resumes withdrawals following $6.3 billion breach",
+            "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+            "source": "TechCrunch"
+        },
         {
             "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
             "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
@@ -174,16 +184,6 @@
         {
             "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
             "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-            "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-            "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
             "source": "TechCrunch"
         },
         {
