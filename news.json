@@ -1,7 +1,7 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "মার্কিন কংগ্রেসের ভাগ্য নির্ধারণী মধ্যবর্তী নির্বাচনের ভোটগ্রহণ চলছে",
+            "title": "মার্কিন কংগ্রেসের ভবিষ্যৎ নির্ধারণী মধ্যবর্তী নির্বাচনের ভোটগ্রহণ চলছে",
             "link": "https://www.bbc.co.uk/bengali/live/cq70pg93x5g8t?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
@@ -33,43 +33,53 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
-            "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+            "title": "Netanyahu’s eight-seat problem",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Global food security is under threat",
-            "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+            "title": "Palestinian families return home after Israeli siege of Hebron",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US midterm voting begins in high-stakes test of Trump’s presidency",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss",
+            "title": "US astronauts vote from space in 2026 midterm elections",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
-            "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+            "title": "Kyiv protest raises suspicions of possible Russian orchestration",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
-            "link": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
+            "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Who is goalkeeper Owono and will he be punished after De Miguel’s death?",
-            "link": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss",
+            "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
+            "link": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US strikes Iranian island ahead of midterm elections",
-            "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+            "title": "Spanish transport minister resigns days after deadly train crash",
+            "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
-            "title": "Tenerife striker De Miguel dies after on-field collision",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+            "title": "Seven flights across Europe targeted by suspected bomb threats",
+            "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+            "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World"
+        },
+        {
+            "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+            "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -78,18 +88,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-            "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
             "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
             "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World"
-        },
-        {
-            "title": "US urges Venezuela to release remaining political prisoners",
-            "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         }
     ],
@@ -130,6 +130,11 @@
             "source": "BBC Sports"
         },
         {
+            "title": "England's Mitchell ruled out of Nations Championship",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
             "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
             "link": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
@@ -140,80 +145,75 @@
             "source": "BBC Sports"
         },
         {
-            "title": "England's Mitchell ruled out of Nations Championship",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko?at_medium=RSS&at_campaign=rss",
+            "title": "How sporting events are being impacted by Middle East conflict",
+            "link": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
-            "title": "RFL backs Wilkin's £30m funding plea to Burnham",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cqn06nk1rx4xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "McTominay returns as Penrice earns first Scotland call",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&at_campaign=rss",
+            "title": "Death threats for Briton Burrage on WTA Tour return",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cq62y9yzgzgeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         }
     ],
     "প্রযুক্তি": [
         {
-            "title": "Apple restricts dating apps and AI companions to users 18 and up",
-            "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+            "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+            "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
             "source": "TechCrunch"
         },
         {
-            "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-            "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+            "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+            "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
             "source": "TechCrunch"
         },
         {
-            "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-            "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+            "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+            "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
             "source": "TechCrunch"
         },
         {
-            "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-            "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+            "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+            "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
             "source": "TechCrunch"
         },
         {
-            "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-            "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+            "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+            "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
             "source": "TechCrunch"
         },
         {
-            "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-            "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+            "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+            "link": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
             "source": "TechCrunch"
         },
         {
-            "title": "Here's Why You Shouldn't Use AI to Vote",
+            "title": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
+            "link": "https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/",
+            "source": "Wired"
+        },
+        {
+            "title": "The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud",
+            "link": "https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/",
+            "source": "Wired"
+        },
+        {
+            "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+            "link": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
+            "source": "Wired"
+        },
+        {
+            "title": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
+            "link": "https://www.wired.com/story/air-purifier-sale-october-3-2026/",
+            "source": "Wired"
+        },
+        {
+            "title": "Here’s Why You Shouldn’t Use AI to Vote",
             "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
             "source": "Wired"
         },
         {
             "title": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
             "link": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
-            "source": "Wired"
-        },
-        {
-            "title": "Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?",
-            "link": "https://www.wired.com/review/ipad-mini-2026/",
-            "source": "Wired"
-        },
-        {
-            "title": "The Endlessly Meme-able Steve Kornacki Is Not a Meme Person",
-            "link": "https://www.wired.com/story/steve-kornacki-user-behavior/",
-            "source": "Wired"
-        },
-        {
-            "title": "Apple AirPods 5 Review: Better Than Before but Not Quite Pro",
-            "link": "https://www.wired.com/review/apple-airpods-5/",
-            "source": "Wired"
-        },
-        {
-            "title": "ICE Is Inspiring Latinos to Vote in Historic Numbers",
-            "link": "https://www.wired.com/story/ice-is-inspiring-latinos-to-vote-in-historic-numbers/",
             "source": "Wired"
         }
     ]
