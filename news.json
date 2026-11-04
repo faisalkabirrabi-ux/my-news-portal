@@ -1,8 +1,8 @@
 {
     "বাংলাদেশ": [
         {
-            "title": "মার্কিন কংগ্রেসের ভবিষ্যৎ নির্ধারণী মধ্যবর্তী নির্বাচনের ভোটগ্রহণ চলছে",
-            "link": "https://www.bbc.co.uk/bengali/live/cq70pg93x5g8t?at_medium=RSS&at_campaign=rss",
+            "title": "ভোটগ্রহণ শেষ হচ্ছে যুক্তরাষ্ট্রের বিভিন্ন অঙ্গরাজ্যে, চলছে গণনা",
+            "link": "https://www.bbc.co.uk/bengali/live/cred371n9j4vt?at_medium=RSS&at_campaign=rss",
             "source": "বিবিসি বাংলা"
         },
         {
@@ -33,33 +33,33 @@
     ],
     "আন্তর্জাতিক": [
         {
-            "title": "Netanyahu’s eight-seat problem",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
+            "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Palestinian families return home after Israeli siege of Hebron",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
+            "title": "UN elects five judges to International Court of Justice amid record cases",
+            "link": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "US astronauts vote from space in 2026 midterm elections",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
+            "title": "Democrat Jon Ossoff wins Georgia US Senate race",
+            "link": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Kyiv protest raises suspicions of possible Russian orchestration",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
+            "title": "FBI arrests man for sending over 700 threatening letters to US officials",
+            "link": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
+            "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
+            "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
-            "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
-            "link": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
+            "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
+            "link": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
             "source": "আল জাজিরা"
         },
         {
@@ -78,8 +78,8 @@
             "source": "BBC World"
         },
         {
-            "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-            "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+            "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+            "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
             "source": "BBC World"
         },
         {
@@ -94,6 +94,16 @@
         }
     ],
     "খেলাধুলা": [
+        {
+            "title": "Glenn Maxwell; superhuman one minute, human the next",
+            "link": "https://www.cricinfo.com/ci/content/story/1561327.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
+        {
+            "title": "Barrett-Wild appointed Sussex chief executive",
+            "link": "https://www.cricinfo.com/ci/content/story/1561326.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo"
+        },
         {
             "title": "Deitz steps down as WI head coach; Coley takes interim charge",
             "link": "https://www.cricinfo.com/ci/content/story/1561308.html?ex_cid=OTC-RSS",
@@ -115,38 +125,28 @@
             "source": "ESPN Cricinfo"
         },
         {
-            "title": "Finlay Bean makes switch from Yorkshire to Northants",
-            "link": "https://www.cricinfo.com/ci/content/story/1561207.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "India, New Zealand switch to World Cup prep at bouncy Eden Park",
-            "link": "https://www.cricinfo.com/ci/content/story/1561179.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo"
+            "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
         },
         {
-            "title": "Tenerife striker De Miguel dies after on-field collision",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+            "title": "Fernandes critical of media 'lies' about Carrick relationship",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Sports"
+        },
+        {
+            "title": "Man Utd beat Roma - the other great Champions League comebacks",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
             "title": "England's Mitchell ruled out of Nations Championship",
             "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "West Ham approach Parker after sacking boss Nuno",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Sports"
-        },
-        {
-            "title": "How sporting events are being impacted by Middle East conflict",
-            "link": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Sports"
         },
         {
@@ -157,12 +157,27 @@
     ],
     "প্রযুক্তি": [
         {
+            "title": "Anthropic is working on a system to prove AI models’ identity",
+            "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Data centers are turning to old jet engines as the wait for power grows",
+            "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+            "source": "TechCrunch"
+        },
+        {
+            "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+            "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+            "source": "TechCrunch"
+        },
+        {
             "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
             "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
             "source": "TechCrunch"
         },
         {
-            "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+            "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
             "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
             "source": "TechCrunch"
         },
@@ -172,19 +187,9 @@
             "source": "TechCrunch"
         },
         {
-            "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-            "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-            "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-            "source": "TechCrunch"
-        },
-        {
-            "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
-            "link": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
-            "source": "TechCrunch"
+            "title": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
+            "link": "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
+            "source": "Wired"
         },
         {
             "title": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
@@ -209,11 +214,6 @@
         {
             "title": "Here’s Why You Shouldn’t Use AI to Vote",
             "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-            "source": "Wired"
-        },
-        {
-            "title": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
-            "link": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
             "source": "Wired"
         }
     ]
